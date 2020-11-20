@@ -1,3 +1,3 @@
-#Mangul's Lab
+# Mangul Lab
 
 University of Southern California
