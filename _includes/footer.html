@@ -1,21 +1,12 @@
-<div id="footer" class="panel">
-  <div class="panel-footer">
-	<div class="container-fluid">
-	  <div class="row">
-
-
-			<ul class="nav navbar-nav navbar-right">
-				<li><a href="https://psych.ucsf.edu/">Department of Psychiatry</a></li>
-				<li><a href="https://www.ucsf.edu/">UCSF</a></li>
-				<li><a href="{{ site.url }}{{ site.baseurl }}/about">About</a></li>
-				<li><a href="{{ site.url }}{{ site.baseurl }}/recruitment">Recruitment</a></li>
-			</ul>
-
-		
-	  </div>
-	</div>
+<footer>
+  <div class="footer_row">
+    {%- include social-link.html type="contact" large=true -%}
+    {%- include social-link.html type="github" large=true -%}
+    {%- include social-link.html type="twitter" large=true -%}
+    {%- include social-link.html type="instagram" large=true -%}
+    {%- comment -%}
+    {%- include social-link.html type="rss" large=true -%}
+    {%- endcomment -%}
   </div>
-</div>
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script src="{{ site.url }}{{ site.baseurl }}/js/bootstrap.min.js"></script>
+  <!-- &copy; <script>document.write(new Date().getFullYear())</script> {{ site.title }} -->
+</footer>
