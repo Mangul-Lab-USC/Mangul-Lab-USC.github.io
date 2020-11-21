@@ -18,6 +18,7 @@ $blue: #03a9f4;
 $light-blue: #b3e5fc;
 $cyan: #00bcd4;
 $teal: #009688;
+$light-teal: #b2dfdb;
 $green: #4caf50;
 $light-green: #a5d6a7;
 $yellow: #ffd54f;
@@ -26,15 +27,15 @@ $light-orange: #ffe082;
 $slate: #607d8b;
 
 // main theme color for links, tags, and other accents
-$theme: $blue;
-$light-theme: $light-blue;
+$theme: $teal;
+$light-theme: $light-teal;
 
 // effects
 $shadow: 0 0 10px 0 #00000040;
 
 // fonts
-$serif: "Lora", serif;
-$sans: "Poppins", sans-serif;
+$serif: "EB Garamond", serif;
+$sans: "Montserrat", sans-serif;
 $mono: "Cousine", monospace;
 // additional code needed to use these in /_includes/fonts.html
 

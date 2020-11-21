@@ -1,0 +1,54 @@
+header[data-fullscreen="false"] {
+  transition: min-height var(--fast);
+}
+header[data-fullscreen="true"] {
+  min-height: 100vh;
+}
+header[data-fullscreen="true"] .logo {
+  height: 200px;
+  margin-top: -30px;
+  animation: logo_move var(--gradual);
+}
+header[data-fullscreen="true"] .slogan {
+  display: block;
+  animation: slogan_fade_in var(--gradual);
+}
+header[data-fullscreen="true"] nav,
+header[data-fullscreen="true"] .header_spacer {
+  display: none;
+}
+
+.slogan {
+  display: none;
+  font-family: var(--serif);
+  font-size: 1.3rem;
+  font-style: italic;
+  text-align: center;
+  letter-spacing: 1px;
+  line-height: 1.1;
+}
+
+/* animations */
+@keyframes logo_move {
+  /* center of rings are 14.66% of image width away from image center*/
+  0% {
+    transform: scale(2) translate(14.66%, 0);
+  }
+  50% {
+    transform: scale(1) translate(14.66%, 0);
+  }
+  100% {
+    transform: translate(0, 0);
+  }
+}
+@keyframes slogan_fade_in {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}

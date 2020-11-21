@@ -1,4 +1,5 @@
 <header>
+  {% include fullscreen.html %}
   <a
     href="{{ '/' | relative_url }}"
     class="logo_row"
@@ -10,7 +11,7 @@
       {%- include logo.svg -%}
       <!-- <img src="{{ "images/logo.png" | relative_url }}" /> -->
     </span>
-    <span class="logo_text">{{ site.title }}</span>
+    <!-- <span class="logo_text">{{ site.title }}</span> -->
   </a>
   <nav class="nav_row">
 

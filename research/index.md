@@ -1,28 +1,50 @@
 ---
 title: Research
+redirect_from: /publications
 ---
 
 # <i class="fas fa-microscope"></i>Research
 
+There is an abundance of publicly available data about various biological systems, but it can be difficult to draw insight from individual datasets.
+Our lab develops algorithms that integrate these data to help model and understand complex biological systems.
+Doing this allows us to investigate many different biological conditions, including those with limited data, such as rare diseases.
+We recognize that our lab won't have all the answers, or even all of the questions, so we aim to develop tools and processes that any biologist can reuse.
+Our approach to research prioritizes transparency, rigor, and reproducibility.
+
 <!-- section break -->
-
-## Card Search
-
-A _card search_ component, a search box to find all _card_ components on the page that contain certain words/names.
-
-You can type in "terms" (single words) or "phrases" (quoted multiple words), like `term1 term2 "full phrase 1" "full phrase 2"`.
-Cards that contain all of the terms and at least one of the phrases will be considered a match.
-Search words will be highlighted in the results (if they're longer than 2 characters).
-Searching is case insensitive.
 
 {% include card-search.html subject="papers" %}
 
+{% include research-list.html %}
+
 <!-- section break -->
 
-## Research List
+## More
 
-A _research list_ component, to sort and group all of your research publications.
-Can be used on any page, but assumes its content from `/_data/research-output.yml`.
-Uses the _card_ component (small).
+{% capture html %}
+{%
+  include big-link.html
+  icon="fas fa-book-open"
+  text="More on PubMed"
+  link="https://pubmed.ncbi.nlm.nih.gov/?term=casey%20s%20greene"
+%}
+{%
+  include big-link.html
+  icon="fab fa-google"
+  text="More on Google Scholar"
+  link="http://scholar.google.com/citations?hl=en&user=ETJoidYAAAAJ"
+%}
+{% endcapture %}
 
-{% include research-list.html %}
+{% include centerer.html html=html %}
+
+The citations on this page were generated automatically from just identifiers using the [Manubot cite utility](https://github.com/manubot/manubot#cite) developed right here in the Greene Lab!
+
+<!-- section break -->
+
+{%
+  include figure.html
+  image="images/team/yoson-sketch.jpg"
+  caption="Our recent research, compressed into sketch form by YoSon Park during the 2016 [#PennGenRetreat](https://twitter.com/search?f=tweets&vertical=default&q=%23PennGenRetreat&src=typd)."
+  width="100%" 
+%}

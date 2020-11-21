@@ -1,34 +1,38 @@
 ---
 title: Contact
+background: images/backgrounds/anschutz.jpg
 ---
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Metaphor](), at the school of [Whimsy and Caprice]().
-We are located on the 13th floor of the [Center for Wit and Sagacity]().
+Our lab is part of the [University of Colorado School of Medicine](https://medschool.cuanschutz.edu/)'s [Department of Biochemistry and Molecular Genetics](https://medschool.cuanschutz.edu/biochemistry) and Center for Health AI.
+We are a geographically distributed team that is headquartered on the 6th Floor of the [Anschutz Health Sciences Building](https://www.ucdenver.edu/about/departments/FacilitiesManagement/FacilitiesProjects/ActiveProjects/Pages/AnschutzHealthSciencesBldg.aspx).
 
-{% include figure.html image="images/volcano.jpg" width="100%" %}
+{%
+  include figure.html
+  flat="true"
+  image="images/contact/anschutz-logo.png"
+  link="https://medschool.cuanschutz.edu/"
+%}
 
-## Email
+## <i class="fas fa-envelope fa-sm"></i>Email
 
-[scrooge@mcduck.com](mailto:scrooge@mcduck.com)
+[{{ site.email }}](mailto:{{ site.email }})  
 {:.center}
 
-## Phone
+## <i class="fas fa-phone fa-sm"></i>Phone
 
-[(555) 867-5309](tel:+1-555-867-5309)
+[(215) 573-2991](tel:+1-215-573-2991)
 {:.center}
 
-## Address
+## <i class="fas fa-map-marked fa-sm"></i>Location
 
-{% comment %}
-Tip: put both a mailing address for mail/deliveries, AND a navigation-friendly address so people can find their way to you easily.
-{% endcomment %}
-
-That St & The Other St  
-Porters Lake, NS B3E 1H3  
-Canada  
+[<i class="fas fa-external-link-alt"></i> on Google Maps](https://www.google.com/maps/place/Fitzsimons,+Aurora,+CO+80045/@39.7451033,-104.8419821,146m/data=!3m1!1e3!4m5!3m4!1s0x876c634db1dab039:0x437fc6e3d33aafef!8m2!3d39.7452864!4d-104.8417066)
 {:.center}
 
-[<i class="fas fa-external-link-alt"></i> on Google Maps](https://www.google.com/maps/place/That+St+%26+The+Other+St,+Porters+Lake,+NS+B3E+1H3,+Canada/@44.7389237,-63.3033296,20.78z/data=!4m5!3m4!1s0x4b5a31023bb02565:0xb9505694e83a53d7!8m2!3d44.7389353!4d-63.3030828)
-{:.center}
+{%
+  include gallery.html
+  image1="images/contact/AHSB.jpg"
+  image2="images/contact/cu-aerial.jpg"
+  image3="images/contact/cu-photo.jpg"
+%}

@@ -9,7 +9,7 @@ header {
   position: relative;
   @include flex-center;
   justify-content: space-between;
-  padding: 40px;
+  padding: 20px;
   color: $white;
   background: $dark-gray;
   font-family: $sans;
@@ -21,7 +21,7 @@ header {
 
     .logo > * {
       max-width: 100%;
-      height: 50px;
+      height: 100px;
     }
 
     .logo_text {
@@ -85,5 +85,39 @@ header {
         width: 100%;
       }
     }
+  }
+
+  &[data-fullscreen] {
+    transition: min-height $slow;
+  }
+
+  &[data-fullscreen="true"] {
+    justify-content: center;
+    min-height: 100vh;
+
+    .logo > * {
+      height: 200px;
+      animation: logo_zoom 2s ease forwards;
+
+      @keyframes logo_zoom {
+        0% {
+          transform: scale(2) translateX(14.666%);
+        }
+        50% {
+          transform: scale(1) translateX(14.666%);
+        }
+        100% {
+          transform: scale(1) translateX(0);
+        }
+      }
+    }
+
+    .nav_row {
+      display: none;
+    }
+  }
+
+  &[data-fullscreen="false"] {
+    min-height: 0;
   }
 }

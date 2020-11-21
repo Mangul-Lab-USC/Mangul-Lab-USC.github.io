@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect fill="#ffffff" x="0" y="0" width="100" height="100" />
+  <path
+    fill="#00968820"
+    stroke="#009688"
+    stroke-width="2"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    transform="translate(50,50) scale(0.5) translate(-50,-50)"
+    d="
+      M 25 30
+      L 5 30
+      L 5 20
+      A 10 10 0 0 1 25 20
+      z
+      M 15 10
+      L 65 10
+      A 10 10 0 0 1 75 20
+      L 75 75
+      L 45 75
+      L 45 80
+      A 10 10 0 0 1 25 80
+      L 25 20
+      A 10 10 0 0 0 15 10
+      z
+      M 35 90
+      L 85 90
+      A 10 10 0 0 0 95 80
+      L 95 75
+      L 45 75
+      L 45 80
+      A 10 10 0 0 1 35 90
+      z
+    "
+  />
+</svg>

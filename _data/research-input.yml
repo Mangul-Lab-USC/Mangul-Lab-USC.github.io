@@ -48,31 +48,195 @@
 # Url to link to. If not specified, defaults to the url that Manubot returns for
 # the citation.
 
+# 2020
+
 - id: doi:10.1101/2020.11.06.371963
-  thumbnail: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
   tags:
     - cancer
     - single cell
     - ovarian cancer
 
-- id: doi:10.1098/rsif.2017.0387
-  image: https://royalsocietypublishing.org/cms/asset/1b0430b1-5a66-4523-83be-29b435eddf86/rsif20170387f01.jpg
+- id: doi:10.1016/j.ccell.2020.10.014
+  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  tags:
+    - cancer
+    - machine learning
+
+- id: url:https://greenelab.github.io/covid19-review/
+  image: https://greenelab.github.io/covid19-review/images/N000-overview.png
   extra-links:
     - type: preprint
-      link: https://doi.org/10.1101/142760
-    - type: source
-      link: http://github.com/greenelab/deep-review
+    - type: manubot
+      link: https://greenelab.github.io/covid19-review/
+  tags:
+    - COVID19
 
-- id: doi:10.1371/journal.pcbi.1007128
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  repo: greenelab/meta-review
+- id: doi:10.1093/jamia/ocaa196
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jamia/Issue/27/7/1/jaminfo_27_7cover.png?Expires=1602076593&Signature=PJtOE-b7zCHoq8TnOebGlkhPQHCusUttK3TTxF2sGkL~5IYtwyFSIN2GGKGxegyiMY1oRLiQAXVkXjkz4Rmp3cHgjavLWo5oVVErdHtHY3l2h1OV~zRXWi5uFYI2jnRnWMH5UI29uoF1QtboyAsivGiW3jlsmV306pArHY43RYG2dfxPqun1x8v76YlSCo87zXJBj0kbrt-gr16QnatK8LVzdVK-w5tJ4YModbKK~P1819Zy4mu-51yqXJ0LrHtzJjpuXHaDDWCZgYOfajcR7fTnHLGTeGc9fy9WQIybQlahxhZ6QaBKEHh9odGQEO10xbdmBYBlwlkStkwD5OoUDg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  tags:
+    - COVID19
+
+- id: doi:10.1038/s41562-020-00944-2
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41562-020-00944-2/MediaObjects/41562_2020_944_Fig1_HTML.png
+  extra-links:
+    - type: preprint
+      link: doi.org/10.1101/2020.06.09.20126813
+  tags:
+    - COVID19
+
+- id: doi:10.1038/s41576-020-0257-5
+  image: https://user-images.githubusercontent.com/542643/90901663-424c0080-e399-11ea-8ee1-3c4917e62317.png
+  tags:
+    - open science
+    - data sharing
+
+- id: doi:10.1016/j.annonc.2020.05.019
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0923753420398410-gr3.jpg
+  tags:
+    - ovarian cancer
+    - genomics
+
+- id: doi:10.1038/s41591-020-0929-x
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-020-0929-x/MediaObjects/41591_2020_929_Fig2_HTML.png?as=webp
+  extra-links:
+    - type: preprint
+      link: https://www.medrxiv.org/content/10.1101/2020.04.02.20051284v1
+
+- id: doi:10.1158/1078-0432.CCR-20-0103
+  image: https://user-images.githubusercontent.com/542643/91751846-6e366580-eb93-11ea-854d-8f4bb210a46b.png
+  tags:
+    - ovarian cancer
+    - genomics
+
+- id: doi:10.1016/j.copbio.2019.12.021
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0958166919301594-gr1.jpg
   extra-links:
     - type: manubot
-      link: https://greenelab.github.io/meta-review/
+      link: https://greenelab.github.io/biopriors-review/
+    - url: https://arxiv.org/abs/1910.06738
+      text: arXiv
+
+- id: doi:10.1093/gigascience/giaa056
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gigascience/9/6/10.1093_gigascience_giaa056/1/m_giaa056fig1.jpeg?Expires=1600608874&Signature=vKBY0fvYvV5TcOcCtC9ad0uE~SQ8l1XLZ5nj49vTnBQcsTIeaGmNMxq3EJmLTIKoVSnN109y3rvlNKgujEyGt5NV9IRbUzT4wZqTjPdLBCC7vI2GMDidFGzp5sDOS4POZrNv1QoGXnKjPgRi9~QhkCZ8MXBHjSJo1BJYnwvAhtyLq04HM~FyGshG230kakE3XNW942i3NGPPRAeKLurk7FpaqUJvj8SHpwmpogrOOQA5p11fo7XuI1Ea5n3jjol5mkAX-gspAssWP0hWnJpO1WfFaeDbm8kWHWw68EIu8pzsMlmK9nNAJ2p59iUBIil2Y4D1eL3sJTGX4ZtY51ElPw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  extra-links:
+    - type: manubot
+      link: https://mangul-lab-usc.github.io/enhancing_reproducibility/
+    - url: https://arxiv.org/abs/2001.05127
+      text: arXiv
+
+- id: doi:10.1093/gigascience/giaa117
+  image: https://www.biorxiv.org/content/biorxiv/early/2020/05/03/2020.05.03.066597/F3.medium.gif
+  extra-links:
+    - type: preprint
+      link: 10.1101/2020.05.03.066597
     - type: source
-      link: https://github.com/greenelab/meta-review
+      link: https://github.com/greenelab/simulate-expression-compendia
+      text: simulate-expression-compendia
+  tags:
+    - genomics
+    - machine learning
+    - data integration
+
+- id: doi:10.1093/nar/gkaa248
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/nar/48/9/10.1093_nar_gkaa248/1/m_gkaa248fig7.jpeg?Expires=1600742402&Signature=a3DVBQf6IPBTbcXdHyusihTzZrA0I9xlwQYnd7s3MxBFYW6rR9IVAPviPEDVjO9bRh1zYrF-GQvFmHqNmYwqLAU4eDGIacdoTQiGSHCRg6mwmLlFu7G47cCxHCcecTdJ-52vP029njoxuwTrvm6nl9EDagSLy4Qip66n0EB6G8qGZPENbG-oqDWyx9qLQRQDM-GrHO57VsWDF4fuZrSKpBqh6Uy8LFE3zEKejBvk56lGLmgaDba6Ym4xYsUDOxdWNqT2sFB9xKA3YUBDDZblHBVddWU-dMHI3gWsT5EIZHgNV632sOJFSX-0QdBJNcBLL3Uxh518FAnzwyAzbn85xA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  extra-links:
+    - type: preprint
+      link: https://doi.org/10.1101/361816
+    - type: source
+      link: https://github.com/huqiwen0313/HM_splicing
+  tags:
+    - genomics
+    - machine learning
+
+- id: doi:10.1186/s13059-020-02021-3
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13059-020-02021-3/MediaObjects/13059_2020_2021_Fig1_HTML.png?as=webp
+  extra-links:
+    - type: preprint
+      link: https://doi.org/10.1101/573782
+    - type: source
+      link: https://github.com/greenelab/biobombe
     - type: website
-      link: http://manubot.org/
+      link: https://greenelab.github.io/BioBombe/
+  tags:
+    - machine learning
+    - genomics
+
+- id: doi:10.1101/2020.04.14.927251
+  image: https://raw.githubusercontent.com/greenelab/iscb-diversity/20d21504463c0487aa844be0ff236b3a51c70fa4/figs/2020-01-31_groupings.png
+  extra-links:
+    - type: manubot
+      link: https://greenelab.github.io/iscb-diversity-manuscript/
+    - type: source
+      link: https://github.com/greenelab/iscb-diversity
+      text: iscb-diversity
+    - type: source
+      link: https://github.com/greenelab/wiki-nationality-estimate
+      text: wiki-nationality-estimate
+    - type: source
+      link: https://github.com/dhimmel/pubmedpy
+      text: pubmedpy
+  tags:
+    - machine learning
+    - diversity
+
+- id: doi:10.1038/s41586-020-2766-y
+  extra-links:
+    - url: https://arxiv.org/abs/2003.00898
+      text: arXiv
+
+- id: doi:10.3390/genes11020226
+  image: https://www.mdpi.com/genes/genes-11-00226/article_deploy/html/images/genes-11-00226-g001-550.jpg
+  extra-links:
+    - type: preprint
+      link: https://doi.org/10.1101/2020.01.13.904771
+    - type: source
+      link: https://github.com/Sage-Bionetworks/NF_LandscapePaper_2019
+  tags:
+    - machine learning
+    - rare diseases
+
+- id: doi:10.1101/2020.02.17.20024133
+  image: https://user-images.githubusercontent.com/542643/91751835-6bd40b80-eb93-11ea-8afe-527d168dd9a9.png
+  extra-links:
+    - type: preprint
+  tags:
+    - genetics
+
+- id: doi:10.1101/2020.02.12.945642
+  image: https://www.biorxiv.org/content/biorxiv/early/2020/02/13/2020.02.12.945642/F1.medium.gif
+  extra-links:
+    - type: preprint
+  tags:
+    - genomics
+    - rare diseases
+
+- id: doi:10.1101/730085
+  image: https://greenelab.github.io/text_mined_hetnet_manuscript/images/figures/convolutional_neural_network/convolutional_neural_nework.png
+  extra-links:
+    - type: preprint
+    - type: manubot
+      link: https://greenelab.github.io/text_mined_hetnet_manuscript/
+    - type: source
+      link: https://github.com/greenelab/snorkeling
+  tags:
+    - knowledge graphs
+    - open science
+
+- id: doi:10.1073/pnas.1917576117
+  image: https://www.pnas.org/content/pnas/117/6/3167/F1.medium.gif
+  extra-links:
+    - type: preprint
+      link: https://doi.org/10.1101/802934
+
+- id: doi:10.1101/2020.01.17.910703
+  image: https://github.com/jjc2718/gene-graph-conv/raw/master/data/img/pipeline.png
+  extra-links:
+    - type: source
+      link: https://github.com/jjc2718/gene-graph-conv
+  tags:
+    - machine learning
+    - genomics
 
 - id: doi:10.1016/j.csbj.2020.05.017
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
@@ -82,6 +246,202 @@
       link: https://greenelab.github.io/knowledge-graph-review/
   tags:
     - knowledge graphs
+
+# 2019
+
+- id: doi:10.1038/s41592-019-0585-6
+  image: https://media.springernature.com/w200/springer-static/cover-hires/journal/41592/16/10
+
+- id: doi:10.1146/annurev-biodatasci-072018-021348
+  image: https://www.annualreviews.org/na101/home/literatum/publisher/ar/journals/content/biodatasci/2019/biodatasci.2019.2.issue-1/annurev-biodatasci-072018-021348/20190704/images/medium/bd020001.f1.gif
+
+- id: doi:10.1161/CIRCOUTCOMES.118.005122
+  image: https://www.ahajournals.org/cms/asset/297fb0cf-929f-46d3-8999-1c4742fca9f4/e005122fig02.gif
+  extra-links:
+    - type: preprint
+      link: https://doi.org/10.1101/159756
+    - type: source
+      link: https://github.com/greenelab/SPRINT_gan
+
+- id: doi:10.1371/journal.pcbi.1007128
+  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  extra-links:
+    - type: manubot
+      link: https://greenelab.github.io/meta-review/
+    - type: source
+      link: https://github.com/greenelab/meta-review
+    - type: website
+      link: http://manubot.org/
+
+- id: doi:10.1038/s41587-019-0143-x
+  image: https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fs41587-019-0143-x/MediaObjects/41587_2019_143_Fig1_HTML.png
+
+- id: doi:10.1016/j.cels.2019.04.003
+  image: https://marlin-prod.literatumonline.com/cms/attachment/4595b12d-3d00-4941-98ba-39b2cfde8c1c/fx1.jpg
+  extra-links:
+    - type: source
+      link: https://github.com/greenelab/multi-plier
+
+- id: doi:10.1093/bioinformatics/bty828
+  image: https://i2.wp.com/retractionwatch.com/wp-content/uploads/2019/02/bioinformatics.png?ssl=1
+  extra-links:
+    - type: preprint
+      link: https://doi.org/10.1101/301242
+    - type: source
+      link: https://github.com/aleccrowell/LIMBR
+
+- id: doi:10.1016/j.devcel.2019.03.001
+  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/53518ae9-e248-4399-b5f6-90df8af8110a/gr1.jpg
+
+- id: doi:10.1101/836825
+  image: https://www.biorxiv.org/content/biorxiv/early/2019/11/09/836825/F2.medium.gif
+  extra-links:
+    - type: preprint
+
+- id: doi:10.1126/sciadv.aba2083
+  image: https://advances.sciencemag.org/content/advances/6/37/eaba2083/F1.large.jpg
+  extra-links:
+    - type: preprint
+      link: https://doi.org/10.1101/833210
+    - type: source
+      link: https://github.com/hakyimlab/phenomexcan
+  tags:
+    - TWAS
+    - PrediXcan
+    - UK Biobank
+
+- id: doi:10.1186/s40478-019-0803-6
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs40478-019-0803-6/MediaObjects/40478_2019_803_Fig1_HTML.png
+  extra-links:
+    - type: source
+      link: https://github.com/greenelab/gbm_immune_validation
+    - type: package
+      link: https://hub.docker.com/r/gregway/gbm_immune_validation
+    - url: https://doi.org/10.5281/zenodo.195238
+      text: Zenodo
+
+- id: doi:10.1186/s13059-019-1835-8
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13059-019-1835-8/MediaObjects/13059_2019_1835_Fig11_HTML.png
+  extra-links:
+    - type: preprint
+      link: https://doi.org/10.1101/653105
+
+- id: doi:10.1182/bloodadvances.2019000303
+  image: https://ash.silverchair-cdn.com/ash/content_public/journal/bloodadvances/3/21/10.1182_bloodadvances.2019000303/6/m_advancesadv2019000303absf1.png?Expires=1601620807&Signature=Lf8D4M4EhuKZCHx7TQ~aMJ0OVSEnzbYnXmcDkUY~stjMlEhNAAC5j2rOf~D~1W0sggQDkIAu4nOXAt6i~5Rj68RZk~rB2JupXyDs74bf2tMWDU8lqkz~~70UpGB5zp0uuYKFBbpgyWIH9wMLdm72nZFU5SkAi8MzI6YOE3opIN4ROZ~u9Zmu8LacXEVNFE4GMphBZ6sgSVc4BDH649sBlcuIU5FgoBjKDZmBOBK3SUFUxiCq24yCYA4551dKXWPtU1Otf4k1aQS8TAWNZMTOlGu9SEYI95chJi1uv-rFi~mlHNTFcNTSej9tyc2v8I4mZ7anqEj1KkVkf3v-EEVkZQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  extra-links:
+    - type: preprint
+      link: https://doi.org/10.1101/563312
+    - type: source
+      link: https://doi.org/10.1101/563312
+      text: Classifier
+
+- id: doi:10.1016/j.celrep.2019.09.071
+  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/ed25df6f-6a3d-4f8b-8bc0-99089088d20e/fx1.jpg
+  extra-links:
+    - type: preprint
+      link: https://doi.org/10.1101/566455
+    - type: data
+      link: https://figshare.com/projects/Genomic_landscape_of_childhood_cancer_patient-derived_xenograft_models/38147
+      text: Intermediate data
+    - type: source
+      link: https://figshare.com/articles/PPTC_RNAseq_and_Genomic_Alterations/7127726
+      text: Classifier
+    - type: data
+      link: https://pedcbioportal.org/study?id=pptc#summary
+      text: Processed data
+    - type: source
+      link: https://github.com/marislab
+
+- id: doi:10.1002/gepi.22262
+  image: https://onlinelibrary.wiley.com/cms/asset/0182dbee-6bca-4fec-88ee-77210a49db5b/gepi22262-fig-0002-m.png
+  extra-links:
+    - url: https://www.penncil.org/software
+      text: YETI2 Software
+
+- id: doi:10.1101/793091
+  image: https://www.biorxiv.org/content/biorxiv/early/2019/10/04/793091/F2.medium.gif
+  extra-links:
+    - type: preprint
+
+- id: doi:10.1101/787903
+  image: https://www.biorxiv.org/content/biorxiv/early/2019/10/03/787903/F1.medium.gif
+  extra-links:
+    - type: preprint
+
+- id: doi:10.1101/786053
+  image: https://www.biorxiv.org/content/biorxiv/early/2019/10/03/786053/F2.medium.gif
+  extra-links:
+    - type: preprint
+
+- id: doi:10.1101/814350
+  image: https://www.biorxiv.org/content/biorxiv/early/2020/05/23/814350/F3.medium.gif
+  extra-links:
+    - type: preprint
+
+- id: doi:10.1038/d41586-019-00218-6
+  image: https://media.nature.com/lw800/magazine-assets/d41586-019-00218-6/d41586-019-00218-6_16402666.jpg
+
+- id: doi:10.1534/g3.118.200867
+  image: https://www.g3journal.org/content/ggg/9/1/251/F2.medium.gif
+  extra-links:
+    - type: preprint
+      link: https://doi.org/10.1101/414565
+
+# 2018
+
+- id: doi:10.1186/s13040-018-0175-7
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13040-018-0175-7/MediaObjects/13040_2018_175_Fig3_HTML.png
+  extra-links:
+    - type: preprint
+      link: https://doi.org/10.1101/147645
+    - type: source
+      link: https://github.com/greenelab/PathCORE-T-analysis
+      text: Analysis
+    - type: source
+      link: https://github.com/greenelab/PathCORE-T
+      text: Software
+    - type: source
+      link: https://github.com/kathyxchen/PathCORE-T-demo
+      text: Server
+    - type: source
+      link: https://github.com/kathyxchen/crosstalk-correction
+      text: Crosstalk correction
+
+- id: doi:10.1097/CCM.0000000000003148
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/6005735/bin/nihms951452f2.jpg
+
+- id: doi:10.1136/annrheumdis-2017-212935
+  image: https://ard.bmj.com/sites/default/files/highwire/annrheumdis/77/8.cover-source.jpg
+
+- id: doi:10.1098/rsif.2017.0387
+  image: https://royalsocietypublishing.org/cms/asset/1b0430b1-5a66-4523-83be-29b435eddf86/rsif20170387f01.jpg
+  extra-links:
+    - type: preprint
+      link: https://doi.org/10.1101/142760
+    - type: source
+      link: http://github.com/greenelab/deep-review
+
+- id: doi:10.1016/j.celrep.2018.03.076
+  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/f320090c-144a-4c2a-add9-ce2283658b93/fx1.jpg
+  extra-links:
+    - type: source
+      link: https://github.com/greenelab/pancancer/blob/master/tp53_analysis.sh
+      text: Source for ML portion
+
+- id: doi:10.1016/j.celrep.2018.03.046
+  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/4c2909b3-3e15-4723-a8b2-1f94166415e6/fx1.jpg
+  extra-links:
+    - type: source
+      link: https://github.com/greenelab/pancancer/blob/master/ras_analysis.sh
+
+- id: doi:10.1016/j.cell.2018.03.035
+  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/7bca2f8c-30f0-44cb-962a-cac5497cb225/fx1.jpg
+
+- id: doi:10.1128/JB.00703-17
+  image: https://jb.asm.org/content/jb/200/8/e00703-17/F4.medium.gif
+  extra-links:
+    - type: preprint
+      link: https://doi.org/10.1101/198481
 
 - id: doi:10.7554/eLife.32822
   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
@@ -96,3 +456,337 @@
     - type: source
       link: https://github.com/greenelab/scihub
       text: Analyses source
+
+- id: doi:10.1093/gigascience/giy129
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gigascience/7/11/10.1093_gigascience_giy129/1/m_giy129fig1.jpeg?Expires=1601648405&Signature=XSCUsfUsGfH2J7gEDa5xpcocENrfaaI-ole5zEg6u27lRJgtAr3vw1jixN5AqDtXJZjSZZc2mF1EGrUyzA~i40w6Nfc92ZuBeDuFOrDbZzk40MH~~IbNVHPDloZUXJrjRCjjIuNfh8irL1addlgeIRvfaO2GoeH~MubiyYSZPmb6aek-WhxNcaSzvgkFwMokMJ9IbfIH2WnHxLok5sa-2p0SCegIW32QksWOTx8mBCyCeuT57er8ov22e6VRjj0~iWDxEmdO0HhNSWZb1sEvnFv~FI1DxtQXCbR7JqBy02Aon5713sVzVOcDLKZ3-64IaM0htgHVzlBEYWFTHYW6rw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+
+- id: doi:10.1038/s41592-018-0230-9
+  image: https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fs41592-018-0230-9/MediaObjects/41592_2018_230_Fig1_HTML.png
+
+- id: doi:10.1142/9789813279827_0033
+  image: https://www.worldscientific.com/na101/home/literatum/publisher/wspc/books/content/books/2018/11263/11263/20181129-01/11263.cover.jpg
+
+- id: doi:10.1016/j.tig.2018.07.003
+  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/ea974986-ac13-4ba3-91c1-b0adba5b7ea9/gr5.jpg
+  extra-links:
+    - type: preprint
+      link: https://doi.org/10.1101/196915
+
+- id: pubmed:29218914
+  image: https://www.worldscientific.com/na101/home/literatum/publisher/wspc/books/content/books/2018/10864/10864/20171025-01/10864.cover.jpg
+
+- id: pmc:PMC5760988
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5760988/bin/nihms921846f2.jpg
+  extra-links:
+    - type: preprint
+      link: https://doi.org/10.1101/166207
+    - type: source
+      link: https://github.com/greenelab/GEA_Community_Detection
+
+# 2017
+
+- id: doi:10.1038/ejhg.2017.108
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fejhg.2017.108/MediaObjects/41431_2017_Article_BFejhg2017108_Fig1_HTML.jpg
+  extra-links:
+    - type: preprint
+      link: https://doi.org/10.1101/087718
+    - type: source
+      link: https://github.com/greenelab/tad_pathways
+
+- id: doi:10.1007/s40471-017-0115-y
+  image: https://media.springernature.com/m312/springer-static/image/art%3A10.1007%2Fs40471-017-0115-y/MediaObjects/40471_2017_115_Fig1_HTML.gif
+
+- id: doi:10.1016/j.cels.2017.06.003
+  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/465ca2b3-1520-4417-861c-b34d6fb47193/fx1.jpg
+  extra-links:
+    - type: preprint
+      link: http://dx.doi.org/10.1101/078659
+    - type: source
+      link: https://bitbucket.org/greenelab/eadage
+
+- id: doi:10.1056/NEJMc1705477
+  image: https://fertility-media.womenandinfants.org/logo-nejm.png
+
+- id: doi:10.1038/ng.3830
+  image: https://media.springernature.com/w200/springer-static/cover-hires/journal/41588/49/4
+
+- id: doi:10.1186/s13073-017-0417-1
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13073-017-0417-1/MediaObjects/13073_2017_417_Fig1_HTML.gif
+  extra-links:
+    - type: preprint
+      link: http://dx.doi.org/10.1101/038950
+
+- id: doi:10.1101/118349
+  image: https://www.biorxiv.org/content/biorxiv/early/2017/03/21/118349/F1.medium.gif
+  extra-links:
+    - type: preprint
+    - type: source
+      link: https://github.com/greenelab/RNAseq_titration_results
+
+- id: doi:10.1038/nbt.3780
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnbt.3780/MediaObjects/41587_2017_Article_BFnbt3780_Fig5_ESM.jpg
+  extra-links:
+    - type: preprint
+      link: https://doi.org/10.1101/056473
+    - type: source
+      link: https://github.com/greenelab/continuous_analysis
+
+- id: doi:10.1126/scitranslmed.aam6058
+  image: https://stm.sciencemag.org/sites/default/files/styles/sci_issue_archive_cover/public/highwire/scitransmed/9/376.cover-source.gif
+  extra-links:
+    - url: http://doi.org/10.1016/j.cels.2016.12.011
+      text: Khurana et al.
+
+- id: doi:10.1186/s12864-017-3519-7
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12864-017-3519-7/MediaObjects/12864_2017_3519_Fig1_HTML.gif
+  extra-links:
+    - type: preprint
+      link: https://doi.org/10.1101/075382
+    - type: source
+      link: https://github.com/greenelab/nf1_inactivation
+    - type: package
+      link: https://hub.docker.com/r/gregway/nf1_inactivation/
+
+- id: doi:10.1038/s41598-017-17362-6
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12864-017-3519-7/MediaObjects/12864_2017_3519_Fig1_HTML.gif
+
+- id: doi:10.1186/s12859-017-1905-4
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12859-017-1905-4/MediaObjects/12859_2017_1905_Fig5_HTML.gif
+  extra-links:
+    - type: preprint
+      link: https://doi.org/10.1101/156620
+    - type: package
+      link: https://github.com/greenelab/ADAGEpath
+      text: R package
+    - type: source
+      link: https://github.com/greenelab/adage-server
+    - type: app
+      link: https://adage.greenelab.com/
+      text: Updated app
+
+- id: doi:10.1534/g3.117.300172
+  image: https://www.g3journal.org/content/ggg/7/11/3705/F2.medium.gif
+  extra-links:
+    - type: preprint
+      link: https://doi.org/10.1101/157610
+
+- id: doi:10.1101/055913
+  image: https://www.biorxiv.org/content/biorxiv/early/2017/10/09/055913/F4.large.jpg
+  extra-links:
+    - type: preprint
+    - type: server
+      link: https://github.com/greenelab/tribe
+      text: Tribe server
+    - type: app
+      link: https://github.org/greenelab/tribe-client
+      text: Tribe web app
+
+- id: doi:10.1142/9789813235533_0008
+  image: https://www.biorxiv.org/content/biorxiv/early/2017/10/02/174474/F2.medium.gif
+  extra-links:
+    - type: preprint
+      link: https://doi.org/10.1101/174474
+    - type: source
+      link: https://github.com/greenelab/tybalt
+
+- id: doi:10.1093/bioinformatics/btx344
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/33/20/10.1093_bioinformatics_btx344/5/m_btx344f3.png?Expires=1601577677&Signature=0Lb8YXeMA0JlFqxJzfyC9L97ZO6xeWRJgP8MUK5g~ULMl1~6O6bulHBPgUYjJT-eh~CRiHvt3loMSLg4BltxVyNEPcudUjXkc7jCxtNtE9gNNKiL-1skXFx~5AECSuNiNVWeK94SOyTHJD-Gl-~9~bD9AHAxqP2YapeWGDheAVJYctH3Fedcmg71wQAONSkOhGN7h6xqB-DzZ6G1omRzN-sRbSJ7stwUFW3X55judpYt4wSeFt-HW1-s4qmmRRdIjx4dV~Ek9lWxi3quf~htrYzaM4RlMfomaOxLDF7kA6dWA2EJKr~vnl3uKb1BQTIpi1CsBBn5HscriMRhosQMyQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+
+- id: doi:10.1142/9789813207813_0060
+  image: https://www.worldscientific.com/na101/home/literatum/publisher/wspc/books/content/books/2017/10388/10388/20161122/10388.cover.jpg
+
+# 2016
+
+- id: doi:10.1007/s40142-016-0102-5
+  image: https://media.springernature.com/m312/springer-static/image/art%3A10.1007%2Fs40142-016-0102-5/MediaObjects/40142_2016_102_Fig1_HTML.gif
+  extra-links:
+    - type: preprint
+      link: http://dx.doi.org/10.1101/062695
+
+- id: doi:10.1186/s13059-016-1037-6
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13059-016-1037-6/MediaObjects/13059_2016_1037_Fig1_HTML.gif
+  extra-links:
+    - type: preprint
+      link: http://arxiv.org/abs/1601.00891
+
+- id: doi:10.1126/scitranslmed.aai8224
+  image: https://stm.sciencemag.org/sites/default/files/styles/sci_issue_archive_cover/public/highwire/scitransmed/8/358.cover-source.gif
+
+- id: doi:10.1126/scitranslmed.aah5494
+  image: https://stm.sciencemag.org/sites/default/files/styles/sci_issue_archive_cover/public/highwire/scitransmed/8/352.cover-source.gif
+
+- id: doi:10.1126/scitranslmed.aag3101
+  image: https://stm.sciencemag.org/sites/default/files/styles/sci_issue_archive_cover/public/highwire/scitransmed/8/346.cover-source.gif
+
+- id: doi:10.1126/scitranslmed.aaf9196
+  image: https://stm.sciencemag.org/sites/default/files/styles/sci_issue_archive_cover/public/highwire/scitransmed/8/340.cover-source.gif
+
+- id: doi:10.1126/scitranslmed.aaf6940
+  image: https://stm.sciencemag.org/sites/default/files/styles/sci_issue_archive_cover/public/highwire/scitransmed/8/334.cover-source.gif
+
+- id: doi:10.1161/CIRCGENETICS.115.001181
+  image: https://www.ahajournals.org/cms/asset/16c0b7fc-c17d-4ed8-9c9c-bdbb46211d77/179fig01.jpg
+  extra-links:
+    - type: source
+      link: https://github.com/dhimmel/snplentiful
+    - url: https://circgenetics.ahajournals.org/content/9/2/179.full
+      text: Full text (free)
+
+- id: doi:10.18632/oncotarget.7718
+  image: https://www.oncotarget.com/index.php?journal=oncotarget&page=article&op=viewFile&path%5B%5D=7718&path%5B%5D=22445&path%5B%5D=117357
+  extra-links:
+    - type: source
+      link: https://bitbucket.org/greenelab/pdx-dina-manuscript-code
+
+- id: doi:10.1128/mSystems.00025-15
+  image: https://msystems.asm.org/content/msys/1/1/e00025-15/F2.medium.gif
+  extra-links:
+    - type: preprint
+      link: http://biorxiv.org/content/early/2015/11/05/030650
+    - type: source
+      link: https://github.com/greenelab/adage
+
+- id: doi:10.1126/scitranslmed.aal3701
+  image: https://stm.sciencemag.org/sites/default/files/styles/sci_issue_archive_cover/public/highwire/scitransmed/8/370.cover-source.gif
+  extra-links:
+    - url: http://doi.org/10.1038/srep39259
+      text: Tatlow et al.
+
+- id: doi:10.1534/g3.116.033514
+  image: https://www.g3journal.org/content/ggg/6/12/4097/F3.medium.gif
+  extra-links:
+    - type: preprint
+      link: http://dx.doi.org/10.1101/030239
+    - type: source
+      link: https://github.com/greenelab/hgsc_subtypes
+    - type: package
+      link: https://hub.docker.com/r/gregway/hgsc_subtypes/
+
+- id: doi:10.1016/j.jbi.2016.10.007
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S153204641630140X-gr5.jpg
+  extra-links:
+    - type: preprint
+      link: http://dx.doi.org/10.1101/039800
+    - type: source
+      link: https://github.com/greenelab/DAPS
+
+- id: doi:10.1126/scitranslmed.aal0067
+  image: https://stm.sciencemag.org/sites/default/files/styles/sci_issue_archive_cover/public/highwire/scitransmed/8/364.cover-source.gif
+  extra-links:
+    - url: http://doi.org/10.1038/srep39259
+      text: Zhou et al.
+
+- id: doi:10.1093/hmg/ddw160
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/hmg/25/R2/10.1093_hmg_ddw160/3/m_ddw160f1p.png?Expires=1601769334&Signature=K2jmIC5xYLrHG8-37EmtkiSQ9yTClOrLyJZT5X3zp1PZg0ZLOha6z-ThS2ps~tlmzex8dLv9803lQzq-Cv-uJ3hn3rfjlyEp-kIENK4r0WdSkbSFtCItGgSfnQh5gH58vmh5MxAfw7EnMOXISQjOubndFfoiKxqfr0Cqp3Cm5UgNlW4NRCAFnEzvDzpcWoYKc-T2R~dkN1cXowMBafqvBe8~vsNnD9g473Ijryd-k5CPrW4g8~YwOhBsGlcRj64atYo4P9Kz-i-jn9JTr~UtxOUXaVcQVAQeqKXs877rLfzDjp58yWx2UeNuqGbS5oRWn~5Ljo80oIZHxIEIC-DcRw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  extra-links:
+    - type: preprint
+      link: http://biorxiv.org/content/early/2016/05/03/051524
+
+- id: doi:10.7717/peerj.1621
+  image: https://dfzljdn9uc3pi.cloudfront.net/2016/1621/1/fig-3-2x.jpg
+  extra-links:
+    - type: preprint
+      link: https://peerj.com/preprints/1460/
+    - type: package
+      link: https://github.com/greenelab/TDM
+      text: R package
+    - type: source
+      link: https://github.com/greenelab/TDMresults
+
+- id: doi:10.1186/s13040-016-0082-8
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13040-016-0082-8/MediaObjects/13040_2016_82_Fig2_HTML.gif?as=webp
+  extra-links:
+    - type: source
+      link: https://github.com/greenelab/adni-netwas
+
+- id: pmc:PMC4832978
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4832978/bin/nihms774628f1.jpg
+  extra-links:
+    - url: http://psb.stanford.edu/psb-online/proceedings/psb16/greene.pdf
+      text: PDF
+
+- id: doi:10.1093/bib/bbv018
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bib/Issue/17/1/0/m_cover.gif?Expires=1602101879&Signature=IYi5bePZ81JyUSLBS1QBu5PYoNpQKT8wIvgSvye7q3cWTS7s7DtN0UK8RO-CS0HsdkgSzPb-84yOEqESiyEO2ItquI0dBSt039MK0eeIBypBMvyT6N-qVc56IqO7JZczrKZLmNKs1LKUo3cWVuXijFTDhKI5BIDVkY8nVP8~-QOrMyEjxZ9SEYgvztC4nLUPyYijRyzzIa6O0pkSSfxnK3yAV53S3QLyJlXErjzIcHkUB8xnlfHF5CptEwhAmfbVRvhG3RVjzPpgkk35HroLcHH~j5SlJM88F5nIlOcwSF6eSbrK1RksXMq1ccT6aO4Fkjmb~-j2VJ2AnCrl51h5Jg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+
+- id: doi:10.1093/bib/bbv087
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bib/Issue/17/1/0/m_cover.gif?Expires=1601970466&Signature=sjCGDYU3ImFTCF2Bv5~HCwmedO~gYd~zIDgRE22FynlVutRs6kjAPU8fgg7gG5~vWXhyzjsHJYM1FL-cT3SEgVSpoZS0yPgeFwUcMKi39DxOmL5bYCsX3H74Z18h-jvOkp9zJ4FDpNc0O1DLr5ri7t1BPt0-6NtrRSvyTJ2zWz7oN4Q7TDzB4nF6hFSfWjcVIVpJBHvrtkaIr92OyINhp-AHnaqMOVsjx~54uWp~55HKXtJvtbev4iN03RTov29SwLrXyXbGbz1Q5Y0eG--md6LRbzVWzcoXp8P2kUFu5imfbweMjErr1rPh~VQVtMfgySsM8IgkpEMQbVD44qTerQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+
+# 2015
+
+- id: doi:10.1038/ncomms9019
+  image: https://sharma.me.uh.edu/wp-content/uploads/2014/03/nature-communications.png
+
+- id: doi:10.1186/s13040-015-0050-8
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13040-015-0050-8/MediaObjects/13040_2015_50_Fig1_HTML.gif
+
+- id: doi:10.1038/ng.3259
+  image: https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fng.3259/MediaObjects/41588_2015_Article_BFng3259_Fig2_HTML.jpg
+  extra-links:
+    - type: data
+      link: http://giant.princeton.edu/download/
+      text: Processed networks
+    - type: data
+      link: http://giant.princeton.edu/static/networks_dab/
+      text: Raw networks
+    - type: app
+      link: http://giant.princeton.edu/
+
+- id: doi:10.1093/hmg/ddv440
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4664175/bin/ddv44001.jpg
+
+- id: doi:10.1186/s12864-015-2250-5
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12864-015-2250-5/MediaObjects/12864_2015_2250_Fig3_HTML.gif
+  extra-links:
+    - type: source
+      link: https://github.com/greenelab/greedy-geneset-selection
+
+- id: doi:10.1371/journal.pcbi.1004005
+  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=10.1371/journal.pcbi.1004005.g006
+
+- id: doi:10.1038/nmeth.3249
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnmeth.3249/MediaObjects/41592_2015_Article_BFnmeth3249_Fig5_ESM.jpg
+  extra-links:
+    - type: app
+      link: http://seek.princeton.edu/
+
+- id: pmc:PMC4299935
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4299935/bin/nihms-642080-f0001.jpg
+  extra-links:
+    - type: source
+      link: http://discovery.dartmouth.edu/~cgreene/da-psb2015/
+
+# 2014
+
+- id: doi:10.1186/1756-0381-7-17
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2F1756-0381-7-17/MediaObjects/13040_2014_Article_115_Fig1_HTML.jpg
+
+- id: doi:10.1002/jcp.24662
+  image: https://onlinelibrary.wiley.com/cms/asset/d463a6c3-1a39-4c6b-91f9-43046991a462/jcp.v229.12.cover.jpg
+
+- id: doi:10.1186/gm550
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fgm550/MediaObjects/13073_2013_Article_556_Fig4_HTML.jpg
+
+# 2013
+
+- id: doi:10.1371/journal.pcbi.1002957
+  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=10.1371/journal.pcbi.1002957.g001
+
+- id: doi:10.1101/gr.155697.113
+  image: https://genome.cshlp.org/content/23/11/1862/F2.large.jpg
+  extra-links:
+    - url: http://www.nature.com/nrg/journal/v14/n10/full/nrg3580.html
+      text: Highlighted by Nature Reviews Genetics
+
+- id: doi:10.1007/978-3-642-37189-9_2
+  image: https://media.springernature.com/w306/springer-static/cover/book/978-3-642-37189-9.jpg
+
+# 2012
+
+- id: doi:10.1111/j.1749-6632.2011.06383.x
+  image: https://nyaspubs.onlinelibrary.wiley.com/cms/asset/14e45db3-4d64-4d0c-9cf6-73172d45242f/nyas.2012.1260.issue-1.cover.gif
+
+- id: doi:10.1093/nar/gks458
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/nar/Issue/40/W1/1/m_cover.gif?Expires=1601999470&Signature=Q2NOjEoX0jcl9eWLTHkXNaCRT2TNG3fWyJCMInmS2TIOqI5F0IvesRQm4Whc6JC~wzeR9Tjy25OxhJkIYEDBSYu9v4MVrA34r5POVBDcw2zCnNP-3G7CNaFar8g9N5AjzuxsC93tWtq7XUSd3NV4fC5BoyblYb9OYXVUfLIvy-GIYp4D6-wdgs1SyqaDcDrANy~VpQJdNn4Hs0wMLMfd1zcPFvbK-~DFEZ6joshnHYHRbECR7is7a-~-JYqeSqDS2~ZH2cwYO3heAgicnuC0sFltn7DJb8CLTLnpiaHs6yFpyHuKv-XOnVh7zcX~rFnvJEgFmDlUNDEHYAuvsFzwQQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+
+- id: doi:10.1371/journal.pcbi.1002816
+  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1002816.g004
