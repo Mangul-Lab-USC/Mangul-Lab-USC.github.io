@@ -1,106 +1,69 @@
 ---
+# inherits from default layout and builds on top of it
+# this file's contents get inserted into default.html's content
 layout: default
 ---
 
-{% assign member = page %}
+<h1>{{ page.title }}</h1>
 
-<div class="row">
-	<div class="col-sm-12">
+{% include figure.html image=page.image %}
 
-			<img class="pull-left pad-right content-photo" width=160 src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}">
+{% capture html %}
+{% include role.html type=page.role text=true %}
+{% endcapture %}
 
+{% include centerer.html html=html %}
 
-				<div class="bigtitle">
-					{{ member.title }}
-				</div>
-				<p><div class="smallhead">
-					{{ member.position }}
-				</div></p>
-	</div>
-</div>
+{% capture html %}
+{% if page.website %}
+{% include social-link.html type="website" link=page.website %}
+{% endif %}
+{% if page.email %}
+{% include social-link.html type="email" link=page.email %}
+{% endif %}
+{% if page.google %}
+{% include social-link.html type="google" link=page.google %}
+{% endif %}
+{% if page.github %}
+{% include social-link.html type="github" link=page.github %}
+{% endif %}
+{% if page.twitter %}
+{% include social-link.html type="twitter" link=page.twitter %}
+{% endif %}
+{% if page.instagram %}
+{% include social-link.html type="instagram" link=page.instagram %}
+{% endif %}
+{% if page.youtube %}
+{% include social-link.html type="youtube" link=page.youtube %}
+{% endif %}
+{% endcapture %}
 
-<div class="bigspacer"></div>
+{% include centerer.html html=html %}
 
-<div class="row">
-	<div class="col-sm-3">
+{{ content }}
 
-		{% if member.ucsf %}
-		<div class="smallhead">
-			UCSF Profile
-		</div>
-		<div class="pad-left note">
-			<div class="smallspacer"></div>
-			<i class="fa fa-university"></i>
-			<a class="off" href="https://profiles.ucsf.edu/{{ member.ucsf }}">{{ member.ucsf }}</a>
-		</div>
-		<div class="bigspacer"></div>
-		{% endif %}
+{% assign names = "" | split: ',' %}
 
-		{% if member.twitter %}
-		<div class="smallhead">
-			Twitter
-		</div>
-		<div class="pad-left note">
-			<div class="smallspacer"></div>
-			<i class="fab fa-twitter fa-fw"></i>
-			<a class="off" href="https://twitter.com/{{ member.twitter }}">{{ member.twitter }}</a>
-		</div>
-		<div class="bigspacer"></div>
-		{% endif %}
+{% if page.search.first %}
+{% assign names = names | concat: page.search %}
+{% elsif page.search %}
+{% assign names = names | push: page.search %}
+{% elsif page.title %}
+{% assign names = names | push: page.title %}
+{% endif %}
 
-		{% if member.github %}
-		<div class="smallhead">
-			GitHub
-		</div>
-		<div class="pad-left note">
-			<div class="smallspacer"></div>
-			<i class="fab fa-github"></i>
-			<a class="off" href="https://github.com/{{ member.github }}">{{ member.github }}</a>
-		</div>
-		<div class="bigspacer"></div>
-		{% endif %}
+{% capture search %}
+{% for name in names %}"{{ name }}" {% endfor %}
+{% endcapture %}
 
-		{% if member.scholar %}
-		<div class="smallhead">
-			Google Scholar
-		</div>
-		<div class="pad-left note">
-			<div class="smallspacer"></div>
-			<i class="ai ai-google-scholar"></i>
-			<a class="off" href="http://scholar.google.com/citations?user={{ member.scholar }}">{{ member.title }}</a>
-		</div>
-		<div class="bigspacer"></div>
-		{% endif %}
+{% assign search =  search | strip | prepend: "/research/?search=" %}
 
-		{% if member.linkedin %}
-		<div class="smallhead">
-			LinkedIn
-		</div>
-		<div class="pad-left note">
-			<div class="smallspacer"></div>
-			<i class="fab fa-linkedin"></i>
-			<a class="off" href="https://www.linkedin.com/in/{{ member.linkedin }}">{{ member.title }}</a>
-		</div>
-		<div class="bigspacer"></div>
-		{% endif %}
+{% capture text %}
+{{ page.title }}'s papers
+{% endcapture %}
 
-		{% if member.email %}
-		{% assign emailarray = member.email | split: '@' %}
-		<div class="smallhead">
-			Email
-		</div>
-		<div class="pad-left note">
-			<div class="smallspacer"></div>
-			<i class="fa fa-inbox fa-fw"></i>
-			{{ emailarray.first }}<span style="display:none">obfuscate</span>@{{ emailarray.last }}
-		</div>
-		<div class="bigspacer"></div>
-		{% endif %}
+{% capture html %}
+{% include big-link.html icon="fas fa-book-open" link=search text=text %}
+{% endcapture %}
 
-	</div>
-	<div class="col-sm-6" style="text-align:justify">
-		<i class="content" style="margin:auto">{{ content }}</i>
-
-	</div>
-
-</div>
+{% include centerer.html html=html %}
