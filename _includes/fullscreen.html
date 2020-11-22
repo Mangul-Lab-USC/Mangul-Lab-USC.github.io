@@ -1,0 +1,16 @@
+<!-- script used on home page to make header take up whole screen -->
+<script>
+  // only on home page
+  if ("{{ page.url }}" === "/") {
+    // set header to take up whole screen, ie "fullscreen"
+    const header = document.querySelector("header");
+    header.dataset.fullscreen = true;
+    // listen for any user interaction to exit "fullscreen"
+    const exitFullscreen = () => (header.dataset.fullscreen = false);
+    window.addEventListener("mousedown", exitFullscreen);
+    window.addEventListener("touchstart", exitFullscreen);
+    window.addEventListener("keydown", exitFullscreen);
+    window.addEventListener("scroll", exitFullscreen);
+    window.setTimeout(exitFullscreen, 3000);
+  }
+</script>
