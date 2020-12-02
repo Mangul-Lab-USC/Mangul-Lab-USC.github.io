@@ -4,7 +4,7 @@ title: Jacqueline (Jaque) Brito, Ph.D.
 search:
   - Alexandra J. Lee
   - Alex J. Lee
-image: images/team/alex.jpg
+image: images/team/jaque.jpg
 role: phd
 email: britoj@usc.edu
 github: ajlee21
