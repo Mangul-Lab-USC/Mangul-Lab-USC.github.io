@@ -1,13 +1,14 @@
 ---
-title: Alex Lee
+title: Jacqueline (Jaque) Brito, Ph.D.
+ 
 search:
   - Alexandra J. Lee
   - Alex J. Lee
 image: images/team/alex.jpg
 role: phd
-email: alexjlee.21@gmail.com
+email: britoj@usc.edu
 github: ajlee21
-twitter: localee_compact
+twitter: jaquejbrito
 ---
 
 Alexandra is a Ph.D. student in the Greene Lab through [Penn’s Genomics and Computational Biology (GCB) PhD Program](https://www.med.upenn.edu/gcb/).
