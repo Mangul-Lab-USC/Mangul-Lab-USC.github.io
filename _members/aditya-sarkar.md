@@ -3,7 +3,7 @@ title: Aditya Sarkar
 search:
   - Aditya
   - Sarkar
-image: images/team/alex.jpg
+image: images/team/aditya.jpg
 role: mascot
 email: b19003@students.iitmandi.ac.in
 github: aditya-sarkar441
