@@ -1,12 +1,12 @@
 # https://jekyllrb.com/docs/configuration/
 
 # site-wide variables
-title: The Greene Lab # title of site, used in tab name and elsewhere
-email: casey@greenelab.com # default email
-google: Casey Greene # default name to search on Google Scholar
-github: greenelab # default GitHub user/org, without the @
-twitter: GreeneScientist # default Twitter handle, without the @
-instagram: greenelab # default Instagram handle, without the @
+title: The Mangul Lab # title of site, used in tab name and elsewhere
+email: serghei.mangul@gmail.com # default email
+google: Serghei Mangul # default name to search on Google Scholar
+github: Mangul-Lab-USC # default GitHub user/org, without the @
+twitter: MangulLab # default Twitter handle, without the @
+instagram: "" # default Instagram handle, without the @
 youtube: "" # default YouTube channel handle
 
 # base directory where site is hosted
@@ -24,7 +24,7 @@ defaults:
   - scope:
       path: ""
     values:
-      description: Where data and biology # description that will show under search engine results
+      description: Where Genome gets compiled # description that will show under search engine results
       background: images/backgrounds/laptop-paper.jpg # background image in header and footer
       layout: default
   # markdown files in /_members
