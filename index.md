@@ -18,7 +18,7 @@ We use data driven techniques to reveal the
   include feature.html
   image="images/backgrounds/book.jpg"
   link="research"
-  heading="<Biological data + Machine Learning>"
+  heading="Biology greets Machine Learning "
   text=text
 %}
 
