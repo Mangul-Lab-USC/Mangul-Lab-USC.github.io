@@ -9,7 +9,7 @@ Mangul Lab is part of the Titus Department of Clinical Pharmacy at [USC School o
 <!-- section break -->
 
 {% capture text %}
-We use data driven techniques to reveal the
+We develop robust data driven techniques to accelerate diffusion of genomics and biomedical data into translational research and education.
 
 [Our Publications &nbsp;→](research)
 {:.center}
