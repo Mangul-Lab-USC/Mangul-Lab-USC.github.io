@@ -1,55 +1,52 @@
 ---
-title: Where data and biology meet
+title: Where genome gets compiled
 ---
 
-# Where data and biology meet
+# Where genome gets compiled
 
-The Greene Lab is a team of researchers at the [Perelman School of Medicine](https://www.med.upenn.edu/) at the [University of Pennsylvania](https://www.upenn.edu/) dedicated to answering important questions in biology and medicine with computation.
-We focus on bringing together publicly available [big data](https://en.wikipedia.org/wiki/Big_data), developing new computational methods to analyze that data, and creating tools to put those resources into the hands of every biologist.
+Mangul Lab is part of the Titus Department of Clinical Pharmacy at [USC School of Pharmacy](https://pharmacyschool.usc.edu/). Our research aims to design, develop and apply novel and robust data-driven, computational approaches that will accelerate the diffusion of genomics and biomedical data into translational research and education.
 
 <!-- section break -->
 
 {% capture text %}
-We use data science to answer important questions in biology and medicine.
-In all of our research, we prioritize transparency, rigor, and reproducibility.
+We use data driven techniques to reveal the
 
-[See what we've published &nbsp;→](research)
+[Our Publications &nbsp;→](research)
 {:.center}
 {% endcapture %}
 {%
   include feature.html
-  image="images/backgrounds/laptop-paper.jpg"
+  image="images/backgrounds/book.jpg"
   link="research"
-  heading="biological data + machine learning → insight"
+  heading="<Biological data + Machine Learning>"
   text=text
 %}
 
 {% capture text %}
-We believe that anyone around the world should be able to use and extend our work.
-We push to make software, tools, datasets, etc. that are freely available and openly licensed.
+We work on combined application of math, statistics and computer science to solve biology-based problems. We also make our work public so that researchers can extend our work. Click [here](https://github.com/Mangul-Lab-USC/) to go to our Github repository.
 
 [See our highlighted resources &nbsp;→](resources)
 {:.center}
 {% endcapture %}
 {%
   include feature.html
-  image="images/home/code-photo.jpg"
+  image="images/home/coding.jpg"
   link="resources"
-  heading="Open source, all the way"
+  heading="Open sourced projects"
   text=text
 %}
 
 {% capture text %}
-We are a team of enthusiastic researchers that want to push the frontier of data science.
-We strive to build an inclusive environment for research, and recognize the value of diversity in the process of discovery.
+Our lab is made of enthusiastic researchers who try to develop novel ways to combine data science and biology.
+
 
 [Meet our team &nbsp;→](team)
 {:.center}
 {% endcapture %}
 {%
   include feature.html
-  image="images/team/group-photo-1.jpg"
+  image="images/team/group-photo-4.jpg"
   link="team"
-  heading="The next generation of data scientists"
+  heading="Our enthusiastic members"
   text=text
 %}
