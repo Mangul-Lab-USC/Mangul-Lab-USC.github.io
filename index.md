@@ -23,7 +23,7 @@ We develop robust data driven techniques to accelerate diffusion of genomics and
 %}
 
 {% capture text %}
-We work on combined application of math, statistics and computer science to solve biology-based problems. We also make our work public so that researchers can extend our work. Click [here](https://github.com/Mangul-Lab-USC/) to go to our Github repository.
+We work on combined application of math, statistics and computer science to solve biology-based problems. We also make our work public so that researchers, all over the globe, can extend our work. Click [here](https://github.com/Mangul-Lab-USC/) to go to our Github repository.
 
 [See our highlighted resources &nbsp;→](resources)
 {:.center}
