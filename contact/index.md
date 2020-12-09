@@ -1,38 +1,38 @@
 ---
 title: Contact
-background: images/backgrounds/anschutz.jpg
+background: images/backgrounds/califo.jpg
 ---
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [University of Colorado School of Medicine](https://medschool.cuanschutz.edu/)'s [Department of Biochemistry and Molecular Genetics](https://medschool.cuanschutz.edu/biochemistry) and Center for Health AI.
-We are a geographically distributed team that is headquartered on the 6th Floor of the [Anschutz Health Sciences Building](https://www.ucdenver.edu/about/departments/FacilitiesManagement/FacilitiesProjects/ActiveProjects/Pages/AnschutzHealthSciencesBldg.aspx).
+Our lab is part of the [University of Southern California School of Pharmacy](https://pharmacyschool.usc.edu/)'s [Titus Department of Clinical Pharmacy](https://pharmacyschool.usc.edu/about/facts/departments/).
+Our group is located on the second floor of the [Center for the Health Professions Building (CHP)](https://calendar.usc.edu/center_for_the_health_professions_building_chp#.X9EwxmQzaTd) building, which is located on the [University of Southern California Health Sciences Campus](https://visit.usc.edu/maps-directions/health-sciences-campus/) in the Lincoln Heights neighborhood of Los Angeles.
 
 {%
   include figure.html
   flat="true"
-  image="images/contact/anschutz-logo.png"
-  link="https://medschool.cuanschutz.edu/"
+  image="images/contact/usc-logo.png"
+  link="https://pharmacyschool.usc.edu/"
 %}
 
 ## <i class="fas fa-envelope fa-sm"></i>Email
 
-[{{ site.email }}](mailto:{{ site.email }})  
+[mangul@usc.edu](mailto:mangul@usc.edu)  
 {:.center}
 
 ## <i class="fas fa-phone fa-sm"></i>Phone
 
-[(215) 573-2991](tel:+1-215-573-2991)
+[(323)-442-0043](tel:+1-323-442-0043)
 {:.center}
 
 ## <i class="fas fa-map-marked fa-sm"></i>Location
 
-[<i class="fas fa-external-link-alt"></i> on Google Maps](https://www.google.com/maps/place/Fitzsimons,+Aurora,+CO+80045/@39.7451033,-104.8419821,146m/data=!3m1!1e3!4m5!3m4!1s0x876c634db1dab039:0x437fc6e3d33aafef!8m2!3d39.7452864!4d-104.8417066)
+[<i class="fas fa-external-link-alt"></i> on Google Maps](https://www.google.com/maps/search/CHP+236-D+1450+Alcazar+Street+Los+Angeles,+CA+90089/@34.0636529,-118.2075676,677m/data=!3m2!1e3!4b1)
 {:.center}
 
 {%
   include gallery.html
-  image1="images/contact/AHSB.jpg"
-  image2="images/contact/cu-aerial.jpg"
-  image3="images/contact/cu-photo.jpg"
+  image1="images/contact/usc-top.png"
+  image2="images/contact/usc-pharm.png"
+  image3="images/contact/usc-side.png"
 %}
