@@ -1,13 +1,13 @@
--------------------
+---
 title: Dhrithi Deshpande
 search:
   - Dhrithi Deshpande
 image: 
 role: Graduate Student 
-linkedIn: https://www.linkedin.com/in/dhrithi-deshpande-a95372137/
+LinkedIn: https://www.linkedin.com/in/dhrithi-deshpande-a95372137/
 email: dhrithideshpande@gmail.com
 github: dhrithideshpande
--------------------
+---
 
 Dhrithi Deshpande is a graduate student doing her Masters in Molecular Phamarcology and Toxicology at the School of Pharmacy at USC. 
 She graduated from Dayananda Sagar College of Engineering, Bangalore, India, with a Bachelor of Engineering degree in Biotechnology.
