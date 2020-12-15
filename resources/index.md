@@ -8,9 +8,7 @@ redirect_from:
 
 # <i class="fas fa-tools"></i>Resources
 
-All of our software, tools, datasets, etc. are 100% open-source, and free for anyone around the world to use and modify.
-We strive to make resources that are high quality in every aspect:
-cleanly written, robustly constructed and tested, well-documented, easy-to-use, accessible, customizable, and as effective as possible in real-world use.
+This page includes our open-sourced softwares, some information we find useful, our lab videos and the news in which Mangul Lab was present.  
 
 <!-- section break -->
 
