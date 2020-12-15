@@ -2,7 +2,7 @@
 title: Dhrithi Deshpande
 search:
   - Dhrithi Deshpande
-image: 
+<!-- image:  -->
 role: Graduate Student 
 LinkedIn: https://www.linkedin.com/in/dhrithi-deshpande-a95372137/
 email: dhrithideshpande@gmail.com
