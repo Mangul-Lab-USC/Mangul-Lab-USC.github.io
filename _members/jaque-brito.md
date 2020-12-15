@@ -1,5 +1,5 @@
 ---
-title: Jacqueline (Jaque) Brito, Ph.D.
+title: Jacqueline (Jaque) Brito
  
 search:
   - Jaque
