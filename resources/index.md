@@ -14,7 +14,7 @@ cleanly written, robustly constructed and tested, well-documented, easy-to-use, 
 
 <!-- section break -->
 
-## Featured
+## We develop omics software!
 
 {% capture html %}
 {% include resource-list.html type="featured" size="large" %}
@@ -24,7 +24,7 @@ cleanly written, robustly constructed and tested, well-documented, easy-to-use, 
 
 <!-- section break -->
 
-## More
+## Information we find useful!
 
 {% capture html %}
 {% include resource-list.html type="more" size="small" %}
@@ -34,7 +34,7 @@ cleanly written, robustly constructed and tested, well-documented, easy-to-use, 
 
 <!-- section break -->
 
-## Affiliated Organizations
+## Watch our lab videos!
 
 {% capture html %}
 {% include resource-list.html type="other" size="medium" %}
@@ -44,7 +44,7 @@ cleanly written, robustly constructed and tested, well-documented, easy-to-use, 
 
 <!-- section break -->
 
-## Legacy
+## We’re in the news!
 
 {% capture html %}
 {% include resource-list.html type="legacy" size="small" %}
