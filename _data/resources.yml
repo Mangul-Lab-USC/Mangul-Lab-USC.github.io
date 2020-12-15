@@ -20,93 +20,180 @@
 # repo:
 # A GitHub repo to automatically fetch tags (aka "topics") from.
 
-- title: Adage
+- title: Telescope
   type: featured
   image: images/resources/adage.jpg
-  link: https://adage.greenelab.com/
-  description: Adage helps you explore gene expression data and discover new insights from machine learning models. See how genes relate to each other, other genes, and how they are represented in machine learning signatures. View the activities of samples as a colored heatmap, and cluster them on the fly. Explore the genes that contribute to signatures, the experiments in which they vary the most, and the pathways they significantly overlap with.
-  repo: greenelab/adage-frontend
+  link: https://github.com/Mangul-Lab-USC/telescope
+  description: an open-source web application that tracks the progress of jobs submitted to remote servers using Sun Grid Engine (SGE) on-demand scheduling system
+  repo: Mangul-Lab-USC/telescope
 
-- title: Preprint Similarity Search
+- title: SBT 
   type: featured
   image: images/resources/preprint-similarity-search.png
-  link: https://greenelab.github.io/preprint-similarity-search/
-  description: Preprint Similarity Search uses a machine learning model trained on 1.7 million PubMed Central open access documents to find similar papers and journals based on the textual content of your bioRxiv or medRxiv preprint. These results can be used as a starting point when searching for a place to publish your paper.
-  repo: greenelab/preprint-similarity-search
+  link: https://github.com/Mangul-Lab-USC
+  description:  a software platform to mine discarded tumor sequences from clinical sequencing
+  repo: Mangul-Lab-USC
 
-- title: Connectivity Search
+- title: ImReP
   type: featured
   image: images/resources/connectivity-search.png
-  link: https://het.io/search/
-  description: Connectivity search allows you to find the most important paths connecting any two nodes in Hetionet, even when they are different types or not known to be related. If you want to investigate how the [eye and breast](https://het.io/search/?source=28127&target=6602&metapaths=AeGaD) cancer may be related, you can. Filter nodes by type, see computed significance data about paths, create graph visualizations with highlighted paths, and more.
-  repo: greenelab/connectivity-search-frontend
+  link: https://github.com/Mangul-Lab-USC/imrep
+  description: a computational method for rapid and accurate profiling of the adaptive immune repertoire from bulk RNA-Seq data
+  repo: Mangul-Lab-USC/imrep
 
-- title: Manubot
+- title: ROP
   type: featured
   image: images/resources/manubot.png
-  link: https://manubot.org/
-  description: Manubot is a workflow and set of tools for the next generation of scholarly publishing. Write your manuscript in markdown, track it with git, automatically convert it to .html, .pdf, or .docx, and deploy it to your destination of choice.
-  repo: manubot/rootstock
+  link: https://github.com/smangul1/rop/
+  description: a computational protocol to discover the source of all reads, which originate from complex RNA molecules, recombined B and T cell receptors and microbial communities
+  repo: smangul1/rop/
 
-- title: hclust
+- title: Needle
+  type: featured
+  image: images/resources/connectivity-search.png
+  link: https://github.com/Mangul-Lab-USC/needle
+  description: a method for comprehensive virome, mycobiome, and eukaryome profiling on the strain level. Needle combines alignment and assembly strategies
+  repo: Mangul-Lab-USC/needle
+
+- title: MiCoP
+  type: featured
+  image: images/resources/connectivity-search.png
+  link: https://github.com/smangul1/miCoP
+  description: a method for detecting low abundance viral and fungal organisms in metagenomic sample
+  repo: smangul1/miCoP
+
+- title: Microbe-scope 
+  type: featured
+  image: images/resources/manubot.png
+  link: https://github.com/smangul1/Microbe-scope/wiki
+  description: a method to visualize the metagenomics data in the form of interactive coverage plots. It allows to detect false positives based on the coverage corresponding microbial genomes
+  repo: smangul1/Microbe-scope/wiki
+
+- title: HapIso
+  type: featured
+  image: images/resources/connectivity-search.png
+  link: https://github.com/smangul1/HapIso
+  description: a computational method to reconstruct the haploid transcriptome of a diploid organism from long single molecule reads
+  repo: smangul1/HapIso
+
+- title: UMI-Reducer
+  type: featured
+  image: images/resources/connectivity-search.png
+  link: https://github.com/smangul1/UMI-Reducer/wiki
+  description: a computational protocol allowing to differentiate PCR duplicates from biological duplicates using UMIs; designed in collaboration with Prof. Kelsey Martin
+  repo: smangul1/UMI-Reducer/wiki
+
+- title: VGA 
+  type: featured
+  image: images/resources/connectivity-search.png
+  link: http://genetics.cs.ucla.edu/vga
+  description: a computational method for rapid and accurate profiling of the adaptive immune repertoire from bulk RNA-Seq data
+  repo: http://genetics.cs.ucla.edu/vga
+
+- title: Dylan Araps' Pure Bash Bible
   type: more
-  link: https://github.com/greenelab/hclust
-  description: A JavaScript npm package for agglomerative hierarchical clustering.
-  repo: greenelab/hclust
-
-- title: Intro to SVGs
-  type: more
-  image: https://vincerubinetti.github.io/intro-to-svgs/share-thumbnail.png
-  link: https://vincerubinetti.github.io/intro-to-svgs/
-  description: An introduction to the Scalable Vector Graphics (SVG) image format, aimed at people in academia.
-  repo: vincerubinetti/intro-to-svgs
-
-- title: SVG to PNG
-  type: more
-  image: images/resources/svg-to-png.png
-  link: https://vincerubinetti.github.io/svg-to-png/
-  description: Convert SVG to PNG right in your browser, reliably and correctly.
-  repo: vincerubinetti/svg-to-png
-
-- title: Childhood Cancer Data Lab
-  type: other
-  image: images/resources/ccdl.png
-  link: https://www.ccdatalab.org/projects
-  description: Turning researchers who fight childhood cancer into data wizards.
-
-- title: Hetio
-  type: other
   image: https://het.io/share-thumbnail.png
-  link: https://github.com/hetio
-  description: Hetnet-related research, tools, and datasets including Hetionet.
+  link: https://github.com/dylanaraps/pure-bash-bible
+  description: A collection of pure bash alternatives to external processes.
 
-- title: Manubot
+- title: UCLA Collaboratory Workshops
+  type: more
+  image: https://manubot.org/share-thumbnail.png
+  link: https://qcb.ucla.edu/collaboratory-2/workshops/
+  description: "Video recordings and live streamings of workshops for coding and NGS data analysis."
+
+- title: Big Bio @ UCLA
+  type: more
+  image: https://manubot.org/share-thumbnail.png
+  link: https://www.big-bio.org/
+  description: "Tutorials for learning basic through advanced concepts in biology, genomics, and computational biosciences."
+
+- title: Raj Lab Basic Adobe Illustrator (CC) Guide
+  type: more
+  image: https://manubot.org/share-thumbnail.png
+  link: https://docs.google.com/document/d/1TXmbltzBPcApCcuJ9HLOIQgWPqKylrFRWRudrN-5vBE/edit#heading=h.or1to9c1y8il
+  description: "A guide for editing scientific figures in Adobe Illustrator, prepared by the Arun Raj Lab for Systems Biology at UPenn."
+
+- title: "BCC2020 Virtual Conference on July 20, 2020: Varuni Sarwal"
   type: other
   image: https://manubot.org/share-thumbnail.png
-  link: https://github.com/manubot
-  description: "The next generation of scholarly publishing: open, collaborative, reproducible, free."
+  link: https://vimeo.com/437697577
+  description: "Talk presented by Mangul Lab undergraduate researcher Varuni Sarwal at the BCC2020 Virtual Conference on July 20, 2020:"
 
-- title: Tribe
-  type: legacy
+- title: "BCC2020 Virtual Conference on July 19, 2020: Niko Darci-Maher"
+  type: other
+  image: https://manubot.org/share-thumbnail.png
+  link: https://vimeo.com/437698319
+  description: "Talk presented by Mangul Lab undergraduate researcher Niko Darci-Maher at the BCC2020 Virtual Conference on July 19, 2020:"
+
+- title: "BCC2020 Virtual Conference on July 19, 2020: Dr Jaque Brito"
+  type: other
   image: images/resources/tribe.png
-  link: https://tribe.greenelab.com/
-  description: Seamlessly mine data across bioinformatics systems. Tribe stores the findings of your research as collections of genes.
-  repo: greenelab/tribe
+  link: https://vimeo.com/437698243 
+  description: "Talk presented by Mangul Lab postdoctoral scholar Dr. Jaque Brito at the BCC2020 Virtual Conference on July 19, 2020:"
 
-- title: IMP
-  type: legacy
+- title: "RECOMB-Seq 2020 Virtual Conference on June 26, 2020 : Nathan LaPierre"
+  type: other
+  image: images/resources/tribe.png
+  link: https://youtu.be/-DYsD0X-1Eo
+  description: "Talk presented by Mangul Lab collaborator Nathan LaPierre at the RECOMB-Seq 2020 Virtual Conference on June 26, 2020"
+
+- title: "USC Preventive Medicine Biostatistics Seminar Series Preventive Medicine on February 27, 2020 : Dr Jaque Brito"
+  type: other
+  image: images/resources/tribe.png
+  link: https://youtu.be/K0nX6P5l1Vo
+  description: "Seminar presented by Mangul Lab postdoctoral scholar Dr. Jaque Brito at the USC Preventive Medicine Biostatistics Seminar Series Preventive Medicine on February 27, 2020"
+
+- title: "Intro to Unix Workshop: part 1:"
+  type: other
   image: images/resources/imp.png
-  link: http://imp.princeton.edu/
-  description: IMP helps researchers identify new gene-gene and gene-process associations that are supported by existing data but currently unannotated.
+  link: https://youtu.be/liC5uM8czyo
+  description: Intro to Unix Workshop taught by Serghei Mangul at UCLA’s Collaboratory; parts 1
 
-- title: GIANT
+- title: "Intro to Unix Workshop: part 2: Dr Serghei Mangul"
+  type: other
+  image: images/resources/imp.png
+  link: https://youtu.be/ArbOG6YpakU
+  description: Intro to Unix Workshop taught by Serghei Mangul at UCLA’s Collaboratory; parts 2
+
+- title: "Intro to Unix Workshop: part 3: Dr Serghei Mangul"
+  type: other
+  image: images/resources/imp.png
+  link: https://youtu.be/PHmfgIuOMFQ
+  description: Intro to Unix Workshop taught by Serghei Mangul at UCLA’s Collaboratory; parts 3
+
+- title: Maldovan University on Serghei's Workshops
   type: legacy
   image: images/resources/giant.png
-  link: http://giant.princeton.edu/
-  description: GIANT helps researchers identify which genes are working together in specific tissues. This tissue-specific lens into human biology helps researchers study complex human diseases.
+  link: https://usmf.md/ro/noutati/bioinformatica-un-nou-trend-cercetarea-medicala
+  description: "State University of Medicine and Pharmacy (maldova) Newsroom: Bioinformatics - A new trends in mdeical research"
 
-- title: Nano-dissection
+- title: Nature Methods interviews Serghei on benchmarking
   type: legacy
   image: images/resources/nano-dissection.png
-  link: http://nano.princeton.edu/
-  description: Nano-dissection allows researchers to identify genes expressed in specific tissues and cell lineages from microarray data that are not resolved to the level of the cell lineage of interest.
+  link: https://www.nature.com/articles/s41592-020-0768-1?platform=oscar&draft=collection
+  description: "Bench pressing with genomics benchmarkers: Some -omics tools can be accurate, sensitive or efficient than others. Yet benchmarking is no tell-all"
+
+- title: Tech Xplore reports on Telescope
+  type: legacy
+  image: images/resources/nano-dissection.png
+  link: https://techxplore.com/news/2019-10-telescope-tool-bioinformatics-analyses-mobile.html
+  description: "Tech Xplore reports on Telescope: a tool to manage bioinformatics analyses on mobile devices"
+
+- title: UCLA Newsroom on Bioinformatics for All
+  type: legacy
+  image: images/resources/nano-dissection.png
+  link: https://newsroom.ucla.edu/releases/bioinformatics-for-all
+  description: "UCLA Newsroom: Team proposes plan to use bioinformatics, open data to boost science in developing countries"
+
+- title: GWU School of Medicine on Bioinformatics for All
+  type: legacy
+  image: images/resources/nano-dissection.png
+  link: https://smhs.gwu.edu/news/researchers-propose-using-bioinformatics-open-data-boost-basic-science-globally
+  description: "George Washington School of Medicine and Health Sciences: Researchers Propose Using Bioinformatics, Open Data to Boost Basic Science Globally"
+
+- title: AAAS EurekAlert! on Schizophrenia study
+  type: legacy
+  image: images/resources/nano-dissection.png
+  link: https://www.eurekalert.org/pub_releases/2018-05/osu-sbh052118.php
+  description: "AAAS EurekAlert! Schizophrenics’ blood has more genetic material from microbes"
