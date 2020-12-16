@@ -1,12 +1,15 @@
 ---
 title: Kerui Peng
+
 search:
- - Kerui
- - Peng
+  - Kerui
+  - Peng
 image: images/team/Kerui.jpg
-role: PhD student
+role: phd
 email: keruipen@usc.edu
 github: KeruiP
 twitter: KeruiPeng
-
 ---
+
+TBA
+
