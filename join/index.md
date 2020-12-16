@@ -12,7 +12,7 @@ Contact [Dr Serghei Mangul]({{ site.baseurl }}/contact) to be notified when job 
 
 ## Postdoctoral Researchers
 
-Please send your CV along with names and contact information for two references to: [mangul@usc.edu](https://mangul@usc.edu)
+Please send your CV along with names and contact information for two references to: [mangul@usc.edu](mangul@usc.edu)
 
 ## Funding Oppurtunities
 
