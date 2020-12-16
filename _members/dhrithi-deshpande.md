@@ -4,8 +4,8 @@ title: Dhrithi Deshpande
 search:
   - Dhrithi
   - Deshpande
-image:
-role : phd 
+image: images/team/blank.jpg
+role : graduate
 LinkedIn: https://www.linkedin.com/in/dhrithi-deshpande-a95372137/
 email: dhrithideshpande@gmail.com
 github: dhrithideshpande
