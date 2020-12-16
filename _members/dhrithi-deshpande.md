@@ -4,9 +4,9 @@ title: Dhrithi Deshpande
 search:
   - Dhrithi
   - Deshpande
-<!-- image:  -->
-role: mascot
-<!-- LinkedIn: https://www.linkedin.com/in/dhrithi-deshpande-a95372137/ -->
+image:
+role : Graduate Student Researcher 
+LinkedIn: https://www.linkedin.com/in/dhrithi-deshpande-a95372137/
 email: dhrithideshpande@gmail.com
 github: dhrithideshpande
 ---
