@@ -5,7 +5,7 @@ search:
   - Minyoung
   - Kim
 image: images/team/minyoung.JPG
-role: mascot
+role: undergrad
 <!-- group: mascot -->
 <!-- website: <website link> -->
 email: mkim3704@usc.edu

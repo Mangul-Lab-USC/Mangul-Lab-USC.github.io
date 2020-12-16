@@ -5,7 +5,7 @@ search:
   - Dhrithi
   - Deshpande
 image:
-role : Graduate Student Researcher 
+role : phd 
 LinkedIn: https://www.linkedin.com/in/dhrithi-deshpande-a95372137/
 email: dhrithideshpande@gmail.com
 github: dhrithideshpande
