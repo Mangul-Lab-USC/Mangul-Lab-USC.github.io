@@ -6,7 +6,7 @@ search:
   - Jaqueline
   - Brito
 image: images/team/Jacqueline-Brito.png
-role: phd
+role: postdoc
 email: britoj@usc.edu
 <!-- github: ajlee21 -->
 twitter: jaquejbrito

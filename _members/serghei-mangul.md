@@ -5,7 +5,7 @@ search:
   - Serghei 
   - Mangul
 image: images/team/serghei.png
-role: phd
+role: pi
 <!-- website: N/A -->
 email: serghei.mangul@gmail.com
 <!-- google:  -->
