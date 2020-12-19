@@ -17,16 +17,4 @@ Harman is collaborating with Serghei and Sergey Knyzev (doctoral student of [Ale
 
 Interested in developing and applying bioinformatics methods for big data? [Join our lab](http://www.sergheimangul.com/opportunities)!
 
-{%
-  include figure.html
-  image="images/blog/DL_workshop_pca.jpg"
-  width="100%"
-  flat="true"
-%}
 
-{%
-  include figure.html
-  image="images/blog/DL_workshop_rnn.jpg"
-  width="100%"
-  flat="true"
-%}

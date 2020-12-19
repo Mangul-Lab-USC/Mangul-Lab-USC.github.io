@@ -24,16 +24,4 @@ Reference:
 Caitlin Loeffler, Aaron Karlsberg, Lana S Martin, Eleazar Eskin, David Koslicki, Serghei Mangul: Improving the usability and comprehensiveness of microbial databases. In: BMC Biology, 18 (37), 2020.
 [https://rdcu.be/b3sk4](https://rdcu.be/b3sk4)
 
-{%
-  include figure.html
-  image="images/blog/DL_workshop_pca.jpg"
-  width="100%"
-  flat="true"
-%}
 
-{%
-  include figure.html
-  image="images/blog/DL_workshop_rnn.jpg"
-  width="100%"
-  flat="true"
-%}

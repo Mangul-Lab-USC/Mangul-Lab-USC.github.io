@@ -33,16 +33,4 @@ Reference:
 1. Jaqueline J Brito, Thiago Mosqueiro, Jeremy Rotman, Victor Xue, Douglas J Chapski, Juan De la Hoz, Paulo Matias, Lana S Martin, Alex Zelikovsky, Matteo Pellegrini, Serghei Mangul: Telescope: an interactive tool for managing large scale analysis from mobile devices. In: GigaScience, 9 (1), pp. giz163, 2020.
 [https://arxiv.org/abs/1909.12469](https://arxiv.org/abs/1909.12469)
 
-{%
-  include figure.html
-  image="images/blog/DL_workshop_pca.jpg"
-  width="100%"
-  flat="true"
-%}
 
-{%
-  include figure.html
-  image="images/blog/DL_workshop_rnn.jpg"
-  width="100%"
-  flat="true"
-%}

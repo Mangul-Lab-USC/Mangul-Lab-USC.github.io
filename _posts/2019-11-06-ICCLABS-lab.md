@@ -18,16 +18,4 @@ This work represents one of the first efforts to assess the current status of se
 
 Kerui will present her work at the 9th Workshop on Computational Advances for Next Generation Sequencing, a part of 2019 ICCABS, which takes place from November 15 through 17, at Florida International University, Miami, Florida. ICCABS aims to bring together leading academic and industry researchers to discuss the latest advances in computational methods for bio and medical sciences.
 
-{%
-  include figure.html
-  image="images/blog/DL_workshop_pca.jpg"
-  width="100%"
-  flat="true"
-%}
 
-{%
-  include figure.html
-  image="images/blog/DL_workshop_rnn.jpg"
-  width="100%"
-  flat="true"
-%}

@@ -22,16 +22,4 @@ Reference:
 Ruth Johnson, Serghei Mangul: Refining the conference experience for junior scientists in the wake of climate change. In: arXiv, 2020.
 [https://arxiv.org/abs/2002.12268](https://arxiv.org/abs/2002.12268)
 
-{%
-  include figure.html
-  image="images/blog/DL_workshop_pca.jpg"
-  width="100%"
-  flat="true"
-%}
 
-{%
-  include figure.html
-  image="images/blog/DL_workshop_rnn.jpg"
-  width="100%"
-  flat="true"
-%}

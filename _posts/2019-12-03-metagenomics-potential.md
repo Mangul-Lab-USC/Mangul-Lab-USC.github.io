@@ -32,16 +32,4 @@ Caitlin Loeffler, Keylie M Gibson, Lana S Martin, Yutong Chang, Jeremy Rotman, I
 
 
 
-{%
-  include figure.html
-  image="images/blog/DL_workshop_pca.jpg"
-  width="100%"
-  flat="true"
-%}
 
-{%
-  include figure.html
-  image="images/blog/DL_workshop_rnn.jpg"
-  width="100%"
-  flat="true"
-%}

@@ -16,16 +16,4 @@ The [International Conference on Machine Learning](https://icml.cc/) is the prem
 1. Read [our paper in Nature Communications](https://www.nature.com/articles/s41467-020-16857-7).
 2. Read [our blog post on ImReP](http://www.sergheimangul.com/2020/06/19/mangul-lab-releases-fifth-pape/).
 
-{%
-  include figure.html
-  image="images/blog/DL_workshop_pca.jpg"
-  width="100%"
-  flat="true"
-%}
 
-{%
-  include figure.html
-  image="images/blog/DL_workshop_rnn.jpg"
-  width="100%"
-  flat="true"
-%}

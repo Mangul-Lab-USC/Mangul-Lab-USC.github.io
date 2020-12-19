@@ -18,16 +18,4 @@ Ram, Sei, Neha, Niko, and Aaron were 2019 B.I.G. (Bruins-in-Genomics) Summer sch
 
 Interested in developing and applying bioinformatics methods for big data? Join our lab!
 
-{%
-  include figure.html
-  image="images/blog/DL_workshop_pca.jpg"
-  width="100%"
-  flat="true"
-%}
 
-{%
-  include figure.html
-  image="images/blog/DL_workshop_rnn.jpg"
-  width="100%"
-  flat="true"
-%}

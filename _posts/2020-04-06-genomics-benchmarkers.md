@@ -22,16 +22,4 @@ Read the full article for our perspective on why benchmarking is so important!
 
 Serghei Mangul, Lana S Martin, Brian L Hill, Angela Ka-Mei Lam, Margaret G Distler, Alex Zelikovsky, Eleazar Eskin, Jonathan Flint: Systematic benchmarking of omics computational tools. In: Nature Communications, 10 (1393), pp. 1-11, 2019.
 
-{%
-  include figure.html
-  image="images/blog/DL_workshop_pca.jpg"
-  width="100%"
-  flat="true"
-%}
 
-{%
-  include figure.html
-  image="images/blog/DL_workshop_rnn.jpg"
-  width="100%"
-  flat="true"
-%}
