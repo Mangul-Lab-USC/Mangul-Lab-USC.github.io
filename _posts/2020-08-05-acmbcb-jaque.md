@@ -18,16 +18,4 @@ ACM-BCB is a forum for interdisciplinary research linking computer science, math
 1. Read [our paper in Genome Biology](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-01988-3).
 2. Read [our blog post on the project](http://www.sergheimangul.com/2020/03/19/mangul-lab-paper-error-correction/).
 
-{%
-  include figure.html
-  image="images/blog/DL_workshop_pca.jpg"
-  width="100%"
-  flat="true"
-%}
 
-{%
-  include figure.html
-  image="images/blog/DL_workshop_rnn.jpg"
-  width="100%"
-  flat="true"
-%}

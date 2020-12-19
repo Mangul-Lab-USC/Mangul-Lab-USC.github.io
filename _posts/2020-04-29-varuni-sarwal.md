@@ -39,16 +39,4 @@ Read our preprint available on [bioRxiv](https://www.biorxiv.org/content/10.1101
 Varuni Sarwal, Sebastian Niehus, Ram Ayyala, Sei Chang, Angela Lu, Nicholas Darci-Maher, Russell Jared Littman, Emily Wesel, Jacqueline Castellanos, Rahul Chikka, Margaret G Distler, Eleazar Eskin, Jonathan Flint, Serghei Mangul: A comprehensive benchmarking of WGS-based structural variant callers. In: bioRxiv, 2020.
 [https://www.biorxiv.org/content/10.1101/2020.04.16.045120v2](https://www.biorxiv.org/content/10.1101/2020.04.16.045120v2)
 
-{%
-  include figure.html
-  image="images/blog/DL_workshop_pca.jpg"
-  width="100%"
-  flat="true"
-%}
 
-{%
-  include figure.html
-  image="images/blog/DL_workshop_rnn.jpg"
-  width="100%"
-  flat="true"
-%}

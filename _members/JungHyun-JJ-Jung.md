@@ -6,7 +6,7 @@ search:
   - JJ
   - Jung
 image: images/team/JungHyun-JJ-Jung.jpg
-role: phd
+role: postdoc
 <!-- website: N/A -->
 email: junghyun.jung@usc.edu 
 

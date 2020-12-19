@@ -25,16 +25,4 @@ Reference:
 Nathan LaPierre, Mohammed Alser, Eleazar Eskin, David Koslicki, Serghei Mangul: Metalign: Efficient alignment-based metagenomic profiling via containment min hash. In: bioRxiv, 2020.
 
 
-{%
-  include figure.html
-  image="images/blog/DL_workshop_pca.jpg"
-  width="100%"
-  flat="true"
-%}
 
-{%
-  include figure.html
-  image="images/blog/DL_workshop_rnn.jpg"
-  width="100%"
-  flat="true"
-%}

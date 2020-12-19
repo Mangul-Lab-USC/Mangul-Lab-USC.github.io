@@ -14,16 +14,4 @@ Kerui, a PhD rotation student in Mangul Lab at USC, presented her research in an
 
 In addition, Kerui won a conference travel award from the Graduate Affairs Office in the USC School of Pharmacy!
 
-{%
-  include figure.html
-  image="images/blog/DL_workshop_pca.jpg"
-  width="100%"
-  flat="true"
-%}
 
-{%
-  include figure.html
-  image="images/blog/DL_workshop_rnn.jpg"
-  width="100%"
-  flat="true"
-%}

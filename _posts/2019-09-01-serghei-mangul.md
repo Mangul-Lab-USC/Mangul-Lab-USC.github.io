@@ -12,16 +12,4 @@ As of September 1, 2019, Serghei Mangul, PhD, has joined the faculty of the Titu
 
 Read more about it in the USC School of Pharmacy newsroom: [https://pharmacyschool.usc.edu/serghei-mangul-joins-faculty/](https://pharmacyschool.usc.edu/serghei-mangul-joins-faculty/)
 
-{%
-  include figure.html
-  image="images/blog/DL_workshop_pca.jpg"
-  width="100%"
-  flat="true"
-%}
 
-{%
-  include figure.html
-  image="images/blog/DL_workshop_rnn.jpg"
-  width="100%"
-  flat="true"
-%}

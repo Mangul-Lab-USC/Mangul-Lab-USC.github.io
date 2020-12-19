@@ -22,16 +22,4 @@ Reference:
 Jaqueline J Brito, Jun Li, Jason H Moore, Casey S Greene, Nicole A Nogoy, Lana X Garmire, Serghei Mangul: Recommendations to enhance rigor and reproducibility in biomedical research. In: GigaScience, 9 (6), pp. giaa056, 2020.
 [https://doi.org/10.1093/gigascience/giaa056](https://doi.org/10.1093/gigascience/giaa056)
 
-{%
-  include figure.html
-  image="images/blog/DL_workshop_pca.jpg"
-  width="100%"
-  flat="true"
-%}
 
-{%
-  include figure.html
-  image="images/blog/DL_workshop_rnn.jpg"
-  width="100%"
-  flat="true"
-%}

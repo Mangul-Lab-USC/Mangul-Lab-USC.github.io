@@ -28,16 +28,4 @@ Reference:
 Keith Mitchell, Jaqueline J Brito, Igor Mandric, Qiaozhen Wu, Sergey Knyazev, Sei Chang, Lana S Martin, Aaron Karlsberg, Ekaterina Gerasimov, Russell Jared Littman, Brian L Hill, Nicholas C Wu, Harry Taegyun Yang, Kevin Hsieh, Linus Chen, Eli Littman, Taylor Shabani, German Shabanets, Douglas Yao, Ren Sun, Jan Schroeder, Eleazar Eskin, Alex Zelikovsky, Pavel Skums, Mihai Pop, Serghei Mangul: Benchmarking of computational error-correction methods for next-generation sequencing data. In: Genome Biology, 21 (71), 2020.
 [https://doi.org/10.1186/s13059-020-01988-3](https://doi.org/10.1186/s13059-020-01988-3)
 
-{%
-  include figure.html
-  image="images/blog/DL_workshop_pca.jpg"
-  width="100%"
-  flat="true"
-%}
 
-{%
-  include figure.html
-  image="images/blog/DL_workshop_rnn.jpg"
-  width="100%"
-  flat="true"
-%}
