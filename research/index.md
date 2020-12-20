@@ -26,25 +26,25 @@ Our approach to research prioritizes transparency, rigor, and reproducibility.
   include big-link.html
   icon="fas fa-book-open"
   text="More on PubMed"
-  link="https://pubmed.ncbi.nlm.nih.gov/?term=casey%20s%20greene"
+  link="https://pubmed.ncbi.nlm.nih.gov/?term=Mangul+S&cauthor_id=32183840"
 %}
 {%
   include big-link.html
   icon="fab fa-google"
   text="More on Google Scholar"
-  link="http://scholar.google.com/citations?hl=en&user=ETJoidYAAAAJ"
+  link="https://scholar.google.com/citations?user=gMGrvhsAAAAJ&hl=en"
 %}
 {% endcapture %}
 
 {% include centerer.html html=html %}
 
-The citations on this page were generated automatically from just identifiers using the [Manubot cite utility](https://github.com/manubot/manubot#cite) developed right here in the Greene Lab!
+The citations on this page were generated automatically from just identifiers using the [Manubot cite utility](https://github.com/manubot/manubot#cite) developed in the Greene Lab!
 
 <!-- section break -->
 
 {%
   include figure.html
-  image="images/team/yoson-sketch.jpg"
-  caption="Our recent research, compressed into sketch form by YoSon Park during the 2016 [#PennGenRetreat](https://twitter.com/search?f=tweets&vertical=default&q=%23PennGenRetreat&src=typd)."
+  image="images/backgrounds/califo.jpg"
+  caption="California (CA), USA"
   width="100%" 
 %}
