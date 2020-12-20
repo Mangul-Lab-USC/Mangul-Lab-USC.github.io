@@ -412,6 +412,216 @@
   tags:
   - RNA
   - sequencing
+- title: 'PTWAS: investigating tissue-relevant causal molecular mechanisms of complex traits using probabilistic TWAS analysis' 
+  authors:
+  - Yuhua Zhang, Corbin Quick, Ketian Yu, Alvaro Barbeira, Francesca Luca, Roger Pique-Regi, Hae Kyung Im, Xiaoquan Wen
+  publisher: 'Genome biology'
+  date: 2020-
+  link: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02026-y?utm_source=linkresearcher&utm_medium=display&utm_content=article_highlight&utm_campaign=BSCN_1_JG02_CN_GBIO_20Years_AH_paid_display_LINKR
+  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  tags:
+  - RNA
+  - sequencing
+- title: 'sn-spMF: matrix factorization informs tissue-specific genetic regulation of gene expression' 
+  authors:
+  - Yuan He, Surya B Chhetri, Marios Arvanitis, Kaushik Srinivasan, François Aguet, Kristin G Ardlie, Alvaro N Barbeira, Rodrigo Bonazzola, Hae Kyung Im, Christopher D Brown, Alexis Battle
+  publisher: 'Genome biology'
+  date: 2020-
+  link: https://link.springer.com/article/10.1186/s13059-020-02129-6
+  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  tags:
+  - RNA
+  - sequencing
+- title: 'Impact of admixture and ancestry on eQTL analysis and GWAS colocalization in GTEx' 
+  authors:
+  - Nicole R Gay, Michael Gloudemans, Margaret L Antonio, Nathan S Abell, Brunilda Balliu, YoSon Park, Alicia R Martin, Shaila Musharoff, Abhiram S Rao, François Aguet, Alvaro N Barbeira, Rodrigo Bonazzola, Farhad Hormozdiari, Kristin G Ardlie, Christopher D Brown, Hae Kyung Im, Tuuli Lappalainen, Xiaoquan Wen, Stephen B Montgomery
+  publisher: 'Genome biology'
+  date: 2020-
+  link: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02113-0
+  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  tags:
+  - RNA
+  - sequencing
+- title: 'A vast resource of allelic expression data spanning human tissues' 
+  authors:
+  - Stephane E Castel, François Aguet, Pejman Mohammadi, Kristin G Ardlie, Tuuli Lappalainen
+  publisher: 'Genome biology'
+  date: 2020-
+  link: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02122-z
+  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  tags:
+  - RNA
+  - sequencing
+- title: 'Improving the usability and comprehensiveness of microbial databases' 
+  authors:
+  - Caitlin Loeffler, Aaron Karlsberg, Lana S Martin, Eleazar Eskin, David Koslicki, Serghei Mangul
+  publisher: 'Genome biology'
+  date: 2020-
+  link: https://link.springer.com/content/pdf/10.1186/s12915-020-0756-z.pdf
+  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  tags:
+  - RNA
+  - sequencing
+- title: 'Benchmarking of computational error-correction methods for next-generation sequencing data' 
+  authors:
+  - Keith Mitchell, Jaqueline J Brito, Igor Mandric, Qiaozhen Wu, Sergey Knyazev, Sei Chang, Lana S Martin, Aaron Karlsberg, Ekaterina Gerasimov, Russell Littman, Brian L Hill, Nicholas C Wu, Harry Taegyun Yang, Kevin Hsieh, Linus Chen, Eli Littman, Taylor Shabani, German Enik, Douglas Yao, Ren Sun, Jan Schroeder, Eleazar Eskin, Alex Zelikovsky, Pavel Skums, Mihai Pop, Serghei Mangul
+  publisher: 'Genome biology'
+  date: 2020-
+  link: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-01988-3
+  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  tags:
+  - RNA
+  - sequencing
+- title: 'Path to independence: Overview of challenges and opportunities of computational data-driven research in biology' 
+  authors:
+  - Karishma Chhugani, Vanessa Jönsson, SERGHEI MANGUL
+  publisher: 'OSF Preprints'
+  date: 2020-
+  link: https://osf.io/v5kr4/download?format=pdf
+  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  tags:
+  - RNA
+  - sequencing
+- title: 'Diversity in immunogenomics: the value and the challenge' 
+  authors:
+  - Kerui Peng, Yana Safonova, Mikhail Shugay, Alice Popejoy, Felix Breden, Petter Brodin, Amanda M Burkhardt, Carlos Bustamante, Van-Mai Cao-Lormeau, Martin M Corcoran, Darragh Duffy, Macarena Fuentes Guajardo, Ricardo Fujita, Victor Greiff, Vanessa D Jonsson, Xiao Liu, Lluis Quintana-Murci, Maura Rossetti, Jianming Xie, Gur Yaari, Wei Zhang, William D Lees, Purvesh Khatri, Houda Alachkar, Cathrine Scheepers, Corey T Watson, Gunilla B Karlsson Hedestam, Serghei Mangul
+  publisher: 'arXiv preprint arXiv:2010.10402'
+  date: 2020-
+  link: https://arxiv.org/pdf/2010.10402
+  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  tags:
+  - RNA
+  - sequencing
+- title: 'PUMAA: A Platform for Accessible Microbiome Analysis in the Undergraduate Classroom' 
+  authors:
+  - Keith Mitchell, Jiem Ronas, Christopher Dao, Amanda C Freise, Serghei Mangul, Casey Shapiro, Jordan Moberg Parker
+  publisher: 'Frontiers in microbiology'
+  date: 2020-
+  link: https://www.frontiersin.org/articles/10.3389/fmicb.2020.584699/full
+  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  tags:
+  - RNA
+  - sequencing
+- title: 'A comprehensive overview of computational tools for RNA-seq analysis' 
+  authors:
+  - Dhrithi Deshpande, Karishma Chhugani, Yutong Chang, Aaron Karlsberg, Caitlin Loeffler, Jinyang Zhang, Agata Muszynska, Jeremy Rotman, Laura Tao, Lana S Martin, Brunilda Balliu, Elizabeth Tseng, Fangqing Zhao, Pejman Mohammadi, Pawel P Labaj, Serghei Mangul
+  publisher: 'arXiv preprint arXiv:2010.02391'
+  date: 2020-
+  link: https://arxiv.org/pdf/2010.02391
+  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  tags:
+  - RNA
+  - sequencing
+- title: 'A quantitative proteome map of the human body' 
+  authors:
+  - Lihua Jiang, Meng Wang, Shin Lin, Ruiqi Jian, Xiao Li, Joanne Chan, Guanlan Dong, Huaying Fang, Aaron E Robinson, François Aguet, Shankara Anand, Kristin G Ardlie, Stacey Gabriel, Gad Getz, Aaron Graubert, Kane Hadley, Robert E Handsaker, Katherine H Huang, Seva Kashin, Daniel G MacArthur, Samuel R Meier, Jared L Nedzel, Duyen Y Nguyen, Ayellet V Segrè, Ellen Todres, Brunilda Balliu, Alvaro N Barbeira, Alexis Battle, Rodrigo Bonazzola, Andrew Brown, Christopher D Brown, Stephane E Castel, Don Conrad, Daniel J Cotter, Nancy Cox, Sayantan Das, Olivia M de Goede, Emmanouil T Dermitzakis, Barbara E Engelhardt, Eleazar Eskin, Tiffany Y Eulalio, Nicole M Ferraro, Elise Flynn, Laure Fresard, Eric R Gamazon, Diego Garrido-Martín, Nicole R Gay, Roderic Guigó, Andrew R Hamel, Yuan He, Paul J Hoffman, Farhad Hormozdiari, Lei Hou, Hae Kyung Im, Brian Jo, Silva Kasela, Manolis Kellis, Sarah Kim-Hellmuth, Alan Kwong, Tuuli Lappalainen, Xin Li, Yanyu Liang, Serghei Mangul, Pejman Mohammadi, Stephen B Montgomery, Manuel Muñoz-Aguirre, Daniel C Nachun, Andrew B Nobel, Meritxell Oliva, YoSon Park, Yongjin Park, Princy Parsana, Ferran Reverter, John M Rouhana, Chiara Sabatti, Ashis Saha, Andrew D Skol, Matthew Stephens, Barbara E Stranger, Benjamin J Strober, Nicole A Teran, Ana Viñuela, Gao Wang, Xiaoquan Wen, Fred Wright, Valentin Wucher, Yuxin Zou, Pedro G Ferreira, Gen Li, Marta Melé, Esti Yeger-Lotem, Mary E Barcus, Debra Bradbury, Tanya Krubit, Jeffrey A McLean, Liqun Qi, Karna Robinson, Nancy V Roche, Anna M Smith, Leslie Sobin, David E Tabor, Anita Undale, Jason Bridge, Lori E Brigham, Barbara A Foster, Bryan M Gillard, Richard Hasz, Marcus Hunter, Christopher Johns, Mark Johnson, Ellen Karasik, Gene Kopen, William F Leinweber, Alisa McDonald, Michael T Moser, Kevin Myer, Kimberley D Ramsey, Brian Roe, Saboor Shad, Jeffrey A Thomas, Gary Walters, Michael Washington, Joseph Wheeler, Scott D Jewell, Daniel C Rohrer, Dana R Valley, David A Davis, Deborah C Mash, Philip A Branton, Laura K Barker, Heather M Gardiner, Maghboeba Mosavel, Laura A Siminoff, Paul Flicek, Maximilian Haeussler, Thomas Juettemann, W James Kent, Christopher M Lee, Conner C Powell, Kate R Rosenbloom, Magali Ruffier, Dan Sheppard, Kieron Taylor, Stephen J Trevanion, Daniel R Zerbino, Nathan S Abell, Joshua Akey, Lin Chen, Kathryn Demanelis, Jennifer A Doherty
+  publisher: 'Cell Press'
+  date: 2020-
+  link: https://www.biorxiv.org/content/biorxiv/early/2019/10/09/797373.full.pdf
+  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  tags:
+  - RNA
+  - sequencing
+- title: 'Determinants of telomere length across human tissues' 
+  authors:
+  - Kathryn Demanelis, Farzana Jasmine, Lin S Chen, Meytal Chernoff, Lin Tong, Dayana Delgado, Chenan Zhang, Justin Shinkle, Mekala Sabarinathan, Hannah Lin, Eduardo Ramirez, Meritxell Oliva, Sarah Kim-Hellmuth, Barbara E Stranger, Tsung-Po Lai, Abraham Aviv, Kristin G Ardlie, François Aguet, Habibul Ahsan, Jennifer A Doherty, Muhammad G Kibriya, Brandon L Pierce
+  publisher: 'American Association for the Advancement of Science'
+  date: 2020-
+  link: https://www.biorxiv.org/content/biorxiv/early/2019/10/07/793406.full.pdf
+  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  tags:
+  - RNA
+  - sequencing
+- title: 'Transcriptomic signatures across human tissues identify functional rare genetic variation' 
+  authors:
+  - Nicole M Ferraro, Benjamin J Strober, Jonah Einson, Nathan S Abell, Francois Aguet, Alvaro N Barbeira, Margot Brandt, Maja Bucan, Stephane E Castel, Joe R Davis, Emily Greenwald, Gaelen T Hess, Austin T Hilliard, Rachel L Kember, Bence Kotis, YoSon Park, Gina Peloso, Shweta Ramdas, Alexandra J Scott, Craig Smail, Emily K Tsang, Seyedeh M Zekavat, Marcello Ziosi, Kristin G Ardlie, Themistocles L Assimes, Michael C Bassik, Christopher D Brown, Adolfo Correa, Ira Hall, Hae Kyung Im, Xin Li, Pradeep Natarajan, Tuuli Lappalainen, Pejman Mohammadi, Stephen B Montgomery, Alexis Battle, TOPMed Lipids Working Group, GTEx Consortium
+  publisher: 'American Association for the Advancement of Science'
+  date: 2020-
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7646251/
+  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  tags:
+  - RNA
+  - sequencing
+- title: 'The impact of sex on gene expression across human tissues' 
+  authors:
+  - Meritxell Oliva, Manuel Muñoz-Aguirre, Sarah Kim-Hellmuth, Valentin Wucher, Ariel DH Gewirtz, Daniel J Cotter, Princy Parsana, Silva Kasela, Brunilda Balliu, Ana Viñuela, Stephane E Castel, Pejman Mohammadi, François Aguet, Yuxin Zou, Ekaterina A Khramtsova, Andrew D Skol, Diego Garrido-Martín, Ferran Reverter, Andrew Brown, Patrick Evans, Eric R Gamazon, Anthony Payne, Rodrigo Bonazzola, Alvaro N Barbeira, Andrew R Hamel, Angel Martinez-Perez, José Manuel Soria, Brandon L Pierce, Matthew Stephens, Eleazar Eskin, Emmanouil T Dermitzakis, Ayellet V Segrè, Hae Kyung Im, Barbara E Engelhardt, Kristin G Ardlie, Stephen B Montgomery, Alexis J Battle, Tuuli Lappalainen, Roderic Guigó, Barbara E Stranger
+  publisher: 'American Association for the Advancement of Science'
+  date: 2020-
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=11680172611993650485&btnI=1&hl=en
+  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  tags:
+  - RNA
+  - sequencing
+- title: 'The GTEx Consortium atlas of genetic regulatory effects across human tissues' 
+  authors:
+  - GTEx Consortium
+  publisher: 'American Association for the Advancement of Science'
+  date: 2020-
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7737656/
+  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  tags:
+  - RNA
+  - sequencing
+- title: 'Cell type–specific genetic regulation of gene expression across human tissues' 
+  authors:
+  - Sarah Kim-Hellmuth, François Aguet, Meritxell Oliva, Manuel Muñoz-Aguirre, Silva Kasela, Valentin Wucher, Stephane E Castel, Andrew R Hamel, Ana Viñuela, Amy L Roberts, Serghei Mangul, Xiaoquan Wen, Gao Wang, Alvaro N Barbeira, Diego Garrido-Martín, Brian B Nadel, Yuxin Zou, Rodrigo Bonazzola, Jie Quan, Andrew Brown, Angel Martinez-Perez, José Manuel Soria, Gad Getz, Emmanouil T Dermitzakis, Kerrin S Small, Matthew Stephens, Hualin S Xi, Hae Kyung Im, Roderic Guigó, Ayellet V Segrè, Barbara E Stranger, Kristin G Ardlie, Tuuli Lappalainen
+  publisher: 'American Association for the Advancement of Science'
+  date: 2020-
+  link: https://discovery.dundee.ac.uk/ws/files/52034921/GTEx_v8_cell_type_iQTL_main_text_revision.pdf
+  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  tags:
+  - RNA
+  - sequencing
+- title: 'Custom Transcriptome' 
+  authors:
+  - Laura M Zahn, Meritxell Oliva, Manuel Muñoz-Aguirre, Sarah Kim-Hellmuth, Valentin Wucher, Ariel DH Gewirtz, Daniel J Cotter, Princy Parsana, Silva Kasela, Brunilda Balliu, Ana Viñuela, Stephane E Castel, Pejman Mohammadi, François Aguet, Yuxin Zou, Ekaterina A Khramtsova, Andrew D Skol, Diego Garrido-Martín, Ferran Reverter, Andrew Brown, Patrick Evans, Eric R Gamazon, Anthony Payne, Rodrigo Bonazzola, Alvaro N Barbeira, Andrew R Hamel, Angel Martinez-Perez, José Manuel Soria, Nicole M Ferraro, Benjamin J Strober, Jonah Einson, Nathan S Abell, Francois Aguet, Margot Brandt, Maja Bucan, Joe R Davis, Emily Greenwald, Gaelen T Hess, Austin T Hilliard, Rachel L Kember, Bence Kotis, YoSon Park, Gina Peloso, Shweta Ramdas, Alexandra J Scott, Craig Smail, Emily K Tsang, Seyedeh M Zekavat, Marcello Ziosi, Kathryn Demanelis, Farzana Jasmine, Lin S Chen, Meytal Chernoff, Lin Tong, Dayana Delgado, Chenan Zhang, Justin Shinkle, Mekala Sabarinathan, Hannah Lin, Eduardo Ramirez, Barbara E Stranger, Tsung-Po Lai, Abraham Aviv, Kristin G Ardlie, Habibul Ahsan, Amy L Roberts, Serghei Mangul, Xiaoquan Wen, Gao Wang, Brian B Nadel, Jie Quan
+  publisher: 'Science'
+  date: 2020-
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=1265165878982844837&btnI=1&hl=en
+  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  tags:
+  - RNA
+  - sequencing
+- title: 'Corrigendum to: Recommendations to enhance rigor and reproducibility in biomedical research' 
+  authors:
+  - Jaqueline J Brito, Jun Li, Jason H Moore, Casey S Greene, Nicole A Nogoy, Lana X Garmire, Serghei Mangul
+  publisher: 'GigaScience'
+  date: 2020-
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=9459767149097228206&btnI=1&hl=en
+  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  tags:
+  - RNA
+  - sequencing
+- title: 'Integrating big data analytical techniques in pharmacy education' 
+  authors:
+  - Kerui Peng, Lana S Martin, Houda Alachkar, Annie Wong-Beringer, Serghei Mangul
+  publisher: 'OSF Preprints'
+  date: 2020-
+  link: https://osf.io/3gdy4/download?format=pdf
+  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  tags:
+  - RNA
+  - sequencing
+- title: 'Systematic benchmarking of omics computational tools' 
+  authors:
+  - Serghei Mangul, Lana S Martin, Brian L Hill, Angela Ka-Mei Lam, Margaret G Distler, Alex Zelikovsky, Eleazar Eskin, Jonathan Flint
+  publisher: 'Nature communications'
+  date: 2020-
+  link: https://www.nature.com/articles/s41467-019-09406-4
+  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  tags:
+  - RNA
+  - sequencing
+- title: 'Spatial analysis of single fiber cells of the developing ocular lens reveals regulated heterogeneity of gene expression' 
+  authors:
+  - Rajendra K Gangalum, Dongjae Kim, Raj K Kashyap, Serghei Mangul, Xinkai Zhou, David Elashoff, Suraj P Bhat
+  publisher: 'Iscience'
+  date: 2019-
+  link: https://www.sciencedirect.com/science/article/pii/S2589004218302141
+  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  tags:
+  - RNA
+  - sequencing
 - title: 'Inferring viral quasispecies spectra from 454 pyrosequencing reads Inpro' 
   authors:
   - Astrovskaya, Irina; Tork, Bassam; Mangul, Serghei; Westbrooks, Kelly; Mӑndoiu, Ion I; Balfe, Peter; Zelikovsky, Alex
