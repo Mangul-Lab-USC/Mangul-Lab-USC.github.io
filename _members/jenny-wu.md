@@ -2,8 +2,9 @@
 title: Qiaozhen (Jenny) Wu
 search:
   - Qiaozhen (Jenny) Wu
-image: images/team/blank.jpg
+image: images/team/jenny.jpg
 role: undergrad
+group: alum
 email: Jenny.Wu.Dalian@outlook.com 
 ---
 

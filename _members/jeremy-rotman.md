@@ -4,7 +4,7 @@ title: Jeremy Rotman
 search:
   - Jeremy
   - Rotman
-image: images/team/blank.jpg
+image: images/team/jeremy.jpg
 role: phd
 group: alum
 <!-- email: britoj@usc.edu -->
@@ -12,4 +12,4 @@ group: alum
 <!-- twitter: jaquejbrito -->
 ---
 
-Jeremy was a member of Mangul lab from 2016 to 2020. She was a software engineer at our lab. She is currently a Data Software Engineer at Perimetrics.
+Jeremy was a member of Mangul lab from 2016 to 2020. He was a software engineer at our lab. He is currently a Data Software Engineer at Perimetrics.

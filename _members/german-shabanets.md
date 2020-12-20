@@ -2,8 +2,8 @@
 title: German Shabanets
  
 search:
-  - Keith Mitchell
-image: images/team/blank.jpg
+  - German Shabanets
+image: images/team/german.jpg
 role: undergrad
 group: alum
 <!-- email: britoj@usc.edu -->

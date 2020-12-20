@@ -4,7 +4,7 @@ title: Rahul Chikka
 search:
   - Rahul
   - Chikka
-image: images/team/blank.jpg
+image: images/team/rahul.jpg
 role: undergrad
 group: alum
 <!-- email: britoj@usc.edu -->
