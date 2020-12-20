@@ -1,18 +1,8 @@
-- title: Genetic demultiplexing of pooled single-cell RNA-sequencing samples in cancer
-    facilitates effective experimental design
+- title: Profiling immunoglobulin repertoires across multiple human tissues using RNA sequencing 
   authors:
-  - Lukas M. Weber
-  - Ariel A. Hippen
-  - Peter F. Hickey
-  - Kristofer C. Berrett
-  - Jason Gertz
-  - Jennifer Anne Doherty
-  - Casey S. Greene
-  - Stephanie C. Hicks
-  publisher: Cold Spring Harbor Laboratory
-  date: 2020-11-7
-  link: https://doi.org/ghjkzq
-  id: doi:10.1101/2020.11.06.371963
+  - Lukas M. Weber; Mandric, Igor; Rotman, Jeremy; 
+  
+  publisher: Nature Communications, 11 (3126), 2020.
   image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
   tags:
   - cancer
