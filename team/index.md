@@ -57,7 +57,7 @@ They have all made lasting contributions to science and to our hearts. ❤️
 {% include team-list.html role="mascot" group="alum" mini="true" %}
 {% endcapture %}
 
-{% include centerer.html html=html %}
+<!-- {% include centerer.html html=html %} -->
 
 <!-- section break -->
 
