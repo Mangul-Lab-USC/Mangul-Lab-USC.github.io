@@ -3,7 +3,7 @@ title: Taylor Shabani
  
 search:
   - Taylor Shabani
-image: images/team/blank.jpg
+image: images/team/taylor.jpg
 role: undergrad
 group: alum
 <!-- email: britoj@usc.edu -->

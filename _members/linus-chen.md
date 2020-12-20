@@ -3,7 +3,7 @@ title: Linus Chen
  
 search:
   - Linus Chen
-image: images/team/blank.jpg
+image: images/team/linus.jpg
 role: undergrad
 group: alum
 <!-- email: britoj@usc.edu -->
@@ -11,4 +11,4 @@ group: alum
 <!-- twitter: jaquejbrito -->
 ---
 
-Linus Chen was a member of Mangul lab from 2016 to 2018. She was a undergraduate researcher at our lab and 2017 UCLA QCB B.I.G. Summer Scholar. She is currently a Undergrad @ UCLA, Bioengineering & Biomedical Engineering.
+Linus Chen was a member of Mangul lab from 2016 to 2018. He was a undergraduate researcher at our lab and 2017 UCLA QCB B.I.G. Summer Scholar. He is currently a Undergrad @ UCLA, Bioengineering & Biomedical Engineering.

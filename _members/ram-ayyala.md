@@ -3,7 +3,7 @@ title: Ram Ayyala
 search:
   - Ram
   - Ayyala
-image: images/team/blank.jpg
+image: images/team/ram.jpg
 role: undergrad
 email: ramayyala@gmail.com
 ---

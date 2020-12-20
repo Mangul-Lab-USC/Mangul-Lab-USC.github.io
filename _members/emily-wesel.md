@@ -3,7 +3,7 @@ title: Emily Wesel
  
 search:
   - Emily Wesel
-image: images/team/emily.jpeg
+image: images/team/emily.jpg
 role: undergrad
 group: alum
 <!-- email: britoj@usc.edu -->

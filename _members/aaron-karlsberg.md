@@ -4,7 +4,7 @@ title: Aaron Karlsberg
 search:
   - Aaron
   - Karlsberg
-image: images/team/blank.jpg
+image: images/team/aaron.jpg
 role: phd
 group: alum
 <!-- email: britoj@usc.edu -->
@@ -12,4 +12,4 @@ group: alum
 <!-- twitter: jaquejbrito -->
 ---
 
-Aaron was a member of Mangul lab from 2016 to 2020. He was a software engineer at our lab.
+Aaron was a member of Mangul lab from 2016 to 2020. He was a software engineer.
