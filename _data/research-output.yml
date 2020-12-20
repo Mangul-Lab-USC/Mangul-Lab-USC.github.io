@@ -2,7 +2,7 @@
   authors:
   - Mandric, Igor; Rotman, Jeremy; Yang, Harry Taegyun; Strauli, Nicolas; Montoya, Dennis; Lay, Will Van Der; Ronas, Jiem R; Statz, Benjamin; Yao, Douglas; Petrova, Velislava; Zelikovsky, Alex; Spreafico, Roberto; Shifman, Sagiv; Zaitlen, Noah; Rossetti, Maura; Ansel, Mark K; Eskin, Eleazar; Mangul, Serghei
   publisher: Nature Communications, 11 (3126), 2020.
-  date: 2020-1-1
+  date: '2020'
   image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
   tags:
   - RNA
@@ -11,7 +11,7 @@
   authors:
   - Oh, David Y; Kwek, Serena S; Raju, Siddharth S; Li, Tony; McCarthy, Elizabeth; Chow, Eric; Aran, Dvir; Ilano, Arielle; Pai, Chien-Chun Steven; Rancan, Chiara; Allaire, Kathryn; Burra, Arun; Sun, Yang; Spitzer, Matthew H; Mangul, Serghei; Porten, Sima; Meng, Maxwell V; Friedlander, Terence W; Ye, Chun Jimmie; Fong, Lawrence
   publisher: Cell, 2020.
-  date: 2020-5-17
+  date: '2020'
   link: https://doi.org/10.1016/j.cell.2020.05.017
   id: doi:10.1016/j.cell.2020.05.017
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
@@ -22,7 +22,7 @@
   authors:
   - Brito, Jaqueline J; Li, Jun; Moore, Jason H; Greene, Casey S; Nogoy, Nicole A; Garmire, Lana X; Mangul, Serghei
   publisher: GigaScience, 9 (6), pp. giaa056, 2020
-  date: 2020-
+  date: '2020'
   link: https://doi.org/10.1093/gigascience/giaa056
   id: doi:10.1093/gigascience/giaa056
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
@@ -33,7 +33,7 @@
   authors:
   - Loeffler, Caitlin; Karlsberg, Aaron; Martin, Lana S; Eskin, Eleazar; Koslicki, David; Mangul, Serghei
   publisher: BMC Biology, 18 (37), 2020.
-  date: 2020-
+  date: '2020'
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
   tags:
   - RNA
@@ -42,7 +42,7 @@
   authors:
   - Mitchell, Keith; Brito, Jaqueline J; Mandric, Igor; Wu, Qiaozhen; Knyazev, Sergey; Chang, Sei; Martin, Lana S; Karlsberg, Aaron; Gerasimov, Ekaterina; Littman, Russell Jared; Hill, Brian L; Wu, Nicholas C; Yang, Harry Taegyun; Hsieh, Kevin; Chen, Linus; Littman, Eli; Shabani, Taylor; Shabanets, German; Yao, Douglas; Sun, Ren; Schroeder, Jan; Eskin, Eleazar; Zelikovsky, Alex; Skums, Pavel; Pop, Mihai; Mangul, Serghei
   publisher: Genome Biology, 21 (71), 2020.
-  date: 2020-
+  date: '2020'
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
   tags:
   - RNA
@@ -51,7 +51,7 @@
   authors:
   - Brito, Jaqueline J; Mosqueiro, Thiago; Rotman, Jeremy; Xue, Victor; Chapski, Douglas J; la Hoz, Juan De; Matias, Paulo; Martin, Lana S; Zelikovsky, Alex; Pellegrini, Matteo; Mangul, Serghei
   publisher: GigaScience, 9 (1), pp. giz163, 2020.
-  date: 2020-
+  date: '2020'
   link: https://doi.org/10.1093/gigascience/giz163
   id: doi:10.1093/gigascience/giz163
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
@@ -62,7 +62,7 @@
   authors:
   - Lees, William; Busse, Christian E; Corcoran, Martin; Ohlin, Mats; Scheepers, Cathrine; IV, Frederick Matsen A; Yaari, Gur; Watson, Corey T; Community, The AIRR; Collins, Andrew; Shepherd, Adrian J
   publisher: 'Nucleic Acids Research, 48 (D1), pp. D964–D970, 2019, ISSN: 0305-1048.'
-  date: 2020-
+  date: '2020'
   link: https://doi.org/10.1093/nar/gkz822
   id: doi:10.1093/nar/gkz822
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
@@ -73,7 +73,7 @@
   authors:
   - Bhat, Suraj P; Gangalum, Rajendra K; Kim, Dongjae; Mangul, Serghei; Kashyap, Raj K; Zhou, Xinkai; Elashoff, David
   publisher: 'Journal of Biological Chemistry, 294 , pp. 13530-13544, 2019.'
-  date: 2019-
+  date: '2019'
   link: https://doi.org/10.1074/jbc.RA119.008853
   id: doi:10.1074/jbc.RA119.008853
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
@@ -84,7 +84,7 @@
   authors:
   - Mangul, Serghei
   publisher: 'Emerging Topics in Life Sciences, 3 (4), pp. 335-341, 2019.'
-  date: 2019-
+  date: '2019'
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
   tags:
   - RNA
@@ -93,7 +93,7 @@
   authors:
   - Mangul, Serghei; Mosqueiro, Thiago; Abdill, Richard J; Duong, Dat; Mitchell, Keith; Sarwal, Varuni; Hill, Brian L; Brito, Jaqueline J; Littman, Russell Jared; Statz, Benjamin
   publisher: 'PLoS Biology, 17 (6), pp. e3000333, 2019.'
-  date: 2019-
+  date: '2019'
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
   tags:
   - RNA
@@ -102,7 +102,7 @@
   authors:
   - LaPierre, Nathan; Mangul, Serghei; Alser, Mohammed; Mandric, Igor; Wu, Nicholas C; Koslicki, David; Eskin, Eleazar
   publisher: 'BMC Genomics, 20 (5), pp. 423, 2019.'
-  date: 2019-
+  date: '2019'
   link: https://doi.org/10.1186/s12864-019-5699-9
   id: doi:10.1186/s12864-019-5699-9
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
@@ -113,7 +113,7 @@
   authors:
   - Mangul, Serghei; Martin, Lana S; Hill, Brian L; Lam, Angela Ka-Mei; Distler, Margaret G; Zelikovsky, Alex; Eskin, Eleazar; Flint, Jonathan
   publisher: 'Nature Communications, 10 (1393), pp. 1-11, 2019.'
-  date: 2019-
+  date: '2019'
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
   tags:
   - RNA
@@ -122,7 +122,7 @@
   authors:
   - Mangul, Serghei; Martin, Lana S; Langmead, Ben; Sanchez-Galan, Javier E; Toma, Ian V; Hormozdiari, Fereydoun; Pevzner, Pavel; Eskin, Eleazar
   publisher: 'Nature Biotechnology, 37 (3), pp. 324, 2019.'
-  date: 2019-
+  date: '2019'
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
   tags:
   - RNA
@@ -131,7 +131,7 @@
   authors:
   - Mangul, Serghei; Yang, Harry Taegyun; Eskin, Eleazar; Zaitlen, Noah
   publisher: 'Nature Biotechnology, 37 (3), pp. 324, 2019.'
-  date: 2019-
+  date: '2019'
   link: https://doi.org/10.1007/978-3-030-13973-5_1
   id: doi:10.1007/978-3-030-13973-5_1
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
@@ -142,7 +142,7 @@
   authors:
   - Mangul, Serghei; Martin, Lana S; Eskin, Eleazar; Blekhman, Ran
   publisher: 'Genome Biology, 20 (47), pp. 1-3, 2019.'
-  date: 2019-
+  date: '2019'
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
   tags:
   - RNA
@@ -151,7 +151,7 @@
   authors:
   - Bhat, Suraj P; Gangalum, Rajendra K; Kim, Dongjae; Mangul, Serghei; Kashyap, Raj K; Zhou, Xinkai; Elashoff, David
   publisher: 'Investigative Ophthalmology & Visual Science, 60 (9), pp. 1381-1381, 2019.'
-  date: 2019-
+  date: '2019'
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
   tags:
   - RNA
@@ -160,7 +160,7 @@
   authors:
   - Gangalum, Rajendra K; Kim, Dongjae; Kashyap, Raj K; Mangul, Serghei; Zhou, Xinkai; Elashoff, David; Bhat, Suraj P
   publisher: 'iScience, 10 , pp. 66–79, 2018.'
-  date: 2018-
+  date: '2018'
   link: https://doi.org/10.1016/j.isci.2018.11.024
   id: doi:10.1016/j.isci.2018.11.024
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
@@ -171,7 +171,7 @@
   authors:
   - Heiden, Jason Anthony Vander; Marquez, Susanna; Marthandan, Nishanth; Bukhari, Syed Ahmad Chan; Busse, Christian E; Corrie, Brian; Hershberg, Uri; Kleinstein, Steven H; IV, Frederick Matsen A; Ralph, Duncan K; Rosenfeld, Aaron M; Schramm, Chaim A; Community, The AIRR; Christley, Scott; Laserson, Uri
   publisher: 'Frontiers in Immunology, 9 , pp. 2206, 2018.'
-  date: 2018-
+  date: '2018'
   link: https://doi.org/10.3389/fimmu.2018.02206
   id: doi:10.3389/fimmu.2018.02206
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
@@ -182,7 +182,7 @@
   authors:
   - Chiang, Charleston WK; Mangul, Serghei; Robles, Christopher; Sankararaman, Sriram
   publisher: 'Molecular Biology and Evolution, 35 (11), pp. 2736–2750, 2018.'
-  date: 2018-
+  date: '2018'
   link: https://doi.org/10.1093/molbev/msy170
   id: doi:10.1093/molbev/msy170
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
@@ -193,7 +193,7 @@
   authors:
   - Loohuis, Loes Olde M; Mangul, Serghei; Ori, Anil PS; Jospin, Guillaume; Koslicki, David; Yang, Harry Taegyun; Wu, Timothy; Boks, Marco P; Lomen-Hoerth, Catherine; Wiedau-Pazos, Martina
   publisher: 'Translational Psychiatry, 8 (1), pp. 96, 2018.'
-  date: 2018-
+  date: '2018'
   link: https://doi.org/10.1038/s41398-018-0107-9
   id: doi:10.1038/s41398-018-0107-9
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
@@ -204,7 +204,7 @@
   authors:
   - Mangul, Serghei; Martin, Lana S; Eskin, Eleazar
   publisher: 'Nature Biotechnology, 36 (4), pp. 369, 2018.'
-  date: 2018-
+  date: '2018'
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
   tags:
   - RNA
@@ -213,7 +213,7 @@
   authors:
   - Mangul, Serghei; Yang, Harry Taegyun; Strauli, Nicolas; Gruhl, Franziska; Porath, Hagit T; Hsieh, Kevin; Chen, Linus; Daley, Timothy; Christenson, Stephanie; Wesolowska-Andersen, Agata
   publisher: 'Genome Biology, 19 (1), pp. 36, 2018.'
-  date: 2018-
+  date: '2018'
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
   tags:
   - RNA
@@ -222,7 +222,7 @@
   authors:
   - Consortium, The GTEx
   publisher: 'Nature, 550 (7675), pp. 204, 2017.'
-  date: 2017-
+  date: '2017'
   link: https://doi.org/10.1038/nature24277
   id: doi:10.1038/nature24277
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
@@ -233,7 +233,7 @@
   authors:
   - Tan, Meng How; Li, Qin; Shanmugam, Raghuvaran; Piskol, Robert; Kohler, Jennefer; Young, Amy N; Liu, Kaiwen Ivy; Zhang, Rui; Ramaswami, Gokul; Ariyoshi, Kentaro; Gupte, Ankita; Keegan, Liam P; George, Cyril X; Ramu, Avinash; Huang, Ni; Pollina, Elizabeth A; Leeman, Dena S; Rustighi, Alessandra; Goh, YP Sharon; Consortium, The GTEx; Chawla, Ajay; Sal, Giannino Del; Peltz, Gary; Brunet, Anne; Conrad, Donald F; Samuel, Charles E; O’Connell, Mary A; Walkley, Carl R; Nishikura, Kazuko; Li, Jin Billy
   publisher: 'Nature, 550 (7675), pp. 249, 2017.'
-  date: 2017-
+  date: '2017'
   link: https://doi.org/10.1038/nature24041
   id: doi:10.1038/nature24041
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
@@ -244,7 +244,7 @@
   authors:
   - Saha, Ashis; Kim, Yungil; Gewirtz, Ariel DH; Jo, Brian; Gao, Chuan; McDowell, Ian C; Consortium, The GTEx; Engelhardt, Barbara E; Battle, Alexis
   publisher: 'Genome Research, 27 (11), pp. 1843–1858, 2017.'
-  date: 2017-
+  date: '2017'
   link: https://doi.org/10.1101/gr.216721.116
   id: doi:10.1101/gr.216721.116
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
@@ -255,7 +255,7 @@
   authors:
   - Mangul, Serghei; Martin, Lana S; Hoffmann, Alexander; Pellegrini, Matteo; Eskin, Eleazar
   publisher: 'Trends in Biotechnology, 35 (10), pp. 901–903, 2017.'
-  date: 2017-
+  date: '2017'
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
   tags:
   - RNA
@@ -264,7 +264,7 @@
   authors:
   - Artyomenko, Alexander; Wu, Nicholas C; Mangul, Serghei; Eskin, Eleazar; Sun, Ren; Zelikovsky, Alex
   publisher: 'Journal of Computational Biology, 24 (6), pp. 558–570, 2017.'
-  date: 2017-
+  date: '2017'
   link: https://doi.org/10.1089/cmb.2016.0146
   id: doi:10.1089/cmb.2016.0146
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
@@ -275,7 +275,7 @@
   authors:
   - Barbeira, Alvaro N; Dickinson, Scott P; Bonazzola, Rodrigo; Zheng, Jiamao; Wheeler, Heather E; Torres, Jason M; Torstenson, Eric S; Shah, Kaanan P; Garcia, Tzintzuni; Edwards, Todd L; Stahl, Eli A; Huckins, Laura M; Consortium, The GTEx; Nicolae, Dan L; Cox, Nancy J; Im, Hae Kyung
   publisher: 'Nature Communications, 9 (1), pp. 1825, 2017.'
-  date: 2017-
+  date: '2017'
   link: https://doi.org/10.1038/s41467-018-03621-1
   id: doi:10.1038/s41467-018-03621-1
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
@@ -286,7 +286,7 @@
   authors:
   - Yang, Fan; Wang, Jiebiao; Consortium, The GTEx; Pierce, Brandon L; Chen, Lin S
   publisher: 'Genome Research, 27 (11), pp. 1859–1871, 2017.'
-  date: 2017-
+  date: '2017'
   link: https://doi.org/10.1101/gr.216754.116
   id: doi:10.1101/gr.216754.116
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
@@ -297,7 +297,7 @@
   authors:
   - Mangul, Serghei; Yang, Harry Taegyun; Hormozdiari, Farhad; Dainis, Alexandra Marie; Tseng, Elizabeth; Ashley, Euan A; Zelikovsky, Alex; Eskin, Eleazar
   publisher: 'IEEE Transactions on Nanobioscience, 16 (2), pp. 108–115, 2017'
-  date: 2017-
+  date: '2017'
   link: https://doi.org/10.1109/TNB.2017.2675981
   id: doi:10.1109/TNB.2017.2675981
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
@@ -308,7 +308,7 @@
   authors:
   - Thomas, Brandon; Karimzada, Mohammed; Spreafico, Roberto; Mangul, Serghei; Botten, Jason W; Rotman, Jeremy; Wesel, Kevin; Binder, Pratibha S; Gharavi, Nima; Chesnut, Robert W
   publisher: 'Journal of Investigative Dermatology, 137 (5), pp. S18, 2017.'
-  date: 2017-
+  date: '2017'
   link: https://doi.org/10.1016/j.jid.2017.02.118
   id: doi:10.1016/j.jid.2017.02.118
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
@@ -319,7 +319,7 @@
   authors:
   - Kang, Eun Yong; Martin, Lisa J; Mangul, Serghei; Isvilanonda, Warin; Zou, Jennifer; Ben-David, Eyal; Han, Buhm; Lusis, Aldons J; Shifman, Sagiv; Eskin, Eleazar
   publisher: 'Genetics, 204 (3), pp. 1057–1064, 2016.'
-  date: 2016-
+  date: '2016'
   link: https://doi.org/10.1534/genetics.115.177246
   id: doi:10.1534/genetics.115.177246
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
@@ -330,7 +330,7 @@
   authors:
   - Mangul, Serghei; Koslicki, David
   publisher: 'Bioinformatics, Computational Biology and Biomedicine 2016: Proceedings of the 7th ACM International Conference on Bioinformatics, Computational Biology, and Health Informatics, pp. 68-77, Association for Computing Machinery 2016.'
-  date: 2016-
+  date: '2016'
   link: https://doi.org/10.1145/2975167.2975174
   id: doi:10.1145/2975167.2975174
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
@@ -341,7 +341,7 @@
   authors:
   - Mangul, Serghei; Wu, Nicholas C; Nenastyeva, Ekaterina; Mancuso, Nicholas; Zelikovsky, Alex; Sun, Ren; Eskin, Eleazar
   publisher: 'Mӑndoiu, Ion I; Zelikovsky, Alex (Ed.): Computational Methods for Next Generation Sequencing Data Analysis, pp. 85-104, Wiley Online Library, 2016.'
-  date: 2016-
+  date: '2016'
   link: https://doi.org/10.1002/9781119272182.ch4
   id: doi:10.1002/9781119272182.ch4
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
@@ -352,7 +352,7 @@
   authors:
   - Glebova, Olga; Temate-Tiagueu, Yvette; Caciula, Adrian; Seesi, Sahar Al; Artyomenko, Alexander; Mangul, Serghei; Lindsay, James; Mӑndoiu, Ion I; Zelikovsky, Alex
   publisher: 'Mӑndoiu, Ion I; Zelikovsky, Alex (Ed.): Computational Methods for Next Generation Sequencing Data Analysis, pp. 301-327, Wiley Online Library, 2016.'
-  date: 2016-
+  date: '2016'
   link: https://doi.org/10.1002/9781119272182.ch14
   id: doi:10.1002/9781119272182.ch14
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
@@ -363,7 +363,7 @@
   authors:
   - Schokrpur, Shiruyeh; Hu, Junhui; Moughon, Diana L; Liu, Peijun; Lin, Lucia C; Hermann, Kip; Mangul, Serghei; Guan, Wei; Pellegrini, Matteo; Xu, Hua
   publisher: 'Scientific Reports, 6 (29032), pp. 29032, 2016.'
-  date: 2016-
+  date: '2016'
   link: https://doi.org/10.1038/srep29032
   id: doi:10.1038/srep29032
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
@@ -374,7 +374,7 @@
   authors:
   - Mangul, Serghei; Wu, Nicholas C; Mancuso, Nicholas; Zelikovsky, Alex; Sun, Ren; Eskin, Eleazar
   publisher: '2014 IEEE 4th International Conference on Computational Advances in Bio and Medical Sciences (ICCABS), pp. 1–1, IEEE 2014.'
-  date: 2014-
+  date: '2014'
   link: https://doi.org/10.1109/ICCABS.2014.6863932
   id: doi:10.1109/ICCABS.2014.6863932
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
@@ -385,7 +385,7 @@
   authors:
   - Mangul, Serghei; Caciula, Adrian; Seesi, Sahar Al; Brinza, Dumitru; Mӑndoiu, Ion I; Zelikovsky, Alex
   publisher: 'BMC Genomics, 15 (5), pp. S7, 2014.'
-  date: 2014-
+  date: '2014'
   link: https://doi.org/10.1186/1471-2164-15-S5-S7
   id: doi:10.1186/1471-2164-15-S5-S7
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
@@ -396,7 +396,7 @@
   authors:
   - Mangul, Serghei; Wu, Nicholas C; Mancuso, Nicholas; Zelikovsky, Alex; Sun, Ren; Eskin, Eleazar
   publisher: 'Bioinformatics, 30 (12), pp. i329–i337, 2014.'
-  date: 2014-
+  date: '2014'
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
   tags:
   - RNA
@@ -405,7 +405,7 @@
   authors:
   - MMangul, Serghei; Caciula, Adrian; Glebova, Olga; Mӑndoiu, Ion I; Zelikovsky, Alex
   publisher: 'In Silico Biology, 11 (5, 6), pp. 251–261, 2011.'
-  date: 2011-
+  date: '2011'
   link: https://doi.org/10.3233/ISB-2012-0459
   id: doi:10.3233/ISB-2012-0459
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
@@ -416,7 +416,7 @@
   authors:
   - Astrovskaya, Irina; Tork, Bassam; Mangul, Serghei; Westbrooks, Kelly; Mӑndoiu, Ion I; Balfe, Peter; Zelikovsky, Alex
   publisher: 'BMC Bioinformatics, pp. S1, BioMed Central 2011.'
-  date: 2011-
+  date: '2011'
   link: https://doi.org/10.1186/1471-2105-12-S6-S1
   id: doi:10.1186/1471-2105-12-S6-S1
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
@@ -427,7 +427,7 @@
   authors:
   - Nicolae, Marius; Mangul, Serghei; Mӑndoiu, Ion I; Zelikovsky, Alex
   publisher: 'Algorithms for Molecular Biology, 6 (1), pp. 9, 2011.'
-  date: 2011-
+  date: '2011'
   link: https://doi.org/10.1186/1748-7188-6-9
   id: doi:10.1186/1748-7188-6-9
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
@@ -608,7 +608,6 @@
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-020-0929-x/MediaObjects/41591_2020_929_Fig2_HTML.png?as=webp
   extra-links:
   - type: preprint
-    link: https://doi.org/10.1101/2020.01.17.910521
 - title: 'Metagenomics for clinical diagnostics: technologies and informatics' 
   authors:
   - Loeffler, Caitlin; Gibson, Keylie M; Martin, Lana S; Chang, Yutong; Rotman, Jeremy; Toma, Ian V; Mason, Christopher E; Eskin, Eleazar; Zackular, Joseph P; Crandall, Keith A; Koslicki, David; Mangul, Serghei
