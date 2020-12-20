@@ -4,7 +4,7 @@ title: Kevin Hsieh
 search:
   - Kevin
   - Hsieh
-image: images/team/kevin-hsieh.jpg
+image: images/team/Kevin-Hsieh.jpg
 role: undergrad
 group: alum
 <!-- email: britoj@usc.edu -->
