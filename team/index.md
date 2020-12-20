@@ -113,6 +113,6 @@ Our work is made possible by funding from several organizations. -->
 {%
   include figure.html
   image="images/team/group.jpg"
-  description="The Mangul lab team in a festive dinner of exotic meat and plant-based sausages at Wurstküche in the Arts District in downtown Los Angeles!"
-  width="100%"
+  caption="Mangul Lab Research Group"
+  width="100%" 
 %}
