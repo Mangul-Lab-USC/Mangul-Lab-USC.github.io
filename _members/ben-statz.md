@@ -3,7 +3,7 @@ title: Benjamin Statz
  
 search:
   - Benjamin Statz
-image: images/team/blank.jpg
+image: images/team/ben.jpg
 role: undergrad
 group: alum
 <!-- email: britoj@usc.edu -->
