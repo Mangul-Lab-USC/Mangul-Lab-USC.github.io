@@ -13,4 +13,4 @@ email: mkim3704@usc.edu
 github: gmykim
 ---
 
-TBA
+Minyoung is an undergraduate student at the University of Southern California, pursuing a degree in Quantitative Biology. Her interests include computational biology and its ability to optimize laboratory results and discussing ethical issues of advanced and emerging biological research. In the past, she has worked in a Nutrition Lab at Georgia State University and Molecular Biology Lab with Dr. Steve Kay at the USC Michelson Center for Convergent Biosciences.
