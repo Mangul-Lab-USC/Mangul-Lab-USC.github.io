@@ -35,4 +35,7 @@ Our group is located on the second floor of the [Center for the Health Professio
   image1="images/contact/usc-top.png"
   image2="images/contact/usc-pharm.png"
   image3="images/contact/usc-side.png"
+  image4="images/contact/e1.png"
+  image5="images/contact/e2.png"
+  image6="images/contact/map.png"
 %}
