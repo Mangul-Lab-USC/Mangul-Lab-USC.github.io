@@ -17,7 +17,7 @@
 
     {%- comment -%}
     Add or remove header nav links here.
-    
+
     Be wary of different screen sizes. Test by resizing your browser window
     from full-width to very narrow. Adjust the $tablet and $phone cutoff points
     in /css/variables.scss until the header elements wrap at the right time.
@@ -54,6 +54,22 @@
       data-placement="bottom"
       data-delay="400"
       >Blog</a
+    >
+    <a
+      href="{{ 'media' | relative_url }}"
+      class="nav_link"
+      data-tooltip="Lab Videos and Images"
+      data-placement="bottom"
+      data-delay="400"
+      >Media</a
+    >
+    <a
+      href="{{ 'oppurtunities' | relative_url }}"
+      class="nav_link"
+      data-tooltip="Oppurtunities in Mangul Lab"
+      data-placement="bottom"
+      data-delay="400"
+      >Oppurtunities</a
     >
     <a
       href="{{ 'contact' | relative_url }}"
