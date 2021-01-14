@@ -3,7 +3,7 @@ title: Junghyun Jung
 image: images/team/Junghyun-Jung.jpg
 role: postdoc
 website: https://junghyunjj.github.io/
-email: jjung6589@usc.edu
+email: junghyun.jung@usc.edu
 google: 3Va15VcAAAAJ
 github: junghyunJJ
 twitter: junghyunjj
