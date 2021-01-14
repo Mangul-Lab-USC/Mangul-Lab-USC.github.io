@@ -8,6 +8,7 @@ image: images/team/varuni.jpg
 role: phd
 website: https://addicted-to-coding.github.io/webpage/
 email: sarwal8@gmail.com
+github: addicted-to-coding
 
 ---
 
