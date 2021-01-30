@@ -10,10 +10,8 @@ redirect_from:
 
 # <i class="fas fa-users"></i>Team
 
-Our lab is made up of a highly engaged and collaborative team of researchers.
-We recognize that diverse teams do better research.
-We foster an environment where team members are treated equally, and where we respect and admire our differences.
-The team includes postdocs, students at all levels, staff, and our lab mascots.
+Our diverse team is composed of a highly motivated and collaborative researchers. We foster a friendly and collaborative environment, where team members are treated with respect. 
+
 
 {% capture html %}
 {% include team-list.html role="pi" group="" %}
@@ -29,8 +27,7 @@ The team includes postdocs, students at all levels, staff, and our lab mascots.
 
 <!-- section break -->
 
-We work with a wide range of outstanding groups from around the world, and we're always on the lookout for new and unique perspectives.
-We want to push the frontier of data science and train the next generation of data scientists.
+We are actively recruiting highly motivated graduate students and postdocs with a capable computational background. The Mangul Lab is committed to ensuring an inclusive and supportive environment regardless of age, gender, sexual orientation, disability, race, ethnicity, religion, nationality, or socioeconomic background.
 
 {%
   include big-link.html
@@ -43,9 +40,8 @@ We want to push the frontier of data science and train the next generation of da
 
 ## Alumni
 
-Gone but never forgotten.
-These are past lab members who have moved on to the industry, other school programs, new jobs, or elsewhere.
-They have all made lasting contributions to science and to our hearts. ❤️
+
+These are past lab alumni who have moved on to the industry, other school programs, new jobs, or elsewhere.
 
 {% capture html %}
 {% include team-list.html role="pi" group="alum" mini="true" %}
