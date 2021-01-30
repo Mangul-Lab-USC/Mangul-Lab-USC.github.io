@@ -6,7 +6,8 @@ search:
   - Pham
 image: images/team/trami-pham.jpg
 role: graduate
-<!-- email: dnpham@usc.edu -->
+website: http://www.linkedin.com/in/tramipham
+email: dnpham@usc.edu
 ---
 
 Trami Pham is pursuing a dual PharmD/MS degree in Regulatory Science at the University of Southern California. 
