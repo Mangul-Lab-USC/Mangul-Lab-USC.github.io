@@ -10,7 +10,7 @@ redirect_from:
 
 # <i class="fas fa-users"></i>Team
 
-Our diverse team is composed of a highly motivated and collaborative researchers. We foster a friendly and collaborative environment.
+Our diverse team is composed of a highly enthusiastic and collaborative researchers. We foster a friendly and collaborative environment, where team mmbers can learn from each other.
 
 
 {% capture html %}
