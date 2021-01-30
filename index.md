@@ -1,8 +1,8 @@
 ---
-title: Where genome gets compiled
+title: The Mangul Lab at USC
 ---
 
-# Where genome gets compiled
+# The Mangul Lab at USC
 
 Mangul Lab is part of the Titus Department of Clinical Pharmacy at [USC School of Pharmacy](https://pharmacyschool.usc.edu/). Our research aims to design, develop and apply novel and robust data-driven, computational approaches that will accelerate the diffusion of genomics and biomedical data into translational research and education.
 
