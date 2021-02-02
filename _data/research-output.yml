@@ -1,4 +1,5 @@
-- title: 'ROP: dumpster diving in RNA-sequencing to find the source of 1 trillion
+- &id001
+  title: 'ROP: dumpster diving in RNA-sequencing to find the source of 1 trillion
     reads across diverse adult human tissues'
   authors:
   - Serghei Mangul
@@ -34,7 +35,9 @@
   - cancer
   - single cell
   - ovarian cancer
-- title: Profiling immunoglobulin repertoires across multiple human tissues using
+- *id001
+- &id002
+  title: Profiling immunoglobulin repertoires across multiple human tissues using
     RNA sequencing
   authors:
   - Igor Mandric
@@ -59,11 +62,67 @@
   date: '2020-06-19'
   link: https://doi.org/ghqfdr
   id: doi:10.1038/s41467-020-16857-7
-  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
   tags:
   - cancer
-  - machine learning
-- title: Benchmarking of computational error-correction methods for next-generation
+  - single cell
+  - ovarian cancer
+- title: 'ROP: dumpster diving in RNA-sequencing to find the source of 1 trillion
+    reads across diverse adult human tissues'
+  authors:
+  - Serghei Mangul
+  - Harry Taegyun Yang
+  - Nicolas Strauli
+  - Franziska Gruhl
+  - Hagit T. Porath
+  - Kevin Hsieh
+  - Linus Chen
+  - Timothy Daley
+  - Stephanie Christenson
+  - Agata Wesolowska-Andersen
+  - Roberto Spreafico
+  - Cydney Rios
+  - Celeste Eng
+  - Andrew D. Smith
+  - Ryan D. Hernandez
+  - Roel A. Ophoff
+  - Jose Rodriguez Santana
+  - Erez Y. Levanon
+  - Prescott G. Woodruff
+  - Esteban Burchard
+  - Max A. Seibold
+  - Sagiv Shifman
+  - Eleazar Eskin
+  - Noah Zaitlen
+  publisher: Genome Biology
+  date: '2018-02-15'
+  link: https://doi.org/ggn2dj
+  id: doi:doi:10.1186/s13059-018-1403-7
+  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  tags:
+  - cancer
+  - single cell
+  - ovarian cancer
+- *id002
+- title: Accurate viral population assembly from ultra-deep sequencing data
+  authors:
+  - S. Mangul
+  - N. C. Wu
+  - N. Mancuso
+  - A. Zelikovsky
+  - R. Sun
+  - E. Eskin
+  publisher: Bioinformatics
+  date: '2014-06-15'
+  link: https://doi.org/f58h9q
+  id: doi:10.1093/bioinformatics/btu295
+  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  tags:
+  - cancer
+  - single cell
+  - ovarian cancer
+- &id005
+  title: Benchmarking of computational error-correction methods for next-generation
     sequencing data
   authors:
   - Keith Mitchell
@@ -100,7 +159,8 @@
   tags:
   - cancer
   - machine learning
-- title: Systematic benchmarking of omics computational tools
+- &id006
+  title: Systematic benchmarking of omics computational tools
   authors:
   - Serghei Mangul
   - Lana S. Martin
@@ -118,7 +178,8 @@
   tags:
   - cancer
   - machine learning
-- title: Challenges and recommendations to improve the installability and archival
+- &id007
+  title: Challenges and recommendations to improve the installability and archival
     stability of omics computational tools
   authors:
   - Serghei Mangul
@@ -146,7 +207,8 @@
   tags:
   - cancer
   - machine learning
-- title: Improving the usability and archival stability of bioinformatics software
+- &id008
+  title: Improving the usability and archival stability of bioinformatics software
   authors:
   - Serghei Mangul
   - Lana S. Martin
@@ -160,7 +222,8 @@
   tags:
   - cancer
   - machine learning
-- title: Improving the usability and comprehensiveness of microbial databases
+- &id004
+  title: Improving the usability and comprehensiveness of microbial databases
   authors:
   - Caitlin Loeffler
   - Aaron Karlsberg
@@ -176,7 +239,8 @@
   tags:
   - cancer
   - machine learning
-- title: Interpreting and integrating big data in the life sciences
+- &id009
+  title: Interpreting and integrating big data in the life sciences
   authors:
   - Serghei Mangul
   publisher: Emerging Topics in Life Sciences
@@ -187,6 +251,554 @@
   tags:
   - cancer
   - machine learning
+- &id003
+  title: "Involving undergraduates in genomics research to narrow the education\u2013\
+    research gap"
+  authors:
+  - Serghei Mangul
+  - Lana S Martin
+  - Eleazar Eskin
+  publisher: Nature Biotechnology
+  date: '2018-04-01'
+  link: https://doi.org/ghqfdv
+  id: doi:10.1038/nbt.4113
+  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  tags:
+  - cancer
+  - machine learning
+- title: Transcriptional profiling of single fiber cells in a transgenic paradigm
+    of an inherited childhood cataract reveals absence of molecular heterogeneity
+  authors:
+  - Suraj P. Bhat
+  - Rajendra K. Gangalum
+  - Dongjae Kim
+  - Serghei Mangul
+  - Raj K. Kashyap
+  - Xinkai Zhou
+  - David Elashoff
+  publisher: Journal of Biological Chemistry
+  date: '2019-09-01'
+  link: https://doi.org/ghp82b
+  id: doi:10.1074/jbc.RA119.008853
+  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  tags:
+  - cancer
+  - single cell
+  - ovarian cancer
+- title: Transcriptional profiling of single fiber cells in a transgenic paradigm
+    of an inherited childhood cataract reveals absence of molecular heterogeneity
+  authors:
+  - Suraj P. Bhat
+  - Rajendra K. Gangalum
+  - Dongjae Kim
+  - Serghei Mangul
+  - Raj K. Kashyap
+  - Xinkai Zhou
+  - David Elashoff
+  publisher: Journal of Biological Chemistry
+  date: '2019-09-01'
+  link: https://doi.org/ghp82b
+  id: doi:10.1074/jbc.RA119.008853
+  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  tags:
+  - cancer
+  - single cell
+  - ovarian cancer
+- title: 'OGRDB: a reference database of inferred immune receptor genes'
+  authors:
+  - William Lees
+  - Christian E Busse
+  - Martin Corcoran
+  - Mats Ohlin
+  - Cathrine Scheepers
+  - Frederick A Matsen
+  - Gur Yaari
+  - Corey T Watson
+  - Andrew Collins
+  - Adrian J Shepherd
+  - ' '
+  publisher: Nucleic Acids Research
+  date: '2020-01-08'
+  link: https://doi.org/ghjzd4
+  id: doi:10.1093/nar/gkz822
+  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  tags:
+  - cancer
+  - single cell
+  - ovarian cancer
+- title: Transcriptional profiling of single fiber cells in a transgenic paradigm
+    of an inherited childhood cataract reveals absence of molecular heterogeneity
+  authors:
+  - Suraj P. Bhat
+  - Rajendra K. Gangalum
+  - Dongjae Kim
+  - Serghei Mangul
+  - Raj K. Kashyap
+  - Xinkai Zhou
+  - David Elashoff
+  publisher: Journal of Biological Chemistry
+  date: '2019-09-01'
+  link: https://doi.org/ghp82b
+  id: doi:10.1074/jbc.RA119.008853
+  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  tags:
+  - cancer
+  - single cell
+  - ovarian cancer
+- title: Hidden Treasures in Contemporary RNA Sequencing
+  authors:
+  - Serghei Mangul
+  - Harry Taegyun Yang
+  - Eleazar Eskin
+  - Noah Zaitlen
+  publisher: SpringerBriefs in Computer Science
+  date: '2019-01-01'
+  link: https://doi.org/ghp82c
+  id: doi:10.1007/978-3-030-13973-5_1
+  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  tags:
+  - cancer
+  - single cell
+  - ovarian cancer
+- title: Spatial Analysis of Single Fiber Cells of the Developing Ocular Lens Reveals
+    Regulated Heterogeneity of Gene Expression
+  authors:
+  - Rajendra K. Gangalum
+  - Dongjae Kim
+  - Raj K. Kashyap
+  - Serghei Mangul
+  - Xinkai Zhou
+  - David Elashoff
+  - Suraj P. Bhat
+  publisher: iScience
+  date: '2018-12-01'
+  link: https://doi.org/ggsz39
+  id: doi:10.1016/j.isci.2018.11.024
+  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  tags:
+  - cancer
+  - single cell
+  - ovarian cancer
+- *id003
+- title: 'Addressing the Digital Divide in Contemporary Biology: Lessons from Teaching
+    UNIX'
+  authors:
+  - Serghei Mangul
+  - Lana S. Martin
+  - Alexander Hoffmann
+  - Matteo Pellegrini
+  - Eleazar Eskin
+  publisher: Trends in Biotechnology
+  date: '2017-10-01'
+  link: https://doi.org/ghqfdw
+  id: doi:10.1016/j.tibtech.2017.06.007
+  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  tags:
+  - cancer
+  - single cell
+  - ovarian cancer
+- title: 'Metalign: efficient alignment-based metagenomic profiling via containment
+    min hash'
+  authors:
+  - Nathan LaPierre
+  - Mohammed Alser
+  - Eleazar Eskin
+  - David Koslicki
+  - Serghei Mangul
+  publisher: Genome Biology
+  date: '2020-09-10'
+  link: https://doi.org/ghtqrz
+  id: doi:10.1186/s13059-020-02159-0
+  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  tags:
+  - cancer
+  - single cell
+  - ovarian cancer
+- title: Exploiting the GTEx resources to decipher the mechanisms at GWAS loci
+  authors:
+  - Alvaro N. Barbeira
+  - Rodrigo Bonazzola
+  - Eric R. Gamazon
+  - Yanyu Liang
+  - YoSon Park
+  - Sarah Kim-Hellmuth
+  - Gao Wang
+  - Zhuoxun Jiang
+  - Dan Zhou
+  - Farhad Hormozdiari
+  - Boxiang Liu
+  - Abhiram Rao
+  - Andrew R. Hamel
+  - Milton D. Pividori
+  - "Fran\xE7ois Aguet"
+  - Lisa Bastarache
+  - Daniel M. Jordan
+  - Marie Verbanck
+  - Ron Do
+  - Matthew Stephens
+  - Kristin Ardlie
+  - Mark McCarthy
+  - Stephen B. Montgomery
+  - "Ayellet V. Segr\xE8"
+  - Christopher D. Brown
+  - Tuuli Lappalainen
+  - Xiaoquan Wen
+  - Hae Kyung Im
+  - ' '
+  - ' '
+  publisher: Genome Biology
+  date: '2021-01-26'
+  link: https://doi.org/ghxdc9
+  id: doi:10.1186/s13059-020-02252-4
+  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  tags:
+  - cancer
+  - single cell
+  - ovarian cancer
+- title: 'PTWAS: investigating tissue-relevant causal molecular mechanisms of complex
+    traits using probabilistic TWAS analysis'
+  authors:
+  - Yuhua Zhang
+  - Corbin Quick
+  - Ketian Yu
+  - Alvaro Barbeira
+  - Francesca Luca
+  - Roger Pique-Regi
+  - Hae Kyung Im
+  - Xiaoquan Wen
+  - ' '
+  publisher: Genome Biology
+  date: '2020-09-11'
+  link: https://doi.org/ghxddb
+  id: doi:10.1186/s13059-020-02026-y
+  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  tags:
+  - cancer
+  - single cell
+  - ovarian cancer
+- title: 'sn-spMF: matrix factorization informs tissue-specific genetic regulation
+    of gene expression'
+  authors:
+  - Yuan He
+  - Surya B. Chhetri
+  - Marios Arvanitis
+  - Kaushik Srinivasan
+  - "Fran\xE7ois Aguet"
+  - Kristin G. Ardlie
+  - Alvaro N. Barbeira
+  - Rodrigo Bonazzola
+  - Hae Kyung Im
+  - Christopher D. Brown
+  - Alexis Battle
+  - ' '
+  publisher: Genome Biology
+  date: '2020-09-11'
+  link: https://doi.org/ghxddc
+  id: doi:10.1186/s13059-020-02129-6
+  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  tags:
+  - cancer
+  - single cell
+  - ovarian cancer
+- title: Impact of admixture and ancestry on eQTL analysis and GWAS colocalization
+    in GTEx
+  authors:
+  - Nicole R. Gay
+  - Michael Gloudemans
+  - Margaret L. Antonio
+  - Nathan S. Abell
+  - Brunilda Balliu
+  - YoSon Park
+  - Alicia R. Martin
+  - Shaila Musharoff
+  - Abhiram S. Rao
+  - "Fran\xE7ois Aguet"
+  - Alvaro N. Barbeira
+  - Rodrigo Bonazzola
+  - Farhad Hormozdiari
+  - Kristin G. Ardlie
+  - Christopher D. Brown
+  - Hae Kyung Im
+  - Tuuli Lappalainen
+  - Xiaoquan Wen
+  - Stephen B. Montgomery
+  - ' '
+  publisher: Genome Biology
+  date: '2020-09-11'
+  link: https://doi.org/ghxddg
+  id: doi:10.1186/s13059-020-02113-0
+  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  tags:
+  - cancer
+  - single cell
+  - ovarian cancer
+- title: A vast resource of allelic expression data spanning human tissues
+  authors:
+  - Stephane E. Castel
+  - "Fran\xE7ois Aguet"
+  - Pejman Mohammadi
+  - Kristin G. Ardlie
+  - Tuuli Lappalainen
+  - ' '
+  publisher: Genome Biology
+  date: '2020-09-11'
+  link: https://doi.org/ghxddj
+  id: doi:10.1186/s13059-020-02122-z
+  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  tags:
+  - cancer
+  - single cell
+  - ovarian cancer
+- *id004
+- *id005
+- title: 'Path to independence: Overview of challenges and opportunities of computational
+    data-driven research in biology'
+  authors:
+  - Karishma Chhugani
+  - "Vanessa J\xF6nsson"
+  - SERGHEI MANGUL
+  publisher: Center for Open Science
+  date: '2020-11-25'
+  link: https://doi.org/ghxddk
+  id: doi:10.31219/osf.io/v5kr4
+  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  tags:
+  - cancer
+  - single cell
+  - ovarian cancer
+- title: The impact of sex on gene expression across human tissues
+  authors:
+  - Meritxell Oliva
+  - "Manuel Mu\xF1oz-Aguirre"
+  - Sarah Kim-Hellmuth
+  - Valentin Wucher
+  - Ariel D. H. Gewirtz
+  - Daniel J. Cotter
+  - Princy Parsana
+  - Silva Kasela
+  - Brunilda Balliu
+  - "Ana Vi\xF1uela"
+  - Stephane E. Castel
+  - Pejman Mohammadi
+  - "Fran\xE7ois Aguet"
+  - Yuxin Zou
+  - Ekaterina A. Khramtsova
+  - Andrew D. Skol
+  - "Diego Garrido-Mart\xEDn"
+  - Ferran Reverter
+  - Andrew Brown
+  - Patrick Evans
+  - Eric R. Gamazon
+  - Anthony Payne
+  - Rodrigo Bonazzola
+  - Alvaro N. Barbeira
+  - Andrew R. Hamel
+  - Angel Martinez-Perez
+  - "Jos\xE9 Manuel Soria"
+  - Brandon L. Pierce
+  - Matthew Stephens
+  - Eleazar Eskin
+  - Emmanouil T. Dermitzakis
+  - "Ayellet V. Segr\xE8"
+  - Hae Kyung Im
+  - Barbara E. Engelhardt
+  - Kristin G. Ardlie
+  - Stephen B. Montgomery
+  - Alexis J. Battle
+  - Tuuli Lappalainen
+  - "Roderic Guig\xF3"
+  - Barbara E. Stranger
+  - ' '
+  publisher: Science
+  date: '2020-09-10'
+  link: https://doi.org/ghbnkj
+  id: doi:10.1126/science.aba3066
+  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  tags:
+  - cancer
+  - single cell
+  - ovarian cancer
+- title: The GTEx Consortium atlas of genetic regulatory effects across human tissues
+  authors:
+  - ' '
+  publisher: Science
+  date: '2020-09-11'
+  link: https://doi.org/ghbnhr
+  id: doi:10.1126/science.aaz1776
+  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  tags:
+  - cancer
+  - single cell
+  - ovarian cancer
+- title: "Cell type\u2013specific genetic regulation of gene expression across human\
+    \ tissues"
+  authors:
+  - Sarah Kim-Hellmuth
+  - "Fran\xE7ois Aguet"
+  - Meritxell Oliva
+  - "Manuel Mu\xF1oz-Aguirre"
+  - Silva Kasela
+  - Valentin Wucher
+  - Stephane E. Castel
+  - Andrew R. Hamel
+  - "Ana Vi\xF1uela"
+  - Amy L. Roberts
+  - Serghei Mangul
+  - Xiaoquan Wen
+  - Gao Wang
+  - Alvaro N. Barbeira
+  - "Diego Garrido-Mart\xEDn"
+  - Brian B. Nadel
+  - Yuxin Zou
+  - Rodrigo Bonazzola
+  - Jie Quan
+  - Andrew Brown
+  - Angel Martinez-Perez
+  - "Jos\xE9 Manuel Soria"
+  - Gad Getz
+  - Emmanouil T. Dermitzakis
+  - Kerrin S. Small
+  - Matthew Stephens
+  - Hualin S. Xi
+  - Hae Kyung Im
+  - "Roderic Guig\xF3"
+  - "Ayellet V. Segr\xE8"
+  - Barbara E. Stranger
+  - Kristin G. Ardlie
+  - Tuuli Lappalainen
+  - ' '
+  publisher: Science
+  date: '2020-09-11'
+  link: https://doi.org/ghbnkh
+  id: doi:10.1126/science.aaz8528
+  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  tags:
+  - cancer
+  - single cell
+  - ovarian cancer
+- title: Determinants of telomere length across human tissues
+  authors:
+  - Kathryn Demanelis
+  - Farzana Jasmine
+  - Lin S. Chen
+  - Meytal Chernoff
+  - Lin Tong
+  - Dayana Delgado
+  - Chenan Zhang
+  - Justin Shinkle
+  - Mekala Sabarinathan
+  - Hannah Lin
+  - Eduardo Ramirez
+  - Meritxell Oliva
+  - Sarah Kim-Hellmuth
+  - Barbara E. Stranger
+  - Tsung-Po Lai
+  - Abraham Aviv
+  - Kristin G. Ardlie
+  - "Fran\xE7ois Aguet"
+  - Habibul Ahsan
+  - Jennifer A. Doherty
+  - Muhammad G. Kibriya
+  - Brandon L. Pierce
+  - ' '
+  publisher: Science
+  date: '2020-09-10'
+  link: https://doi.org/ghbsdk
+  id: doi:10.1126/science.aaz6876
+  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  tags:
+  - cancer
+  - single cell
+  - ovarian cancer
+- title: Transcriptomic signatures across human tissues identify functional rare genetic
+    variation
+  authors:
+  - Nicole M. Ferraro
+  - Benjamin J. Strober
+  - Jonah Einson
+  - Nathan S. Abell
+  - Francois Aguet
+  - Alvaro N. Barbeira
+  - Margot Brandt
+  - Maja Bucan
+  - Stephane E. Castel
+  - Joe R. Davis
+  - Emily Greenwald
+  - Gaelen T. Hess
+  - Austin T. Hilliard
+  - Rachel L. Kember
+  - Bence Kotis
+  - YoSon Park
+  - Gina Peloso
+  - Shweta Ramdas
+  - Alexandra J. Scott
+  - Craig Smail
+  - Emily K. Tsang
+  - Seyedeh M. Zekavat
+  - Marcello Ziosi
+  - ' Aradhana'
+  - Kristin G. Ardlie
+  - Themistocles L. Assimes
+  - Michael C. Bassik
+  - Christopher D. Brown
+  - Adolfo Correa
+  - Ira Hall
+  - Hae Kyung Im
+  - Xin Li
+  - Pradeep Natarajan
+  - Tuuli Lappalainen
+  - Pejman Mohammadi
+  - Stephen B. Montgomery
+  - Alexis Battle
+  - ' '
+  - ' '
+  publisher: Science
+  date: '2020-09-11'
+  link: https://doi.org/ghxdfd
+  id: doi:10.1126/science.aaz5900
+  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  tags:
+  - cancer
+  - single cell
+  - ovarian cancer
+- title: Integrating big data analytical techniques in pharmacy education
+  authors:
+  - Kerui Peng
+  - Lana S. Martin
+  - Houda Alachkar
+  - Annie Wong-Beringer
+  - SERGHEI MANGUL
+  publisher: Center for Open Science
+  date: '2020-08-26'
+  link: https://doi.org/ghxdff
+  id: doi:10.31219/osf.io/3gdy4
+  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  tags:
+  - cancer
+  - single cell
+  - ovarian cancer
+- title: Integrating big data analytical techniques in pharmacy education
+  authors:
+  - Kerui Peng
+  - Lana S. Martin
+  - Houda Alachkar
+  - Annie Wong-Beringer
+  - SERGHEI MANGUL
+  publisher: Center for Open Science
+  date: '2020-08-26'
+  link: https://doi.org/ghxdff
+  id: doi:10.31219/osf.io/3gdy4
+  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  tags:
+  - cancer
+  - single cell
+  - ovarian cancer
+- *id005
+- *id006
+- *id007
+- *id008
+- *id004
+- *id009
 - title: How bioinformatics and open data can boost basic science in countries and
     universities with limited resources
   authors:
@@ -206,32 +818,186 @@
   tags:
   - cancer
   - machine learning
-- title: "Involving undergraduates in genomics research to narrow the education\u2013\
-    research gap"
+- *id003
+- title: AIRR Community Standardized Representations for Annotated Immune Repertoires
   authors:
-  - Serghei Mangul
-  - Lana S Martin
-  - Eleazar Eskin
-  publisher: Nature Biotechnology
-  date: '2018-04-01'
-  link: https://doi.org/ghqfdv
-  id: doi:10.1038/nbt.4113
+  - Jason Anthony Vander Heiden
+  - Susanna Marquez
+  - Nishanth Marthandan
+  - Syed Ahmad Chan Bukhari
+  - Christian E. Busse
+  - Brian Corrie
+  - Uri Hershberg
+  - Steven H. Kleinstein
+  - Frederick A. Matsen IV
+  - Duncan K. Ralph
+  - Aaron M. Rosenfeld
+  - Chaim A. Schramm
+  - Scott Christley
+  - Uri Laserson
+  - ' '
+  publisher: Frontiers in Immunology
+  date: '2018-09-28'
+  link: https://doi.org/gfftj8
+  id: doi:10.3389/fimmu.2018.02206
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
   tags:
   - cancer
   - machine learning
-- title: 'Addressing the Digital Divide in Contemporary Biology: Lessons from Teaching
-    UNIX'
+- title: "A Comprehensive Map of Genetic Variation in the World\u2019s Largest Ethnic\
+    \ Group\u2014Han Chinese"
   authors:
+  - Charleston W K Chiang
   - Serghei Mangul
-  - Lana S. Martin
-  - Alexander Hoffmann
-  - Matteo Pellegrini
+  - Christopher Robles
+  - Sriram Sankararaman
+  publisher: Molecular Biology and Evolution
+  date: '2018-11-01'
+  link: https://doi.org/gd5c2s
+  id: doi:10.1093/molbev/msy170
+  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  tags:
+  - cancer
+  - machine learning
+- title: Transcriptome analysis in whole blood reveals increased microbial diversity
+    in schizophrenia
+  authors:
+  - Loes M. Olde Loohuis
+  - Serghei Mangul
+  - Anil P. S. Ori
+  - Guillaume Jospin
+  - David Koslicki
+  - Harry Taegyun Yang
+  - Timothy Wu
+  - Marco P. Boks
+  - Catherine Lomen-Hoerth
+  - Martina Wiedau-Pazos
+  - Rita M. Cantor
+  - Willem M. de Vos
+  - "Ren\xE9 S. Kahn"
   - Eleazar Eskin
-  publisher: Trends in Biotechnology
-  date: '2017-10-01'
-  link: https://doi.org/ghqfdw
-  id: doi:10.1016/j.tibtech.2017.06.007
+  - Roel A. Ophoff
+  publisher: Translational Psychiatry
+  date: '2018-05-10'
+  link: https://doi.org/gdkhgz
+  id: doi:10.1038/s41398-018-0107-9
+  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  tags:
+  - cancer
+  - machine learning
+- title: Genetic effects on gene expression across human tissues
+  authors:
+  - ' '
+  publisher: Nature
+  date: '2017-10-12'
+  link: https://doi.org/gb2nqv
+  id: doi:10.1038/nature24277
+  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  tags:
+  - cancer
+  - machine learning
+- title: Dynamic landscape and regulation of RNA editing in mammals
+  authors:
+  - Meng How Tan
+  - Qin Li
+  - Raghuvaran Shanmugam
+  - Robert Piskol
+  - Jennefer Kohler
+  - Amy N. Young
+  - Kaiwen Ivy Liu
+  - Rui Zhang
+  - Gokul Ramaswami
+  - Kentaro Ariyoshi
+  - Ankita Gupte
+  - Liam P. Keegan
+  - Cyril X. George
+  - Avinash Ramu
+  - Ni Huang
+  - Elizabeth A. Pollina
+  - Dena S. Leeman
+  - Alessandra Rustighi
+  - Y. P. Sharon Goh
+  - Ajay Chawla
+  - Giannino Del Sal
+  - Gary Peltz
+  - Anne Brunet
+  - Donald F. Conrad
+  - Charles E. Samuel
+  - "Mary A. O\u2019Connell"
+  - Carl R. Walkley
+  - Kazuko Nishikura
+  - Jin Billy Li
+  - ' '
+  publisher: Nature
+  date: '2017-10-12'
+  link: https://doi.org/gb2qv5
+  id: doi:10.1038/nature24041
+  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  tags:
+  - cancer
+  - machine learning
+- title: Transcriptome analysis in whole blood reveals increased microbial diversity
+    in schizophrenia
+  authors:
+  - Loes M. Olde Loohuis
+  - Serghei Mangul
+  - Anil P. S. Ori
+  - Guillaume Jospin
+  - David Koslicki
+  - Harry Taegyun Yang
+  - Timothy Wu
+  - Marco P. Boks
+  - Catherine Lomen-Hoerth
+  - Martina Wiedau-Pazos
+  - Rita M. Cantor
+  - Willem M. de Vos
+  - "Ren\xE9 S. Kahn"
+  - Eleazar Eskin
+  - Roel A. Ophoff
+  publisher: Translational Psychiatry
+  date: '2018-05-10'
+  link: https://doi.org/gdkhgz
+  id: doi:10.1038/s41398-018-0107-9
+  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  tags:
+  - cancer
+  - machine learning
+- title: Co-expression networks reveal the tissue-specific regulation of transcription
+    and splicing
+  authors:
+  - Ashis Saha
+  - Yungil Kim
+  - Ariel D.H. Gewirtz
+  - Brian Jo
+  - Chuan Gao
+  - Ian C. McDowell
+  - Barbara E. Engelhardt
+  - Alexis Battle
+  - ' '
+  publisher: Genome Research
+  date: '2017-11-01'
+  link: https://doi.org/gb2qx6
+  id: doi:10.1101/gr.216721.116
+  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  tags:
+  - cancer
+  - machine learning
+- title: Co-expression networks reveal the tissue-specific regulation of transcription
+    and splicing
+  authors:
+  - Ashis Saha
+  - Yungil Kim
+  - Ariel D.H. Gewirtz
+  - Brian Jo
+  - Chuan Gao
+  - Ian C. McDowell
+  - Barbara E. Engelhardt
+  - Alexis Battle
+  - ' '
+  publisher: Genome Research
+  date: '2017-11-01'
+  link: https://doi.org/gb2qx6
+  id: doi:10.1101/gr.216721.116
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
   tags:
   - cancer
@@ -297,7 +1063,36 @@
   tags:
   - cancer
   - machine learning
-- title: Refining the conference experience for junior scientists in the wake of climate
+- &id011
+  title: Mechanisms of tissue-specific genetic regulation revealed by latent factors
+    across eQTLs
+  authors:
+  - Yuan He
+  - Surya B. Chhetri
+  - Marios Arvanitis
+  - Kaushik Srinivasan
+  - "Fran\xE7ois Aguet"
+  - Kristin G. Ardlie
+  - Alvaro N. Barbeira
+  - Rodrigo Bonazzola
+  - Hae Kyung Im
+  - Christopher D. Brown
+  - Alexis Battle
+  - ' '
+  publisher: Cold Spring Harbor Laboratory
+  date: '2019-10-06'
+  link: https://doi.org/ghqfd2
+  id: doi:10.1101/785584
+  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  extra-links:
+  - type: preprint
+  - type: manubot
+    link: https://doi.org/10.1101/785584
+  tags:
+  - cancer
+  - machine learning
+- &id010
+  title: Refining the conference experience for junior scientists in the wake of climate
     change
   authors:
   - Ruth Johnson
@@ -315,6 +1110,8 @@
   tags:
   - cancer
   - machine learning
+- *id010
+- *id010
 - title: 'Metalign: Efficient alignment-based metagenomic profiling via containment
     min hash'
   authors:
@@ -501,33 +1298,8 @@
   tags:
   - cancer
   - machine learning
-- title: Mechanisms of tissue-specific genetic regulation revealed by latent factors
-    across eQTLs
-  authors:
-  - Yuan He
-  - Surya B. Chhetri
-  - Marios Arvanitis
-  - Kaushik Srinivasan
-  - "Fran\xE7ois Aguet"
-  - Kristin G. Ardlie
-  - Alvaro N. Barbeira
-  - Rodrigo Bonazzola
-  - Hae Kyung Im
-  - Christopher D. Brown
-  - Alexis Battle
-  - ' '
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-10-06'
-  link: https://doi.org/ghqfd2
-  id: doi:10.1101/785584
-  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
-  extra-links:
-  - type: preprint
-  - type: manubot
-    link: https://doi.org/10.1101/785584
-  tags:
-  - cancer
-  - machine learning
+- *id011
+- *id011
 - title: Long non-coding RNA gene regulation and trait associations across human tissues
   authors:
   - O. M. de Goede
