@@ -1,7 +1,7 @@
 ---
 title: Brent A Beadell
 
-image: images/team/<file name>
+image: images/team/brent-beadell.jpg
 role: phd
 
 <!-- name variations to include when generating list of this person's papers --> 
