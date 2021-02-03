@@ -1,11 +1,8 @@
 ---
 title: Caitlin Loeffler
- 
-search:
-  - Caitlin
-  - Loeffler
+
 image: images/team/caitlin.png
-role: phd
+role: undergrad
 group: alum
 <!-- email: britoj@usc.edu -->
 <!-- github: ajlee21 -->
