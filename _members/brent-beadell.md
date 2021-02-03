@@ -1,5 +1,5 @@
 ---
-title: Brent A Beadell
+title: Brent Beadell
 
 image: images/team/brent-beadell.jpg
 role: phd
