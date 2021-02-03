@@ -5,7 +5,7 @@ search:
   - Trami
   - Pham
 image: images/team/trami-pham.jpg
-role: graduate
+role: masters
 website: http://www.linkedin.com/in/tramipham
 email: dnpham@usc.edu
 ---

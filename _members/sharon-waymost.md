@@ -5,7 +5,7 @@ search:
   - Sharon
   - Waymost
 image: images/team/Sharon-Waymost.png
-role: graduate
+role: masters
 <!-- github: sbpw -->
 ---
 

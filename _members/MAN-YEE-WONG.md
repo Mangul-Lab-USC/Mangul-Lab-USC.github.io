@@ -6,7 +6,7 @@ search:
   - Yee
   - Wong
 image: images/team/Kayley-Wong.jpg
-role: graduate
+role: masters
 email: manyeewo@usc.edu
 github: kayleyw
 

@@ -6,7 +6,7 @@ search:
   - Ning
   - Huang
 image: images/team/yuning.jpg
-role: graduate
+role: masters
 email: yuninghu@usc.edu
 <!-- google:  -->
 github: YUNINGHUANG1996

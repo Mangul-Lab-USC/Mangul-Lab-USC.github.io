@@ -5,7 +5,7 @@ search:
   - Karishma
   - Chhugani
 image: images/team/karishma.jpg
-role: graduate
+role: masters
 email: chhugani@usc.edu
 <!-- google:  -->
 github: chhugani
