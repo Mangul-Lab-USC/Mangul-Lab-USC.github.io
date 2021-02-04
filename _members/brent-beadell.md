@@ -12,7 +12,6 @@ role: phd
 email: beadell@usc.edu
 website: www.linkedin.com/in/brent-beadell-1594ab11b
 github: bbdell
-<!-- twitter: <username> -->
 ---
 
 Brent Beadell is a graduate student pursuing a Ph.D. in the Pharmaceutical and Translational Sciences program.
