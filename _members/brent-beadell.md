@@ -1,5 +1,5 @@
 ---
-title: Brent A Beadell
+title: Brent A. Beadell
 
 image: images/team/brent-beadell.jpg
 role: phd
@@ -10,7 +10,7 @@ role: phd
 
 #contact info and social media links
 email: beadell@usc.edu
-website: www.linkedin.com/in/brent-beadell-1594ab11b
+website: http://www.linkedin.com/in/brent-beadell-1594ab11b
 github: bbdell
 ---
 
