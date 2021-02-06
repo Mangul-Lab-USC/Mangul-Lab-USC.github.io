@@ -1,7 +1,7 @@
 ---
 title: Daniel Yuen Wook Kim
 
-#image: images/team/<file name>
+image: images/team/daniel-kim.png
 role: undergrad
 
 #name variations to include when generating list of this person's papers
@@ -10,7 +10,7 @@ role: undergrad
 #  - <name variation 2>
 
 # add person to alumni group
-# group: alum
+group: alum
 
 #contact info and social media links
 #email: <email>
