@@ -3,8 +3,9 @@ title: Jeremy Rotman
 
 image: images/team/jeremy.jpg
 role: masters
-role: programmer
-group: alum
+group:
+  - alum
+  - software-engineer
 <!-- email: britoj@usc.edu -->
 <!-- github: ajlee21 -->
 <!-- twitter: jaquejbrito -->
