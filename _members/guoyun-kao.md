@@ -7,7 +7,7 @@ title: Guoyun Kao
 #  - <name variation 2>
 
 # if image not specified, default will automatically be used
-#image: images/team/guoyun-kao.jpg
+image: images/team/guoyun-kao.jpg
 
 # role must be included or person won't appear on team page
 role: phd
