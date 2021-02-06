@@ -2,7 +2,7 @@
 title: Aaron Karlsberg
 
 image: images/team/aaron.jpg
-role: undergrad
+role: programmer
 group: alum
 <!-- email: britoj@usc.edu -->
 <!-- github: ajlee21 -->
