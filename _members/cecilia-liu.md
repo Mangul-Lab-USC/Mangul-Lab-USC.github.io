@@ -4,7 +4,7 @@ title: Cecilia Liu
 search:
   - Cecilia
   - Liu
-image: images/team/Cecilia.jpg
+image: images/team/cecilia-liu.jpg
 role: undergrad
 github: cclliu1212
 email: fangyunl@usc.edu

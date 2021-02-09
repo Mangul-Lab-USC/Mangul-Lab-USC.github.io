@@ -5,7 +5,7 @@ search:
   - Jaque
   - Jaqueline
   - Brito
-image: images/team/Jacqueline-Brito.png
+image: images/team/jacqueline-brito.png
 role: postdoc
 group: alum
 email: britoj@usc.edu

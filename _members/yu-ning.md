@@ -5,7 +5,7 @@ search:
   - Yu
   - Ning
   - Huang
-image: images/team/yuning.jpg
+image: images/team/yu-ning-huang.jpg
 role: masters
 email: yuninghu@usc.edu
 <!-- google:  -->

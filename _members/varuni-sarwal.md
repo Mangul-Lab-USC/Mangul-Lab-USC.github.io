@@ -4,7 +4,7 @@ title: Varuni Sarwal
 search:
   - Varuni
   - Sarwal
-image: images/team/varuni.jpg
+image: images/team/varuni-sarwal.jpg
 role: phd
 website: https://addicted-to-coding.github.io/webpage/
 email: sarwal8@gmail.com

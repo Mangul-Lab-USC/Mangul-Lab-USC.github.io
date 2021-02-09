@@ -1,7 +1,7 @@
 ---
 title: Caitlin Loeffler
 
-image: images/team/caitlin.png
+image: images/team/caitlin-loeffler.png
 role: undergrad
 group: alum
 <!-- email: britoj@usc.edu -->

@@ -7,7 +7,7 @@ title: Taylor Shabani
 #  - <name variation 2>
 
 # if image not specified, default will automatically be used
-image: images/team/taylor.jpg
+image: images/team/taylor-shabani.jpg
 
 # role must be included or person won't appear on team page
 role: undergrad

@@ -5,7 +5,7 @@ search:
   - Man
   - Yee
   - Wong
-image: images/team/Kayley-Wong.jpg
+image: images/team/man-yee-wong.jpg
 role: masters
 email: manyeewo@usc.edu
 github: kayleyw

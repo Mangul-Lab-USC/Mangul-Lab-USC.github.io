@@ -3,7 +3,7 @@ title: Angela Ka-Mei Lam
  
 search:
   - Angela Ka-Mei Lam
-image: images/team/angela.PNG
+image: images/team/angela-ka.png
 role: undergrad
 group: alum
 <!-- email: britoj@usc.edu -->

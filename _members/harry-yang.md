@@ -3,7 +3,7 @@ title: Harry Taegyun Yang
  
 search:
   - Harry Taegyun Yang
-image: images/team/harry.jpeg
+image: images/team/harry-yang.jpg
 role: undergrad
 group: alum
 <!-- email: britoj@usc.edu -->

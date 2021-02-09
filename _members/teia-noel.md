@@ -3,7 +3,7 @@ title: Teia Noel
  
 search:
   - Keith Mitchell
-image: images/team/teia.jpg
+image: images/team/teia-noel.jpg
 role: undergrad
 group: alum
 <!-- email: britoj@usc.edu -->

@@ -7,7 +7,7 @@ title: Rahul Chikka
 #  - <name variation 2>
 
 # if image not specified, default will automatically be used
-image: images/team/rahul.jpg
+image: images/team/rahul-chikka.jpg
 
 # role must be included or person won't appear on team page
 role: undergrad

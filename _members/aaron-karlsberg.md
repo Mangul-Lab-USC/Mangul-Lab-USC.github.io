@@ -1,7 +1,7 @@
 ---
 title: Aaron Karlsberg
 
-image: images/team/aaron.jpg
+image: images/team/aaron-karlsberg.jpg
 role: programmer
 group: alum
 <!-- email: britoj@usc.edu -->

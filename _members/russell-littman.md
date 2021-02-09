@@ -3,7 +3,7 @@ title: Russell Littman
  
 search:
   - Russell Littman
-image: images/team/russell.jpg
+image: images/team/russell-littman.jpg
 role: undergrad
 group: alum
 <!-- email: britoj@usc.edu -->

@@ -4,7 +4,7 @@ title: Serghei Mangul
 search:
   - Serghei 
   - Mangul
-image: images/team/serghei.png
+image: images/team/serghei-mangul.png
 role: pi
 <!-- website: N/A -->
 email: serghei.mangul@gmail.com

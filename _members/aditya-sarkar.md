@@ -4,7 +4,7 @@ title: Aditya Sarkar
 search:
   - Aditya
   - Sarkar
-image: images/team/aditya.jpg
+image: images/team/aditya-sarkar.jpg
 role: undergrad
 website: https://aditya-sarkar441.github.io/
 email: asnov2k@gmail.com

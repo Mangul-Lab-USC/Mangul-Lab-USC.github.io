@@ -3,7 +3,7 @@ title: Keith Mitchell
  
 search:
   - Keith Mitchell
-image: images/team/keith.png
+image: images/team/keith-mitchell.png
 role: undergrad
 group: alum
 <!-- email: britoj@usc.edu -->

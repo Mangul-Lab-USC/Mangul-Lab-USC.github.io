@@ -4,7 +4,7 @@ title: Anushka Rajesh
 search:
   - Anushka
   - Rajesh
-image: images/team/Anushka-Rajesh.jpg
+image: images/team/anushka-rajesh.jpg
 role: masters
 <!-- website: N/A -->
 email: anushkar@usc.edu

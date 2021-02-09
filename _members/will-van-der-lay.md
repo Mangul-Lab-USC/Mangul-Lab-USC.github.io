@@ -3,7 +3,7 @@ title: Will Van der Lay
  
 search:
   - Will Van der Lay
-image: images/team/william.jpg
+image: images/team/william-van-der-lay.jpg
 role: undergrad
 group: alum
 <!-- email: britoj@usc.edu -->

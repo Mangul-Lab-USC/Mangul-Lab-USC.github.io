@@ -4,7 +4,7 @@ title: Karishma Chhugani
 search:
   - Karishma
   - Chhugani
-image: images/team/karishma.jpg
+image: images/team/karishma-chhugani.jpg
 role: masters
 email: chhugani@usc.edu
 <!-- google:  -->

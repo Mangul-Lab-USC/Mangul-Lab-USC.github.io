@@ -3,7 +3,7 @@ title: Victor Xue
  
 search:
   - Victor Xue
-image: images/team/victor.JPG
+image: images/team/victor-xue.jpg
 role: undergrad
 group: alum
 <!-- email: britoj@usc.edu -->

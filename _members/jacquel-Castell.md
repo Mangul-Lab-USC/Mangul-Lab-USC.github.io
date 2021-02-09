@@ -3,7 +3,7 @@ title: Jacqueline Castellanos
  
 search:
   - Jacqueline Castellanos
-image: images/team/jaqueline.jpg
+image: images/team/jaqueline-castellanos.jpg
 role: undergrad
 group: alum
 <!-- email: britoj@usc.edu -->

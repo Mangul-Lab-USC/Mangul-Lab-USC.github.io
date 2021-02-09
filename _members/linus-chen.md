@@ -3,7 +3,7 @@ title: Linus Chen
  
 search:
   - Linus Chen
-image: images/team/linus.jpg
+image: images/team/linus-chen.jpg
 role: undergrad
 group: alum
 <!-- email: britoj@usc.edu -->

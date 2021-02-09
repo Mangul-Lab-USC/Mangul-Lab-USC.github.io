@@ -3,7 +3,7 @@ title: German Shabanets
  
 search:
   - German Shabanets
-image: images/team/german.jpg
+image: images/team/german-shabanets.jpg
 role: undergrad
 group: alum
 <!-- email: britoj@usc.edu -->

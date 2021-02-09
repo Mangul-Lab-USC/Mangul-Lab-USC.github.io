@@ -3,7 +3,7 @@ title: Garrett Parker
  
 search:
   - Garrett Parker
-image: images/team/Garett.jpg
+image: images/team/garett-parker.jpg
 role: undergrad
 group: alum
 <!-- email: britoj@usc.edu -->

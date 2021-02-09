@@ -4,7 +4,7 @@ title: Minyoung Kim
 search:
   - Minyoung
   - Kim
-image: images/team/minyoung.JPG
+image: images/team/minyoung-kim.jpg
 role: undergrad
 <!-- group: mascot -->
 <!-- website: <website link> -->

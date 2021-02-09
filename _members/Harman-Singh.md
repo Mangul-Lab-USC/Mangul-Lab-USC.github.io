@@ -4,7 +4,7 @@ title: Harman Singh
 search:
   - Harman
   - Singh
-image: images/team/Harman-Singh.jpg
+image: images/team/harman-singh.jpg
 role: undergrad
 <!-- website: N/A -->
 email: harmansingh.iitd@gmail.com  

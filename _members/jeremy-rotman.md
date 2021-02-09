@@ -1,7 +1,7 @@
 ---
 title: Jeremy Rotman
 
-image: images/team/jeremy.jpg
+image: images/team/jeremy-rotman.jpg
 role: programmer
 group: alum
 <!-- email: britoj@usc.edu -->
