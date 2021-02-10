@@ -55,13 +55,6 @@
     - single cell
     - ovarian cancer
 
-- id: doi:10.1186/s13059-018-1403-7
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
-  tags:
-    - cancer
-    - single cell
-    - ovarian cancer
-
 - id: doi:10.1038/s41467-020-16857-7
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
   tags:
@@ -138,20 +131,6 @@
     - single cell
     - ovarian cancer
 
-- id: doi:10.1074/jbc.RA119.008853
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
-  tags:
-    - cancer
-    - single cell
-    - ovarian cancer
-
-- id: doi:10.1074/jbc.RA119.008853
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
-  tags:
-    - cancer
-    - single cell
-    - ovarian cancer
-
 - id: doi:10.1093/nar/gkz822
   image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
   tags:
@@ -173,7 +152,7 @@
     - single cell
     - ovarian cancer
 
-- id: doi:10.1016/j.isci.2018.11.024
+- id: :10.1016/j.isci.2018.11.024
   image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
   tags:
     - cancer
@@ -299,13 +278,6 @@
     - single cell
     - ovarian cancer
 
-- id: doi:10.31219/osf.io/3gdy4
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
-  tags:
-    - cancer
-    - single cell
-    - ovarian cancer
-
 - id: doi:10.1186/s13059-020-01988-3
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
   tags:
@@ -384,18 +356,6 @@
     - cancer
     - machine learning
 
-- id: doi:10.1038/s41398-018-0107-9
-  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
-  tags:
-    - cancer
-    - machine learning
-
-- id: doi:10.1101/gr.216721.116
-  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
-  tags:
-    - cancer
-    - machine learning
-
 - id: doi:10.1101/gr.216721.116
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
   tags:
@@ -441,20 +401,6 @@
   tags:
     - cancer
     - machine learning
-
-- id: url:https://arxiv.org/abs/2002.12268
-  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
-  extra-links:
-    - type: preprint
-    - type: manubot
-      link: https://arxiv.org/abs/2002.12268
-
-- id: url:https://arxiv.org/abs/2002.12268
-  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
-  extra-links:
-    - type: preprint
-    - type: manubot
-      link: https://arxiv.org/abs/2002.12268
 
 - id: doi:10.1101/2020.01.17.910521
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
@@ -515,20 +461,10 @@
   tags:
     - cancer
     - machine learning
-
-- id: doi:10.1101/785584
-  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
-  extra-links:
-    - type: preprint
-    - type: manubot
-      link: https://doi.org/10.1101/785584
-  tags:
-    - cancer
-    - machine learning
-
-- id: doi:10.1101/785584
-  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
-  extra-links:
+     
+ - id: doi:10.1101/785584
+   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+   extra-links:
     - type: preprint
     - type: manubot
       link: https://doi.org/10.1101/785584
@@ -575,3 +511,66 @@
   tags:
     - cancer
     - machine learning
+ 
+- id:doi: 10.1007/978-3-030-13973-5_1
+  image:
+  extra-links:
+    - type: preprint
+    - type: manubot
+      link: https://doi.org/10.1007/978-3-030-13973-5_1
+  tags:
+    - cancer
+    - machine learning
+   
+- id:doi: 10.3389/fimmu.2018.02206
+  image:https://www.frontiersin.org/files/Articles/402803/fimmu-09-02206-HTML-r1/image_m/fimmu-09-02206-g003.jpg
+  extra-links:
+    - type: preprint
+    - type: manubot
+      link: https://doi.org/10.3389/fimmu.2018.02206
+  tags:
+    - cancer
+    - machine learning
+ 
+- id:doi: 10.1016/j.isci.2018.11.024
+  image:https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/8218324e-6246-4318-9936-53542740ba35/gr4.jpg
+  extra-links:
+    - type: preprint
+    - type: manubot
+      link: https://doi.org/10.1016/j.isci.2018.11.024
+  tags:
+    - cancer
+    - machine learning
+   
+- id:doi: 10.1093/molbev/msy170
+  image:https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/mbe/35/11/10.1093_molbev_msy170/5/m_msy170f1.png?Expires=1615235319&Signature=jDI6BfsSph26Sl0rqldPfkAy4hmU5Q8Pys86bagZKHptG27vlxgkeUW495RnAm~tzXVxqjyC5WzEUJ2wd5jhr7JyyVhRgyJvFXlTEZGmuj1WjMSF9qj7JOtNW7G3~DpxvA2zPN-qUFS0MlnDiEPWAjpwerhLN57pnnnQELlUno3h-BROcT1vsTwMaWPtd6KhhurK1~36qSKLtZPPsd-N5kbs25UzK5r3-P~ubeSHPYF-DoPwr3pRXRVWkfPtSwTgcoQ9OrBEuL4hWuRul4gQmy~gtxC6LtKvx7Rs4U7-94z8DQKbAAF4vgt1ew-MXLQxpLiKVp5N6tUYIy-9SSKl1w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  extra-links:
+    - type: preprint
+    - type: manubot
+      link: https://doi.org/10.1093/molbev/msy170
+  tags:
+    - cancer
+    - machine learning
+    
+- id:doi: 10.1038/s41398-018-0107-9
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41398-018-0107-9/MediaObjects/41398_2018_107_Fig2_HTML.jpg?as=webp  
+  extra-links:
+    - type: preprint
+    - type: manubot
+      link: https://doi.org/10.1038/s41398-018-0107-9
+   tags:
+    - cancer
+    - machine learning
+    
+        
+- id:doi: 10.1038/nature24277
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnature24277/MediaObjects/41586_2017_Article_BFnature24277_Fig2_HTML.jpg?as=webp
+  extra-links:
+    - type: preprint
+    - type: manubot
+      link: https://doi.org/10.1038/nature24277
+   tags:
+    - cancer
+    - machine learning
+  
+ 
