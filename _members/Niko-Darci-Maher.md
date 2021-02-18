@@ -1,5 +1,5 @@
 ---
-title: Niko-Darci-Maher
+title: Niko Darci-Maher
 
 search:
   - Niko
