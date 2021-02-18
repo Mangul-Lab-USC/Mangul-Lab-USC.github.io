@@ -5,8 +5,7 @@ search:
   - Dhrithi
   - Deshpande
 image: images/team/dhrithi-deshpande.jpg
-role : graduate
-LinkedIn: https://www.linkedin.com/in/dhrithi-deshpande-a95372137/
+role : masters
 email: dhrithideshpande@gmail.com
 github: dhrithideshpande
 
