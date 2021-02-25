@@ -11,5 +11,5 @@ email: nrajkumar@gmail.com
 
 ---
 
-TBA
+Neha graduated from UCLA in 2020 with a B.S in Bioengineering. She has been working under Dr.Mangul since 2019. 
 	
