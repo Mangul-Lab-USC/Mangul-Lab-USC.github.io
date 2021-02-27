@@ -2,7 +2,7 @@
 title: Niko Darci-Maher
 
 search:
-  - Niko
+  - Nicholas
   - Darci
   - Maher
 image: images/team/niko-darci-maher.jpg
