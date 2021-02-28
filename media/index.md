@@ -8,36 +8,6 @@ This page includes our open-sourced softwares, some information we find useful, 
 
 <!-- section break -->
 
-## We develop omics software!
-
-{% capture html %}
-{% include resource-list.html type="featured" size="large" %}
-{% endcapture %}
-
-{% include centerer.html html=html %}
-
-<!-- section break -->
-
-## Information we find useful!
-
-{% capture html %}
-{% include resource-list.html type="more" size="small" %}
-{% endcapture %}
-
-{% include centerer.html html=html %}
-
-<!-- section break -->
-
-## Watch our lab videos!
-
-{% capture html %}
-{% include resource-list.html type="other" size="medium" %}
-{% endcapture %}
-
-{% include centerer.html html=html %}
-
-<!-- section break -->
-
 ## We’re in the news!
 
 {% capture html %}
