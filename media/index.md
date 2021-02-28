@@ -2,25 +2,50 @@
 title: Media
 ---
 
-# <i class="fas fa-feather-alt"></i>Media
+# <i class="fas fa-tools"></i>Media
 
-#Moldovan University on Serghei's Workshops
-###State University of Medicine and Pharmacy (Moldova) Newsroom: Bioinformatics – A new trends in medical research. [Read More](https://usmf.md/ro/noutati/bioinformatica-un-nou-trend-cercetarea-medicala)
+This page includes our open-sourced softwares, some information we find useful, our lab videos and the news in which Mangul Lab was present.  
 
-#Nature Methods interviews Serghei on benchmarking
-###Bench pressing with genomics benchmarkers: Some -omics tools can be more accurate, sensitive or efficient than others. Yet benchmarking is no tell-all. [Read More](https://www.nature.com/articles/s41592-020-0768-1?platform=oscar&draft=collection)
+<!-- section break -->
 
-#Tech Xplore reports on Telescope
-###Tech Xplore reports on Telescope: a tool to manage bioinformatics analyses on mobile devices. [Read More](https://techxplore.com/news/2019-10-telescope-tool-bioinformatics-analyses-mobile.html)
+## We develop omics software!
 
-#UCLA Newsroom on Bioinformatics for All
-###UCLA Newsroom: Team proposes plan to use bioinformatics, open data to boost science in developing countries. [Read More](https://newsroom.ucla.edu/releases/bioinformatics-for-all)
+{% capture html %}
+{% include resource-list.html type="featured" size="large" %}
+{% endcapture %}
 
-#GWU School of Medicine on Bioinformatics for All
-###George Washington School of Medicine and Health Sciences: Researchers Propose Using Bioinformatics, Open Data to Boost Basic Science Globally. [Read More](https://smhs.gwu.edu/news/researchers-propose-using-bioinformatics-open-data-boost-basic-science-globally)
+{% include centerer.html html=html %}
 
-#AAAS EurekAlert! on Schizophrenia study
-###AAAS EurekAlert! Schizophrenics’ blood has more genetic material from microbes. [Read More](https://www.eurekalert.org/pub_releases/2018-05/osu-sbh052118.php)
+<!-- section break -->
+
+## Information we find useful!
+
+{% capture html %}
+{% include resource-list.html type="more" size="small" %}
+{% endcapture %}
+
+{% include centerer.html html=html %}
+
+<!-- section break -->
+
+## Watch our lab videos!
+
+{% capture html %}
+{% include resource-list.html type="other" size="medium" %}
+{% endcapture %}
+
+{% include centerer.html html=html %}
+
+<!-- section break -->
+
+## We’re in the news!
+
+{% capture html %}
+{% include resource-list.html type="legacy" size="small" %}
+{% endcapture %}
+
+{% include centerer.html html=html %}
+
 
 
 
