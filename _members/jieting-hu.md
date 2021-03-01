@@ -2,12 +2,12 @@
 title: Jieting (Emma) Hu
 
 # name variations to include when generating list of this person's papers
-#search:
+search:
   - Jieting Hu
   - Emma Hu
 
 # if image not specified, default will automatically be used
-image: images/team/jieting-hu.md
+image: images/team/jieting-hu.jpg
 
 # role must be included or person won't appear on team page
 role: masters
