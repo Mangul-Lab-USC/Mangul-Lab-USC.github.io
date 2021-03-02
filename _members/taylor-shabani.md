@@ -23,6 +23,5 @@ github: taylorshab
 
 ---
 
-Taylor Shabani was a member of Mangul lab from 2017.
-He was a High School Researcher at our lab. 
-He is currently a Undergrad @ Duke, Computer Science & Economics.
+Taylor Shabani was a high school researcher at member of Mangul lab in 2017.
+She is currently an undergraduate at Duke, majoring in Computer Science & Economics.
