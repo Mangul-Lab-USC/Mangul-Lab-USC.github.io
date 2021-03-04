@@ -18,7 +18,9 @@ Our diverse team is composed of a highly enthusiastic and collaborative research
 {% include team-list.html role="postdoc" group="" %}
 {% include team-list.html role="phd" group="" %}
 {% include team-list.html role="masters" group="" %}
+{% include team-list.html role="pharmd" group="" %}
 {% include team-list.html role="undergrad" group="" %}
+{% include team-list.html role="highschool" group="" %}
 {% include team-list.html role="programmer" group="" %}
 {% include team-list.html role="mascot" group="" %}
 {% endcapture %}
@@ -48,7 +50,9 @@ These are past lab alumni who have moved on to the industry, other school progra
 {% include team-list.html role="postdoc" group="alum" mini="true" %}
 {% include team-list.html role="phd" group="alum" mini="true" %}
 {% include team-list.html role="masters" group="alum" mini="true" %}
+{% include team-list.html role="pharmd" group="alum" mini="true" %}
 {% include team-list.html role="undergrad" group="alum" mini="true" %}
+{% include team-list.html role="highschool" group="alum" mini="true" %}
 {% include team-list.html role="programmer" group="alum" mini="true" %}
 {% include team-list.html role="mascot" group="alum" mini="true" %}
 {% endcapture %}

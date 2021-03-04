@@ -21,9 +21,19 @@
 {%- assign text = "Master's Student" -%}
 {%- endif -%}
 
+{%- if include.type == "pharmd" -%}
+{%- assign icon = "fas fa-mortar-pestle" -%}
+{%- assign text = "PharmD Student" -%}
+{%- endif -%}
+
 {%- if include.type == "undergrad" -%}
 {%- assign icon = "fas fa-user" -%}
 {%- assign text = "Undergraduate Student" -%}
+{%- endif -%}
+
+{%- if include.type == "highschool" -%}
+{%- assign icon = "fas fa-calculator" -%}
+{%- assign text = "High School Student" -%}
 {%- endif -%}
 
 {%- if include.type == "programmer" -%}
