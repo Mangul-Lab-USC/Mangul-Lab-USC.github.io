@@ -1,5 +1,5 @@
 ---
-title: German Shabanets
+title: German Enik
  
 # name variations to include when generating list of this person's papers
 #search:
