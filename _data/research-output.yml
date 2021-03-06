@@ -1,3 +1,32 @@
+- title: RNA-seq data science: From raw data to effective interpretation
+  authors:
+  - Dhrithi Deshpande
+  - Karishma Chhugani
+  - Yutong Chang
+  - Aaron Karlsberg
+  - Caitlin Loeffler
+  - Jinyang Zhang
+  - Agata Muszynska
+  - Jeremy Rotman
+  - Laura Tao
+  - Brunilda Balliu
+  - Elizabeth Tseng
+  - Fangqing Zhao
+  - Eleazar Eskin
+  - Pejman Mohammadi
+  - Pawel P Labaj
+  - Serghei Mangul
+  date: '2020-10-05'
+  link: https://arxiv.org/abs/2010.02391v3
+  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  extra-links:
+  - type: preprint
+  - type: manubot
+    link: https://arxiv.org/abs/2010.02391v3
+  tags:
+  - RNA-seq
+  - archival stability
+  - data-science
 - &id001
   title: 'ROP: dumpster diving in RNA-sequencing to find the source of 1 trillion
     reads across diverse adult human tissues'
