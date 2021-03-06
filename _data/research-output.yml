@@ -1,32 +1,4 @@
-- title: RNA-seq data science: From raw data to effective interpretation
-  authors:
-  - Dhrithi Deshpande
-  - Karishma Chhugani
-  - Yutong Chang
-  - Aaron Karlsberg
-  - Caitlin Loeffler
-  - Jinyang Zhang
-  - Agata Muszynska
-  - Jeremy Rotman
-  - Laura Tao
-  - Brunilda Balliu
-  - Elizabeth Tseng
-  - Fangqing Zhao
-  - Eleazar Eskin
-  - Pejman Mohammadi
-  - Pawel P Labaj
-  - Serghei Mangul
-  date: '2020-10-05'
-  link: https://arxiv.org/abs/2010.02391v3
-  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
-  extra-links:
-  - type: preprint
-  - type: manubot
-    link: https://arxiv.org/abs/2010.02391v3
-  tags:
-  - RNA-seq
-  - archival stability
-  - data-science
+
 - &id001
   title: 'ROP: dumpster diving in RNA-sequencing to find the source of 1 trillion
     reads across diverse adult human tissues'
@@ -806,22 +778,6 @@
   - cancer
   - single cell
   - ovarian cancer
-- title: Integrating big data analytical techniques in pharmacy education
-  authors:
-  - Kerui Peng
-  - Lana S. Martin
-  - Houda Alachkar
-  - Annie Wong-Beringer
-  - SERGHEI MANGUL
-  publisher: Center for Open Science
-  date: '2020-08-26'
-  link: https://doi.org/ghxdff
-  id: doi:10.31219/osf.io/3gdy4
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
-  tags:
-  - cancer
-  - single cell
-  - ovarian cancer
 - *id005
 - *id006
 - *id007
@@ -1490,3 +1446,34 @@
   tags:
   - cancer
   - machine learning
+- title: RNA-seq data science: From raw data to effective interpretation
+  authors:
+  - Dhrithi Deshpande
+  - Karishma Chhugani
+  - Yutong Chang
+  - Aaron Karlsberg
+  - Caitlin Loeffler
+  - Jinyang Zhang
+  - Agata Muszynska
+  - Jeremy Rotman
+  - Laura Tao
+  - Brunilda Balliu
+  - Elizabeth Tseng
+  - Fangqing Zhao
+  - Eleazar Eskin
+  - Pejman Mohammadi
+  - Pawel P Labaj
+  - Serghei Mangul
+  publisher: arXiv:2010.02391v3 (q-bio)
+  date: '2020-10-05'
+  link: https://arxiv.org/abs/2010.02391v3
+  id: doi:10.31219/osf.io/3gdy4
+  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  extra-links:
+  - type: preprint
+  - type: manubot
+    link: https://arxiv.org/abs/2010.02391v3
+  tags:
+  - RNA-seq
+  - archival stability
+  - data-science
