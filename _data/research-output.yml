@@ -1445,7 +1445,7 @@
   tags:
   - cancer
   - machine learning
-- title: RNA-seq data science: From raw data to effective interpretation
+- title: RNA-seq data science- From raw data to effective interpretation
   authors:
   - Dhrithi Deshpande
   - Karishma Chhugani
@@ -1463,6 +1463,7 @@
   - Pejman Mohammadi
   - Pawel P Labaj
   - Serghei Mangul
+  - ' '
   publisher: arXiv:2010.02391v3 (q-bio)
   date: '2020-10-05'
   link: https://arxiv.org/abs/2010.02391v3
