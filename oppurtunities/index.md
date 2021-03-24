@@ -1,10 +1,10 @@
 ---
-title: Oppurtunities
+title: Opportunities
 ---
 
-# <i class="fas fa-feather-alt"></i>Oppurtunities
+# <i class="fas fa-feather-alt"></i>Opportunities
 
-## Funding Oppurtunities
+## Funding Opportunities
 
 We are prepared to help our members apply for internal and external awards for research, travel, and education support! For other curated lists, please see: [https://thethrashlab.com/opportunities/](https://thethrashlab.com/opportunities/)
 
