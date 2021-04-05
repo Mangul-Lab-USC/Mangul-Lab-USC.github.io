@@ -8,7 +8,7 @@ title: Yu Ning Huang
 #  - <name variation 2>
 
 # if image not specified, default will automatically be used
-images/team/yu-ning-huang.jpg
+image: images/team/yu-ning-huang.jpg
 
 # role must be included or person won't appear on team page
 # available roles - pi, postdoc, phd, masters, pharmd, undergrad, highschool, programmer
