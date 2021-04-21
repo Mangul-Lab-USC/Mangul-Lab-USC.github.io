@@ -9,7 +9,6 @@ title: Opportunities
 We are prepared to help our members apply for internal and external awards for research, travel, and education support! For other curated lists, please see: [https://thethrashlab.com/opportunities/](https://thethrashlab.com/opportunities/)
 
 ### Undergraduate
-
 #### Agency and Awards
 
 1. University of Southern California Provost - [Undergrad Research Fellowships](https://undergrad.usc.edu/experience/research/undergrad_research/)
@@ -19,7 +18,6 @@ We are prepared to help our members apply for internal and external awards for r
 5. Computing Research Association - [Outstanding Undergraduate Researcher Awards](https://cra.org/crae/awards/cra-outstanding-undergraduate-researchers/)
 
 ### Graduate
-
 #### Agency and Awards
 
 1. National Science Foundation - [Graduate Research Fellowship Program (GRFP)](https://www.nsfgrfp.org/)
@@ -27,7 +25,6 @@ We are prepared to help our members apply for internal and external awards for r
 3. Ford Foundation - [Dissertation Fellowship](https://sites.nationalacademies.org/PGA/FordFellowships/PGA_171939)
 
 ### Postdoctoral
-
 #### Agency and Awards
 
 1. Ford Foundation - [Postdoctoral Fellowship](https://sites.nationalacademies.org/PGA/FordFellowships/PGA_171940)
