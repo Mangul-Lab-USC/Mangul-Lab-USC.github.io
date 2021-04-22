@@ -9,7 +9,7 @@ Mangul Lab is part of the Titus Department of Clinical Pharmacy at [USC School o
 <!-- section break -->
 
 {% capture text %}
-We develop robust data driven techniques to accelerate diffusion of genomics and biomedical data into translational research and education.
+Computational data-driven research focuses on developing and applying computational methods across various types of omics datasets. Such research is performed in a new type of laboratory, often called a dry lab. Our team designs, develops and applies novel and robust data-driven, computational approaches that will accelerate the diffusion of genomics and biomedical data into translational research and education.
 
 [Our Publications &nbsp;→](research)
 {:.center}
@@ -18,26 +18,26 @@ We develop robust data driven techniques to accelerate diffusion of genomics and
   include feature.html
   image="images/backgrounds/book.jpg"
   link="research"
-  heading="Biology greets Machine Learning "
+  heading="Computational data-driven research"
   text=text
 %}
 
 {% capture text %}
-We work on combined application of math, statistics and computer science to solve biology-based problems. We also make our work public so that researchers, all over the globe, can extend our work. Click [here](https://github.com/Mangul-Lab-USC/) to go to our Github repository.
+We believe in data and analysis transparency, effective sharing, reproducibility, software usability, and archival stability to foster a sustainable data science ecosystem in biomedical research.
 
-[See our highlighted resources &nbsp;→](resources)
+[See our GitHub repository &nbsp;→](https://github.com/Mangul-Lab-USC/)
 {:.center}
 {% endcapture %}
 {%
   include feature.html
   image="images/home/coding.jpg"
   link="resources"
-  heading="Open sourced projects"
+  heading="Rigor and reproducibility in biomedical research"
   text=text
 %}
 
 {% capture text %}
-Our lab is made of enthusiastic researchers who try to develop novel ways to combine data science and biology.
+We are a team of enthusiastic researchers aimed to combine open omics data with robust bioinformatics methods to enable novel biological discoveries. We are committed to ensuring an inclusive and supportive environment. We also believe in empowering the members of our team with necessary bioinformatics training and support, allowing them to make important contributions to the fields of biomedical research.
 
 
 [Meet our team &nbsp;→](team)
@@ -47,6 +47,6 @@ Our lab is made of enthusiastic researchers who try to develop novel ways to com
   include feature.html
   image="images/team/group-photo-4.jpg"
   link="team"
-  heading="Our enthusiastic members"
+  heading="Our team"
   text=text
 %}
