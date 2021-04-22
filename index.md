@@ -23,7 +23,7 @@ Computational data-driven research focuses on developing and applying computatio
 %}
 
 {% capture text %}
-We believe in data and analysis transparency, effective sharing, reproducibility, software usability, and archival stability to foster a sustainable data science ecosystem in biomedical research.
+We believe in data analysis transparency, effective sharing, reproducibility, software usability, and archival stability to foster a sustainable data science ecosystem in biomedical research.
 
 [See our GitHub repository &nbsp;→](https://github.com/Mangul-Lab-USC/)
 {:.center}
