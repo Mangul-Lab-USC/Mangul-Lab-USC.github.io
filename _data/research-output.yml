@@ -31,11 +31,8 @@
   link: https://doi.org/ggn2dj
   id: doi:10.1186/s13059-018-1403-7
   image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
-  tags:
-  - cancer
-  - single cell
-  - ovarian cancer
 - *id001
+
 - &id002
   title: Profiling immunoglobulin repertoires across multiple human tissues using
     RNA sequencing
@@ -64,46 +61,10 @@
   id: doi:10.1038/s41467-020-16857-7
   image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
   tags:
-  - cancer
-  - single cell
-  - ovarian cancer
-- title: 'ROP: dumpster diving in RNA-sequencing to find the source of 1 trillion
-    reads across diverse adult human tissues'
-  authors:
-  - Serghei Mangul
-  - Harry Taegyun Yang
-  - Nicolas Strauli
-  - Franziska Gruhl
-  - Hagit T. Porath
-  - Kevin Hsieh
-  - Linus Chen
-  - Timothy Daley
-  - Stephanie Christenson
-  - Agata Wesolowska-Andersen
-  - Roberto Spreafico
-  - Cydney Rios
-  - Celeste Eng
-  - Andrew D. Smith
-  - Ryan D. Hernandez
-  - Roel A. Ophoff
-  - Jose Rodriguez Santana
-  - Erez Y. Levanon
-  - Prescott G. Woodruff
-  - Esteban Burchard
-  - Max A. Seibold
-  - Sagiv Shifman
-  - Eleazar Eskin
-  - Noah Zaitlen
-  publisher: Genome Biology
-  date: '2018-02-15'
-  link: https://doi.org/ggn2dj
-  id: doi:doi:10.1186/s13059-018-1403-7
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
-  tags:
-  - cancer
-  - single cell
-  - ovarian cancer
+  - immune repertoire
+  - RNA-seq
 - *id002
+
 - title: Accurate viral population assembly from ultra-deep sequencing data
   authors:
   - S. Mangul
@@ -118,9 +79,9 @@
   id: doi:10.1093/bioinformatics/btu295
   image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
   tags:
-  - cancer
-  - single cell
-  - ovarian cancer
+  - sequencing
+  - viral population assembly
+  
 - &id005
   title: Benchmarking of computational error-correction methods for next-generation
     sequencing data
@@ -157,8 +118,9 @@
   id: doi:10.1186/s13059-020-01988-3
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
   tags:
-  - cancer
+  - benchmarking
   - machine learning
+ 
 - &id006
   title: Systematic benchmarking of omics computational tools
   authors:
@@ -176,8 +138,9 @@
   id: doi:10.1038/s41467-019-09406-4
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
   tags:
-  - cancer
+  - benchmarking
   - machine learning
+  
 - &id007
   title: Challenges and recommendations to improve the installability and archival
     stability of omics computational tools
@@ -205,8 +168,10 @@
   id: doi:10.1371/journal.pbio.3000333
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
   tags:
-  - cancer
-  - machine learning
+  - installability
+  - archival stability
+  - omics tools
+  
 - &id008
   title: Improving the usability and archival stability of bioinformatics software
   authors:
@@ -220,8 +185,9 @@
   id: doi:10.1186/s13059-019-1649-8
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
   tags:
-  - cancer
-  - machine learning
+  - archival stability
+  - omics software
+ 
 - &id004
   title: Improving the usability and comprehensiveness of microbial databases
   authors:
@@ -237,8 +203,9 @@
   id: doi:10.1186/s12915-020-0756-z
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
   tags:
-  - cancer
-  - machine learning
+  - microbiome
+  - usability
+  
 - &id009
   title: Interpreting and integrating big data in the life sciences
   authors:
@@ -249,8 +216,9 @@
   id: doi:10.1042/ETLS20180175
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
   tags:
-  - cancer
+  - big data
   - machine learning
+ 
 - &id003
   title: "Involving undergraduates in genomics research to narrow the education\u2013\
     research gap"
@@ -1425,6 +1393,7 @@
   tags:
   - cancer
   - machine learning
+ 
 - title: A vast resource of allelic expression data spanning human tissues
   authors:
   - Stephane E. Castel
@@ -1445,6 +1414,7 @@
   tags:
   - cancer
   - machine learning
+
 - title: 'RNA-seq data science: From raw data to effective interpretation'
   authors:
   - Dhrithi Deshpande
@@ -1477,3 +1447,174 @@
   - RNA-seq
   - archival stability
   - data-science
+ 
+- title: 'Improving the completeness of public metadata accompanying omics studies'
+  authors:
+  - Anushka Rajesh 
+  - Yutong Chang
+  - Malak S Abedalthagafi
+  - Annie Wong-Beringer
+  - Michael I Love 
+  - Serghei Mangul
+  - ' '
+  publisher: Genome Biology
+  date: '2021-04-15'
+  link: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02332-z
+  id: https://doi.org/10.1186/s13059-021-02332-z
+  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  tags:
+  - omics
+  - metadata
+  
+- title: 'Population-scale tissue transcriptomics maps long non-coding RNAs to complex disease'
+  authors:
+  - Olivia M de Goede
+  - Daniel C Nachun
+  - Nicole M Ferraro 
+  - Michael J Gloudeman
+  - Abhiram S Rao
+  - Craig Smail
+  - Tiffany Y Eulalio
+  - François Aguet 
+  - Bernard Ng
+  - Jishu Xu
+  - Alvaro N Barbeira
+  - Stephane E Castel
+  - Sarah Kim-Hellmuth 
+  - YoSon Park 
+  - Alexandra J Scott
+  - Benjamin J Strober
+  - Serghei Mangul (GTex Consortium)
+  - ' '
+  publisher: Cell
+  date: '2021-04-16'
+  link: https://www.sciencedirect.com/science/article/abs/pii/S0092867421003810
+  id: https://doi.org/10.1016/j.cell.2021.03.050
+  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  tags:
+  - long ncRNA
+  - transcriptomics
+  
+- title: 'Ancestry diversity of open T-cell receptor repertoire data, a systematic assessment'
+  authors:
+  - Yu-Ning Huang
+  - Kerui Peng
+  - Serghei Mangul
+  - ' '
+  publisher: OSF Preprints
+  date: '2021-03-01'
+  link: https://osf.io/w25hq
+  id: 10.31219/osf.io/w25hq
+  extra-links:
+  - type: preprint
+  - type: manubot
+    link: 10.31219/osf.io/w25hq
+  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  tags:
+  - ancestry
+  - T-cell repertoire
+  
+- title: 'Dietary supplements and nutraceuticals under investigation for COVID-19 prevention and treatment'
+  authors:
+  - Ronan Lordan
+  - Halie M Rando 
+  - Casey S Greene
+  - Serghei Mangul (COVID-19 Review Consortium)
+  - ' '
+  publisher: ArXiv
+  date: '2021-02-03'
+  link: https://arxiv.org/abs/2102.02250v1
+  id: https://arxiv.org/abs/2102.02250v1
+  extra-links:
+  - type: preprint
+  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  tags:
+  - COVID-19 
+  
+- title: 'The Gene Expression Deconvolution Interactive Tool (GEDIT): Accurate cell type quantification from gene expression data'
+  authors:
+  - Brian B Nadel 
+  - David Lopez 
+  - Dennis J Montoya
+  - Feiyang Ma
+  - Hannah Waddel
+  - Misha M Khan
+  - Serghei Mangul
+  - Matteo Pellegrini
+  publisher: GigaScience
+  date: '2021-02-01'
+  link: https://academic.oup.com/gigascience/article/10/2/giab002/6137724?login=true
+  id: https://doi.org/10.1093/gigascience/giab002
+  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  tags:
+  - cell type quantification
+  - GEDIT
+  - gene expression
+ 
+- title: 'Pathogenesis, symptomatology, and transmission of SARS-CoV-2 through analysis of viral genomics and structure'
+  authors:
+  - Halie M Rando
+  - Adam L MacLean
+  - Alexandra J Lee
+  - Sandipan Ray
+  - Vikas Bansal
+  - Ashwin N Skelly
+  - Elizabeth Sell
+  - John J Dziak
+  - Lamonica Shinholster
+  - Lucy D Agostino McGowan
+  - Marouen Ben Guebila
+  - Nils Wellhausen
+  - Sergey Knyazev
+  - Simina M Boca
+  - Stephen Capone
+  - YoSon Park
+  - David Mai
+  - Christian Brueffer
+  - James Brian Byrd
+  - Jinhui Wang
+  - Ronan Lordan
+  - Ryan Velazquez
+  - Gregory L Szeto
+  - John P Barton
+  - Rishi Raj Goel
+  - Serghei Mangul
+  - Tiago Lubiana
+  - Anthony Gitter
+  - Casey S Greene
+  - ' '
+  publisher: ArXiv
+  date: '2021-02-01'
+  link: https://arxiv.org/abs/2102.01521
+  id: https://arxiv.org/abs/2102.01521
+  extra-links:
+  - type: preprint
+  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  tags:
+  - COVID-19 
+  - viral genomics
+ 
+- title: 'Systematic evaluation of transcriptomics-based deconvolution methods and references using thousands of clinical samples'
+  authors:
+  - Brian Nadel
+  - Meritxell Oliva
+  - Benjamin L Shou
+  - Keith Mitchell
+  - Feiyang Ma
+  - Dennis J Montoya
+  - Alice Mouton
+  - Sarah Kim-Hellmuth
+  - Barbara Stranger
+  - Matteo Pellegrini
+  - Serghei Mangul
+  - ' '
+  publisher: bioRxiv Cold Spring Harbor Laboratory
+  date: '2021-01-01'
+  link: https://www.biorxiv.org/content/10.1101/2021.03.09.434660v1.abstract
+  id: https://doi.org/10.1101/2021.03.09.434660
+  extra-links:
+  - type: preprint
+  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  tags:
+  - transcriptomics
+  - cell deconvolution
