@@ -16,7 +16,7 @@ Computational data-driven research focuses on developing and applying computatio
 {% endcapture %}
 {%
   include feature.html
-  image="images/contact/usc-pharm.png"
+  image="images/image_1.jpg"
   link="research"
   heading="Computational data-driven research"
   text=text
@@ -30,7 +30,7 @@ We believe in data analysis transparency, effective sharing, reproducibility, so
 {% endcapture %}
 {%
   include feature.html
-  image="images/home/coding.jpg"
+  image="images/image_2.jpg"
   link="resources"
   heading="Rigor and reproducibility in biomedical research"
   text=text
