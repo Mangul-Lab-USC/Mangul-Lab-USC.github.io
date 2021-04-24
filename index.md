@@ -16,7 +16,7 @@ Computational data-driven research focuses on developing and applying computatio
 {% endcapture %}
 {%
   include feature.html
-  image="images/backgrounds/book.jpg"
+  image="images/contact/usc-pharm.png"
   link="research"
   heading="Computational data-driven research"
   text=text
