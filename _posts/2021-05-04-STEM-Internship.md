@@ -25,7 +25,7 @@ Thursday, May 20, 2021 5:00pm Pacific Time
 ### WHO SHOULD APPLY?
 Undergraduate students who are interested in computational bioscience research and have basic computational training are invited to join Mangul Lab from June 16th, 2021, to August 20, 2021. The intern will perform individual research projects, guided by Dr. Mangul, in collaboration with and assistance from our graduate students and postdoctoral scholars. 
 
-Applications from traditionally underrepresented students will receive priority consideration and are HIGHLY encouraged to apply. To be eligible, you must be enrolled at SMC.
+*Applications from traditionally underrepresented students will receive priority consideration and are HIGHLY encouraged to apply. To be eligible, you must be enrolled at Santa Monica College.*
 
 Candidates must be eligible to work in the United States. 
 
