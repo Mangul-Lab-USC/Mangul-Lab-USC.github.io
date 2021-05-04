@@ -14,7 +14,7 @@ tags:
 
 ## Now recruiting: 2021-2022 Undergraduate STEM Intern!
  
-We are actively accepting applications from current undergraduate STEM students to fill the position of an Undergraduate Researcher at the Mangul Lab for Summer 2020.
+We are actively accepting applications from current undergraduate STEM students to fill the position of an Undergraduate Researcher at the Mangul Lab for Summer 2021.
 
 The Mangul Lab is committed to ensuring an inclusive and supportive environment regardless of age, gender, sexual orientation, disability, race, ethnicity, religion, nationality, or socioeconomic background.
 
