@@ -5,7 +5,7 @@ search:
   - sarak
   - sadek
 image: images/team/sara-sadek.jpg
-role: SURF Fellow
+role: undergrad
 github: EBYEMJC1
 email: EBYEMJC1@csu.fullerton.edu
 
