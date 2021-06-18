@@ -94,6 +94,7 @@ header {
   &[data-fullscreen="true"] {
     justify-content: center;
     min-height: 100vh;
+    animation: greyscale 1s ease-in;
 
     .logo > * {
       height: 200px;
@@ -101,14 +102,20 @@ header {
 
       @keyframes logo_zoom {
         0% {
-          transform: scale(2) translateX(14.666%);
-        }
-        50% {
-          transform: scale(1) translateX(14.666%);
+          transform: scale(2);
         }
         100% {
-          transform: scale(1) translateX(0);
+          transform: scale(1);
         }
+      }
+    }
+
+    @keyframes greyscale {
+      0% {
+        filter: grayscale(100%);
+      }
+      100% {
+        filter: grayscale(0%);
       }
     }
 
