@@ -101,19 +101,7 @@
     - single cell
     - ovarian cancer
 
-- id: doi:10.1186/s13059-019-1649-8
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
-
-- id: doi:10.1186/s12915-020-0756-z
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
-
-- id: doi:10.1042/ETLS20180175
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
-
 - id: doi:10.1038/nbt.4113
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
-
-- id: doi:10.1074/jbc.RA119.008853
   image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
 
 - id: doi:10.1074/jbc.RA119.008853
@@ -122,16 +110,10 @@
 - id: doi:10.1093/nar/gkz822
   image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
 
-- id: doi:10.1074/jbc.RA119.008853
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
-
 - id: doi:10.1007/978-3-030-13973-5_1
   image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
 
 - id: doi:10.1016/j.isci.2018.11.024
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
-
-- id: doi:10.1038/nbt.4113
   image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
 
 - id: doi:10.1016/j.tibtech.2017.06.007
@@ -169,20 +151,6 @@
     - ovarian cancer
 
 - id: doi:10.1186/s13059-020-02122-z
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
-  tags:
-    - cancer
-    - single cell
-    - ovarian cancer
-
-- id: doi:10.1186/s12915-020-0756-z
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
-  tags:
-    - cancer
-    - single cell
-    - ovarian cancer
-
-- id: doi:10.1186/s13059-020-01988-3
   image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
   tags:
     - cancer
@@ -245,19 +213,7 @@
     - single cell
     - ovarian cancer
 
-- id: doi:10.1186/s13059-020-01988-3
-  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
-  tags:
-    - cancer
-    - machine learning
-
 - id: doi:10.1038/s41467-019-09406-4
-  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
-  tags:
-    - cancer
-    - machine learning
-
-- id: doi:10.1371/journal.pbio.3000333
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
   tags:
     - cancer
@@ -284,9 +240,6 @@
 - id: doi:10.1038/s41587-019-0053-y
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
 
-- id: doi:10.1038/nbt.4113
-  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
-
 - id: doi:10.3389/fimmu.2018.02206
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
 
@@ -300,9 +253,6 @@
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
 
 - id: doi:10.1038/nature24041
-  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
-
-- id: doi:10.1038/s41398-018-0107-9
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
 
 - id: doi:10.1101/gr.216721.116
@@ -333,7 +283,7 @@
       link: https://doi.org/10.1101/785584
 
 - id: url:https://arxiv.org/abs/2002.12268
-  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  image: ''
   extra-links:
     - type: preprint
     - type: manubot
@@ -341,20 +291,6 @@
   tags:
     - cancer
     - machine learning
-
-- id: url:https://arxiv.org/abs/2002.12268
-  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
-  extra-links:
-    - type: preprint
-    - type: manubot
-      link: https://arxiv.org/abs/2002.12268
-
-- id: url:https://arxiv.org/abs/2002.12268
-  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
-  extra-links:
-    - type: preprint
-    - type: manubot
-      link: https://arxiv.org/abs/2002.12268
 
 - id: doi:10.1101/2020.01.17.910521
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
