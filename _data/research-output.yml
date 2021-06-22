@@ -1,5 +1,4 @@
-- &id001
-  title: 'ROP: dumpster diving in RNA-sequencing to find the source of 1 trillion
+- title: 'ROP: dumpster diving in RNA-sequencing to find the source of 1 trillion
     reads across diverse adult human tissues'
   authors:
   - Serghei Mangul
@@ -35,9 +34,7 @@
   - cancer
   - single cell
   - ovarian cancer
-- *id001
-- &id002
-  title: Profiling immunoglobulin repertoires across multiple human tissues using
+- title: Profiling immunoglobulin repertoires across multiple human tissues using
     RNA sequencing
   authors:
   - Igor Mandric
@@ -62,43 +59,10 @@
   date: '2020-06-19'
   link: https://doi.org/ghqfdr
   id: doi:10.1038/s41467-020-16857-7
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
   tags:
   - cancer
   - machine learning
-- title: 'ROP: dumpster diving in RNA-sequencing to find the source of 1 trillion
-    reads across diverse adult human tissues'
-  authors:
-  - Serghei Mangul
-  - Harry Taegyun Yang
-  - Nicolas Strauli
-  - Franziska Gruhl
-  - Hagit T. Porath
-  - Kevin Hsieh
-  - Linus Chen
-  - Timothy Daley
-  - Stephanie Christenson
-  - Agata Wesolowska-Andersen
-  - Roberto Spreafico
-  - Cydney Rios
-  - Celeste Eng
-  - Andrew D. Smith
-  - Ryan D. Hernandez
-  - Roel A. Ophoff
-  - Jose Rodriguez Santana
-  - Erez Y. Levanon
-  - Prescott G. Woodruff
-  - Esteban Burchard
-  - Max A. Seibold
-  - Sagiv Shifman
-  - Eleazar Eskin
-  - Noah Zaitlen
-  publisher: Genome Biology
-  date: '2018-02-15'
-  link: https://doi.org/ggn2dj
-  id: doi:doi:10.1186/s13059-018-1403-7
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
-- *id002
 - title: Accurate viral population assembly from ultra-deep sequencing data
   authors:
   - S. Mangul
@@ -153,8 +117,7 @@
   - cancer
   - single cell
   - ovarian cancer
-- &id004
-  title: Systematic benchmarking of omics computational tools
+- title: Systematic benchmarking of omics computational tools
   authors:
   - Serghei Mangul
   - Lana S. Martin
@@ -168,10 +131,11 @@
   date: '2019-03-27'
   link: https://doi.org/gfxx3z
   id: doi:10.1038/s41467-019-09406-4
-  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
   tags:
   - cancer
-  - machine learning
+  - single cell
+  - ovarian cancer
 - title: Challenges and recommendations to improve the installability and archival
     stability of omics computational tools
   authors:
@@ -251,7 +215,7 @@
   date: '2020-01-08'
   link: https://doi.org/ghjzd4
   id: doi:10.1093/nar/gkz822
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/nar/48/D1/10.1093_nar_gkz822/1/gkz822fig2.jpeg?Expires=1627396020&Signature=0zOulYw0i2LLSmY8mQHgoCJAay~ccQuLxUhZqvcjEqog10p2dGj05uxonDH66c7~69KmN0joOPaAfVRMjfUfwV72I5rPB8ctOesZVAIQacRPyjgUBHFjEr~y~nFEOkKqTA1CqETli5qqN-cdTgNCu64pyllxjrbITWheWZ5hRJ88KQIuZMlq7MxrVkgnOL-UZ0ipxseAccWLAMWJPFzAsgrjIa~vWuR42oiA3Dl7jjJ1Oz1UzlJn~6aLEzfBC1OmPduICHxa~7~l2eVCU13D8lfqYIJJVuEIPysIBQ0TLVRM0F9NH7a7qHFJN27a7Jwuv7Nta6bd3IK1KB80~XjjZg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   tags:
   - cancer
   - single cell
@@ -360,7 +324,7 @@
   date: '2021-01-26'
   link: https://doi.org/ghxdc9
   id: doi:10.1186/s13059-020-02252-4
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13059-020-02252-4/MediaObjects/13059_2020_2252_Fig1_HTML.png?as=webp
   tags:
   - cancer
   - single cell
@@ -437,7 +401,7 @@
   date: '2020-09-11'
   link: https://doi.org/ghxddg
   id: doi:10.1186/s13059-020-02113-0
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13059-020-02113-0/MediaObjects/13059_2020_2113_Fig4_HTML.png?as=webp
   tags:
   - cancer
   - single cell
@@ -469,7 +433,7 @@
   date: '2020-11-25'
   link: https://doi.org/ghxddk
   id: doi:10.31219/osf.io/v5kr4
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  image: ''
   tags:
   - cancer
   - single cell
@@ -664,13 +628,12 @@
   date: '2020-09-11'
   link: https://doi.org/ghxdfd
   id: doi:10.1126/science.aaz5900
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  image: https://science.sciencemag.org/content/sci/369/6509/eaaz5900/F1.large.jpg?width=800&height=600
   tags:
   - cancer
   - single cell
   - ovarian cancer
-- &id003
-  title: Integrating big data analytical techniques in pharmacy education
+- title: Integrating big data analytical techniques in pharmacy education
   authors:
   - Kerui Peng
   - Lana S. Martin
@@ -686,8 +649,6 @@
   - cancer
   - single cell
   - ovarian cancer
-- *id003
-- *id004
 - title: Improving the usability and archival stability of bioinformatics software
   authors:
   - Serghei Mangul
@@ -865,8 +826,7 @@
   tags:
   - cancer
   - machine learning
-- &id005
-  title: Co-expression networks reveal the tissue-specific regulation of transcription
+- title: Co-expression networks reveal the tissue-specific regulation of transcription
     and splicing
   authors:
   - Ashis Saha
@@ -886,7 +846,6 @@
   tags:
   - cancer
   - machine learning
-- *id005
 - title: A comprehensive benchmarking of WGS-based structural variant callers
   authors:
   - Varuni Sarwal
@@ -910,7 +869,7 @@
   date: '2020-09-17'
   link: https://doi.org/ggsfx4
   id: doi:10.1101/2020.04.16.045120
-  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  image: https://www.biorxiv.org/content/biorxiv/early/2020/09/17/2020.04.16.045120/F2.large.jpg?width=800&height=600
   extra-links:
   - type: preprint
   - type: manubot
@@ -948,8 +907,7 @@
   tags:
   - cancer
   - machine learning
-- &id006
-  title: Mechanisms of tissue-specific genetic regulation revealed by latent factors
+- title: Mechanisms of tissue-specific genetic regulation revealed by latent factors
     across eQTLs
   authors:
   - Yuan He
@@ -1006,7 +964,7 @@
   date: '2020-01-18'
   link: https://doi.org/ghqfdx
   id: doi:10.1101/2020.01.17.910521
-  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  image: https://www.biorxiv.org/content/biorxiv/early/2020/01/18/2020.01.17.910521/F1.large.jpg?width=800&height=600
   extra-links:
   - type: preprint
   - type: manubot
@@ -1061,50 +1019,6 @@
   - type: preprint
   - type: manubot
     link: https://doi.org/10.1101/833210
-  tags:
-  - cancer
-  - machine learning
-- title: Exploiting the GTEx resources to decipher the mechanisms at GWAS loci
-  authors:
-  - Alvaro N Barbeira
-  - Rodrigo Bonazzola
-  - Eric R Gamazon
-  - Yanyu Liang
-  - YoSon Park
-  - Sarah Kim-Hellmuth
-  - Gao Wang
-  - Zhuoxun Jiang
-  - Dan Zhou
-  - Farhad Hormozdiari
-  - Boxiang Liu
-  - Abhiram Rao
-  - Andrew R Hamel
-  - Milton D Pividori
-  - "Fran\xE7ois Aguet"
-  - Lisa Bastarache
-  - Daniel M Jordan
-  - Marie Verbanck
-  - Ron Do
-  - Matthew Stephens
-  - Kristin Ardlie
-  - Mark McCarthy
-  - Stephen B Montgomery
-  - "Ayellet V Segr\xE8"
-  - Christopher D. Brown
-  - Tuuli Lappalainen
-  - Xiaoquan Wen
-  - Hae Kyung Im
-  - ' '
-  - ' '
-  publisher: Cold Spring Harbor Laboratory
-  date: '2020-05-23'
-  link: https://doi.org/gg7m54
-  id: doi:10.1101/814350
-  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
-  extra-links:
-  - type: preprint
-  - type: manubot
-    link: https://doi.org/10.1101/814350
   tags:
   - cancer
   - machine learning
@@ -1180,8 +1094,6 @@
   tags:
   - cancer
   - machine learning
-- *id006
-- *id006
 - title: Long non-coding RNA gene regulation and trait associations across human tissues
   authors:
   - O. M. de Goede
