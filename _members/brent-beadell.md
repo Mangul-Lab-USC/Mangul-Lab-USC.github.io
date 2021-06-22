@@ -5,7 +5,7 @@ image: images/team/brent-beadell.jpg
 role: phd
 
 # add person to alumni group
-# group: alum
+group: alum
 
 
 #contact info and social media links
