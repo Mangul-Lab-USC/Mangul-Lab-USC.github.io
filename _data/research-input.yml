@@ -458,9 +458,3 @@
     - type: manubot
       link: https://doi.org/10.1101/792911
 
-- id: doi:10.1186/s13059-021-02332-z
-  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
-  extra-links:
-    - type: preprint
-    - type: manubot
-      link: https://doi.org/10.1186/s13059-021-02332-z
