@@ -7,7 +7,7 @@ title: Saki Watanabe
 #  - <name variation 2>
 
 # if image not specified, default will automatically be used
-#image: images/team/<file name>
+image: images/team/saki-watanabe.jpg
 
 # role must be included or person won't appear on team page
 role: phd
