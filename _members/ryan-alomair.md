@@ -2,11 +2,11 @@
 title: Ryan Alomair
 
 search:
-- Ryan
-- Alomair
-  image: images/team/ryan_alomair.jpg
-  role: undergrad
-  email: ryalomair@g.ucla.edu
+  - Ryan
+  - Alomair
+image: images/team/ryan-alomair.jpg
+role: undergrad
+email: ryalomair@g.ucla.edu
 
 ---
 

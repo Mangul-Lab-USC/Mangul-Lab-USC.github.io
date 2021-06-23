@@ -2,11 +2,10 @@
 title: Shirin Nataneli
 
 search:
-- Shirin
-- Nataneli
-  image: images/team/blank.jpg
-  role: undergrad
-  email: shirinnataneli@gmail.com
+  - Shirin
+  - Nataneli
+role: undergrad
+email: shirinnataneli@gmail.com
 
 ---
 
