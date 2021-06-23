@@ -7,6 +7,7 @@ search:
   - Maher
 image: images/team/niko-darci-maher.jpg
 role: undergrad
+group: alum
 website: https://www.linkedin.com/in/nikodarcimaher/
 email: niko.darcimaher@gmail.com 
 github: ndarci

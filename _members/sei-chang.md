@@ -6,6 +6,7 @@ search:
   - Chang
 image: images/team/sei-chang.jpg
 role: undergrad
+group: alum
 website: http://seichang.me
 email: seichang00@g.ucla.edu
 github: seichang00

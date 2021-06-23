@@ -6,6 +6,7 @@ search:
   - Rajkumar
 image: images/team/neha-rajkumar.jpg
 role: undergrad
+group: alum
 <!-- website: N/A -->
 email: nrajkumar@gmail.com 
 
