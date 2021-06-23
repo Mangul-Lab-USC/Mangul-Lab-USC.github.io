@@ -9,4 +9,4 @@ email: weidixia@usc.edu
 
 ---
 
-Work with Kerui on TCR-Seq project 
+Weidi is working with Kerui on TCR-Seq project for Summer 2021 through the Bridge Undergraduate Science Program.  
