@@ -59,7 +59,7 @@
   date: '2020-06-19'
   link: https://doi.org/ghqfdr
   id: doi:10.1038/s41467-020-16857-7
-  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-020-16857-7/MediaObjects/41467_2020_16857_Fig1_HTML.png
   tags:
   - cancer
   - machine learning
@@ -75,7 +75,7 @@
   date: '2014-06-15'
   link: https://doi.org/f58h9q
   id: doi:10.1093/bioinformatics/btu295
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/30/12/10.1093/bioinformatics/btu295/2/m_btu295f1.png?Expires=1626245276&Signature=tikBJOeTlbSqeLtgXLnZXqoXJ7aJxeYPL0WQUoA9Ai7~pkzaXJmrc0wv0lLJwukQgqpGjXAjDw2yJ4v1W9PpedVkbH9V9Ru5HFtBaLvuW~0U0C3Ws5V6IYApLF79PfThrTyqlw3bPXcgVhXnidKKdEhByoTeSlCSF6MG-M8cJM~smgeNiJtBkfmA7knaEYK8Ckq9~Wp13hmj-bDoMCjNnmh~jtj4Y3kzSuLls0OdWMZ0fNY9U8tKmLwHbAR4AH5sD6d4Dq-65SzZ30QjwZkJQ-q2TMK2PFw59O5srsDokkwGh6WSefowfnw17NZIcPkFyZbp-yR6g8X4S5H1fo7U3w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   tags:
   - sequencing
   - viral population assembly
@@ -112,7 +112,7 @@
   date: '2020-03-17'
   link: https://doi.org/ghqfds
   id: doi:10.1186/s13059-020-01988-3
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13059-020-01988-3/MediaObjects/13059_2020_1988_Fig1_HTML.png
   tags:
   - cancer
   - single cell
@@ -266,7 +266,7 @@
   date: '2017-10-01'
   link: https://doi.org/ghqfdw
   id: doi:10.1016/j.tibtech.2017.06.007
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  image: ''
   tags:
   - cancer
   - single cell
@@ -283,7 +283,7 @@
   date: '2020-09-10'
   link: https://doi.org/ghtqrz
   id: doi:10.1186/s13059-020-02159-0
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13059-020-02159-0/MediaObjects/13059_2020_2159_Fig1_HTML.png
   tags:
   - cancer
   - single cell
@@ -324,7 +324,7 @@
   date: '2021-01-26'
   link: https://doi.org/ghxdc9
   id: doi:10.1186/s13059-020-02252-4
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13059-020-02252-4/MediaObjects/13059_2020_2252_Fig1_HTML.png?as=webp
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13059-020-02252-4/MediaObjects/13059_2020_2252_Fig1_HTML.png
   tags:
   - cancer
   - single cell
@@ -345,7 +345,7 @@
   date: '2020-09-11'
   link: https://doi.org/ghxddb
   id: doi:10.1186/s13059-020-02026-y
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13059-020-02026-y/MediaObjects/13059_2020_2026_Fig6_HTML.png
   tags:
   - cancer
   - single cell
@@ -369,7 +369,7 @@
   date: '2020-09-11'
   link: https://doi.org/ghxddc
   id: doi:10.1186/s13059-020-02129-6
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13059-020-02129-6/MediaObjects/13059_2020_2129_Fig4_HTML.png
   tags:
   - cancer
   - single cell
@@ -401,7 +401,7 @@
   date: '2020-09-11'
   link: https://doi.org/ghxddg
   id: doi:10.1186/s13059-020-02113-0
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13059-020-02113-0/MediaObjects/13059_2020_2113_Fig4_HTML.png?as=webp
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13059-020-02113-0/MediaObjects/13059_2020_2113_Fig4_HTML.png
   tags:
   - cancer
   - single cell
@@ -418,7 +418,7 @@
   date: '2020-09-11'
   link: https://doi.org/ghxddj
   id: doi:10.1186/s13059-020-02122-z
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13059-020-02122-z/MediaObjects/13059_2020_2122_Fig2_HTML.png
   tags:
   - cancer
   - single cell
@@ -485,7 +485,7 @@
   date: '2020-09-10'
   link: https://doi.org/ghbnkj
   id: doi:10.1126/science.aba3066
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  image: https://science.sciencemag.org/content/sci/369/6509/eaba3066/F1.large.jpg?width=800&height=600
   tags:
   - cancer
   - single cell
@@ -497,7 +497,7 @@
   date: '2020-09-11'
   link: https://doi.org/ghbnhr
   id: doi:10.1126/science.aaz1776
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  image: https://science.sciencemag.org/content/sci/369/6509/1318/F2.large.jpg?width=800&height=600
   tags:
   - cancer
   - single cell
@@ -543,7 +543,7 @@
   date: '2020-09-11'
   link: https://doi.org/ghbnkh
   id: doi:10.1126/science.aaz8528
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  image: https://science.sciencemag.org/content/sci/369/6509/eaaz8528/F3.large.jpg?width=800&height=600
   tags:
   - cancer
   - single cell
@@ -577,7 +577,7 @@
   date: '2020-09-10'
   link: https://doi.org/ghbsdk
   id: doi:10.1126/science.aaz6876
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  image: https://science.sciencemag.org/content/sci/369/6509/eaaz6876/F1.large.jpg?width=800&height=600
   tags:
   - cancer
   - single cell
@@ -644,7 +644,7 @@
   date: '2020-08-26'
   link: https://doi.org/ghxdff
   id: doi:10.31219/osf.io/3gdy4
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  image: ''
   tags:
   - cancer
   - single cell
@@ -675,7 +675,7 @@
   date: '2020-04-07'
   link: https://doi.org/ghqfdt
   id: doi:10.1186/s12915-020-0756-z
-  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12915-020-0756-z/MediaObjects/12915_2020_756_Fig1_HTML.png
   tags:
   - cancer
   - machine learning
@@ -782,7 +782,7 @@
   date: '2017-10-12'
   link: https://doi.org/gb2nqv
   id: doi:10.1038/nature24277
-  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature24277/MediaObjects/41586_2017_Article_BFnature24277_Fig1_HTML.jpg
   tags:
   - cancer
   - machine learning
@@ -822,7 +822,7 @@
   date: '2017-10-12'
   link: https://doi.org/gb2qv5
   id: doi:10.1038/nature24041
-  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature24041/MediaObjects/41586_2017_Article_BFnature24041_Fig1_HTML.jpg
   tags:
   - cancer
   - machine learning
@@ -842,7 +842,7 @@
   date: '2017-11-01'
   link: https://doi.org/gb2qx6
   id: doi:10.1101/gr.216721.116
-  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  image: ''
   tags:
   - cancer
   - machine learning
@@ -899,7 +899,7 @@
   date: '2020-07-09'
   link: https://doi.org/2003.00110
   id: doi:2003.00110
-  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  image: ''
   extra-links:
   - type: preprint
   - type: manubot
@@ -990,7 +990,7 @@
   date: '2020-08-07'
   link: https://doi.org/1911.11304
   id: doi:1911.11304
-  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  image: ''
   extra-links:
   - type: preprint
   - type: manubot
@@ -1014,7 +1014,7 @@
   date: '2020-03-13'
   link: https://doi.org/gg334k
   id: doi:10.1101/833210
-  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  image: https://www.biorxiv.org/content/biorxiv/early/2020/03/13/833210/F1.large.jpg?width=800&height=600
   extra-links:
   - type: preprint
   - type: manubot
@@ -1038,7 +1038,7 @@
   date: '2019-10-17'
   link: https://doi.org/ghqfdz
   id: doi:10.1101/808295
-  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  image: https://www.biorxiv.org/content/biorxiv/early/2019/10/17/808295/F2.large.jpg?width=800&height=600
   extra-links:
   - type: preprint
   - type: manubot
@@ -1086,7 +1086,7 @@
   date: '2019-10-17'
   link: https://doi.org/ggh6r5
   id: doi:10.1101/806117
-  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  image: https://www.biorxiv.org/content/biorxiv/early/2019/10/17/806117/F3.large.jpg?width=800&height=600
   extra-links:
   - type: preprint
   - type: manubot
