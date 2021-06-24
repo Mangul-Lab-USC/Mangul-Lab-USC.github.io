@@ -4,6 +4,7 @@ title: Weidi Xiao
 search:
   - Weidi
   - Xiao
+image: images/team/Weidi-Xiao.jpg
 role: undergrad
 email: weidixia@usc.edu
 
