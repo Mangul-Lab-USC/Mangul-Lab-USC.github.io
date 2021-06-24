@@ -48,12 +48,9 @@
 # Url to link to. If not specified, defaults to the url that Manubot returns for
 # the citation.
 
-- id: doi:10.1186/s13059-018-1403-7
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
-  tags:
-    - cancer
-    - single cell
-    - ovarian cancer
+# Note: Go to the doi link where the paper is published
+# and retrieve a direct link to a figure from the paper before adding an article...
+# Do not use the same image for multiple articles... - Jaden :)
 
 - id: doi:10.1186/s13059-018-1403-7
   image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
@@ -63,25 +60,17 @@
     - ovarian cancer
 
 - id: doi:10.1038/s41467-020-16857-7
-  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-020-16857-7/MediaObjects/41467_2020_16857_Fig1_HTML.png
   tags:
     - cancer
     - machine learning
 
-- id: doi:doi:10.1186/s13059-018-1403-7
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
-
-
-- id: doi:10.1038/s41467-020-16857-7
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
-
-
 - id: doi:10.1093/bioinformatics/btu295
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/30/12/10.1093/bioinformatics/btu295/2/m_btu295f1.png?Expires=1626245276&Signature=tikBJOeTlbSqeLtgXLnZXqoXJ7aJxeYPL0WQUoA9Ai7~pkzaXJmrc0wv0lLJwukQgqpGjXAjDw2yJ4v1W9PpedVkbH9V9Ru5HFtBaLvuW~0U0C3Ws5V6IYApLF79PfThrTyqlw3bPXcgVhXnidKKdEhByoTeSlCSF6MG-M8cJM~smgeNiJtBkfmA7knaEYK8Ckq9~Wp13hmj-bDoMCjNnmh~jtj4Y3kzSuLls0OdWMZ0fNY9U8tKmLwHbAR4AH5sD6d4Dq-65SzZ30QjwZkJQ-q2TMK2PFw59O5srsDokkwGh6WSefowfnw17NZIcPkFyZbp-yR6g8X4S5H1fo7U3w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 
 
 - id: doi:10.1186/s13059-020-01988-3
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13059-020-01988-3/MediaObjects/13059_2020_1988_Fig1_HTML.png
   tags:
     - cancer
     - single cell
@@ -101,29 +90,14 @@
     - single cell
     - ovarian cancer
 
-- id: doi:10.1186/s13059-019-1649-8
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
-
-- id: doi:10.1186/s12915-020-0756-z
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
-
-- id: doi:10.1042/ETLS20180175
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
-
 - id: doi:10.1038/nbt.4113
   image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
 
 - id: doi:10.1074/jbc.RA119.008853
   image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
 
-- id: doi:10.1074/jbc.RA119.008853
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
-
 - id: doi:10.1093/nar/gkz822
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
-
-- id: doi:10.1074/jbc.RA119.008853
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/nar/48/D1/10.1093_nar_gkz822/1/gkz822fig2.jpeg?Expires=1627396020&Signature=0zOulYw0i2LLSmY8mQHgoCJAay~ccQuLxUhZqvcjEqog10p2dGj05uxonDH66c7~69KmN0joOPaAfVRMjfUfwV72I5rPB8ctOesZVAIQacRPyjgUBHFjEr~y~nFEOkKqTA1CqETli5qqN-cdTgNCu64pyllxjrbITWheWZ5hRJ88KQIuZMlq7MxrVkgnOL-UZ0ipxseAccWLAMWJPFzAsgrjIa~vWuR42oiA3Dl7jjJ1Oz1UzlJn~6aLEzfBC1OmPduICHxa~7~l2eVCU13D8lfqYIJJVuEIPysIBQ0TLVRM0F9NH7a7qHFJN27a7Jwuv7Nta6bd3IK1KB80~XjjZg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 
 - id: doi:10.1007/978-3-030-13973-5_1
   image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
@@ -131,137 +105,91 @@
 - id: doi:10.1016/j.isci.2018.11.024
   image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
 
-- id: doi:10.1038/nbt.4113
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
-
 - id: doi:10.1016/j.tibtech.2017.06.007
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  image: ''
 
 - id: doi:10.1186/s13059-020-02159-0
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13059-020-02159-0/MediaObjects/13059_2020_2159_Fig1_HTML.png
 
 - id: doi:10.1186/s13059-020-02252-4
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13059-020-02252-4/MediaObjects/13059_2020_2252_Fig1_HTML.png
   tags:
     - cancer
     - single cell
     - ovarian cancer
 
 - id: doi:10.1186/s13059-020-02026-y
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13059-020-02026-y/MediaObjects/13059_2020_2026_Fig6_HTML.png
   tags:
     - cancer
     - single cell
     - ovarian cancer
 
 - id: doi:10.1186/s13059-020-02129-6
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13059-020-02129-6/MediaObjects/13059_2020_2129_Fig4_HTML.png
   tags:
     - cancer
     - single cell
     - ovarian cancer
 
 - id: doi:10.1186/s13059-020-02113-0
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13059-020-02113-0/MediaObjects/13059_2020_2113_Fig4_HTML.png
   tags:
     - cancer
     - single cell
     - ovarian cancer
 
 - id: doi:10.1186/s13059-020-02122-z
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
-  tags:
-    - cancer
-    - single cell
-    - ovarian cancer
-
-- id: doi:10.1186/s12915-020-0756-z
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
-  tags:
-    - cancer
-    - single cell
-    - ovarian cancer
-
-- id: doi:10.1186/s13059-020-01988-3
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13059-020-02122-z/MediaObjects/13059_2020_2122_Fig2_HTML.png
   tags:
     - cancer
     - single cell
     - ovarian cancer
 
 - id: doi:10.31219/osf.io/v5kr4
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  image: ''
   tags:
     - cancer
     - single cell
     - ovarian cancer
 
 - id: doi:10.1126/science.aba3066
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  image: https://science.sciencemag.org/content/sci/369/6509/eaba3066/F1.large.jpg?width=800&height=600
   tags:
     - cancer
     - single cell
     - ovarian cancer
 
 - id: doi:10.1126/science.aaz1776
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  image: https://science.sciencemag.org/content/sci/369/6509/1318/F2.large.jpg?width=800&height=600
   tags:
     - cancer
     - single cell
     - ovarian cancer
 
 - id: doi:10.1126/science.aaz8528
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  image: https://science.sciencemag.org/content/sci/369/6509/eaaz8528/F3.large.jpg?width=800&height=600
   tags:
     - cancer
     - single cell
     - ovarian cancer
 
 - id: doi:10.1126/science.aaz6876
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  image: https://science.sciencemag.org/content/sci/369/6509/eaaz6876/F1.large.jpg?width=800&height=600
   tags:
     - cancer
     - single cell
     - ovarian cancer
 
 - id: doi:10.1126/science.aaz5900
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  image: https://science.sciencemag.org/content/sci/369/6509/eaaz5900/F1.large.jpg?width=800&height=600
   tags:
     - cancer
     - single cell
     - ovarian cancer
 
 - id: doi:10.31219/osf.io/3gdy4
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
-  tags:
-    - cancer
-    - single cell
-    - ovarian cancer
-
-- id: doi:10.31219/osf.io/3gdy4
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
-  tags:
-    - cancer
-    - single cell
-    - ovarian cancer
-
-- id: doi:10.1186/s13059-020-01988-3
-  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
-  tags:
-    - cancer
-    - machine learning
-
-- id: doi:10.1038/s41467-019-09406-4
-  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
-  tags:
-    - cancer
-    - machine learning
-
-- id: doi:10.1371/journal.pbio.3000333
-  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
-  tags:
-    - cancer
-    - machine learning
+  image: ''
 
 - id: doi:10.1186/s13059-019-1649-8
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
@@ -270,7 +198,7 @@
     - machine learning
 
 - id: doi:10.1186/s12915-020-0756-z
-  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12915-020-0756-z/MediaObjects/12915_2020_756_Fig1_HTML.png
   tags:
     - cancer
     - machine learning
@@ -284,9 +212,6 @@
 - id: doi:10.1038/s41587-019-0053-y
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
 
-- id: doi:10.1038/nbt.4113
-  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
-
 - id: doi:10.3389/fimmu.2018.02206
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
 
@@ -297,29 +222,23 @@
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
 
 - id: doi:10.1038/nature24277
-  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature24277/MediaObjects/41586_2017_Article_BFnature24277_Fig1_HTML.jpg
 
 - id: doi:10.1038/nature24041
-  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
-
-- id: doi:10.1038/s41398-018-0107-9
-  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature24041/MediaObjects/41586_2017_Article_BFnature24041_Fig1_HTML.jpg
 
 - id: doi:10.1101/gr.216721.116
-  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
-
-- id: doi:10.1101/gr.216721.116
-  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  image: ''
 
 - id: doi:10.1101/2020.04.16.045120
-  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  image: https://www.biorxiv.org/content/biorxiv/early/2020/09/17/2020.04.16.045120/F2.large.jpg?width=800&height=600
   extra-links:
     - type: preprint
     - type: manubot
       link: https://www.biorxiv.org/content/10.1101/2020.04.16.045120v1
 
 - id: doi:2003.00110
-  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  image: ''
   extra-links:
     - type: preprint
     - type: manubot
@@ -333,7 +252,7 @@
       link: https://doi.org/10.1101/785584
 
 - id: url:https://arxiv.org/abs/2002.12268
-  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  image: ''
   extra-links:
     - type: preprint
     - type: manubot
@@ -342,22 +261,8 @@
     - cancer
     - machine learning
 
-- id: url:https://arxiv.org/abs/2002.12268
-  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
-  extra-links:
-    - type: preprint
-    - type: manubot
-      link: https://arxiv.org/abs/2002.12268
-
-- id: url:https://arxiv.org/abs/2002.12268
-  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
-  extra-links:
-    - type: preprint
-    - type: manubot
-      link: https://arxiv.org/abs/2002.12268
-
 - id: doi:10.1101/2020.01.17.910521
-  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  image: https://www.biorxiv.org/content/biorxiv/early/2020/01/18/2020.01.17.910521/F1.large.jpg?width=800&height=600
   extra-links:
     - type: preprint
     - type: manubot
@@ -367,7 +272,7 @@
     - machine learning
 
 - id: doi:1911.11304
-  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  image: ''
   extra-links:
     - type: preprint
     - type: manubot
@@ -377,7 +282,7 @@
     - machine learning
 
 - id: doi:10.1101/833210
-  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  image: https://www.biorxiv.org/content/biorxiv/early/2020/03/13/833210/F1.large.jpg?width=800&height=600
   extra-links:
     - type: preprint
     - type: manubot
@@ -386,18 +291,8 @@
     - cancer
     - machine learning
 
-- id: doi:10.1101/814350
-  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
-  extra-links:
-    - type: preprint
-    - type: manubot
-      link: https://doi.org/10.1101/814350
-  tags:
-    - cancer
-    - machine learning
-
 - id: doi:10.1101/808295
-  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  image: https://www.biorxiv.org/content/biorxiv/early/2019/10/17/808295/F2.large.jpg?width=800&height=600
   extra-links:
     - type: preprint
     - type: manubot
@@ -407,7 +302,7 @@
     - machine learning
 
 - id: doi:10.1101/806117
-  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  image: https://www.biorxiv.org/content/biorxiv/early/2019/10/17/806117/F3.large.jpg?width=800&height=600
   extra-links:
     - type: preprint
     - type: manubot
@@ -415,20 +310,6 @@
   tags:
     - cancer
     - machine learning
-
-- id: doi:10.1101/785584
-  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
-  extra-links:
-    - type: preprint
-    - type: manubot
-      link: https://doi.org/10.1101/785584
-
-- id: doi:10.1101/785584
-  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
-  extra-links:
-    - type: preprint
-    - type: manubot
-      link: https://doi.org/10.1101/785584
 
 - id: doi:10.1101/793091
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
