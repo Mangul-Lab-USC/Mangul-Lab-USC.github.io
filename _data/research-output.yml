@@ -345,7 +345,7 @@
   date: '2020-09-11'
   link: https://doi.org/ghxddb
   id: doi:10.1186/s13059-020-02026-y
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13059-020-02026-y/MediaObjects/13059_2020_2026_Fig6_HTML.png
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13059-020-02026-y/MediaObjects/13059_2020_2026_Fig3_HTML.png
   tags:
   - cancer
   - single cell
@@ -433,7 +433,7 @@
   date: '2020-11-25'
   link: https://doi.org/ghxddk
   id: doi:10.31219/osf.io/v5kr4
-  image: ''
+  image: https://osf.io/preprints/assets/osf-assets/files/preprints-assets/osf/sharing-272b70fbebcd410fcebc10e5ce1a395abbf5c62d.png
   tags:
   - cancer
   - single cell
@@ -649,6 +649,300 @@
   - cancer
   - single cell
   - ovarian cancer
+- title: Improving the completeness of public metadata accompanying omics studies
+  authors:
+  - Anushka Rajesh
+  - Yutong Chang
+  - Malak S. Abedalthagafi
+  - Annie Wong-Beringer
+  - Michael I. Love
+  - Serghei Mangul
+  publisher: Genome Biology
+  date: '2021-04-15'
+  link: https://doi.org/gjt6d6
+  id: doi:10.1186/s13059-021-02332-z
+  image: https://media.springernature.com/w110/springer-static/cover/journal/13059.jpg
+- title: Rare loss-of-function variants in type I IFN immunity genes are not associated
+    with severe COVID-19
+  authors:
+  - Gundula Povysil
+  - Guillaume Butler-Laporte
+  - Ning Shang
+  - Chen Wang
+  - Atlas Khan
+  - Manal Alaamery
+  - Tomoko Nakanishi
+  - Sirui Zhou
+  - Vincenzo Forgetta
+  - Robert J. M. Eveleigh
+  - Mathieu Bourgey
+  - Naveed Aziz
+  - Steven J.M. Jones
+  - Bartha Knoppers
+  - Stephen W. Scherer
+  - Lisa J. Strug
+  - Pierre Lepage
+  - Jiannis Ragoussis
+  - Guillaume Bourque
+  - Jahad Alghamdi
+  - Nora Aljawini
+  - Nour Albesher
+  - Hani M. Al-Afghani
+  - Bader Alghamdi
+  - Mansour S. Almutair
+  - Ebrahim Sabri Mahmoud
+  - Leen Abu-Safieh
+  - Hadeel El Bardisy
+  - Fawz S. Al Harthi
+  - Abdulraheem Alshareef
+  - Bandar Ali Suliman
+  - Saleh A. Alqahtani
+  - Abdulaziz Almalik
+  - May M. Alrashed
+  - Salam Massadeh
+  - Vincent Mooser
+  - Mark Lathrop
+  - Mohamed Fawzy
+  - Yaseen M. Arabi
+  - Hamdi Mbarek
+  - Chadi Saad
+  - Wadha Al-Muftah
+  - Junghyun Jung
+  - Serghei Mangul
+  - Radja Badji
+  - Asma Al Thani
+  - Said I. Ismail
+  - Ali G. Gharavi
+  - Malak S. Abedalthagafi
+  - J Brent Richards
+  - David B. Goldstein
+  - Krzysztof Kiryluk
+  publisher: Journal of Clinical Investigation
+  date: '2021-05-27'
+  link: https://doi.org/gj8d5s
+  id: doi:10.1172/JCI147834
+  image: ''
+- title: "Detection of viral gene expression in risk\u2010stratified biopsies reveals\
+    \ no active HPV in cutaneous squamous cell carcinoma"
+  authors:
+  - Amy R. Vandiver
+  - Brandon J. Thomas
+  - Mohammad Karimzada
+  - Byron C. Knowles
+  - Giovanni A. Botten
+  - Roberto Spreafico
+  - Jeremy N. Rotman
+  - Nima M Gharavi
+  - Cameron Chesnut
+  - Kevin Wesel
+  - Serghei Mangul
+  - Teresa Soriano
+  - Philip O. Scumpia
+  publisher: Experimental Dermatology
+  date: '2021-05-25'
+  link: https://doi.org/gj7b4r
+  id: doi:10.1111/exd.14385
+  image: ''
+- title: Population-scale tissue transcriptomics maps long non-coding RNAs to complex
+    disease
+  authors:
+  - Olivia M. de Goede
+  - Daniel C. Nachun
+  - Nicole M. Ferraro
+  - Michael J. Gloudemans
+  - Abhiram S. Rao
+  - Craig Smail
+  - Tiffany Y. Eulalio
+  - "Fran\xE7ois Aguet"
+  - Bernard Ng
+  - Jishu Xu
+  - Alvaro N. Barbeira
+  - Stephane E. Castel
+  - Sarah Kim-Hellmuth
+  - YoSon Park
+  - Alexandra J. Scott
+  - Benjamin J. Strober
+  - Christopher D. Brown
+  - Xiaoquan Wen
+  - Ira M. Hall
+  - Alexis Battle
+  - Tuuli Lappalainen
+  - Hae Kyung Im
+  - Kristin G. Ardlie
+  - Sara Mostafavi
+  - Thomas Quertermous
+  - Karla Kirkegaard
+  - Stephen B. Montgomery
+  - Shankara Anand
+  - Stacey Gabriel
+  - Gad A. Getz
+  - Aaron Graubert
+  - Kane Hadley
+  - Robert E. Handsaker
+  - Katherine H. Huang
+  - Xiao Li
+  - Daniel G. MacArthur
+  - Samuel R. Meier
+  - Jared L. Nedzel
+  - Duyen T. Nguyen
+  - "Ayellet V. Segr\xE8"
+  - Ellen Todres
+  - Brunilda Balliu
+  - Rodrigo Bonazzola
+  - Andrew Brown
+  - Donald F. Conrad
+  - Daniel J. Cotter
+  - Nancy Cox
+  - Sayantan Das
+  - Emmanouil T. Dermitzakis
+  - Jonah Einson
+  - Barbara E. Engelhardt
+  - Eleazar Eskin
+  - Elise D. Flynn
+  - Laure Fresard
+  - Eric R. Gamazon
+  - "Diego Garrido-Mart\xEDn"
+  - Nicole R. Gay
+  - "Roderic Guig\xF3"
+  - Andrew R. Hamel
+  - Yuan He
+  - Paul J. Hoffman
+  - Farhad Hormozdiari
+  - Lei Hou
+  - Brian Jo
+  - Silva Kasela
+  - Seva Kashin
+  - Manolis Kellis
+  - Alan Kwong
+  - Xin Li
+  - Yanyu Liang
+  - Serghei Mangul
+  - Pejman Mohammadi
+  - "Manuel Mu\xF1oz-Aguirre"
+  - Andrew B. Nobel
+  - Meritxell Oliva
+  - Yongjin Park
+  - Princy Parsana
+  - Ferran Reverter
+  - John M. Rouhana
+  - Chiara Sabatti
+  - Ashis Saha
+  - Matthew Stephens
+  - Barbara E. Stranger
+  - Nicole A. Teran
+  - "Ana Vi\xF1uela"
+  - Gao Wang
+  - Fred Wright
+  - Valentin Wucher
+  - Yuxin Zou
+  - Pedro G. Ferreira
+  - Gen Li
+  - "Marta Mel\xE9"
+  - Esti Yeger-Lotem
+  - Debra Bradbury
+  - Tanya Krubit
+  - Jeffrey A. McLean
+  - Liqun Qi
+  - Karna Robinson
+  - Nancy V. Roche
+  - Anna M. Smith
+  - David E. Tabor
+  - Anita Undale
+  - Jason Bridge
+  - Lori E. Brigham
+  - Barbara A. Foster
+  - Bryan M. Gillard
+  - Richard Hasz
+  - Marcus Hunter
+  - Christopher Johns
+  - Mark Johnson
+  - Ellen Karasik
+  - Gene Kopen
+  - William F. Leinweber
+  - Alisa McDonald
+  - Michael T. Moser
+  - Kevin Myer
+  - Kimberley D. Ramsey
+  - Brian Roe
+  - Saboor Shad
+  - Jeffrey A. Thomas
+  - Gary Walters
+  - Michael Washington
+  - Joseph Wheeler
+  - Scott D. Jewell
+  - Daniel C. Rohrer
+  - Dana R. Valley
+  - David A. Davis
+  - Deborah C. Mash
+  - Mary E. Barcus
+  - Philip A. Branton
+  - Leslie Sobin
+  - Laura K. Barker
+  - Heather M. Gardiner
+  - Maghboeba Mosavel
+  - Laura A. Siminoff
+  - Paul Flicek
+  - Maximilian Haeussler
+  - Thomas Juettemann
+  - W. James Kent
+  - Christopher M. Lee
+  - Conner C. Powell
+  - Kate R. Rosenbloom
+  - Magali Ruffier
+  - Dan Sheppard
+  - Kieron Taylor
+  - Stephen J. Trevanion
+  - Daniel R. Zerbino
+  - Nathan S. Abell
+  - Joshua Akey
+  - Lin Chen
+  - Kathryn Demanelis
+  - Jennifer A. Doherty
+  - Andrew P. Feinberg
+  - Kasper D. Hansen
+  - Peter F. Hickey
+  - Farzana Jasmine
+  - Lihua Jiang
+  - Rajinder Kaul
+  - Muhammad G. Kibriya
+  - Jin Billy Li
+  - Qin Li
+  - Shin Lin
+  - Sandra E. Linder
+  - Brandon L. Pierce
+  - Lindsay F. Rizzardi
+  - Andrew D. Skol
+  - Kevin S. Smith
+  - Michael Snyder
+  - John Stamatoyannopoulos
+  - Hua Tang
+  - Meng Wang
+  - Latarsha J. Carithers
+  - Ping Guan
+  - Susan E. Koester
+  - A. Roger Little
+  - Helen M. Moore
+  - Concepcion R. Nierras
+  - Abhi K. Rao
+  - Jimmie B. Vaught
+  - Simona Volpi
+  publisher: Cell
+  date: '2021-05-01'
+  link: https://doi.org/gjtcvr
+  id: doi:10.1016/j.cell.2021.03.050
+  image: ''
+- title: Dietary Supplements and Nutraceuticals under Investigation for COVID-19 Prevention
+    and Treatment
+  authors:
+  - Ronan Lordan
+  - Halie M. Rando
+  - Casey S. Greene
+  - ' '
+  publisher: mSystems
+  date: '2021-06-29'
+  link: https://doi.org/gj9qvs
+  id: doi:10.1128/mSystems.00122-21
+  image: https://asm.org/ASM/media/Company-Logos/ASM-OG-Default.jpg?ext=.jpg
 - title: Improving the usability and archival stability of bioinformatics software
   authors:
   - Serghei Mangul
@@ -1043,54 +1337,6 @@
   - type: preprint
   - type: manubot
     link: https://doi.org/10.1101/808295
-  tags:
-  - cancer
-  - machine learning
-- title: Cell type specific genetic regulation of gene expression across human tissues
-  authors:
-  - Sarah Kim-Hellmuth
-  - "Fran\xE7ois Aguet"
-  - Meritxell Oliva
-  - "Manuel Mu\xF1oz-Aguirre"
-  - Valentin Wucher
-  - Silva Kasela
-  - Stephane E. Castel
-  - Andrew R. Hamel
-  - "Ana Vi\xF1uela"
-  - Amy L. Roberts
-  - Serghei Mangul
-  - Xiaoquan Wen
-  - Gao Wang
-  - Alvaro N. Barbeira
-  - "Diego Garrido-Mart\xEDn"
-  - Brian Nadel
-  - Yuxin Zou
-  - Rodrigo Bonazzola
-  - Jie Quan
-  - Andrew Brown
-  - Angel Martinez-Perez
-  - "Jos\xE9 Manuel Soria"
-  - Gad Getz
-  - Emmanouil T. Dermitzakis
-  - Kerrin S. Small
-  - Matthew Stephens
-  - Hualin S. Xi
-  - Hae Kyung Im
-  - "Roderic Guig\xF3"
-  - "Ayellet V. Segr\xE8"
-  - Barbara E. Stranger
-  - Kristin G. Ardlie
-  - Tuuli Lappalainen
-  - ' '
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-10-17'
-  link: https://doi.org/ggh6r5
-  id: doi:10.1101/806117
-  image: https://www.biorxiv.org/content/biorxiv/early/2019/10/17/806117/F3.large.jpg?width=800&height=600
-  extra-links:
-  - type: preprint
-  - type: manubot
-    link: https://doi.org/10.1101/806117
   tags:
   - cancer
   - machine learning

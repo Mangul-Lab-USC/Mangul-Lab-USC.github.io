@@ -52,6 +52,11 @@
 # and retrieve a direct link to a figure from the paper before adding an article...
 # Do not use the same image for multiple articles... - Jaden :)
 
+# Default images if the Journal has no available figures:
+# Genome Biology Journal default image: https://media.springernature.com/w110/springer-static/cover/journal/13059.jpg
+# OSF Preprints default image: https://osf.io/preprints/assets/osf-assets/files/preprints-assets/osf/sharing-272b70fbebcd410fcebc10e5ce1a395abbf5c62d.png
+# ASM Journal default image: https://asm.org/ASM/media/Company-Logos/ASM-OG-Default.jpg?ext=.jpg
+
 - id: doi:10.1186/s13059-018-1403-7
   image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
   tags:
@@ -119,7 +124,7 @@
     - ovarian cancer
 
 - id: doi:10.1186/s13059-020-02026-y
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13059-020-02026-y/MediaObjects/13059_2020_2026_Fig6_HTML.png
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13059-020-02026-y/MediaObjects/13059_2020_2026_Fig3_HTML.png
   tags:
     - cancer
     - single cell
@@ -147,7 +152,7 @@
     - ovarian cancer
 
 - id: doi:10.31219/osf.io/v5kr4
-  image: ''
+  image: 'https://osf.io/preprints/assets/osf-assets/files/preprints-assets/osf/sharing-272b70fbebcd410fcebc10e5ce1a395abbf5c62d.png'
   tags:
     - cancer
     - single cell
@@ -190,6 +195,21 @@
 
 - id: doi:10.31219/osf.io/3gdy4
   image: ''
+
+- id: doi:10.1186/s13059-021-02332-z
+  image: 'https://media.springernature.com/w110/springer-static/cover/journal/13059.jpg'
+
+- id: doi:10.1172/JCI147834
+  image: ''
+
+- id: doi:10.1111/exd.14385
+  image: ''
+
+- id: doi:10.1016/j.cell.2021.03.050
+  image: ''
+
+- id: doi:10.1128/mSystems.00122-21 
+  image: 'https://asm.org/ASM/media/Company-Logos/ASM-OG-Default.jpg?ext=.jpg'
 
 - id: doi:10.1186/s13059-019-1649-8
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
@@ -297,16 +317,6 @@
     - type: preprint
     - type: manubot
       link: https://doi.org/10.1101/808295
-  tags:
-    - cancer
-    - machine learning
-
-- id: doi:10.1101/806117
-  image: https://www.biorxiv.org/content/biorxiv/early/2019/10/17/806117/F3.large.jpg?width=800&height=600
-  extra-links:
-    - type: preprint
-    - type: manubot
-      link: https://doi.org/10.1101/806117
   tags:
     - cancer
     - machine learning
