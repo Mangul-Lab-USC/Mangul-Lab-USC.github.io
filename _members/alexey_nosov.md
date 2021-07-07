@@ -4,7 +4,7 @@ title: Alexey Nosov
 search:
   - Alexey
   - Nosov
-image: images/team/alexey-nosov.jpg
+image: images/team/alexey-nosov.jpg 
 role: undergrad
 email: nosov_alexei@student.smc.edu
 github: anosov1983
