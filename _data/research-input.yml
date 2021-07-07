@@ -53,10 +53,11 @@
 # Do not use the same image for multiple articles... - Jaden :)
 
 # Default images if the Journal has no available figures:
+
 # Genome Biology Journal default image: https://media.springernature.com/w110/springer-static/cover/journal/13059.jpg
 # OSF Preprints default image: https://osf.io/preprints/assets/osf-assets/files/preprints-assets/osf/sharing-272b70fbebcd410fcebc10e5ce1a395abbf5c62d.png
 # ASM Journal default image: https://asm.org/ASM/media/Company-Logos/ASM-OG-Default.jpg?ext=.jpg
-
+# Journal of clinical investigation: https://dm5migu4zj3pb.cloudfront.net/volumes/129/2/129-2-cover.jpg
 - id: doi:10.1186/s13059-018-1403-7
   image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
   tags:
@@ -112,6 +113,30 @@
 
 - id: doi:10.1016/j.tibtech.2017.06.007
   image: ''
+
+- id: doi:arXiv:2102.01521
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7885912/bin/nihpp-2102.01521v2-f0001.jpg
+
+- id: doi:10.1101/2021.05.28.446240
+  image: https://www.biorxiv.org/content/biorxiv/early/2021/05/29/2021.05.28.446240/F2.medium.gif
+
+- id: doi:10.1101/2021.03.09.434660
+  image: https://www.biorxiv.org/content/biorxiv/early/2021/03/10/2021.03.09.434660/F2.medium.gif
+
+- id: doi:/10.1038/s41592-021-01169-5
+  image: https://upload.wikimedia.org/wikipedia/commons/2/2a/NMeth_cover_MAY21.jpg
+
+- id: doi:arXiv:2104.14005v2
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8109901/bin/nihpp-2104.14005v2-f0001.jpg
+
+- id: doi:arXiv:2103.02723v1
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7941644/bin/nihpp-2103.02723v1-f0003.jpg
+
+- id: doi:10.31219/osf.io/w25hq
+  image: https://osf.io/preprints/assets/osf-assets/files/preprints-assets/osf/sharing-272b70fbebcd410fcebc10e5ce1a395abbf5c62d.png
+
+- id: doi:10.1093/gigascience/giab002
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gigascience/10/2/10.1093_gigascience_giab002/3/m_giab002fig1.jpeg?Expires=1627831916&Signature=t41E54zyrgVce8Y-vG2ZTOhQsnHMSnSU5fm375Qqg1tuDR9cfGBwvlnLmKa4m8S2zlcquAsWqgDPn8tXfwB7KXCZ5njGP0p3lVFf19jbgTc94jqC1y-os~Xq0C~ZYYOVN9owvh~UBf-tp4IvROVMZ-wqLD9J7GpkKdoBXnTZP0RguLCBdl2vKwoEd79Y-L~I1ymuDm2SxdMHBX36niyTvbcBQzOYw6ifsFAtKrDN7Eyd7iQcPqJAQ1fnGMR6EGGw-9mwuosnaLGzUNVtxMyLMmYjYQ70Qlny8GwYLnvOTeaFoWh~X~8rDKMTEN0fhn8L2iOF1~J3Bbdedif65Mpv9g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 
 - id: doi:10.1186/s13059-020-02159-0
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13059-020-02159-0/MediaObjects/13059_2020_2159_Fig1_HTML.png
@@ -200,13 +225,13 @@
   image: 'https://media.springernature.com/w110/springer-static/cover/journal/13059.jpg'
 
 - id: doi:10.1172/JCI147834
-  image: ''
+  image: https://dm5migu4zj3pb.cloudfront.net/volumes/129/2/129-2-cover.jpg
 
 - id: doi:10.1111/exd.14385
-  image: ''
+  image: https://onlinelibrary.wiley.com/cms/asset/c2692a16-17fb-4d85-8f63-ff3bec27ed1d/exd.v30.issue-6.cover.jpg
 
 - id: doi:10.1016/j.cell.2021.03.050
-  image: ''
+  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/asset/atypon:cms:attachment:img:d69e6:rev:1435065942089-7814:pii:S0092867414X00267/cover.tif.jpg
 
 - id: doi:10.1128/mSystems.00122-21 
   image: 'https://asm.org/ASM/media/Company-Logos/ASM-OG-Default.jpg?ext=.jpg'

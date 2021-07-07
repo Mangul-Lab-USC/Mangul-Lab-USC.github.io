@@ -271,6 +271,216 @@
   - cancer
   - single cell
   - ovarian cancer
+- title: Pathogenesis, Symptomatology, and Transmission of SARS-CoV-2 through analysis
+    of Viral Genomics and Structure
+  authors:
+  - Halie M. Rando
+  - Adam L. MacLean
+  - Alexandra J. Lee
+  - Sandipan Ray
+  - Vikas Bansal
+  - Ashwin N. Skelly
+  - Elizabeth Sell
+  - John J. Dziak
+  - Lamonica Shinholster
+  - Lucy D'Agostino McGowan
+  - Marouen Ben Guebila
+  - Nils Wellhausen
+  - Sergey Knyazev
+  - Simina M. Boca
+  - Stephen Capone
+  - Yanjun Qi
+  - YoSon Park
+  - Yuchen Sun
+  - David Mai
+  - Christian Brueffer
+  - James Brian Byrd
+  - Jinhui Wang
+  - Ronan Lordan
+  - Ryan Velazquez
+  - Gregory L. Szeto
+  - John P. Barton
+  - Rishi Raj Goel
+  - Serghei Mangul
+  - Tiago Lubiana
+  - COVID-19 Review Consortium
+  - Anthony Gitter
+  - Casey S. Greene
+  publisher: arXiv:2102.01521 [q-bio]
+  date: '2021-02-12'
+  link: https://doi.org/arxiv:2102.01521
+  id: doi:arXiv:2102.01521
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7885912/bin/nihpp-2102.01521v2-f0001.jpg
+- title: 'Seeing beyond the target: Leveraging off-target reads in targeted clinical
+    tumor sequencing to identify prognostic biomarkers'
+  authors:
+  - Serghei Mangul
+  - Jaqueline J Brito
+  - Stefan Groha
+  - Noah Zaitlen
+  - Alexander Gusev
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-05-29'
+  link: https://doi.org/gk457s
+  id: doi:10.1101/2021.05.28.446240
+  image: https://www.biorxiv.org/content/biorxiv/early/2021/05/29/2021.05.28.446240/F2.medium.gif
+- title: Systematic evaluation of transcriptomics-based deconvolution methods and
+    references using thousands of clinical samples
+  authors:
+  - Brian B. Nadel
+  - Meritxell Oliva
+  - Benjamin L. Shou
+  - Keith Mitchell
+  - Feiyang Ma
+  - Dennis J. Montoya
+  - Alice Mouton
+  - Sarah Kim-Hellmuth
+  - Barbara E. Stranger
+  - Matteo Pellegrini
+  - Serghei Mangul
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-03-10'
+  link: https://doi.org/gh87dp
+  id: doi:10.1101/2021.03.09.434660
+  image: https://www.biorxiv.org/content/biorxiv/early/2021/03/10/2021.03.09.434660/F2.medium.gif
+- title: 'Diversity in immunogenomics: the value and the challenge'
+  authors:
+  - Kerui Peng
+  - Yana Safonova
+  - Mikhail Shugay
+  - Alice B. Popejoy
+  - Oscar L. Rodriguez
+  - Felix Breden
+  - Petter Brodin
+  - Amanda M. Burkhardt
+  - Carlos Bustamante
+  - Van-Mai Cao-Lormeau
+  - Martin M. Corcoran
+  - Darragh Duffy
+  - Macarena Fuentes-Guajardo
+  - Ricardo Fujita
+  - Victor Greiff
+  - "Vanessa D. J\xF6nsson"
+  - Xiao Liu
+  - Lluis Quintana-Murci
+  - Maura Rossetti
+  - Jianming Xie
+  - Gur Yaari
+  - Wei Zhang
+  - Malak S. Abedalthagafi
+  - Khalid O. Adekoya
+  - Rahaman A. Ahmed
+  - Wei-Chiao Chang
+  - Clive Gray
+  - Yusuke Nakamura
+  - William D. Lees
+  - Purvesh Khatri
+  - Houda Alachkar
+  - Cathrine Scheepers
+  - Corey T. Watson
+  - Gunilla B. Karlsson Hedestam
+  - Serghei Mangul
+  publisher: Nature Methods
+  date: '2021-05-17'
+  link: https://doi.org//10.1038/s41592-021-01169-5
+  id: doi:/10.1038/s41592-021-01169-5
+  image: https://upload.wikimedia.org/wikipedia/commons/2/2a/NMeth_cover_MAY21.jpg
+- title: Unlocking capacities of viral genomics for the COVID-19 pandemic response
+  authors:
+  - Sergey Knyazev
+  - Karishma Chhugani
+  - Varuni Sarwal
+  - Ram Ayyala
+  - Harman Singh
+  - Smruthi Karthikeyan
+  - Dhrithi Deshpande
+  - Zoia Comarova
+  - Angela Lu
+  - Yuri Porozov
+  - Aiping Wu
+  - Malak Abedalthagafi
+  - Shivashankar Nagaraj
+  - Adam Smith
+  - Pavel Skums
+  - Jason Ladner
+  - Tommy Tsan-Yuk Lam
+  - Nicholas Wu
+  - Alex Zelikovsky
+  - Rob Knight
+  - Keith Crandall
+  - Serghei Mangul
+  publisher: arXiv:2104.14005 [q-bio]
+  date: '2021-06-04'
+  link: https://doi.org/arxiv:2104.14005v2
+  id: doi:arXiv:2104.14005v2
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8109901/bin/nihpp-2104.14005v2-f0001.jpg
+- title: Identification and Development of Therapeutics for COVID-19
+  authors:
+  - Halie M. Rando
+  - Nils Wellhausen
+  - Soumita Ghosh
+  - Alexandra J. Lee
+  - Anna Ada Dattoli
+  - Fengling Hu
+  - James Brian Byrd
+  - Diane N. Rafizadeh
+  - Yanjun Qi
+  - Yuchen Sun
+  - Jeffrey M. Field
+  - Marouen Ben Guebila
+  - Nafisa M. Jadavji
+  - Ronan Lordan
+  - Ashwin N. Skelly
+  - Bharath Ramsundar
+  - Christian Brueffer
+  - Jinhui Wang
+  - Rishi Raj Goel
+  - YoSon Park
+  - COVID-19 Review Consortium
+  - Simina M. Boca
+  - Anthony Gitter
+  - Casey S. Greene
+  publisher: arXiv:2103.02723 [q-bio]
+  date: '2021-03-03'
+  link: https://doi.org/arxiv:2103.02723v1
+  id: doi:arXiv:2103.02723v1
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7941644/bin/nihpp-2103.02723v1-f0003.jpg
+- title: Lack of diversity in T cell receptor sequencing studies
+  authors:
+  - Yu-Ning Huang
+  - Kerui Peng
+  - Alice B. Popejoy
+  - Jieting Hu
+  - Theodore Scott Nowicki
+  - Stefan M. Gold
+  - Lluis Quintana-Murci
+  - Macarena Fuentes-Guajardo
+  - Mikhail Shugay
+  - Victor Greiff
+  - Amanda M. Burkhardt
+  - Houda Alachkar
+  - SERGHEI MANGUL
+  publisher: Center for Open Science
+  date: '2021-03-01'
+  link: https://doi.org/gk4582
+  id: doi:10.31219/osf.io/w25hq
+  image: https://osf.io/preprints/assets/osf-assets/files/preprints-assets/osf/sharing-272b70fbebcd410fcebc10e5ce1a395abbf5c62d.png
+- title: 'The Gene Expression Deconvolution Interactive Tool (GEDIT): accurate cell
+    type quantification from gene expression data'
+  authors:
+  - Brian B Nadel
+  - David Lopez
+  - Dennis J Montoya
+  - Feiyang Ma
+  - Hannah Waddel
+  - Misha M Khan
+  - Serghei Mangul
+  - Matteo Pellegrini
+  publisher: GigaScience
+  date: '2021-02-16'
+  link: https://doi.org/gh87gh
+  id: doi:10.1093/gigascience/giab002
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gigascience/10/2/10.1093_gigascience_giab002/3/m_giab002fig1.jpeg?Expires=1627831916&Signature=t41E54zyrgVce8Y-vG2ZTOhQsnHMSnSU5fm375Qqg1tuDR9cfGBwvlnLmKa4m8S2zlcquAsWqgDPn8tXfwB7KXCZ5njGP0p3lVFf19jbgTc94jqC1y-os~Xq0C~ZYYOVN9owvh~UBf-tp4IvROVMZ-wqLD9J7GpkKdoBXnTZP0RguLCBdl2vKwoEd79Y-L~I1ymuDm2SxdMHBX36niyTvbcBQzOYw6ifsFAtKrDN7Eyd7iQcPqJAQ1fnGMR6EGGw-9mwuosnaLGzUNVtxMyLMmYjYQ70Qlny8GwYLnvOTeaFoWh~X~8rDKMTEN0fhn8L2iOF1~J3Bbdedif65Mpv9g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 - title: 'Metalign: efficient alignment-based metagenomic profiling via containment
     min hash'
   authors:
@@ -721,7 +931,7 @@
   date: '2021-05-27'
   link: https://doi.org/gj8d5s
   id: doi:10.1172/JCI147834
-  image: ''
+  image: https://dm5migu4zj3pb.cloudfront.net/volumes/129/2/129-2-cover.jpg
 - title: "Detection of viral gene expression in risk\u2010stratified biopsies reveals\
     \ no active HPV in cutaneous squamous cell carcinoma"
   authors:
@@ -742,7 +952,7 @@
   date: '2021-05-25'
   link: https://doi.org/gj7b4r
   id: doi:10.1111/exd.14385
-  image: ''
+  image: https://onlinelibrary.wiley.com/cms/asset/c2692a16-17fb-4d85-8f63-ff3bec27ed1d/exd.v30.issue-6.cover.jpg
 - title: Population-scale tissue transcriptomics maps long non-coding RNAs to complex
     disease
   authors:
@@ -930,7 +1140,7 @@
   date: '2021-05-01'
   link: https://doi.org/gjtcvr
   id: doi:10.1016/j.cell.2021.03.050
-  image: ''
+  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/asset/atypon:cms:attachment:img:d69e6:rev:1435065942089-7814:pii:S0092867414X00267/cover.tif.jpg
 - title: Dietary Supplements and Nutraceuticals under Investigation for COVID-19 Prevention
     and Treatment
   authors:
