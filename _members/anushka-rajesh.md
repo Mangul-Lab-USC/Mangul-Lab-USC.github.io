@@ -6,6 +6,7 @@ search:
   - Rajesh
 image: images/team/anushka-rajesh.jpg
 role: masters
+group: alum
 <!-- website: N/A -->
 email: anushkar@usc.edu
 github: anushkar04
