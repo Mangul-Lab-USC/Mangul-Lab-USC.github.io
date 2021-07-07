@@ -6,6 +6,7 @@ search:
   - Deshpande
 image: images/team/dhrithi-deshpande.jpg
 role : masters
+group: alum
 email: dhrithideshpande@gmail.com
 github: dhrithideshpande
 
