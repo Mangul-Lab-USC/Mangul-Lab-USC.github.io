@@ -445,6 +445,545 @@
   link: https://doi.org/arxiv:2103.02723v1
   id: doi:arXiv:2103.02723v1
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7941644/bin/nihpp-2103.02723v1-f0003.jpg
+- title: 'RNA-seq data science: From raw data to effective interpretation'
+  authors:
+  - Dhrithi Deshpande
+  - Karishma Chhugani
+  - Yutong Chang
+  - Aaron Karlsberg
+  - Caitlin Loeffler
+  - Jinyang Zhang
+  - Agata Muszynska
+  - Jeremy Rotman
+  - Laura Tao
+  - Brunilda Balliu
+  - Elizabeth Tseng
+  - Eleazar Eskin
+  - Fangqing Zhao
+  - Pejman Mohammadi
+  - Pawel P. Labaj
+  - Serghei Mangul
+  publisher: arXiv:2010.02391 [q-bio]
+  date: '2021-02-16'
+  link: https://doi.org/arxiv:2010.02391
+  id: doi:arXiv:2010.02391
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/ArXiv_web.svg/1200px-ArXiv_web.svg.png
+- title: 'Corrigendum to: Recommendations to enhance rigor and reproducibility in
+    biomedical research'
+  authors:
+  - Jaqueline J Brito
+  - Jun Li
+  - Jason H Moore
+  - Casey S Greene
+  - Nicole A Nogoy
+  - Lana X Garmire
+  - Serghei Mangul
+  publisher: GigaScience
+  date: '2020-09-17'
+  link: https://doi.org/gk5cj9
+  id: doi:10.1093/gigascience/giaa103
+  image: https://academic.oup.com/gigascience/current/cover/small
+- title: 'PhenomeXcan: Mapping the genome to the phenome through the transcriptome'
+  authors:
+  - Milton Pividori
+  - Padma S. Rajagopal
+  - Alvaro Barbeira
+  - Yanyu Liang
+  - Owen Melia
+  - Lisa Bastarache
+  - YoSon Park
+  - GTEx Consortium
+  - Xiaoquan Wen
+  - Hae K. Im
+  publisher: Science Advances
+  date: '2020-09-01'
+  link: https://doi.org/ghbvbf
+  id: doi:10.1126/sciadv.aba2083
+  image: https://advances.sciencemag.org/content/advances/6/37/eaba2083/F3.large.jpg
+- title: Accurate assembly of minority viral haplotypes from next-generation sequencing
+    through efficient noise reduction
+  authors:
+  - Sergey Knyazev
+  - Viachaslau Tsyvina
+  - Anupama Shankar
+  - Andrew Melnyk
+  - Alexander Artyomenko
+  - Tatiana Malygina
+  - Yuri B. Porozov
+  - Ellsworth M. Campbell
+  - Serghei Mangul
+  - William M. Switzer
+  - Pavel Skums
+  - Alex Zelikovsky
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-10-08'
+  link: https://doi.org/ggn9tb
+  id: doi:10.1101/264242
+  image: https://www.biorxiv.org/content/biorxiv/early/2020/10/08/264242/F2.large.jpg?width=800&height=600&carousel=1
+- title: 'Telescope: an interactive tool for managing large-scale analysis from mobile
+    devices'
+  authors:
+  - Jaqueline J Brito
+  - Thiago Mosqueiro
+  - Jeremy Rotman
+  - Victor Xue
+  - Douglas J Chapski
+  - "Juan De la\_Hoz"
+  - Paulo Matias
+  - Lana S Martin
+  - Alex Zelikovsky
+  - Matteo Pellegrini
+  - Serghei Mangul
+  publisher: GigaScience
+  date: '2020-01-01'
+  link: https://doi.org/ghp8z9
+  id: doi:10.1093/gigascience/giz163
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gigascience/9/1/10.1093_gigascience_giz163/1/m_giz163fig1.jpeg?Expires=1627825084&Signature=3aPVD6kXHDXKvnXwUn7Lmfd0SNdLjvquEGekZHEx9HYZZdnC7GX6XtWFmaGfU1HeKCWSYuzNDoahuDqSKE7l~MjX9uiJFKyL1wBUewSHxMLdAsxnB3xLt~dI8GTxQ3LiGMqrL0A-FX23QlxPb4BzkyePBuK2uM6q5pfOre3y0ABQWqws-mghEffRLVU0tRUagLGMfqWIsVyUmdURuHu2vOvR5CNzUaDsua9ugEOzWVBnUWZYJY7hghod3Y-UOdSfikMHTFqpebSGCDZqg-lL3Cuzr2yapA9KuPUofH3LtIX0ZwH5i3Gk83hf7yll0vpcsRSKq~2mgs2PkWy8scR1ZA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+- title: 'MiCoP: microbial community profiling method for detecting viral and fungal
+    organisms in metagenomic samples'
+  authors:
+  - Nathan LaPierre
+  - Serghei Mangul
+  - Mohammed Alser
+  - Igor Mandric
+  - Nicholas C. Wu
+  - David Koslicki
+  - Eleazar Eskin
+  publisher: BMC Genomics
+  date: '2019-06-06'
+  link: https://doi.org/gg4mxz
+  id: doi:10.1186/s12864-019-5699-9
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12864-019-5699-9/MediaObjects/12864_2019_5699_Fig1_HTML.png?as=webp
+- title: Exploiting the GTEx resources to decipher the mechanisms at GWAS loci
+  authors:
+  - Alvaro N Barbeira
+  - Rodrigo Bonazzola
+  - Eric R Gamazon
+  - Yanyu Liang
+  - YoSon Park
+  - Sarah Kim-Hellmuth
+  - Gao Wang
+  - Zhuoxun Jiang
+  - Dan Zhou
+  - Farhad Hormozdiari
+  - Boxiang Liu
+  - Abhiram Rao
+  - Andrew R Hamel
+  - Milton D Pividori
+  - "Fran\xE7ois Aguet"
+  - Lisa Bastarache
+  - Daniel M Jordan
+  - Marie Verbanck
+  - Ron Do
+  - Matthew Stephens
+  - Kristin Ardlie
+  - Mark McCarthy
+  - Stephen B Montgomery
+  - "Ayellet V Segr\xE8"
+  - Christopher D. Brown
+  - Tuuli Lappalainen
+  - Xiaoquan Wen
+  - Hae Kyung Im
+  - ' '
+  - ' '
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-05-23'
+  link: https://doi.org/gg7m54
+  id: doi:10.1101/814350
+  image: https://www.biorxiv.org/content/biorxiv/early/2019/10/22/814350/F1.medium.gif
+- title: 'Abstract 4688: Single-cell discrimination of altered human T cell states
+    in the bladder tumor microenvironment'
+  authors:
+  - David Yoonsuk Oh
+  - Serena S. Kwek
+  - Serghei Mangul
+  - Siddharth S. Raju
+  - Sasha Targ
+  - Arun Burra
+  - Eric Chow
+  - Dvir Aran
+  - Sima Porten
+  - Maxwell V. Meng
+  - Terence W. Friedlander
+  - Chun Jimmie Ye
+  - Lawrence Fong
+  publisher: American Association for Cancer Research (AACR)
+  date: '2018-07-01'
+  link: https://doi.org/gk5ckc
+  id: doi:10.1158/1538-7445.AM2018-4688
+  image: https://www.aacr.org/wp-content/uploads/2020/01/Feat-CTA_AACRLogo_600x450_1910036M.jpg
+- title: Single Cell Heterogeneity is Absent in the Transgenic Paradigm of an Inherited
+    Cataract
+  authors:
+  - Suraj Bhat
+  - Rajendra K. Gangalum
+  - Dongjae Kim
+  - Serghei Mangul
+  - Raj K. Kashyap
+  - Zhou Xinxai
+  - David Elashoff
+  publisher: SSRN Electronic Journal
+  date: '2018-01-01'
+  link: https://doi.org/gk5ckd
+  id: doi:10.2139/ssrn.3244893
+  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/asset/atypon:cms:attachment:img:d264e6:rev:1604337987489-13181:pii:S2468266720X00053/cover.tif.jpg
+- title: Identifying <i>cis</i> -mediators for <i>trans</i> -eQTLs across many human
+    tissues using genomic mediation analysis
+  authors:
+  - Fan Yang
+  - Jiebiao Wang
+  - ' The GTEx Consortium'
+  - Brandon L. Pierce
+  - Lin S. Chen
+  publisher: Genome Research
+  date: '2017-11-01'
+  link: https://doi.org/10.1101/gr.216754.116.
+  id: doi:10.1101/gr.216754.116.
+  image: https://genome.cshlp.org/content/25/10/F1.medium.gif
+- title: Long Single-Molecule Reads Can Resolve the Complexity of the Influenza Virus
+    Composed of Rare, Closely Related Mutant Variants
+  authors:
+  - Alexander Artyomenko
+  - Nicholas C Wu
+  - Serghei Mangul
+  - Eleazar Eskin
+  - Ren Sun
+  - Alex Zelikovsky
+  publisher: Journal of Computational Biology
+  date: '2017-06-01'
+  link: https://doi.org/gbh42m
+  id: doi:10.1089/cmb.2016.0146
+  image: https://www.liebertpub.com/na101/home/literatum/publisher/mal/journals/content/cmb/2017/cmb.2017.24.issue-6/cmb.2017.24.issue-6/20170607/cmb.2017.24.issue-6.cover.jpg
+- title: 104 Lack of human papilloma virus transcription in cutaneous squamous cell
+    carcinoma stratified by histological grade and host immune status
+  authors:
+  - B. Thomas
+  - M. Karimzada
+  - R. Spreafico
+  - S. Mangul
+  - G. Botten
+  - J. Rothman
+  - K. Wesel
+  - S. Binder
+  - N. Gharavi
+  - C. Chesnut
+  - T. Soriano
+  - P. Scumpia
+  publisher: Journal of Investigative Dermatology
+  date: '2017-05-01'
+  link: https://doi.org/ghp82f
+  id: doi:10.1016/j.jid.2017.02.118
+  image: https://www.openacessjournal.com/assets/membership/2019092624downl.jpg
+- title: 'HapIso: An Accurate Method for the Haplotype- Specific Isoforms Reconstruction
+    From Long Single-Molecule Reads'
+  authors:
+  - Serghei Mangul
+  - Taegyun Harry Yang
+  - Farhad Hormozdiari
+  - Alexandra Marie Dainis
+  - Elizabeth Tseng
+  - Euan A. Ashley
+  - Alex Zelikovsky
+  - Eleazar Eskin
+  publisher: IEEE Transactions on NanoBioscience
+  date: '2017-03-01'
+  link: https://doi.org/ghp82d
+  id: doi:10.1109/TNB.2017.2675981
+  image: https://media.springernature.com/w306/springer-static/cover/book/978-3-319-38782-6.jpg
+- title: 'UMI-Reducer: Collapsing duplicate sequencing reads via Unique Molecular
+    Identifiers'
+  authors:
+  - Serghei Mangul
+  - Sarah Van Driesche
+  - Lana S. Martin
+  - Kelsey C. Martin
+  - Eleazar Eskin
+  publisher: Cold Spring Harbor Laboratory
+  date: '2017-01-25'
+  link: https://doi.org/gkw3vr
+  id: doi:10.1101/103267
+  image: https://www.biorxiv.org/content/biorxiv/early/2017/01/25/103267/F1.medium.gif
+- title: Discovering Single Nucleotide Polymorphisms Regulating Human Gene Expression
+    Using Allele Specific Expression from RNA-seq Data
+  authors:
+  - Eun Yong Kang
+  - Lisa J Martin
+  - Serghei Mangul
+  - Warin Isvilanonda
+  - Jennifer Zou
+  - Eyal Ben-David
+  - Buhm Han
+  - Aldons J Lusis
+  - Sagiv Shifman
+  - Eleazar Eskin
+  publisher: Genetics
+  date: '2016-11-01'
+  link: https://doi.org/f9ff5k
+  id: doi:10.1534/genetics.115.177246
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/genetics/204/3/10.1534_genetics.115.177246/5/m_1057fig2.gif?Expires=1628644194&Signature=yOBylnex-KS-rri9giwwrqthE5Io609Auh5r5V0Ydb1nReHBwdF06kU2HBYTrTDrI~92r~ZW3olB2BflDpz1U8QmdbPlh7QyeICh-6EA3Au9P8g6IgPOPGCYpyvMuopHondfCVESAmh1~qLodzgQ5lqOvj2txv-t5sVSSfVGexzMvRbEKVPGjxJDb6VLAmXmd~3MFujR66~j9pGLkSP8Pm0ZfyQ6UKUgALfElRAfsVx5WtfJK92ki9GbA-uCPuiJWgTpP9KOxYNdymjKctWczN8-e4Y5lmaQyQGx~6l4Yp85546iHZ~swj3OkUo~Y1IvuA-TIcNawj7l76z7yI61cg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+- title: Applications of High-Fidelity Sequencing Protocol to RNA Viruses
+  authors:
+  - Serghei Mangul
+  - Nicholas C. Wu
+  - Ekaterina Nenastyeva
+  - Nicholas Mancuso
+  - Alexander Zelikovsky
+  - Ren Sun
+  - Eleazar Eskin
+  publisher: Wiley
+  date: '2016-08-26'
+  link: https://doi.org/ghp82h
+  id: doi:10.1002/9781119272182.ch4
+  image: https://media.wiley.com/product_data/coverImage300/84/11181694/1118169484.jpg
+- title: CRISPR-Mediated VHL Knockout Generates an Improved Model for Metastatic Renal
+    Cell Carcinoma
+  authors:
+  - Shiruyeh Schokrpur
+  - Junhui Hu
+  - Diana L. Moughon
+  - Peijun Liu
+  - Lucia C. Lin
+  - Kip Hermann
+  - Serghei Mangul
+  - Wei Guan
+  - Matteo Pellegrini
+  - Hua Xu
+  - Lily Wu
+  publisher: Scientific Reports
+  date: '2016-06-30'
+  link: https://doi.org/f8tdfs
+  id: doi:10.1038/srep29032
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fsrep29032/MediaObjects/41598_2016_Article_BFsrep29032_Fig6_HTML.jpg?as=webp
+- title: Local genetic effects on gene expression across 44 human tissues
+  authors:
+  - "Fran\xE7ois Aguet"
+  - Andrew A. Brown
+  - Stephane E. Castel
+  - Joe R. Davis
+  - Pejman Mohammadi
+  - "Ayellet V. Segr\xE8"
+  - Zachary Zappala
+  - Nathan S. Abell
+  - "Laure Fr\xE9sard"
+  - Eric R. Gamazon
+  - Ellen Gelfand
+  - Michael J. Gloudemans
+  - Yuan He
+  - Farhad Hormozdiari
+  - Xiao Li
+  - Xin Li
+  - Boxiang Liu
+  - "Diego Garrido-Mart\xEDn"
+  - Halit Ongen
+  - John J. Palowitch
+  - YoSon Park
+  - Christine B. Peterson
+  - Gerald Quon
+  - Stephan Ripke
+  - Andrey A. Shabalin
+  - Tyler C. Shimko
+  - Benjamin J. Strober
+  - Timothy J. Sullivan
+  - Nicole A. Teran
+  - Emily K. Tsang
+  - Hailei Zhang
+  - Yi-Hui Zhou
+  - Alexis Battle
+  - Carlos D. Bustamonte
+  - Nancy J. Cox
+  - Barbara E. Engelhardt
+  - Eleazar Eskin
+  - Gad Getz
+  - Manolis Kellis
+  - Gen Li
+  - Daniel G. MacArthur
+  - Andrew B. Nobel
+  - Chiara Sabbati
+  - Xiaoquan Wen
+  - Fred A. Wright
+  - Tuuli Lappalainen
+  - Kristin G. Ardlie
+  - Emmanouil T. Dermitzakis
+  - Christopher D. Brown
+  - Stephen B. Montgomery
+  - ' '
+  publisher: Cold Spring Harbor Laboratory
+  date: '2016-09-09'
+  link: https://doi.org/gkwhnv
+  id: doi:10.1101/074450
+  image: https://www.biorxiv.org/content/biorxiv/early/2016/09/09/074450/F1.medium.gif
+- title: '2SNV: Quasispecies reconstruction from PacBio reads'
+  authors:
+  - Alexander Artyomenko
+  - Nicholas C. Wu
+  - Serghei Mangul
+  - Eleazar Eskin
+  - Ren Sun
+  - Alex Zelikovsky
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2015-10-01'
+  link: https://doi.org/gk5ckw
+  id: doi:10.1109/ICCABS.2015.7344730
+  image: https://media-exp1.licdn.com/dms/image/C560BAQGgiSTQ5LqXQQ/company-logo_200_200/0/1524326526386?e=2159024400&v=beta&t=FD5_ribizUoTrwcGebnCAWvNSk1LIaS4QcOpNWIc_18
+- title: Transcriptome assembly and quantification from Ion Torrent RNA-Seq data
+  authors:
+  - Serghei Mangul
+  - Adrian Caciula
+  - Sahar Al Seesi
+  - Dumitru Brinza
+  - "Ion M\u04D1ndoiu"
+  - Alex Zelikovsky
+  publisher: BMC Genomics
+  date: '2014-07-14'
+  link: https://doi.org/gb3g2g
+  id: doi:10.1186/1471-2164-15-S5-S7
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2F1471-2164-15-S5-S7/MediaObjects/12864_2014_Article_6255_Fig1_HTML.jpg?as=webp
+- title: 'VGA: A method for viral quasispecies assembly from ultra-deep sequencing
+    data'
+  authors:
+  - Serghei Mangul
+  - Nicholas C. Wu
+  - Nicholas Mancuso
+  - Alex Zelikovsky
+  - Ren Sun
+  - Eleazar Eskin
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2014-06-01'
+  link: https://doi.org/ghp82k
+  id: doi:10.1109/ICCABS.2014.6863932
+  image: https://media-exp1.licdn.com/dms/image/C560BAQGgiSTQ5LqXQQ/company-logo_200_200/0/1524326526386?e=2159024400&v=beta&t=FD5_ribizUoTrwcGebnCAWvNSk1LIaS4QcOpNWIc_18
+- title: Reconstruction of influenza a virus variants from PacBio reads
+  authors:
+  - Alexander Artyomenko
+  - Serghei Mangul
+  - Nicholas C. Wu
+  - Eleazar Eskin
+  - Ren Sun
+  - Alex Zelikovsky
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2014-06-01'
+  link: https://doi.org/gk5ck2
+  id: doi:10.1109/ICCABS.2014.6863935
+  image: https://media-exp1.licdn.com/dms/image/C560BAQGgiSTQ5LqXQQ/company-logo_200_200/0/1524326526386?e=2159024400&v=beta&t=FD5_ribizUoTrwcGebnCAWvNSk1LIaS4QcOpNWIc_18
+- title: Deterministic regression algorithm for transcriptome frequency estimation
+  authors:
+  - Adrian Caciula
+  - Olga Glebova
+  - Alexander Artyomenko
+  - Serghei Mangul
+  - James Lindsay
+  - Ion I. Mandoiu
+  - Alex Zelikovsky
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2014-06-01'
+  link: https://doi.org/gk5ck3
+  id: doi:10.1109/ICCABS.2014.6863946
+  image: https://media-exp1.licdn.com/dms/image/C560BAQGgiSTQ5LqXQQ/company-logo_200_200/0/1524326526386?e=2159024400&v=beta&t=FD5_ribizUoTrwcGebnCAWvNSk1LIaS4QcOpNWIc_18
+- title: 'Porcine Viruses: From Pathogenesis to Strategies for Control'
+  authors: []
+  publisher: Caister Academic Press
+  date: '2019-01-01'
+  link: https://doi.org/gk5cmw
+  id: doi:10.21775/9781910190913
+  image: https://www.caister.com/gifs/cover/9781908230294.jpg
+- title: Monte-Carlo Regression algorithm for isoform frequency estimation from RNA-Seq
+    data
+  authors:
+  - Adrian Caciula
+  - Alex Zelikovsky
+  - Serghei Mangul
+  - James Lindsay
+  - Ion Mandoiu
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2013-06-01'
+  link: https://doi.org/gk5cmx
+  id: doi:10.1109/ICCABS.2013.6629228
+  image: https://media-exp1.licdn.com/dms/image/C560BAQGgiSTQ5LqXQQ/company-logo_200_200/0/1524326526386?e=2159024400&v=beta&t=FD5_ribizUoTrwcGebnCAWvNSk1LIaS4QcOpNWIc_18
+- title: An integer programming approach to novel transcript reconstruction from paired-end
+    RNA-Seq reads
+  authors:
+  - Serghei Mangul
+  - Adrian Caciula
+  - Sahar Al Seesi
+  - Dumitru Brinza
+  - Abdul Rouf Banday
+  - Rahul Kanadia
+  publisher: Association for Computing Machinery (ACM)
+  date: '2012-01-01'
+  link: https://doi.org/gk5cmz
+  id: doi:10.1145/2382936.2382983
+  image: https://media-exp1.licdn.com/dms/image/C560BAQGgiSTQ5LqXQQ/company-logo_200_200/0/1524326526386?e=2159024400&v=beta&t=FD5_ribizUoTrwcGebnCAWvNSk1LIaS4QcOpNWIc_18
+- title: 'Workshop: Novel transcript reconstruction from paired-end RNA-Seq reads
+    using fragment length distribution'
+  authors:
+  - Serghei Mangul
+  - Adrian Caciula
+  - Ion Mandoiu
+  - Alex Zelikovsky
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2012-02-01'
+  link: https://doi.org/gk5cm3
+  id: doi:10.1109/ICCABS.2012.6182673
+  image: https://media-exp1.licdn.com/dms/image/C560BAQGgiSTQ5LqXQQ/company-logo_200_200/0/1524326526386?e=2159024400&v=beta&t=FD5_ribizUoTrwcGebnCAWvNSk1LIaS4QcOpNWIc_18
+- title: RNA-Seq based discovery and reconstruction of unannotated transcripts in
+    partially annotated genomes
+  authors:
+  - S. Mangul
+  - A. Caciula
+  - I. Mandoiu
+  - A. Zelikovsky
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2011-11-01'
+  link: https://doi.org/fznt46
+  id: doi:10.1109/BIBMW.2011.6112363
+  image: https://media-exp1.licdn.com/dms/image/C560BAQGgiSTQ5LqXQQ/company-logo_200_200/0/1524326526386?e=2159024400&v=beta&t=FD5_ribizUoTrwcGebnCAWvNSk1LIaS4QcOpNWIc_18
+- title: Inferring viral quasispecies spectra from 454 pyrosequencing reads
+  authors:
+  - Irina Astrovskaya
+  - Bassam Tork
+  - Serghei Mangul
+  - Kelly Westbrooks
+  - "Ion M\u0103ndoiu"
+  - Peter Balfe
+  - Alex Zelikovsky
+  publisher: BMC Bioinformatics
+  date: '2011-07-28'
+  link: https://doi.org/fh64g8
+  id: doi:10.1186/1471-2105-12-S6-S1
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2F1471-2105-12-S6-S1/MediaObjects/12859_2011_Article_4668_Fig3_HTML.jpg?as=webp
+- title: Maximum Likelihood Estimation of Incomplete Genomic Spectrum from HTS Data
+  authors:
+  - Serghei Mangul
+  - Irina Astrovskaya
+  - Marius Nicolae
+  - Bassam Tork
+  - Ion Mandoiu
+  - Alex Zelikovsky
+  publisher: Lecture Notes in Computer Science
+  date: '2011-01-01'
+  link: https://doi.org/bfs9j3
+  id: doi:10.1007/978-3-642-23038-7_19
+  image: https://media.springernature.com/w306/springer-static/cover/book/978-3-642-23038-7.jpg
+- title: Estimation of alternative splicing isoform frequencies from RNA-Seq data
+  authors:
+  - Marius Nicolae
+  - Serghei Mangul
+  - "Ion I M\u0103ndoiu"
+  - Alex Zelikovsky
+  publisher: Algorithms for Molecular Biology
+  date: '2011-04-19'
+  link: https://doi.org/dvh359
+  id: doi:10.1186/1748-7188-6-9
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2F1748-7188-6-9/MediaObjects/13015_2010_Article_123_Fig3_HTML.jpg?as=webp
+- title: Simulation Of Emission Dispersion As The Method Of Air Quality Management
+  authors:
+  - Z. Comarova
+  - S. Mangul
+  publisher: 'NATO Science for Peace and Security Series C: Environmental Security'
+  date: '2009-04-01'
+  link: https://doi.org/fcpn94
+  id: doi:10.1007/978-1-4020-8846-9_33
+  image: https://media.springernature.com/w306/springer-static/cover/book/978-1-4020-8846-9.jpg
 - title: Lack of diversity in T cell receptor sequencing studies
   authors:
   - Yu-Ning Huang
@@ -1290,6 +1829,34 @@
   tags:
   - cancer
   - machine learning
+- title: Intratumoral CD4+ T Cells Mediate Anti-tumor Cytotoxicity in Human Bladder
+    Cancer
+  authors:
+  - David Y. Oh
+  - Serena S. Kwek
+  - Siddharth S. Raju
+  - Tony Li
+  - Elizabeth McCarthy
+  - Eric Chow
+  - Dvir Aran
+  - Arielle Ilano
+  - Chien-Chun Steven Pai
+  - Chiara Rancan
+  - Kathryn Allaire
+  - Arun Burra
+  - Yang Sun
+  - Matthew H. Spitzer
+  - Serghei Mangul
+  - Sima Porten
+  - Maxwell V. Meng
+  - Terence W. Friedlander
+  - Chun Jimmie Ye
+  - Lawrence Fong
+  publisher: Cell
+  date: '2020-06-01'
+  link: https://doi.org/ggzhwz
+  id: doi:10.1016/j.cell.2020.05.017
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0092867420306127-fx1.jpg
 - title: Dynamic landscape and regulation of RNA editing in mammals
   authors:
   - Meng How Tan
