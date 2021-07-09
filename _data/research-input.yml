@@ -58,8 +58,9 @@
 # OSF Preprints default image: https://osf.io/preprints/assets/osf-assets/files/preprints-assets/osf/sharing-272b70fbebcd410fcebc10e5ce1a395abbf5c62d.png
 # ASM Journal default image: https://asm.org/ASM/media/Company-Logos/ASM-OG-Default.jpg?ext=.jpg
 # Journal of clinical investigation: https://dm5migu4zj3pb.cloudfront.net/volumes/129/2/129-2-cover.jpg
+
 - id: doi:10.1186/s13059-018-1403-7
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13059-018-1403-7/MediaObjects/13059_2018_1403_Fig2_HTML.gif?as=webp
   tags:
     - cancer
     - single cell
@@ -83,36 +84,36 @@
     - ovarian cancer
 
 - id: doi:10.1038/s41467-019-09406-4
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  image: https://upload.wikimedia.org/wikipedia/en/b/bf/Nature_Communications_-_Journal_Cover.jpg
   tags:
     - cancer
     - single cell
     - ovarian cancer
 
 - id: doi:10.1371/journal.pbio.3000333
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  image: https://storage.googleapis.com/plos-corpus-prod/10.1371/journal.pbio.3000333/2/pbio.3000333.g001.PNG_L?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wombat-sa%40plos-prod.iam.gserviceaccount.com%2F20210708%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20210708T235842Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=6b0eee82535f65aea0f8c39bb90fc6cf84348b19f44f19bbd1a1c7c226e024f631b4ebf7999e4d8ba39a640505abb8a023f5614294181452efc02ea17ea173f5d671edbf8b15d2fb7858c4e5ba7ccf93f8d3eea363b5934c0e293f1bd9850e4101ef5f15b28a968dc0a4fcb9407969e46a38df719b37ba12790574f8f04c5dc57dd46c99c79ad4f4bccecae660341a37a7050088e30851276a19df497f02a02355a49922137d68159b130ce6aa7357ad2112efb425b42a18a74cca20da485ed757546b53065b51a8841f9ad9f1e452c0e6cd7252bb04b695a90772bf2fa4dcc270c51b89b2d2cabddbfb7c2d0751a46c18505c6bbc37441a269c52388d510f97
   tags:
     - cancer
     - single cell
     - ovarian cancer
 
 - id: doi:10.1038/nbt.4113
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  image: https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fnbt.4113/MediaObjects/41587_2018_Article_BFnbt4113_Fig2_HTML.jpg?as=webp
 
 - id: doi:10.1074/jbc.RA119.008853
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  image: https://news.milne-library.org/wp-content/uploads/2019/05/journal-biological-chemistry-779x800.jpg
 
 - id: doi:10.1093/nar/gkz822
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/nar/48/D1/10.1093_nar_gkz822/1/gkz822fig2.jpeg?Expires=1627396020&Signature=0zOulYw0i2LLSmY8mQHgoCJAay~ccQuLxUhZqvcjEqog10p2dGj05uxonDH66c7~69KmN0joOPaAfVRMjfUfwV72I5rPB8ctOesZVAIQacRPyjgUBHFjEr~y~nFEOkKqTA1CqETli5qqN-cdTgNCu64pyllxjrbITWheWZ5hRJ88KQIuZMlq7MxrVkgnOL-UZ0ipxseAccWLAMWJPFzAsgrjIa~vWuR42oiA3Dl7jjJ1Oz1UzlJn~6aLEzfBC1OmPduICHxa~7~l2eVCU13D8lfqYIJJVuEIPysIBQ0TLVRM0F9NH7a7qHFJN27a7Jwuv7Nta6bd3IK1KB80~XjjZg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 
 - id: doi:10.1007/978-3-030-13973-5_1
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  image: https://media.springernature.com/w306/springer-static/cover-hires/book/978-3-030-13973-5
 
 - id: doi:10.1016/j.isci.2018.11.024
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/cf70d94d-0f6b-415c-af80-c613680722d6/fx1.jpg
 
 - id: doi:10.1016/j.tibtech.2017.06.007
-  image: ''
+  image: 'https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/asset/atypon:cms:attachment:img:d69e6:rev:1435065942089-7814:pii:S0092867414X00267/cover.tif.jpg'
 
 - id: doi:arXiv:2102.01521
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7885912/bin/nihpp-2102.01521v2-f0001.jpg
@@ -133,7 +134,7 @@
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7941644/bin/nihpp-2103.02723v1-f0003.jpg
 
 - id: doi:arXiv:2010.02391
-  image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/ArXiv_web.svg/1200px-ArXiv_web.svg.png
+  image: https://pbs.twimg.com/profile_images/752339815002091520/d403dpBl_400x400.jpg
 
 - id: doi:10.1093/gigascience/giaa103
   image: https://academic.oup.com/gigascience/current/cover/small
@@ -269,11 +270,7 @@
     - ovarian cancer
 
 - id: doi:10.1186/s13059-020-02122-z
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13059-020-02122-z/MediaObjects/13059_2020_2122_Fig2_HTML.png
-  tags:
-    - cancer
-    - single cell
-    - ovarian cancer
+  image: https://www.biorxiv.org/content/biorxiv/early/2019/10/03/792911/F6.large.jpg?width=800&height=600&carousel=1
 
 - id: doi:10.31219/osf.io/v5kr4
   image: 'https://osf.io/preprints/assets/osf-assets/files/preprints-assets/osf/sharing-272b70fbebcd410fcebc10e5ce1a395abbf5c62d.png'
@@ -311,7 +308,7 @@
     - ovarian cancer
 
 - id: doi:10.1126/science.aaz5900
-  image: https://science.sciencemag.org/content/sci/369/6509/eaaz5900/F1.large.jpg?width=800&height=600
+  image: https://www.biorxiv.org/content/biorxiv/early/2019/10/03/786053/F1.large.jpg?width=800&height=600
   tags:
     - cancer
     - single cell
@@ -336,7 +333,7 @@
   image: 'https://asm.org/ASM/media/Company-Logos/ASM-OG-Default.jpg?ext=.jpg'
 
 - id: doi:10.1186/s13059-019-1649-8
-  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  image: https://media.springernature.com/w110/springer-static/cover/journal/13059.jpg
   tags:
     - cancer
     - machine learning
@@ -348,22 +345,22 @@
     - machine learning
 
 - id: doi:10.1042/ETLS20180175
-  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  image: https://port.silverchair-cdn.com/port/content_public/journal/emergtoplifesci/issue/3/4/2/m_etls_3_4.cover.png?Expires=1628756579&Signature=H~H1KoW--CMVlpmQ~YrcJ~HK4~mdUNtBCF0JFNcJVZigUIZu6WZI79DemQmc~w-hjPRG4JG5Ne3vU6QUN0HLAgaTvug7oKbXHbkSZUepOFkPEDWC8Qk-bD2fW-~O4bOrom4U6DiVA~5DrY0XvO2qHuROyQP87EG~Jsop7kjkUY~7dzTk4ki6nZvLYrRf4ByOgKNMElzz5R84OdpHlDeqy1r0IkEQoHJVSHOpC6brrvwAPkWjUbD0FYZbDcii3rW38LST61o1G0-GaLjUSuRCpyOAcsCECBXAOgfAXwc-6b0~uav8NsqFBevShlLkw2zFU7dFT8Ndrj6WPWfcewhtBQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   tags:
     - cancer
     - machine learning
 
 - id: doi:10.1038/s41587-019-0053-y
-  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  image: https://media.springernature.com/w440/springer-static/cover-hires/journal/41587/39/6?q=95
 
 - id: doi:10.3389/fimmu.2018.02206
-  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  image: https://www.frontiersin.org/files/Articles/402803/fimmu-09-02206-HTML-r1/image_m/fimmu-09-02206-g003.jpg
 
 - id: doi:10.1093/molbev/msy170
-  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/mbe/Issue/35/11/2/m_molbiolevol_35_11cover.jpeg?Expires=1628786064&Signature=Ie4wTvHj~i~z8FRlVs48cZFgSZfyLeszX1zSfg97UklMgvcG4MsZ8f-qA3VJCK2qE7DKEncaQw5m4Z9-A75HlpPKpyqgbMDvbpqfydbLvt1rlBgtqM6HDpRwjmD64AWDpWHNkCje62PyUT9LsDIZ-DIJ7ZBiKhYlSplOj1AAcTMFJHPoco-IdauLkj3uR9hAFRxRO4BR-KD9kUGPboKDGLDspWtN0CFz8rUsa4uR-8w6YLt08AGugrILmNQ9QFeX4pJIZLV-4PnjrgEk9RLkqnBAogX47JzAUuj68HP6fZ3v5K~F5J~5Sm2E5Pq0oPTUBfqgo2FkBbN8d2lcs9DdSw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 
 - id: doi:10.1038/s41398-018-0107-9
-  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41398-018-0107-9/MediaObjects/41398_2018_107_Fig2_HTML.jpg?as=webp
 
 - id: doi:10.1038/nature24277
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature24277/MediaObjects/41586_2017_Article_BFnature24277_Fig1_HTML.jpg
@@ -375,7 +372,7 @@
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature24041/MediaObjects/41586_2017_Article_BFnature24041_Fig1_HTML.jpg
 
 - id: doi:10.1101/gr.216721.116
-  image: ''
+  image: http://www.speciation.net/md/000/003/002/th_CSHLP-Logo.gif
 
 - id: doi:10.1101/2020.04.16.045120
   image: https://www.biorxiv.org/content/biorxiv/early/2020/09/17/2020.04.16.045120/F2.large.jpg?width=800&height=600
@@ -392,14 +389,14 @@
       link: https://arxiv.org/abs/2003.00110
 
 - id: doi:10.1101/785584
-  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  image: https://www.biorxiv.org/content/biorxiv/early/2019/10/06/785584/F5.large.jpg?width=800&height=600&carousel=1
   extra-links:
     - type: preprint
     - type: manubot
       link: https://doi.org/10.1101/785584
 
 - id: url:https://arxiv.org/abs/2002.12268
-  image: ''
+  image: https://pbs.twimg.com/profile_images/752339815002091520/d403dpBl_400x400.jpg
   extra-links:
     - type: preprint
     - type: manubot
@@ -449,7 +446,7 @@
     - machine learning
 
 - id: doi:10.1101/793091
-  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  image: https://www.biorxiv.org/content/biorxiv/early/2019/10/04/793091/F1.large.jpg?width=800&height=600&carousel=1
   extra-links:
     - type: preprint
     - type: manubot
@@ -461,13 +458,6 @@
     - type: preprint
     - type: manubot
       link: https://doi.org/10.1101/786053
-
-- id: doi:10.1101/787903
-  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
-  extra-links:
-    - type: preprint
-    - type: manubot
-      link: https://doi.org/10.1101/787903
 
 - id: doi:10.1101/792911
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
