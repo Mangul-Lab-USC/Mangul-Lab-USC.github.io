@@ -52,13 +52,6 @@
 # and retrieve a direct link to a figure from the paper before adding an article...
 # Do not use the same image for multiple articles... - Jaden :)
 
-# Default images if the Journal has no available figures:
-
-# Genome Biology Journal default image: https://media.springernature.com/w110/springer-static/cover/journal/13059.jpg
-# OSF Preprints default image: https://osf.io/preprints/assets/osf-assets/files/preprints-assets/osf/sharing-272b70fbebcd410fcebc10e5ce1a395abbf5c62d.png
-# ASM Journal default image: https://asm.org/ASM/media/Company-Logos/ASM-OG-Default.jpg?ext=.jpg
-# Journal of clinical investigation: https://dm5migu4zj3pb.cloudfront.net/volumes/129/2/129-2-cover.jpg
-
 - id: doi:10.1186/s13059-018-1403-7
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13059-018-1403-7/MediaObjects/13059_2018_1403_Fig2_HTML.gif?as=webp
   tags:
@@ -84,7 +77,7 @@
     - ovarian cancer
 
 - id: doi:10.1038/s41467-019-09406-4
-  image: https://upload.wikimedia.org/wikipedia/en/b/bf/Nature_Communications_-_Journal_Cover.jpg
+  image: ''
   tags:
     - cancer
     - single cell
@@ -101,7 +94,7 @@
   image: https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fnbt.4113/MediaObjects/41587_2018_Article_BFnbt4113_Fig2_HTML.jpg?as=webp
 
 - id: doi:10.1074/jbc.RA119.008853
-  image: https://news.milne-library.org/wp-content/uploads/2019/05/journal-biological-chemistry-779x800.jpg
+  image: ''
 
 - id: doi:10.1093/nar/gkz822
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/nar/48/D1/10.1093_nar_gkz822/1/gkz822fig2.jpeg?Expires=1627396020&Signature=0zOulYw0i2LLSmY8mQHgoCJAay~ccQuLxUhZqvcjEqog10p2dGj05uxonDH66c7~69KmN0joOPaAfVRMjfUfwV72I5rPB8ctOesZVAIQacRPyjgUBHFjEr~y~nFEOkKqTA1CqETli5qqN-cdTgNCu64pyllxjrbITWheWZ5hRJ88KQIuZMlq7MxrVkgnOL-UZ0ipxseAccWLAMWJPFzAsgrjIa~vWuR42oiA3Dl7jjJ1Oz1UzlJn~6aLEzfBC1OmPduICHxa~7~l2eVCU13D8lfqYIJJVuEIPysIBQ0TLVRM0F9NH7a7qHFJN27a7Jwuv7Nta6bd3IK1KB80~XjjZg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
@@ -113,7 +106,7 @@
   image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/cf70d94d-0f6b-415c-af80-c613680722d6/fx1.jpg
 
 - id: doi:10.1016/j.tibtech.2017.06.007
-  image: 'https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/asset/atypon:cms:attachment:img:d69e6:rev:1435065942089-7814:pii:S0092867414X00267/cover.tif.jpg'
+  image: ''
 
 - id: doi:arXiv:2102.01521
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7885912/bin/nihpp-2102.01521v2-f0001.jpg
@@ -125,7 +118,7 @@
   image: https://www.biorxiv.org/content/biorxiv/early/2021/03/10/2021.03.09.434660/F2.medium.gif
 
 - id: doi:/10.1038/s41592-021-01169-5
-  image: https://upload.wikimedia.org/wikipedia/commons/2/2a/NMeth_cover_MAY21.jpg
+  image: ''
 
 - id: doi:arXiv:2104.14005v2
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8109901/bin/nihpp-2104.14005v2-f0001.jpg
@@ -134,10 +127,10 @@
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7941644/bin/nihpp-2103.02723v1-f0003.jpg
 
 - id: doi:arXiv:2010.02391
-  image: https://pbs.twimg.com/profile_images/752339815002091520/d403dpBl_400x400.jpg
+  image: ''
 
 - id: doi:10.1093/gigascience/giaa103
-  image: https://academic.oup.com/gigascience/current/cover/small
+  image: ''
 
 - id: doi:10.1126/sciadv.aba2083
   image: https://advances.sciencemag.org/content/advances/6/37/eaba2083/F3.large.jpg
@@ -155,22 +148,22 @@
   image: https://www.biorxiv.org/content/biorxiv/early/2019/10/22/814350/F1.medium.gif
 
 - id: doi:10.1158/1538-7445.AM2018-4688
-  image: https://www.aacr.org/wp-content/uploads/2020/01/Feat-CTA_AACRLogo_600x450_1910036M.jpg
+  image: ''
 
 - id: doi:10.2139/ssrn.3244893
   image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/asset/atypon:cms:attachment:img:d264e6:rev:1604337987489-13181:pii:S2468266720X00053/cover.tif.jpg
 
 - id: doi:10.1101/gr.216754.116.
-  image: https://genome.cshlp.org/content/25/10/F1.medium.gif
+  image: ''
 
 - id: doi:10.1089/cmb.2016.0146
-  image: https://www.liebertpub.com/na101/home/literatum/publisher/mal/journals/content/cmb/2017/cmb.2017.24.issue-6/cmb.2017.24.issue-6/20170607/cmb.2017.24.issue-6.cover.jpg
+  image: ''
 
 - id: doi:10.1016/j.jid.2017.02.118
-  image: https://www.openacessjournal.com/assets/membership/2019092624downl.jpg
+  image: ''
 
 - id: doi:10.1109/TNB.2017.2675981
-  image: https://media.springernature.com/w306/springer-static/cover/book/978-3-319-38782-6.jpg
+  image: ''
 
 - id: doi:10.1101/103267
   image: https://www.biorxiv.org/content/biorxiv/early/2017/01/25/103267/F1.medium.gif
@@ -179,7 +172,7 @@
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/genetics/204/3/10.1534_genetics.115.177246/5/m_1057fig2.gif?Expires=1628644194&Signature=yOBylnex-KS-rri9giwwrqthE5Io609Auh5r5V0Ydb1nReHBwdF06kU2HBYTrTDrI~92r~ZW3olB2BflDpz1U8QmdbPlh7QyeICh-6EA3Au9P8g6IgPOPGCYpyvMuopHondfCVESAmh1~qLodzgQ5lqOvj2txv-t5sVSSfVGexzMvRbEKVPGjxJDb6VLAmXmd~3MFujR66~j9pGLkSP8Pm0ZfyQ6UKUgALfElRAfsVx5WtfJK92ki9GbA-uCPuiJWgTpP9KOxYNdymjKctWczN8-e4Y5lmaQyQGx~6l4Yp85546iHZ~swj3OkUo~Y1IvuA-TIcNawj7l76z7yI61cg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 
 - id: doi:10.1002/9781119272182.ch4
-  image: https://media.wiley.com/product_data/coverImage300/84/11181694/1118169484.jpg
+  image: ''
 
 - id: doi:10.1038/srep29032
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fsrep29032/MediaObjects/41598_2016_Article_BFsrep29032_Fig6_HTML.jpg?as=webp
@@ -188,34 +181,34 @@
   image: https://www.biorxiv.org/content/biorxiv/early/2016/09/09/074450/F1.medium.gif
 
 - id: doi:10.1109/ICCABS.2015.7344730
-  image: https://media-exp1.licdn.com/dms/image/C560BAQGgiSTQ5LqXQQ/company-logo_200_200/0/1524326526386?e=2159024400&v=beta&t=FD5_ribizUoTrwcGebnCAWvNSk1LIaS4QcOpNWIc_18
+  image: ''
 
 - id: doi:10.1186/1471-2164-15-S5-S7
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2F1471-2164-15-S5-S7/MediaObjects/12864_2014_Article_6255_Fig1_HTML.jpg?as=webp
 
 - id: doi:10.1109/ICCABS.2014.6863932
-  image: https://media-exp1.licdn.com/dms/image/C560BAQGgiSTQ5LqXQQ/company-logo_200_200/0/1524326526386?e=2159024400&v=beta&t=FD5_ribizUoTrwcGebnCAWvNSk1LIaS4QcOpNWIc_18
+  image: ''
 
 - id: doi:10.1109/ICCABS.2014.6863935
-  image: https://media-exp1.licdn.com/dms/image/C560BAQGgiSTQ5LqXQQ/company-logo_200_200/0/1524326526386?e=2159024400&v=beta&t=FD5_ribizUoTrwcGebnCAWvNSk1LIaS4QcOpNWIc_18
+  image: ''
 
 - id: doi:10.1109/ICCABS.2014.6863946
-  image: https://media-exp1.licdn.com/dms/image/C560BAQGgiSTQ5LqXQQ/company-logo_200_200/0/1524326526386?e=2159024400&v=beta&t=FD5_ribizUoTrwcGebnCAWvNSk1LIaS4QcOpNWIc_18
+  image: ''
 
 - id: doi:10.21775/9781910190913
-  image: https://www.caister.com/gifs/cover/9781908230294.jpg
+  image: ''
 
 - id: doi:10.1109/ICCABS.2013.6629228
-  image: https://media-exp1.licdn.com/dms/image/C560BAQGgiSTQ5LqXQQ/company-logo_200_200/0/1524326526386?e=2159024400&v=beta&t=FD5_ribizUoTrwcGebnCAWvNSk1LIaS4QcOpNWIc_18
+  image: ''
 
 - id: doi:10.1145/2382936.2382983
-  image: https://media-exp1.licdn.com/dms/image/C560BAQGgiSTQ5LqXQQ/company-logo_200_200/0/1524326526386?e=2159024400&v=beta&t=FD5_ribizUoTrwcGebnCAWvNSk1LIaS4QcOpNWIc_18
+  image: ''
 
 - id: doi:10.1109/ICCABS.2012.6182673
-  image: https://media-exp1.licdn.com/dms/image/C560BAQGgiSTQ5LqXQQ/company-logo_200_200/0/1524326526386?e=2159024400&v=beta&t=FD5_ribizUoTrwcGebnCAWvNSk1LIaS4QcOpNWIc_18
+  image: ''
 
 - id: doi:10.1109/BIBMW.2011.6112363
-  image: https://media-exp1.licdn.com/dms/image/C560BAQGgiSTQ5LqXQQ/company-logo_200_200/0/1524326526386?e=2159024400&v=beta&t=FD5_ribizUoTrwcGebnCAWvNSk1LIaS4QcOpNWIc_18
+  image: ''
 
 - id: doi:10.1186/1471-2105-12-S6-S1
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2F1471-2105-12-S6-S1/MediaObjects/12859_2011_Article_4668_Fig3_HTML.jpg?as=webp
@@ -224,7 +217,7 @@
 #   image: https://media.springernature.com/w153/springer-static/cover/book/9781627034500.jpg
 
 - id: doi:10.1007/978-3-642-23038-7_19
-  image: https://media.springernature.com/w306/springer-static/cover/book/978-3-642-23038-7.jpg
+  image: ''
 
 - id: doi:10.1186/1748-7188-6-9
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2F1748-7188-6-9/MediaObjects/13015_2010_Article_123_Fig3_HTML.jpg?as=webp
@@ -233,7 +226,7 @@
   image: https://media.springernature.com/w306/springer-static/cover/book/978-1-4020-8846-9.jpg
 
 - id: doi:10.31219/osf.io/w25hq
-  image: https://osf.io/preprints/assets/osf-assets/files/preprints-assets/osf/sharing-272b70fbebcd410fcebc10e5ce1a395abbf5c62d.png
+  image: ''
 
 - id: doi:10.1093/gigascience/giab002
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gigascience/10/2/10.1093_gigascience_giab002/3/m_giab002fig1.jpeg?Expires=1627831916&Signature=t41E54zyrgVce8Y-vG2ZTOhQsnHMSnSU5fm375Qqg1tuDR9cfGBwvlnLmKa4m8S2zlcquAsWqgDPn8tXfwB7KXCZ5njGP0p3lVFf19jbgTc94jqC1y-os~Xq0C~ZYYOVN9owvh~UBf-tp4IvROVMZ-wqLD9J7GpkKdoBXnTZP0RguLCBdl2vKwoEd79Y-L~I1ymuDm2SxdMHBX36niyTvbcBQzOYw6ifsFAtKrDN7Eyd7iQcPqJAQ1fnGMR6EGGw-9mwuosnaLGzUNVtxMyLMmYjYQ70Qlny8GwYLnvOTeaFoWh~X~8rDKMTEN0fhn8L2iOF1~J3Bbdedif65Mpv9g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
@@ -273,7 +266,7 @@
   image: https://www.biorxiv.org/content/biorxiv/early/2019/10/03/792911/F6.large.jpg?width=800&height=600&carousel=1
 
 - id: doi:10.31219/osf.io/v5kr4
-  image: 'https://osf.io/preprints/assets/osf-assets/files/preprints-assets/osf/sharing-272b70fbebcd410fcebc10e5ce1a395abbf5c62d.png'
+  image: ''
   tags:
     - cancer
     - single cell
@@ -315,22 +308,22 @@
     - ovarian cancer
 
 - id: doi:10.1186/s13059-021-02332-z
-  image: 'https://media.springernature.com/w110/springer-static/cover/journal/13059.jpg'
+  image: ''
 
 - id: doi:10.1172/JCI147834
-  image: https://dm5migu4zj3pb.cloudfront.net/volumes/129/2/129-2-cover.jpg
+  image: ''
 
 - id: doi:10.1111/exd.14385
-  image: https://onlinelibrary.wiley.com/cms/asset/c2692a16-17fb-4d85-8f63-ff3bec27ed1d/exd.v30.issue-6.cover.jpg
+  image: ''
 
 - id: doi:10.1016/j.cell.2021.03.050
-  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/asset/atypon:cms:attachment:img:d69e6:rev:1435065942089-7814:pii:S0092867414X00267/cover.tif.jpg
+  image: ''
 
 - id: doi:10.1128/mSystems.00122-21 
-  image: 'https://asm.org/ASM/media/Company-Logos/ASM-OG-Default.jpg?ext=.jpg'
+  image: ''
 
 - id: doi:10.1186/s13059-019-1649-8
-  image: https://media.springernature.com/w110/springer-static/cover/journal/13059.jpg
+  image: ''
   tags:
     - cancer
     - machine learning
@@ -348,13 +341,13 @@
     - machine learning
 
 - id: doi:10.1038/s41587-019-0053-y
-  image: https://media.springernature.com/w440/springer-static/cover-hires/journal/41587/39/6?q=95
+  image: ''
 
 - id: doi:10.3389/fimmu.2018.02206
   image: https://www.frontiersin.org/files/Articles/402803/fimmu-09-02206-HTML-r1/image_m/fimmu-09-02206-g003.jpg
 
 - id: doi:10.1093/molbev/msy170
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/mbe/Issue/35/11/2/m_molbiolevol_35_11cover.jpeg?Expires=1628786064&Signature=Ie4wTvHj~i~z8FRlVs48cZFgSZfyLeszX1zSfg97UklMgvcG4MsZ8f-qA3VJCK2qE7DKEncaQw5m4Z9-A75HlpPKpyqgbMDvbpqfydbLvt1rlBgtqM6HDpRwjmD64AWDpWHNkCje62PyUT9LsDIZ-DIJ7ZBiKhYlSplOj1AAcTMFJHPoco-IdauLkj3uR9hAFRxRO4BR-KD9kUGPboKDGLDspWtN0CFz8rUsa4uR-8w6YLt08AGugrILmNQ9QFeX4pJIZLV-4PnjrgEk9RLkqnBAogX47JzAUuj68HP6fZ3v5K~F5J~5Sm2E5Pq0oPTUBfqgo2FkBbN8d2lcs9DdSw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: ''
 
 - id: doi:10.1038/s41398-018-0107-9
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41398-018-0107-9/MediaObjects/41398_2018_107_Fig2_HTML.jpg?as=webp
@@ -369,7 +362,7 @@
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature24041/MediaObjects/41586_2017_Article_BFnature24041_Fig1_HTML.jpg
 
 - id: doi:10.1101/gr.216721.116
-  image: http://www.speciation.net/md/000/003/002/th_CSHLP-Logo.gif
+  image: ''
 
 - id: doi:10.1101/2020.04.16.045120
   image: https://www.biorxiv.org/content/biorxiv/early/2020/09/17/2020.04.16.045120/F2.large.jpg?width=800&height=600
@@ -393,7 +386,7 @@
       link: https://doi.org/10.1101/785584
 
 - id: url:https://arxiv.org/abs/2002.12268
-  image: https://pbs.twimg.com/profile_images/752339815002091520/d403dpBl_400x400.jpg
+  image: ''
   extra-links:
     - type: preprint
     - type: manubot
@@ -450,14 +443,14 @@
       link: https://doi.org/10.1101/793091
 
 - id: doi:10.1101/786053
-  image: https://pbs.twimg.com/profile_images/752339815002091520/d403dpBl_400x400.jpg
+  image: ''
   extra-links:
     - type: preprint
     - type: manubot
       link: https://doi.org/10.1101/786053
 
 - id: doi:10.1101/792911
-  image: https://pbs.twimg.com/profile_images/752339815002091520/d403dpBl_400x400.jpg
+  image: ''
   extra-links:
     - type: preprint
     - type: manubot

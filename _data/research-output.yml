@@ -131,7 +131,7 @@
   date: '2019-03-27'
   link: https://doi.org/gfxx3z
   id: doi:10.1038/s41467-019-09406-4
-  image: https://upload.wikimedia.org/wikipedia/en/b/bf/Nature_Communications_-_Journal_Cover.jpg
+  image: ''
   tags:
   - cancer
   - single cell
@@ -193,7 +193,7 @@
   date: '2019-09-01'
   link: https://doi.org/ghp82b
   id: doi:10.1074/jbc.RA119.008853
-  image: https://news.milne-library.org/wp-content/uploads/2019/05/journal-biological-chemistry-779x800.jpg
+  image: ''
   tags:
   - cancer
   - single cell
@@ -266,7 +266,7 @@
   date: '2017-10-01'
   link: https://doi.org/ghqfdw
   id: doi:10.1016/j.tibtech.2017.06.007
-  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/asset/atypon:cms:attachment:img:d69e6:rev:1435065942089-7814:pii:S0092867414X00267/cover.tif.jpg
+  image: ''
   tags:
   - cancer
   - single cell
@@ -384,7 +384,7 @@
   date: '2021-05-17'
   link: https://doi.org//10.1038/s41592-021-01169-5
   id: doi:/10.1038/s41592-021-01169-5
-  image: https://upload.wikimedia.org/wikipedia/commons/2/2a/NMeth_cover_MAY21.jpg
+  image: ''
 - title: Unlocking capacities of viral genomics for the COVID-19 pandemic response
   authors:
   - Sergey Knyazev
@@ -467,7 +467,7 @@
   date: '2021-02-16'
   link: https://doi.org/arxiv:2010.02391
   id: doi:arXiv:2010.02391
-  image: https://pbs.twimg.com/profile_images/752339815002091520/d403dpBl_400x400.jpg
+  image: ''
 - title: 'Corrigendum to: Recommendations to enhance rigor and reproducibility in
     biomedical research'
   authors:
@@ -482,7 +482,7 @@
   date: '2020-09-17'
   link: https://doi.org/gk5cj9
   id: doi:10.1093/gigascience/giaa103
-  image: https://academic.oup.com/gigascience/current/cover/small
+  image: ''
 - title: 'PhenomeXcan: Mapping the genome to the phenome through the transcriptome'
   authors:
   - Milton Pividori
@@ -611,7 +611,7 @@
   date: '2018-07-01'
   link: https://doi.org/gk5ckc
   id: doi:10.1158/1538-7445.AM2018-4688
-  image: https://www.aacr.org/wp-content/uploads/2020/01/Feat-CTA_AACRLogo_600x450_1910036M.jpg
+  image: ''
 - title: Single Cell Heterogeneity is Absent in the Transgenic Paradigm of an Inherited
     Cataract
   authors:
@@ -639,7 +639,7 @@
   date: '2017-11-01'
   link: https://doi.org/10.1101/gr.216754.116.
   id: doi:10.1101/gr.216754.116.
-  image: https://genome.cshlp.org/content/25/10/F1.medium.gif
+  image: ''
 - title: Long Single-Molecule Reads Can Resolve the Complexity of the Influenza Virus
     Composed of Rare, Closely Related Mutant Variants
   authors:
@@ -653,7 +653,7 @@
   date: '2017-06-01'
   link: https://doi.org/gbh42m
   id: doi:10.1089/cmb.2016.0146
-  image: https://www.liebertpub.com/na101/home/literatum/publisher/mal/journals/content/cmb/2017/cmb.2017.24.issue-6/cmb.2017.24.issue-6/20170607/cmb.2017.24.issue-6.cover.jpg
+  image: ''
 - title: 104 Lack of human papilloma virus transcription in cutaneous squamous cell
     carcinoma stratified by histological grade and host immune status
   authors:
@@ -673,7 +673,7 @@
   date: '2017-05-01'
   link: https://doi.org/ghp82f
   id: doi:10.1016/j.jid.2017.02.118
-  image: https://www.openacessjournal.com/assets/membership/2019092624downl.jpg
+  image: ''
 - title: 'HapIso: An Accurate Method for the Haplotype- Specific Isoforms Reconstruction
     From Long Single-Molecule Reads'
   authors:
@@ -689,7 +689,7 @@
   date: '2017-03-01'
   link: https://doi.org/ghp82d
   id: doi:10.1109/TNB.2017.2675981
-  image: https://media.springernature.com/w306/springer-static/cover/book/978-3-319-38782-6.jpg
+  image: ''
 - title: 'UMI-Reducer: Collapsing duplicate sequencing reads via Unique Molecular
     Identifiers'
   authors:
@@ -734,7 +734,7 @@
   date: '2016-08-26'
   link: https://doi.org/ghp82h
   id: doi:10.1002/9781119272182.ch4
-  image: https://media.wiley.com/product_data/coverImage300/84/11181694/1118169484.jpg
+  image: ''
 - title: CRISPR-Mediated VHL Knockout Generates an Improved Model for Metastatic Renal
     Cell Carcinoma
   authors:
@@ -824,7 +824,7 @@
   date: '2015-10-01'
   link: https://doi.org/gk5ckw
   id: doi:10.1109/ICCABS.2015.7344730
-  image: https://media-exp1.licdn.com/dms/image/C560BAQGgiSTQ5LqXQQ/company-logo_200_200/0/1524326526386?e=2159024400&v=beta&t=FD5_ribizUoTrwcGebnCAWvNSk1LIaS4QcOpNWIc_18
+  image: ''
 - title: Transcriptome assembly and quantification from Ion Torrent RNA-Seq data
   authors:
   - Serghei Mangul
@@ -851,7 +851,7 @@
   date: '2014-06-01'
   link: https://doi.org/ghp82k
   id: doi:10.1109/ICCABS.2014.6863932
-  image: https://media-exp1.licdn.com/dms/image/C560BAQGgiSTQ5LqXQQ/company-logo_200_200/0/1524326526386?e=2159024400&v=beta&t=FD5_ribizUoTrwcGebnCAWvNSk1LIaS4QcOpNWIc_18
+  image: ''
 - title: Reconstruction of influenza a virus variants from PacBio reads
   authors:
   - Alexander Artyomenko
@@ -864,7 +864,7 @@
   date: '2014-06-01'
   link: https://doi.org/gk5ck2
   id: doi:10.1109/ICCABS.2014.6863935
-  image: https://media-exp1.licdn.com/dms/image/C560BAQGgiSTQ5LqXQQ/company-logo_200_200/0/1524326526386?e=2159024400&v=beta&t=FD5_ribizUoTrwcGebnCAWvNSk1LIaS4QcOpNWIc_18
+  image: ''
 - title: Deterministic regression algorithm for transcriptome frequency estimation
   authors:
   - Adrian Caciula
@@ -878,14 +878,14 @@
   date: '2014-06-01'
   link: https://doi.org/gk5ck3
   id: doi:10.1109/ICCABS.2014.6863946
-  image: https://media-exp1.licdn.com/dms/image/C560BAQGgiSTQ5LqXQQ/company-logo_200_200/0/1524326526386?e=2159024400&v=beta&t=FD5_ribizUoTrwcGebnCAWvNSk1LIaS4QcOpNWIc_18
+  image: ''
 - title: 'Porcine Viruses: From Pathogenesis to Strategies for Control'
   authors: []
   publisher: Caister Academic Press
   date: '2019-01-01'
   link: https://doi.org/gk5cmw
   id: doi:10.21775/9781910190913
-  image: https://www.caister.com/gifs/cover/9781908230294.jpg
+  image: ''
 - title: Monte-Carlo Regression algorithm for isoform frequency estimation from RNA-Seq
     data
   authors:
@@ -898,7 +898,7 @@
   date: '2013-06-01'
   link: https://doi.org/gk5cmx
   id: doi:10.1109/ICCABS.2013.6629228
-  image: https://media-exp1.licdn.com/dms/image/C560BAQGgiSTQ5LqXQQ/company-logo_200_200/0/1524326526386?e=2159024400&v=beta&t=FD5_ribizUoTrwcGebnCAWvNSk1LIaS4QcOpNWIc_18
+  image: ''
 - title: An integer programming approach to novel transcript reconstruction from paired-end
     RNA-Seq reads
   authors:
@@ -912,7 +912,7 @@
   date: '2012-01-01'
   link: https://doi.org/gk5cmz
   id: doi:10.1145/2382936.2382983
-  image: https://media-exp1.licdn.com/dms/image/C560BAQGgiSTQ5LqXQQ/company-logo_200_200/0/1524326526386?e=2159024400&v=beta&t=FD5_ribizUoTrwcGebnCAWvNSk1LIaS4QcOpNWIc_18
+  image: ''
 - title: 'Workshop: Novel transcript reconstruction from paired-end RNA-Seq reads
     using fragment length distribution'
   authors:
@@ -924,7 +924,7 @@
   date: '2012-02-01'
   link: https://doi.org/gk5cm3
   id: doi:10.1109/ICCABS.2012.6182673
-  image: https://media-exp1.licdn.com/dms/image/C560BAQGgiSTQ5LqXQQ/company-logo_200_200/0/1524326526386?e=2159024400&v=beta&t=FD5_ribizUoTrwcGebnCAWvNSk1LIaS4QcOpNWIc_18
+  image: ''
 - title: RNA-Seq based discovery and reconstruction of unannotated transcripts in
     partially annotated genomes
   authors:
@@ -936,7 +936,7 @@
   date: '2011-11-01'
   link: https://doi.org/fznt46
   id: doi:10.1109/BIBMW.2011.6112363
-  image: https://media-exp1.licdn.com/dms/image/C560BAQGgiSTQ5LqXQQ/company-logo_200_200/0/1524326526386?e=2159024400&v=beta&t=FD5_ribizUoTrwcGebnCAWvNSk1LIaS4QcOpNWIc_18
+  image: ''
 - title: Inferring viral quasispecies spectra from 454 pyrosequencing reads
   authors:
   - Irina Astrovskaya
@@ -963,7 +963,7 @@
   date: '2011-01-01'
   link: https://doi.org/bfs9j3
   id: doi:10.1007/978-3-642-23038-7_19
-  image: https://media.springernature.com/w306/springer-static/cover/book/978-3-642-23038-7.jpg
+  image: ''
 - title: Estimation of alternative splicing isoform frequencies from RNA-Seq data
   authors:
   - Marius Nicolae
@@ -1003,7 +1003,7 @@
   date: '2021-03-01'
   link: https://doi.org/gk4582
   id: doi:10.31219/osf.io/w25hq
-  image: https://osf.io/preprints/assets/osf-assets/files/preprints-assets/osf/sharing-272b70fbebcd410fcebc10e5ce1a395abbf5c62d.png
+  image: ''
 - title: 'The Gene Expression Deconvolution Interactive Tool (GEDIT): accurate cell
     type quantification from gene expression data'
   authors:
@@ -1182,7 +1182,7 @@
   date: '2020-11-25'
   link: https://doi.org/ghxddk
   id: doi:10.31219/osf.io/v5kr4
-  image: https://osf.io/preprints/assets/osf-assets/files/preprints-assets/osf/sharing-272b70fbebcd410fcebc10e5ce1a395abbf5c62d.png
+  image: ''
   tags:
   - cancer
   - single cell
@@ -1382,22 +1382,6 @@
   - cancer
   - single cell
   - ovarian cancer
-- title: Integrating big data analytical techniques in pharmacy education
-  authors:
-  - Kerui Peng
-  - Lana S. Martin
-  - Houda Alachkar
-  - Annie Wong-Beringer
-  - SERGHEI MANGUL
-  publisher: Center for Open Science
-  date: '2020-08-26'
-  link: https://doi.org/ghxdff
-  id: doi:10.31219/osf.io/3gdy4
-  image: ''
-  tags:
-  - cancer
-  - single cell
-  - ovarian cancer
 - title: Improving the completeness of public metadata accompanying omics studies
   authors:
   - Anushka Rajesh
@@ -1410,7 +1394,7 @@
   date: '2021-04-15'
   link: https://doi.org/gjt6d6
   id: doi:10.1186/s13059-021-02332-z
-  image: https://media.springernature.com/w110/springer-static/cover/journal/13059.jpg
+  image: ''
 - title: Rare loss-of-function variants in type I IFN immunity genes are not associated
     with severe COVID-19
   authors:
@@ -1470,7 +1454,7 @@
   date: '2021-05-27'
   link: https://doi.org/gj8d5s
   id: doi:10.1172/JCI147834
-  image: https://dm5migu4zj3pb.cloudfront.net/volumes/129/2/129-2-cover.jpg
+  image: ''
 - title: "Detection of viral gene expression in risk\u2010stratified biopsies reveals\
     \ no active HPV in cutaneous squamous cell carcinoma"
   authors:
@@ -1491,7 +1475,7 @@
   date: '2021-05-25'
   link: https://doi.org/gj7b4r
   id: doi:10.1111/exd.14385
-  image: https://onlinelibrary.wiley.com/cms/asset/c2692a16-17fb-4d85-8f63-ff3bec27ed1d/exd.v30.issue-6.cover.jpg
+  image: ''
 - title: Population-scale tissue transcriptomics maps long non-coding RNAs to complex
     disease
   authors:
@@ -1679,7 +1663,7 @@
   date: '2021-05-01'
   link: https://doi.org/gjtcvr
   id: doi:10.1016/j.cell.2021.03.050
-  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/asset/atypon:cms:attachment:img:d69e6:rev:1435065942089-7814:pii:S0092867414X00267/cover.tif.jpg
+  image: ''
 - title: Dietary Supplements and Nutraceuticals under Investigation for COVID-19 Prevention
     and Treatment
   authors:
@@ -1691,7 +1675,7 @@
   date: '2021-06-29'
   link: https://doi.org/gj9qvs
   id: doi:10.1128/mSystems.00122-21
-  image: https://asm.org/ASM/media/Company-Logos/ASM-OG-Default.jpg?ext=.jpg
+  image: ''
 - title: Improving the usability and archival stability of bioinformatics software
   authors:
   - Serghei Mangul
@@ -1702,7 +1686,7 @@
   date: '2019-02-27'
   link: https://doi.org/ggc6j6
   id: doi:10.1186/s13059-019-1649-8
-  image: https://media.springernature.com/w110/springer-static/cover/journal/13059.jpg
+  image: ''
   tags:
   - cancer
   - machine learning
@@ -1748,7 +1732,7 @@
   date: '2019-03-04'
   link: https://doi.org/gfwnsm
   id: doi:10.1038/s41587-019-0053-y
-  image: https://media.springernature.com/w440/springer-static/cover-hires/journal/41587/39/6?q=95
+  image: ''
   tags:
   - cancer
   - machine learning
@@ -1788,7 +1772,7 @@
   date: '2018-11-01'
   link: https://doi.org/gd5c2s
   id: doi:10.1093/molbev/msy170
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/mbe/Issue/35/11/2/m_molbiolevol_35_11cover.jpeg?Expires=1628786064&Signature=Ie4wTvHj~i~z8FRlVs48cZFgSZfyLeszX1zSfg97UklMgvcG4MsZ8f-qA3VJCK2qE7DKEncaQw5m4Z9-A75HlpPKpyqgbMDvbpqfydbLvt1rlBgtqM6HDpRwjmD64AWDpWHNkCje62PyUT9LsDIZ-DIJ7ZBiKhYlSplOj1AAcTMFJHPoco-IdauLkj3uR9hAFRxRO4BR-KD9kUGPboKDGLDspWtN0CFz8rUsa4uR-8w6YLt08AGugrILmNQ9QFeX4pJIZLV-4PnjrgEk9RLkqnBAogX47JzAUuj68HP6fZ3v5K~F5J~5Sm2E5Pq0oPTUBfqgo2FkBbN8d2lcs9DdSw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: ''
   tags:
   - cancer
   - machine learning
@@ -1913,7 +1897,7 @@
   date: '2017-11-01'
   link: https://doi.org/gb2qx6
   id: doi:10.1101/gr.216721.116
-  image: http://www.speciation.net/md/000/003/002/th_CSHLP-Logo.gif
+  image: ''
   tags:
   - cancer
   - machine learning
@@ -2015,7 +1999,7 @@
   date: '2020-06-17'
   link: http://arxiv.org/abs/2002.12268
   id: url:https://arxiv.org/abs/2002.12268
-  image: https://pbs.twimg.com/profile_images/752339815002091520/d403dpBl_400x400.jpg
+  image: ''
   extra-links:
   - type: preprint
   - type: manubot
@@ -2183,7 +2167,7 @@
   date: '2019-10-03'
   link: https://doi.org/gg7m5z
   id: doi:10.1101/786053
-  image: https://pbs.twimg.com/profile_images/752339815002091520/d403dpBl_400x400.jpg
+  image: ''
   extra-links:
   - type: preprint
   - type: manubot
@@ -2203,7 +2187,7 @@
   date: '2019-10-03'
   link: https://doi.org/ghqfd3
   id: doi:10.1101/792911
-  image: https://pbs.twimg.com/profile_images/752339815002091520/d403dpBl_400x400.jpg
+  image: ''
   extra-links:
   - type: preprint
   - type: manubot
