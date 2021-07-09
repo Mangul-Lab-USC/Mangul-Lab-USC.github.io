@@ -468,21 +468,6 @@
   link: https://doi.org/arxiv:2010.02391
   id: doi:arXiv:2010.02391
   image: ''
-- title: 'Corrigendum to: Recommendations to enhance rigor and reproducibility in
-    biomedical research'
-  authors:
-  - Jaqueline J Brito
-  - Jun Li
-  - Jason H Moore
-  - Casey S Greene
-  - Nicole A Nogoy
-  - Lana X Garmire
-  - Serghei Mangul
-  publisher: GigaScience
-  date: '2020-09-17'
-  link: https://doi.org/gk5cj9
-  id: doi:10.1093/gigascience/giaa103
-  image: ''
 - title: 'PhenomeXcan: Mapping the genome to the phenome through the transcriptome'
   authors:
   - Milton Pividori
