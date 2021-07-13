@@ -131,7 +131,7 @@
   date: '2019-03-27'
   link: https://doi.org/gfxx3z
   id: doi:10.1038/s41467-019-09406-4
-  image: ''
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-019-09406-4/MediaObjects/41467_2019_9406_Fig1_HTML.png?as=webp
   tags:
   - cancer
   - single cell
@@ -160,7 +160,7 @@
   date: '2019-06-20'
   link: https://doi.org/dm26
   id: doi:10.1371/journal.pbio.3000333
-  image: https://storage.googleapis.com/plos-corpus-prod/10.1371/journal.pbio.3000333/2/pbio.3000333.g001.PNG_L?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wombat-sa%40plos-prod.iam.gserviceaccount.com%2F20210708%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20210708T235842Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=6b0eee82535f65aea0f8c39bb90fc6cf84348b19f44f19bbd1a1c7c226e024f631b4ebf7999e4d8ba39a640505abb8a023f5614294181452efc02ea17ea173f5d671edbf8b15d2fb7858c4e5ba7ccf93f8d3eea363b5934c0e293f1bd9850e4101ef5f15b28a968dc0a4fcb9407969e46a38df719b37ba12790574f8f04c5dc57dd46c99c79ad4f4bccecae660341a37a7050088e30851276a19df497f02a02355a49922137d68159b130ce6aa7357ad2112efb425b42a18a74cca20da485ed757546b53065b51a8841f9ad9f1e452c0e6cd7252bb04b695a90772bf2fa4dcc270c51b89b2d2cabddbfb7c2d0751a46c18505c6bbc37441a269c52388d510f97
+  image: https://journals.plos.org/plosbiology/article/figure/image?size=large&id=10.1371/journal.pbio.3000333.g002
   tags:
   - cancer
   - single cell
@@ -193,7 +193,7 @@
   date: '2019-09-01'
   link: https://doi.org/ghp82b
   id: doi:10.1074/jbc.RA119.008853
-  image: ''
+  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/e42debd4-5cf1-4a7b-82c7-64dd1622eb44/gr1.jpg
   tags:
   - cancer
   - single cell
@@ -266,7 +266,7 @@
   date: '2017-10-01'
   link: https://doi.org/ghqfdw
   id: doi:10.1016/j.tibtech.2017.06.007
-  image: ''
+  image: https://user-images.githubusercontent.com/71193439/125512144-dbd9e6ff-f327-4a47-aff0-3bc11a19a84f.png
   tags:
   - cancer
   - single cell
@@ -465,9 +465,29 @@
   - Serghei Mangul
   publisher: arXiv:2010.02391 [q-bio]
   date: '2021-02-16'
-  link: https://doi.org/arxiv:2010.02391
-  id: doi:arXiv:2010.02391
-  image: ''
+  link: http://arxiv.org/abs/2010.02391
+  id: url:https://arxiv.org/abs/2010.02391v3
+  image: https://i.ibb.co/DKTR3Fp/k6-Gr-Jgn-d.webp
+- title: Virtual meetings promise to eliminate the geographical and administrative
+    barriers and increase accessibility, diversity, and inclusivity
+  authors:
+  - Juncheng Wu
+  - Anushka Rajesh
+  - Yu-Ning Huang
+  - Karishma Chhugani
+  - Rajesh Acharya
+  - Kerui Peng
+  - Ruth D. Johnson
+  - Andrada Fiscutean
+  - Carla Daniela Robles-Espinoza
+  - Francisco M. De La Vega
+  - Riyue Bao
+  - Serghei Mangul
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-07-08'
+  link: https://doi.org/gk6cmr
+  id: doi:10.1101/2021.07.07.451408
+  image: https://www.biorxiv.org/content/biorxiv/early/2021/07/08/2021.07.07.451408/F3.large.jpg?width=800&height=600&carousel=1
 - title: 'PhenomeXcan: Mapping the genome to the phenome through the transcriptome'
   authors:
   - Milton Pividori
@@ -494,16 +514,16 @@
   - Andrew Melnyk
   - Alexander Artyomenko
   - Tatiana Malygina
-  - Yuri B. Porozov
-  - Ellsworth M. Campbell
-  - Serghei Mangul
-  - William M. Switzer
+  - Yuri B Porozov
+  - Ellsworth M Campbell
+  - William M Switzer
   - Pavel Skums
+  - Serghei Mangul
   - Alex Zelikovsky
-  publisher: Cold Spring Harbor Laboratory
-  date: '2020-10-08'
-  link: https://doi.org/ggn9tb
-  id: doi:10.1101/264242
+  publisher: Nucleic Acids Research
+  date: '2021-07-02'
+  link: https://doi.org/gk6cmp
+  id: doi:10.1093/nar/gkab576
   image: https://www.biorxiv.org/content/biorxiv/early/2020/10/08/264242/F2.large.jpg?width=800&height=600&carousel=1
 - title: 'Telescope: an interactive tool for managing large-scale analysis from mobile
     devices'
@@ -596,7 +616,7 @@
   date: '2018-07-01'
   link: https://doi.org/gk5ckc
   id: doi:10.1158/1538-7445.AM2018-4688
-  image: ''
+  image: https://i.ibb.co/BPqvmFK/KG9x2Mo.png
 - title: Single Cell Heterogeneity is Absent in the Transgenic Paradigm of an Inherited
     Cataract
   authors:
@@ -612,19 +632,258 @@
   link: https://doi.org/gk5ckd
   id: doi:10.2139/ssrn.3244893
   image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/asset/atypon:cms:attachment:img:d264e6:rev:1604337987489-13181:pii:S2468266720X00053/cover.tif.jpg
-- title: Identifying <i>cis</i> -mediators for <i>trans</i> -eQTLs across many human
-    tissues using genomic mediation analysis
+- title: Identifying cis-mediators for trans-eQTLs across many human tissues using
+    genomic mediation analysis
   authors:
   - Fan Yang
   - Jiebiao Wang
-  - ' The GTEx Consortium'
+  - The GTEx Consortium
   - Brandon L. Pierce
   - Lin S. Chen
+  - "Fran\xE7ois Aguet"
+  - Kristin G. Ardlie
+  - Beryl B. Cummings
+  - Ellen T. Gelfand
+  - Gad Getz
+  - Kane Hadley
+  - Robert E. Handsaker
+  - Katherine H. Huang
+  - Seva Kashin
+  - Konrad J. Karczewski
+  - Monkol Lek
+  - Xiao Li
+  - Daniel G. MacArthur
+  - Jared L. Nedzel
+  - Duyen T. Nguyen
+  - Michael S. Noble
+  - "Ayellet V. Segr\xE8"
+  - Casandra A. Trowbridge
+  - Taru Tukiainen
+  - Nathan S. Abell
+  - Brunilda Balliu
+  - Ruth Barshir
+  - Omer Basha
+  - Alexis Battle
+  - Gireesh K. Bogu
+  - Andrew Brown
+  - Christopher D. Brown
+  - Stephane E. Castel
+  - Lin S. Chen
+  - Colby Chiang
+  - Donald F. Conrad
+  - Nancy J. Cox
+  - Farhan N. Damani
+  - Joe R. Davis
+  - Olivier Delaneau
+  - Emmanouil T. Dermitzakis
+  - Barbara E. Engelhardt
+  - Eleazar Eskin
+  - Pedro G. Ferreira
+  - "Laure Fr\xE9sard"
+  - Eric R. Gamazon
+  - "Diego Garrido-Mart\xEDn"
+  - Ariel D. H. Gewirtz
+  - Genna Gliner
+  - Michael J. Gloudemans
+  - Roderic Guigo
+  - Ira M. Hall
+  - Buhm Han
+  - Yuan He
+  - Farhad Hormozdiari
+  - Cedric Howald
+  - Hae Kyung Im
+  - Brian Jo
+  - Eun Yong Kang
+  - Yungil Kim
+  - Sarah Kim-Hellmuth
+  - Tuuli Lappalainen
+  - Gen Li
+  - Xin Li
+  - Boxiang Liu
+  - Serghei Mangul
+  - Mark I. McCarthy
+  - Ian C. McDowell
+  - Pejman Mohammadi
+  - Jean Monlong
+  - Stephen B. Montgomery
+  - "Manuel Mu\xF1oz-Aguirre"
+  - Anne W. Ndungu
+  - Dan L. Nicolae
+  - Andrew B. Nobel
+  - Meritxell Oliva
+  - Halit Ongen
+  - John J. Palowitch
+  - Nikolaos Panousis
+  - Panagiotis Papasaikas
+  - YoSon Park
+  - Princy Parsana
+  - Anthony J. Payne
+  - Christine B. Peterson
+  - Jie Quan
+  - Ferran Reverter
+  - Chiara Sabatti
+  - Ashis Saha
+  - Michael Sammeth
+  - Alexandra J. Scott
+  - Andrey A. Shabalin
+  - Reza Sodaei
+  - Matthew Stephens
+  - Barbara E. Stranger
+  - Benjamin J. Strober
+  - Jae Hoon Sul
+  - Emily K. Tsang
+  - Sarah Urbut
+  - Martijn Bunt
+  - Gao Wang
+  - Xiaoquan Wen
+  - Fred A. Wright
+  - Hualin S. Xi
+  - Esti Yeger-Lotem
+  - Zachary Zappala
+  - Judith B. Zaugg
+  - Yi-Hui Zhou
+  - Joshua M. Akey
+  - Daniel Bates
+  - Joanne Chan
+  - Lin S. Chen
+  - Melina Claussnitzer
+  - Kathryn Demanelis
+  - Morgan Diegel
+  - Jennifer A. Doherty
+  - Andrew P. Feinberg
+  - Marian S. Fernando
+  - Jessica Halow
+  - Kasper D. Hansen
+  - Eric Haugen
+  - Peter F. Hickey
+  - Lei Hou
+  - Farzana Jasmine
+  - Ruiqi Jian
+  - Lihua Jiang
+  - Audra Johnson
+  - Rajinder Kaul
+  - Manolis Kellis
+  - Muhammad G. Kibriya
+  - Kristen Lee
+  - Jin Billy Li
+  - Qin Li
+  - Xiao Li
+  - Jessica Lin
+  - Shin Lin
+  - Sandra Linder
+  - Caroline Linke
+  - Yaping Liu
+  - Matthew T. Maurano
+  - Benoit Molinie
+  - Stephen B. Montgomery
+  - Jemma Nelson
+  - Fidencio J. Neri
+  - Meritxell Oliva
+  - Yongjin Park
+  - Brandon L. Pierce
+  - Nicola J. Rinaldi
+  - Lindsay F. Rizzardi
+  - Richard Sandstrom
+  - Andrew Skol
+  - Kevin S. Smith
+  - Michael P. Snyder
+  - John Stamatoyannopoulos
+  - Barbara E. Stranger
+  - Hua Tang
+  - Emily K. Tsang
+  - Li Wang
+  - Meng Wang
+  - Nicholas Van Wittenberghe
+  - Fan Wu
+  - Rui Zhang
+  - Concepcion R. Nierras
+  - Philip A. Branton
+  - Latarsha J. Carithers
+  - Ping Guan
+  - Helen M. Moore
+  - Abhi Rao
+  - Jimmie B. Vaught
+  - Sarah E. Gould
+  - Nicole C. Lockart
+  - Casey Martin
+  - Jeffery P. Struewing
+  - Simona Volpi
+  - Anjene M. Addington
+  - Susan E. Koester
+  - A. Roger Little
+  - Lori E. Brigham
+  - Richard Hasz
+  - Marcus Hunter
+  - Christopher Johns
+  - Mark Johnson
+  - Gene Kopen
+  - William F. Leinweber
+  - John T. Lonsdale
+  - Alisa McDonald
+  - Bernadette Mestichelli
+  - Kevin Myer
+  - Brian Roe
+  - Michael Salvatore
+  - Saboor Shad
+  - Jeffrey A. Thomas
+  - Gary Walters
+  - Michael Washington
+  - Joseph Wheeler
+  - Jason Bridge
+  - Barbara A. Foster
+  - Bryan M. Gillard
+  - Ellen Karasik
+  - Rachna Kumar
+  - Mark Miklos
+  - Michael T. Moser
+  - Scott D. Jewell
+  - Robert G. Montroy
+  - Daniel C. Rohrer
+  - Dana R. Valley
+  - David A. Davis
+  - Deborah C. Mash
+  - Anita H. Undale
+  - Anna M. Smith
+  - David E. Tabor
+  - Nancy V. Roche
+  - Jeffrey A. McLean
+  - Negin Vatanian
+  - Karna L. Robinson
+  - Leslie Sobin
+  - Mary E. Barcus
+  - Kimberly M. Valentino
+  - Liqun Qi
+  - Steven Hunter
+  - Pushpa Hariharan
+  - Shilpi Singh
+  - Ki Sung Um
+  - Takunda Matose
+  - Maria M. Tomaszewski
+  - Laura K. Barker
+  - Maghboeba Mosavel
+  - Laura A. Siminoff
+  - Heather M. Traino
+  - Paul Flicek
+  - Thomas Juettemann
+  - Magali Ruffier
+  - Dan Sheppard
+  - Kieron Taylor
+  - Stephen J. Trevanion
+  - Daniel R. Zerbino
+  - Brian Craft
+  - Mary Goldman
+  - Maximilian Haeussler
+  - W. James Kent
+  - Christopher M. Lee
+  - Benedict Paten
+  - Kate R. Rosenbloom
+  - John Vivian
+  - Jingchun Zhu
   publisher: Genome Research
   date: '2017-11-01'
-  link: https://doi.org/10.1101/gr.216754.116.
-  id: doi:10.1101/gr.216754.116.
-  image: ''
+  link: https://genome.cshlp.org/content/27/11/1859
+  id: url:https://genome.cshlp.org/content/27/11/1859.short
+  image: https://i.ibb.co/pnxn61x/Do6qWqB.png
 - title: Long Single-Molecule Reads Can Resolve the Complexity of the Influenza Virus
     Composed of Rare, Closely Related Mutant Variants
   authors:
@@ -674,7 +933,7 @@
   date: '2017-03-01'
   link: https://doi.org/ghp82d
   id: doi:10.1109/TNB.2017.2675981
-  image: ''
+  image: https://i.ibb.co/zXvvsdf/9a4d5tS.png
 - title: 'UMI-Reducer: Collapsing duplicate sequencing reads via Unique Molecular
     Identifiers'
   authors:
@@ -988,7 +1247,7 @@
   date: '2021-03-01'
   link: https://doi.org/gk4582
   id: doi:10.31219/osf.io/w25hq
-  image: ''
+  image: https://user-images.githubusercontent.com/71193439/125509349-143c61d8-7517-43f3-98ab-7de9908444e6.png
 - title: 'The Gene Expression Deconvolution Interactive Tool (GEDIT): accurate cell
     type quantification from gene expression data'
   authors:
@@ -1439,7 +1698,7 @@
   date: '2021-05-27'
   link: https://doi.org/gj8d5s
   id: doi:10.1172/JCI147834
-  image: ''
+  image: https://i.ibb.co/0j6N1vr/chrome-8y-Cy-Ybl-PYT.png
 - title: "Detection of viral gene expression in risk\u2010stratified biopsies reveals\
     \ no active HPV in cutaneous squamous cell carcinoma"
   authors:
@@ -1460,7 +1719,7 @@
   date: '2021-05-25'
   link: https://doi.org/gj7b4r
   id: doi:10.1111/exd.14385
-  image: ''
+  image: https://user-images.githubusercontent.com/71193439/125508827-f8b3b03a-0265-49f2-a56b-0437b0ef96df.png
 - title: Population-scale tissue transcriptomics maps long non-coding RNAs to complex
     disease
   authors:
@@ -1648,7 +1907,7 @@
   date: '2021-05-01'
   link: https://doi.org/gjtcvr
   id: doi:10.1016/j.cell.2021.03.050
-  image: ''
+  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/f92b0d6f-abbc-4e86-b99b-77372bbca37c/fx1.jpg
 - title: Dietary Supplements and Nutraceuticals under Investigation for COVID-19 Prevention
     and Treatment
   authors:
@@ -1757,7 +2016,7 @@
   date: '2018-11-01'
   link: https://doi.org/gd5c2s
   id: doi:10.1093/molbev/msy170
-  image: ''
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/mbe/35/11/10.1093_molbev_msy170/5/m_msy170f1.jpeg?Expires=1628105722&Signature=AXm0pAewafsmvbDlUH-svohLxgwzHFsUDXgOB9y1-cSIPorwpdRTVLqOpJ8UNIwCdaFDVRuMfQCUNa2~F5bMMXt7SRBIW1TqaCBjZgrK-wygt1BAj3bZ0yf~6ywkzp6EWuk7xqWQTn0sdvjPfRviwiH~t7SSNP16slHizPbc~f40uhZUDmxKNDQ4IUwFeWQ-WckTUzC54cagYSJw4LnQCLLLo6LaqHxYljXgqS-ezThPWzFnyqMYQJAAHYyLJYwPefmKi9S3Av7qV1A2yajCKPSEdZhvGdStlhPhIs5zTDxz17k4OCz2zC~U7c1fVPuNPdhRIHLPLYA-aXjZnMfmIw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   tags:
   - cancer
   - machine learning
@@ -1937,16 +2196,13 @@
   - Serghei Mangul
   publisher: arXiv:2003.00110 [q-bio]
   date: '2020-07-09'
-  link: https://doi.org/2003.00110
-  id: doi:2003.00110
-  image: ''
+  link: http://arxiv.org/abs/2003.00110
+  id: url:https://arxiv.org/abs/2003.00110
+  image: https://i.ibb.co/8Y96ck2/DSwIXy4.png
   extra-links:
   - type: preprint
   - type: manubot
     link: https://arxiv.org/abs/2003.00110
-  tags:
-  - cancer
-  - machine learning
 - title: Mechanisms of tissue-specific genetic regulation revealed by latent factors
     across eQTLs
   authors:
@@ -2028,9 +2284,9 @@
   - Serghei Mangul
   publisher: arXiv:1911.11304 [q-bio]
   date: '2020-08-07'
-  link: https://doi.org/1911.11304
-  id: doi:1911.11304
-  image: ''
+  link: http://arxiv.org/abs/1911.11304
+  id: url:https://arxiv.org/abs/1911.11304
+  image: https://i.ibb.co/n74tq2z/TTRCnYP.png
   extra-links:
   - type: preprint
   - type: manubot
@@ -2152,7 +2408,7 @@
   date: '2019-10-03'
   link: https://doi.org/gg7m5z
   id: doi:10.1101/786053
-  image: ''
+  image: https://www.biorxiv.org/content/biorxiv/early/2019/10/03/786053/F1.medium.gif
   extra-links:
   - type: preprint
   - type: manubot
@@ -2172,7 +2428,7 @@
   date: '2019-10-03'
   link: https://doi.org/ghqfd3
   id: doi:10.1101/792911
-  image: ''
+  image: https://www.biorxiv.org/content/biorxiv/early/2019/10/03/792911/F1.medium.gif
   extra-links:
   - type: preprint
   - type: manubot
