@@ -198,28 +198,6 @@
   - cancer
   - single cell
   - ovarian cancer
-- title: 'OGRDB: a reference database of inferred immune receptor genes'
-  authors:
-  - William Lees
-  - Christian E Busse
-  - Martin Corcoran
-  - Mats Ohlin
-  - Cathrine Scheepers
-  - Frederick A Matsen
-  - Gur Yaari
-  - Corey T Watson
-  - Andrew Collins
-  - Adrian J Shepherd
-  - ' '
-  publisher: Nucleic Acids Research
-  date: '2020-01-08'
-  link: https://doi.org/ghjzd4
-  id: doi:10.1093/nar/gkz822
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/nar/48/D1/10.1093_nar_gkz822/1/gkz822fig2.jpeg?Expires=1627396020&Signature=0zOulYw0i2LLSmY8mQHgoCJAay~ccQuLxUhZqvcjEqog10p2dGj05uxonDH66c7~69KmN0joOPaAfVRMjfUfwV72I5rPB8ctOesZVAIQacRPyjgUBHFjEr~y~nFEOkKqTA1CqETli5qqN-cdTgNCu64pyllxjrbITWheWZ5hRJ88KQIuZMlq7MxrVkgnOL-UZ0ipxseAccWLAMWJPFzAsgrjIa~vWuR42oiA3Dl7jjJ1Oz1UzlJn~6aLEzfBC1OmPduICHxa~7~l2eVCU13D8lfqYIJJVuEIPysIBQ0TLVRM0F9NH7a7qHFJN27a7Jwuv7Nta6bd3IK1KB80~XjjZg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
-  tags:
-  - cancer
-  - single cell
-  - ovarian cancer
 - title: Hidden Treasures in Contemporary RNA Sequencing
   authors:
   - Serghei Mangul
@@ -897,27 +875,7 @@
   date: '2017-06-01'
   link: https://doi.org/gbh42m
   id: doi:10.1089/cmb.2016.0146
-  image: ''
-- title: 104 Lack of human papilloma virus transcription in cutaneous squamous cell
-    carcinoma stratified by histological grade and host immune status
-  authors:
-  - B. Thomas
-  - M. Karimzada
-  - R. Spreafico
-  - S. Mangul
-  - G. Botten
-  - J. Rothman
-  - K. Wesel
-  - S. Binder
-  - N. Gharavi
-  - C. Chesnut
-  - T. Soriano
-  - P. Scumpia
-  publisher: Journal of Investigative Dermatology
-  date: '2017-05-01'
-  link: https://doi.org/ghp82f
-  id: doi:10.1016/j.jid.2017.02.118
-  image: ''
+  image: /images/research/cmb.2016.0146.png
 - title: 'HapIso: An Accurate Method for the Haplotype- Specific Isoforms Reconstruction
     From Long Single-Molecule Reads'
   authors:

@@ -96,9 +96,6 @@
 - id: doi:10.1074/jbc.RA119.008853
   image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/e42debd4-5cf1-4a7b-82c7-64dd1622eb44/gr1.jpg
 
-- id: doi:10.1093/nar/gkz822
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/nar/48/D1/10.1093_nar_gkz822/1/gkz822fig2.jpeg?Expires=1627396020&Signature=0zOulYw0i2LLSmY8mQHgoCJAay~ccQuLxUhZqvcjEqog10p2dGj05uxonDH66c7~69KmN0joOPaAfVRMjfUfwV72I5rPB8ctOesZVAIQacRPyjgUBHFjEr~y~nFEOkKqTA1CqETli5qqN-cdTgNCu64pyllxjrbITWheWZ5hRJ88KQIuZMlq7MxrVkgnOL-UZ0ipxseAccWLAMWJPFzAsgrjIa~vWuR42oiA3Dl7jjJ1Oz1UzlJn~6aLEzfBC1OmPduICHxa~7~l2eVCU13D8lfqYIJJVuEIPysIBQ0TLVRM0F9NH7a7qHFJN27a7Jwuv7Nta6bd3IK1KB80~XjjZg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
-
 - id: doi:10.1007/978-3-030-13973-5_1
   image: https://media.springernature.com/w306/springer-static/cover-hires/book/978-3-030-13973-5
 
@@ -157,10 +154,7 @@
   image: https://i.ibb.co/pnxn61x/Do6qWqB.png
 
 - id: doi:10.1089/cmb.2016.0146
-  image: ''
-
-- id: doi:10.1016/j.jid.2017.02.118
-  image: ''
+  image: /images/research/cmb.2016.0146.png
 
 - id: doi:10.1109/TNB.2017.2675981
   image: https://i.ibb.co/zXvvsdf/9a4d5tS.png
