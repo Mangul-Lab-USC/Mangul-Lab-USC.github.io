@@ -66,7 +66,7 @@
     - machine learning
 
 - id: doi:10.1093/bioinformatics/btu295
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/30/12/10.1093/bioinformatics/btu295/2/m_btu295f1.png?Expires=1626245276&Signature=tikBJOeTlbSqeLtgXLnZXqoXJ7aJxeYPL0WQUoA9Ai7~pkzaXJmrc0wv0lLJwukQgqpGjXAjDw2yJ4v1W9PpedVkbH9V9Ru5HFtBaLvuW~0U0C3Ws5V6IYApLF79PfThrTyqlw3bPXcgVhXnidKKdEhByoTeSlCSF6MG-M8cJM~smgeNiJtBkfmA7knaEYK8Ckq9~Wp13hmj-bDoMCjNnmh~jtj4Y3kzSuLls0OdWMZ0fNY9U8tKmLwHbAR4AH5sD6d4Dq-65SzZ30QjwZkJQ-q2TMK2PFw59O5srsDokkwGh6WSefowfnw17NZIcPkFyZbp-yR6g8X4S5H1fo7U3w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: images/research/btu295.png
 
 
 - id: doi:10.1186/s13059-020-01988-3
@@ -109,7 +109,7 @@
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7885912/bin/nihpp-2102.01521v2-f0001.jpg
 
 - id: doi:10.1101/2021.05.28.446240
-  image: https://www.biorxiv.org/content/biorxiv/early/2021/05/29/2021.05.28.446240/F2.medium.gif
+  image: images/research/2021.05.28.446240.jpg
 
 - id: doi:10.1101/2021.03.09.434660
   image: https://www.biorxiv.org/content/biorxiv/early/2021/03/10/2021.03.09.434660/F2.medium.gif
@@ -118,7 +118,7 @@
   image: ''
 
 - id: doi:arXiv:2104.14005v2
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8109901/bin/nihpp-2104.14005v2-f0001.jpg
+  image: images/research/2104.14005.png
 
 - id: doi:arXiv:2103.02723v1
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7941644/bin/nihpp-2103.02723v1-f0003.jpg
@@ -127,13 +127,13 @@
   image: https://i.ibb.co/DKTR3Fp/k6-Gr-Jgn-d.webp
 
 - id: doi:10.1101/2021.07.07.451408
-  image: https://www.biorxiv.org/content/biorxiv/early/2021/07/08/2021.07.07.451408/F3.large.jpg?width=800&height=600&carousel=1
+  image: /images/research/2021.07.07.451408.png
 
 - id: doi:10.1126/sciadv.aba2083
   image: https://advances.sciencemag.org/content/advances/6/37/eaba2083/F3.large.jpg
 
 - id: doi:10.1093/nar/gkab576
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/10/08/264242/F2.large.jpg?width=800&height=600&carousel=1
+  image: images/research/gkab576.jpg
 
 - id: doi:10.1093/gigascience/giz163
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gigascience/9/1/10.1093_gigascience_giz163/1/m_giz163fig1.jpeg?Expires=1627825084&Signature=3aPVD6kXHDXKvnXwUn7Lmfd0SNdLjvquEGekZHEx9HYZZdnC7GX6XtWFmaGfU1HeKCWSYuzNDoahuDqSKE7l~MjX9uiJFKyL1wBUewSHxMLdAsxnB3xLt~dI8GTxQ3LiGMqrL0A-FX23QlxPb4BzkyePBuK2uM6q5pfOre3y0ABQWqws-mghEffRLVU0tRUagLGMfqWIsVyUmdURuHu2vOvR5CNzUaDsua9ugEOzWVBnUWZYJY7hghod3Y-UOdSfikMHTFqpebSGCDZqg-lL3Cuzr2yapA9KuPUofH3LtIX0ZwH5i3Gk83hf7yll0vpcsRSKq~2mgs2PkWy8scR1ZA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
@@ -196,7 +196,7 @@
   image: ''
 
 - id: doi:10.1145/2382936.2382983
-  image: ''
+  image: images/research/2382936.2382983.png
 
 - id: doi:10.1109/ICCABS.2012.6182673
   image: ''
@@ -208,7 +208,7 @@
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2F1471-2105-12-S6-S1/MediaObjects/12859_2011_Article_4668_Fig3_HTML.jpg?as=webp
 
 - id: doi:10.1007/978-3-642-23038-7_19
-  image: ''
+  image: images/research/978-3-642-23038-7_19.png
 
 - id: doi:10.1186/1748-7188-6-9
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2F1748-7188-6-9/MediaObjects/13015_2010_Article_123_Fig3_HTML.jpg?as=webp
@@ -353,7 +353,7 @@
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature24041/MediaObjects/41586_2017_Article_BFnature24041_Fig1_HTML.jpg
 
 - id: doi:10.1101/gr.216721.116
-  image: ''
+  image: images/research/gr.216721.116.png
 
 - id: doi:10.1101/2020.04.16.045120
   image: https://www.biorxiv.org/content/biorxiv/early/2020/09/17/2020.04.16.045120/F2.large.jpg?width=800&height=600

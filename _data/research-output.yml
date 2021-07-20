@@ -75,7 +75,7 @@
   date: '2014-06-15'
   link: https://doi.org/f58h9q
   id: doi:10.1093/bioinformatics/btu295
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/30/12/10.1093/bioinformatics/btu295/2/m_btu295f1.png?Expires=1626245276&Signature=tikBJOeTlbSqeLtgXLnZXqoXJ7aJxeYPL0WQUoA9Ai7~pkzaXJmrc0wv0lLJwukQgqpGjXAjDw2yJ4v1W9PpedVkbH9V9Ru5HFtBaLvuW~0U0C3Ws5V6IYApLF79PfThrTyqlw3bPXcgVhXnidKKdEhByoTeSlCSF6MG-M8cJM~smgeNiJtBkfmA7knaEYK8Ckq9~Wp13hmj-bDoMCjNnmh~jtj4Y3kzSuLls0OdWMZ0fNY9U8tKmLwHbAR4AH5sD6d4Dq-65SzZ30QjwZkJQ-q2TMK2PFw59O5srsDokkwGh6WSefowfnw17NZIcPkFyZbp-yR6g8X4S5H1fo7U3w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: images/research/btu295.png
   tags:
   - sequencing
   - viral population assembly
@@ -301,7 +301,7 @@
   date: '2021-05-29'
   link: https://doi.org/gk457s
   id: doi:10.1101/2021.05.28.446240
-  image: https://www.biorxiv.org/content/biorxiv/early/2021/05/29/2021.05.28.446240/F2.medium.gif
+  image: images/research/2021.05.28.446240.jpg
 - title: Systematic evaluation of transcriptomics-based deconvolution methods and
     references using thousands of clinical samples
   authors:
@@ -391,7 +391,7 @@
   date: '2021-06-04'
   link: https://doi.org/arxiv:2104.14005v2
   id: doi:arXiv:2104.14005v2
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8109901/bin/nihpp-2104.14005v2-f0001.jpg
+  image: images/research/2104.14005.png
 - title: Identification and Development of Therapeutics for COVID-19
   authors:
   - Halie M. Rando
@@ -465,7 +465,7 @@
   date: '2021-07-08'
   link: https://doi.org/gk6cmr
   id: doi:10.1101/2021.07.07.451408
-  image: https://www.biorxiv.org/content/biorxiv/early/2021/07/08/2021.07.07.451408/F3.large.jpg?width=800&height=600&carousel=1
+  image: /images/research/2021.07.07.451408.png
 - title: 'PhenomeXcan: Mapping the genome to the phenome through the transcriptome'
   authors:
   - Milton Pividori
@@ -502,7 +502,7 @@
   date: '2021-07-02'
   link: https://doi.org/gk6cmp
   id: doi:10.1093/nar/gkab576
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/10/08/264242/F2.large.jpg?width=800&height=600&carousel=1
+  image: images/research/gkab576.jpg
 - title: 'Telescope: an interactive tool for managing large-scale analysis from mobile
     devices'
   authors:
@@ -1114,7 +1114,7 @@
   date: '2012-01-01'
   link: https://doi.org/gk5cmz
   id: doi:10.1145/2382936.2382983
-  image: ''
+  image: images/research/2382936.2382983.png
 - title: 'Workshop: Novel transcript reconstruction from paired-end RNA-Seq reads
     using fragment length distribution'
   authors:
@@ -1165,7 +1165,7 @@
   date: '2011-01-01'
   link: https://doi.org/bfs9j3
   id: doi:10.1007/978-3-642-23038-7_19
-  image: ''
+  image: images/research/978-3-642-23038-7_19.png
 - title: Estimation of alternative splicing isoform frequencies from RNA-Seq data
   authors:
   - Marius Nicolae
@@ -2099,7 +2099,7 @@
   date: '2017-11-01'
   link: https://doi.org/gb2qx6
   id: doi:10.1101/gr.216721.116
-  image: ''
+  image: images/research/gr.216721.116.png
   tags:
   - cancer
   - machine learning
