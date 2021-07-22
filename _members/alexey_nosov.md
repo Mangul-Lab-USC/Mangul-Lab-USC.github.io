@@ -6,6 +6,7 @@ search:
   - Nosov
 image: images/team/alexey-nosov.jpg 
 role: undergrad
+group: alum
 email: nosov_alexei@student.smc.edu
 github: anosov1983
 ---
