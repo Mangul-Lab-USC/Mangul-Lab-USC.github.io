@@ -2,6 +2,7 @@
 title: Junghyun Jung
 image: images/team/junghyun-jung.jpg
 role: postdoc
+group: alum
 website: https://junghyunjj.github.io/
 email: junghyun.jung@usc.edu
 google: 3Va15VcAAAAJ
