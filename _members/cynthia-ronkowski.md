@@ -1,18 +1,9 @@
 ---
 title: Cynthia Ronkowski
- 
-# name variations to include when generating list of this person's papers
 search:
   - Cynthia Ronkowski
-
-# if image not specified, default will automatically be used
-
 image: images/team/cynthia-ronkowski.jpg
-
-# role must be included or person won't appear on team page
 role: masters
-
-# contact info and social media links
 email: cr_055@usc.edu
 github: CynthiaFlaire
 #twitter: Cynechococcus
