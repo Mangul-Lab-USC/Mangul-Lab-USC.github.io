@@ -11,6 +11,8 @@ search:
 # role must be included or person won't appear on team page
 role: masters
 
+email: cr_055@usc.edu
+
 # add person to alumni group
 
 
