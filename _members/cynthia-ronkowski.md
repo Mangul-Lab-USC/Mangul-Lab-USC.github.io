@@ -7,14 +7,10 @@ search:
 
 # if image not specified, default will automatically be used
 
-#image: images/team/cynthia-ronkowski.jpg
+#image:images/team/cynthia-ronkowski.jpg
 
 # role must be included or person won't appear on team page
 role: masters
-
-
-# add person to alumni group
-
 
 # contact info and social media links
 email: cr_055@usc.edu
