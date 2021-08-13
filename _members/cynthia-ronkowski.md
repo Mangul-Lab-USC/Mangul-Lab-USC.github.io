@@ -6,6 +6,7 @@ search:
   - Cynthia Ronkowski
 
 # if image not specified, default will automatically be used
+
 #image: images/team/cynthia-ronkowski.jpg
 
 # role must be included or person won't appear on team page
