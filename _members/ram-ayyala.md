@@ -4,7 +4,7 @@ search:
   - Ram
   - Ayyala
 image: images/team/ram-ayyala.jpg
-role: undergrad
+role: masters
 email: ramayyala@gmail.com
 ---
 
