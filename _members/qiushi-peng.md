@@ -4,7 +4,7 @@ title: Qiushi Peng
 search:
   - Qiushi 
   - Peng
-image: images/team/anish-nagareddy.jpg
+image: images/team/qiushi-peng.jpg
 role: masters
 email:  qiushipe@usc.edu
 github: qiushipeng
