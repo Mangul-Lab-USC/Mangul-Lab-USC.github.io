@@ -6,6 +6,7 @@ search:
   - Chea
 image: images/team/sara-chea.jpg
 role: pharmd
+group: alum
 email: smchea@usc.edu
 github: smchea
 
