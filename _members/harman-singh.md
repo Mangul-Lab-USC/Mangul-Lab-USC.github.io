@@ -6,6 +6,7 @@ search:
   - Singh
 image: images/team/harman-singh.jpg
 role: undergrad
+group: alum
 <!-- website: N/A -->
 email: harmansingh.iitd@gmail.com  
 
