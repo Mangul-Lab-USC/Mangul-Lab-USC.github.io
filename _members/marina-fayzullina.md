@@ -4,7 +4,7 @@ title: Marina Fayzullina
 search:
   - Marina
   - Fayzullina
-image: images/team/
+image: images/team/marina-fayzullina.jpg
 role: PhD
 email: mfayzull@usc.edu
 github: mfayzull
