@@ -4,7 +4,7 @@ title: Sunny Lee
 search:
   - Sunny
   - Lee
-image: images/team/
+image: images/team/sunny-lee.jpg
 role: undergrad
 email: hyosunle@usc.edu
 github: sunnyyleee
