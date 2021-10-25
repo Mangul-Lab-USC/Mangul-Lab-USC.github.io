@@ -6,6 +6,7 @@ search:
   - Waymost
 image: images/team/sharon-waymost.png
 role: masters
+group: alum
 <!-- github: sbpw -->
 ---
 
