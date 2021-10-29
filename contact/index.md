@@ -10,26 +10,38 @@ Our group is located on the second floor of the [Center for the Health Professio
 
 {%
   include figure.html
-  flat="true"
   image="images/contact/usc-logo.png"
   link="https://pharmacyschool.usc.edu/"
+  width="400px"
 %}
 
-## <i class="fas fa-envelope fa-sm"></i>Email
-
-[mangul@usc.edu](mailto:mangul@usc.edu)  
-{:.center}
-
-## <i class="fas fa-phone fa-sm"></i>Phone
-
-[(323)-442-0043](tel:+1-323-442-0043)
-{:.center}
-
-## <i class="fas fa-map-marked fa-sm"></i>Location
-
-{:.center}
-
-[<i class="fas fa-external-link-alt"></i> on Google Maps](https://www.google.com/maps/place/1450+Alcazar+St,+Los+Angeles,+CA+90033,+USA/@34.0636529,-118.2075676,618m/data=!3m2!1e3!4b1!4m5!3m4!1s0x80c2c5d8964049df:0x58106fb02b5f89b6!8m2!3d34.0636485!4d-118.2053789)
+{%
+  include link.html
+  type="email"
+  icon=""
+  text="mangul@usc.edu"
+  tooltip=""
+  link=mangul@usc.edu
+  style="button"
+%}
+{%
+  include link.html
+  type="phone"
+  icon=""
+  text="(215) 573-2991"
+  tooltip=""
+  link="+1-215-573-2991"
+  style="button"
+%}
+{%
+  include link.html
+  type="address"
+  icon=""
+  text="Google Maps"
+  tooltip="Our location on Google Maps for easy navigation"
+  link="https://www.google.com/maps/place/1450+Alcazar+St,+Los+Angeles,+CA+90033,+USA/@34.0636529,-118.2075676,618m/data=!3m2!1e3!4b1!4m5!3m4!1s0x80c2c5d8964049df:0x58106fb02b5f89b6!8m2!3d34.0636485!4d-118.2053789"
+  style="button"
+%}
 {:.center}
 
 
