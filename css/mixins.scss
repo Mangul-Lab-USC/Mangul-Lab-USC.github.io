@@ -16,6 +16,16 @@
   margin: 20px 0;
 }
 
+@mixin trim-v-margins {
+  &:first-child {
+    margin-top: 0;
+  }
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
 @mixin trim-margins {
   &:first-child {
     margin-top: 0;
@@ -25,3 +35,6 @@
     margin-bottom: 0;
   }
 }
+
+// font awesome icon selectors
+$icon: "i.fas, i.far, i.fab, i.fal, i.fad, svg";

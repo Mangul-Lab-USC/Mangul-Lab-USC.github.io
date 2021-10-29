@@ -1,0 +1,27 @@
+// colors for links, tags, etc.
+// see colors.scss for available colors
+$accent: $light-blue-500;
+$light-accent: $light-blue-200;
+$dark-accent: $light-blue-900;
+
+// font types
+// also see /_includes/fonts.html to change fonts
+$serif: "EB Garamond", serif; // font name, fallback font type
+$sans: "Montserrat", sans-serif;
+$mono: "Cousine", monospace;
+
+// line spacing
+$spacing: 1.5;
+
+// transitions
+$fast: 0.25s ease;
+$slow: 0.5s ease;
+
+// effects
+$shadow: 0 0 5px 0 #00000030;
+
+// screen widths
+// used by various components
+$page: 900px; // max-width of the main page column
+$tablet: 800px; // screen width cutoff point for tablets
+$phone: 500px; // screen width cutoff point for phones
