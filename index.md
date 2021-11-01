@@ -51,6 +51,7 @@ We are a team of enthusiastic researchers aimed to combine open omics data with 
   text=text
 %}
 
+## Recent Updates
 
 {% capture html %}
 {% include updates.html type="other" size="medium" %}
