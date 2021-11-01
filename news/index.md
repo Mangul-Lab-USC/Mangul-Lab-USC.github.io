@@ -4,10 +4,12 @@ title: News
 
 # <i class="fas fa-feather-alt"></i>News 
 
-1. Updated the Mangul Lab website. Please add news here. It's a markdown file.
-2. Add the news here
-3. News 1
-4. News 2
+
+{% capture html %}
+{% include updates.html %}
+{% endcapture %}
+
+{% include centerer.html html=html %}
 
 ---
 
