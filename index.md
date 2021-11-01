@@ -54,7 +54,7 @@ We are a team of enthusiastic researchers aimed to combine open omics data with 
 ## Updates!
 
 {% capture html %}
-{% include updates.html type="legacy" size="small" %}
+{% include updates.html %}
 {% endcapture %}
 
 {% include centerer.html html=html %}
