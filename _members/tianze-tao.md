@@ -4,7 +4,7 @@ title: Tianze Tao
 search:
   - Tianze
   - Tao
-image: images/team/
+image: images/team/tianze-tao.jpg
 role: masters
 email: tianzeta@usc.edu
 github: tianzetao
