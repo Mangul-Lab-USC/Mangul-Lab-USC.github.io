@@ -12,7 +12,7 @@ image: images/team/morgana-fu.jpg
 role: masters
 
 # add person to alumni group
-# group: alum
+group: alum
 
 # contact info and social media links
 #email: <email>
