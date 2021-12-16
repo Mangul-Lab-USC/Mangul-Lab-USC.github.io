@@ -6,6 +6,7 @@ search:
   - Fayzullina
 image: images/team/marina-fayzullina.jpg
 role: phd
+group: alum
 email: mfayzull@usc.edu
 github: mfayzull
 ---
