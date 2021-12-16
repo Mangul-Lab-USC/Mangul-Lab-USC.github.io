@@ -7,7 +7,6 @@ search:
 image: images/team/<file name>
 role: PhD
 email: naresham@usc.edu
-github: 
 ---
 
 Placeholder
