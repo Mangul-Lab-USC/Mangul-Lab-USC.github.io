@@ -7,7 +7,6 @@ search:
 image: images/team/<file name>
 role: PhD
 email: ypatel@med.usc.edu
-github: 
 ---
 
 Placeholder
