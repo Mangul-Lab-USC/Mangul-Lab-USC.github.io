@@ -6,6 +6,7 @@ search:
   - Nataneli
 image: images/team/Shirin-Nataneli.jpg
 role: undergrad
+group: alum
 email: shirinnataneli@gmail.com
 github: ShirNat
 ---
