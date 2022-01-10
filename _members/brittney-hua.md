@@ -7,6 +7,7 @@ search:
 image: images/team/blank.jpg
 role: PhD
 email: bahua@usc.edu
+github: brittneyhua
 ---
 
-Placeholder
+Brittney Hua is a first-year PHTS student at the USC School of Pharmacy. She completed her undergraduate degree in microbiology at California State University, Los Angeles. 
