@@ -5,7 +5,7 @@ search:
   - Kevin
   - Mai
 image: images/team/kevin-mai.jpg
-role: undergrad
+role: masters
 email: maikevintime@gmail.com
 github: maikevin
 ---
