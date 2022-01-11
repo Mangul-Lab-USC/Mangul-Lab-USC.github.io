@@ -4,7 +4,7 @@ title: Brittney Hua
 search:
   - Brittney 
   - Hua
-image: images/team/blank.jpg
+image: images/team/brittney-hua.jpg
 role: PhD
 email: bahua@usc.edu
 github: brittneyhua
