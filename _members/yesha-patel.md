@@ -5,7 +5,7 @@ search:
   - Yesha 
   - Patel
 image: images/team/yesha-patel.jpg
-role: phd
+role: postdoc
 email: ypatel@med.usc.edu
 github: yeshapatel83
 ---
