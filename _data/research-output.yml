@@ -2394,3 +2394,67 @@
   tags:
   - cancer
   - machine learning
+- title: Integrating big data computational skills in education to facilitate reproducibility and transparency in pharmaceutical sciences
+  authors:
+  - Kerui Peng
+  - Yu-Ning Huang
+  - Varuni Sarwal
+  - Houda Alachkar
+  - Annie Wong-Beringer
+  - Serghei Mangul
+  publisher: Journal of the American College of Clinical Pharmacy (JACCP)
+  date: '2021-10-07'
+  link: https://doi.org/10.1002/jac5.1519
+  id: doi:10.1002/jac5.1519
+  image: https://www.biorxiv.org/content/biorxiv/early/2019/10/03/792911/F1.medium.gif
+  extra-links:
+  - type: preprint
+  - type: manubot
+    link: https://doi.org/10.1002/jac5.1519
+- title: Ancestral diversity is limited in published T cell receptor sequencing studies
+  authors:
+  - Yu-Ning Huang
+  - Kerui Peng
+  - Alice B. Popejoy
+  - Jieting Hu
+  - Theodore Scott Nowicki
+  - Stefan M. Gold
+  - Lluis Quintana-Murci
+  - Macarena Fuentes-Guajardo
+  - Mikhail Shugay
+  - Victor Greiff
+  - Amanda M. Burkhardt
+  - Houda Alachkar
+  - Serghei Mangul
+  publisher: Cell Immunity
+  date: '2021-10-12'
+  link: https://doi.org/10.1016/j.immuni.2021.09.015
+  id: doi:10.1016/j.immuni.2021.09.015
+  image: https://www.biorxiv.org/content/biorxiv/early/2019/10/03/792911/F1.medium.gif
+  extra-links:
+  - type: preprint
+  - type: manubot
+    link: https://doi.org/10.1016/j.immuni.2021.09.015
+- title: Virtual meetings promise to eliminate the geographical and administrative barriers and increase accessibility, diversity, and inclusivity
+  authors:
+  -  Juncheng Wu
+  - Anushka Rajesh
+  - Yu-Ning Huang
+  - Karishma Chhugani
+  - Rajesh Acharya
+  - Kerui Peng
+  - Ruth D. Johnson
+  - Andrada Fiscutean
+  - Carla Daniela Robles-Espinoza
+  - Francisco M. De La Vega
+  - Riyue Bao
+  - Serghei Mangul
+  publisher: Nature Biotechnology
+  date: '2021-12-29'
+  link: https://doi.org/10.1038/s41587-021-01176-z
+  id: doi:10.1038/s41587-021-01176-z
+  image: https://www.biorxiv.org/content/biorxiv/early/2019/10/03/792911/F1.medium.gif
+  extra-links:
+  - type: preprint
+  - type: manubot
+    link: https://doi.org/10.1038/s41587-021-01176-z
