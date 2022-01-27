@@ -447,3 +447,24 @@
     - type: manubot
       link: https://doi.org/10.1101/792911
 
+- id: doi:10.1002/jac5.1519
+  image: https://www.biorxiv.org/content/biorxiv/early/2019/10/03/792911/F1.medium.gif
+  extra-links:
+    - type: preprint
+    - type: manubot
+      link: https://doi.org/10.1002/jac5.1519
+
+- id: doi:10.1016/j.immuni.2021.09.015
+  image: https://www.biorxiv.org/content/biorxiv/early/2019/10/03/792911/F1.medium.gif
+  extra-links:
+    - type: preprint
+    - type: manubot
+      link: https://doi.org/10.1016/j.immuni.2021.09.015
+  
+- id: doi:10.1038/s41587-021-01176-z
+  image: https://www.biorxiv.org/content/biorxiv/early/2019/10/03/792911/F1.medium.gif
+  extra-links:
+    - type: preprint
+    - type: manubot
+      link: https://doi.org/10.1038/s41587-021-01176-z
+
