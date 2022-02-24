@@ -58,6 +58,46 @@
     - cancer
     - single cell
     - ovarian cancer
+    
+##New papers added from here    
+
+- id: doi:10.1007/s00439-021-02397-7
+  image: ''
+
+- id: doi:10.1007/978-3-030-91415-8_15
+  image: ''
+  tags: 
+    - Minimal spanning network
+    - Genetic relatedness 
+    - SARS-CoV-2
+    
+- id: doi:10.31219/osf.io/t4n72
+  image: ''
+
+- id: doi:10.31219/osf.io/uz7m5
+  image: ''
+  
+- id: doi:10.1101/2021.11.22.469640
+  image: ''
+  
+- id: doi:10.1101/2021.07.12.451567
+  image: ''
+
+- id: doi:10.1016/j.cell.2020.08.036
+  image: ''
+
+- id: doi:10.1093/gigascience/giaa056
+  image: ''
+  
+- id: doi:10.3389/fmicb.2020.584699
+  image: ''
+    
+- id: doi:10.1101/482380
+  image: ''
+  
+- id: doi:10.1101/814350
+  image: ''
+####
 
 - id: doi:10.1038/s41467-020-16857-7
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-020-16857-7/MediaObjects/41467_2020_16857_Fig1_HTML.png
@@ -105,7 +145,7 @@
 - id: doi:10.1016/j.tibtech.2017.06.007
   image: https://user-images.githubusercontent.com/71193439/125512144-dbd9e6ff-f327-4a47-aff0-3bc11a19a84f.png
 
-- id: doi:arXiv:2102.01521
+- id: doi:10.48550/arXiv.2102.01521
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7885912/bin/nihpp-2102.01521v2-f0001.jpg
 
 - id: doi:10.1101/2021.05.28.446240
@@ -117,15 +157,15 @@
 - id: doi:/10.1038/s41592-021-01169-5
   image: ''
 
-- id: doi:arXiv:2104.14005v2
+- id: doi:10.48550/arXiv.2104.14005
   image: images/research/2104.14005.png
 
-- id: doi:arXiv:2103.02723v1
+- id: doi:10.48550/arXiv.2103.02723
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7941644/bin/nihpp-2103.02723v1-f0003.jpg
-
+#######
 - id: url:https://arxiv.org/abs/2010.02391v3
   image: https://i.ibb.co/DKTR3Fp/k6-Gr-Jgn-d.webp
-
+#######
 - id: doi:10.1101/2021.07.07.451408
   image: /images/research/2021.07.07.451408.png
 
@@ -149,10 +189,10 @@
 
 - id: doi:10.2139/ssrn.3244893
   image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/asset/atypon:cms:attachment:img:d264e6:rev:1604337987489-13181:pii:S2468266720X00053/cover.tif.jpg
-
+#######
 - id: url:https://genome.cshlp.org/content/27/11/1859.short # doi:10.1101/gr.216754.116.
   image: https://i.ibb.co/pnxn61x/Do6qWqB.png
-
+#######
 - id: doi:10.1089/cmb.2016.0146
   image: /images/research/cmb.2016.0146.png
 
@@ -213,8 +253,8 @@
 - id: doi:10.1186/1748-7188-6-9
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2F1748-7188-6-9/MediaObjects/13015_2010_Article_123_Fig3_HTML.jpg?as=webp
 
-- id: doi:10.1007/978-1-4020-8846-9_33
-  image: https://media.springernature.com/w306/springer-static/cover/book/978-1-4020-8846-9.jpg
+#- id: doi:10.1007/978-1-4020-8846-9_33
+#  image: https://media.springernature.com/w306/springer-static/cover/book/978-1-4020-8846-9.jpg
 
 - id: doi:10.31219/osf.io/w25hq
   image: https://user-images.githubusercontent.com/71193439/125509349-143c61d8-7517-43f3-98ab-7de9908444e6.png
@@ -395,7 +435,7 @@
   tags:
     - cancer
     - machine learning
-
+##################no DOI
 - id: url:https://arxiv.org/abs/1911.11304
   image: https://i.ibb.co/n74tq2z/TTRCnYP.png
   extra-links:
@@ -405,7 +445,7 @@
   tags:
     - cancer
     - machine learning
-
+###################
 - id: doi:10.1101/833210
   image: https://www.biorxiv.org/content/biorxiv/early/2020/03/13/833210/F1.large.jpg?width=800&height=600
   extra-links:
@@ -467,4 +507,3 @@
     - type: preprint
     - type: manubot
       link: https://doi.org/10.1038/s41587-021-01176-z
-
