@@ -2,15 +2,22 @@
 title: News
 ---
 
-# <i class="fas fa-feather-alt"></i>News 
+# <i class="fas fa-tools"></i>News
 
+This page includes our open-sourced softwares, some information we find useful, our lab videos and news in which Mangul Lab was featured.  
+
+<!-- section break -->
+
+## We’re in the news!
 
 {% capture html %}
-{% include updates.html %}
+{% include resource-list.html type="legacy" size="small" %}
 {% endcapture %}
 
 {% include centerer.html html=html %}
 
----
 
-{% include figure.html image="team/group-photo-3.jpg" full="true" %}
+
+
+
+
