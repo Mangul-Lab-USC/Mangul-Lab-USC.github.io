@@ -5,8 +5,9 @@ search:
   - Naresh 
   - Patel
 image: images/team/blank.jpg
-role: PhD
+role: masters
 email: naresham@usc.edu
+github: nareshampatel
 ---
 
-Placeholder
+ A Master's student in Pharmaceutical Sciences at University of Southern California. He graduated in Bachelor's in Pharmacy from University of Mumbai. 
