@@ -59,8 +59,16 @@
     - single cell
     - ovarian cancer
     
-##New papers added from here    
+##New papers added from here 
+   
+- id: doi:10.1038/s41586-022-04576-6
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13059-018-1403-7/MediaObjects/13059_2018_1403_Fig2_HTML.gif?as=webp
+  tags:
+    - SARS-CoV-2
+    - Respiratory distress syndrome
+    - Genome-wide association studies
 
+    
 - id: doi:10.1007/s00439-021-02397-7
   image: ''
 
