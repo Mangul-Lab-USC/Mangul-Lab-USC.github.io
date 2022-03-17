@@ -7,6 +7,7 @@ search:
   - Wong
 image: images/team/man-yee-wong.jpg
 role: masters
+group: alum
 email: manyeewo@usc.edu
 github: kayleyw
 
