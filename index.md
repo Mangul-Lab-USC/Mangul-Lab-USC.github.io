@@ -3,11 +3,12 @@ title: The Mangul Lab at USC
 ---
 
 
-
 # The Mangul Lab at USC
-Our research is dedicated to all freedom-loving people around the world, to the people of Ukraine who fight for our freedom.
+
 
 Mangul Lab is part of the Titus Department of Clinical Pharmacy at [USC School of Pharmacy](https://pharmacyschool.usc.edu/). Our research aims to design, develop and apply novel and robust data-driven, computational approaches that will accelerate the diffusion of genomics and biomedical data into translational research and education.
+
+Our research is dedicated to all freedom-loving people around the world, to the people of Ukraine who fight for our freedom.
 
 <!-- section break -->
 
