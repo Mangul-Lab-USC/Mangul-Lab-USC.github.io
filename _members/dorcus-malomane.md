@@ -5,7 +5,7 @@ search:
   - Dorcus 
   - Malomane
 image: images/team/Dorcus-Malomane.jpg
-role: Postdoctoral researcher
+role: postdoc
 email:  malomane@usc.edu
 github: dmaloma
 ---
