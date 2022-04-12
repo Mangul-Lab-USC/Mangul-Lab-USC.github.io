@@ -52,6 +52,19 @@
 # and retrieve a direct link to a figure from the paper before adding an article...
 # Do not use the same image for multiple articles... - Jaden :)
 
+- id: doi:10.48550/arXiv.2203.16261
+  image: ''
+  
+- id: doi:10.1101/2022.03.28.22273040
+  image: https://www.medrxiv.org/content/medrxiv/early/2022/03/31/2022.03.28.22273040/F2.large.jpg
+  
+- id: doi:10.1128/msystems.00095-21
+  image: https://journals.asm.org/cms/10.1128/msystems.00095-21/asset/6ededb25-0c63-49f2-a252-aaf523906b46/assets/images/large/msystems.00095-21-f001.jpg
+  
+
+- id: doi:10.1038/s41587-021-01176-z
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41587-021-01176-z/MediaObjects/41587_2021_1176_Fig3_HTML.png?as=webp
+
 - id: doi:10.1186/s13059-018-1403-7
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13059-018-1403-7/MediaObjects/13059_2018_1403_Fig2_HTML.gif?as=webp
   tags:
@@ -180,8 +193,6 @@
 - id: url:https://arxiv.org/abs/2010.02391v3
   image: https://i.ibb.co/DKTR3Fp/k6-Gr-Jgn-d.webp
 #######
-- id: doi:10.1101/2021.07.07.451408
-  image: /images/research/2021.07.07.451408.png
 
 - id: doi:10.1126/sciadv.aba2083
   image: https://advances.sciencemag.org/content/advances/6/37/eaba2083/F3.large.jpg
@@ -515,9 +526,3 @@
     - type: manubot
       link: https://doi.org/10.1016/j.immuni.2021.09.015
   
-- id: doi:10.1038/s41587-021-01176-z
-  image: https://www.biorxiv.org/content/biorxiv/early/2019/10/03/792911/F1.medium.gif
-  extra-links:
-    - type: preprint
-    - type: manubot
-      link: https://doi.org/10.1038/s41587-021-01176-z

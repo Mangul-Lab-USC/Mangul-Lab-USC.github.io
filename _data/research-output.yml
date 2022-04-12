@@ -1,3 +1,244 @@
+- title: 'Packaging, containerization, and virtualization of computational omics methods:
+    Advances, challenges, and opportunities'
+  authors:
+  - Mohammed Alser
+  - Sharon Waymost
+  - Ram Ayyala
+  - Brendan Lawlor
+  - Richard J. Abdill
+  - Neha Rajkumar
+  - Nathan LaPierre
+  - Jaqueline Brito
+  - Andre M. Ribeiro-dos-Santos
+  - Can Firtina
+  - Nour Almadhoun
+  - Varuni Sarwal
+  - Eleazar Eskin
+  - Qiyang Hu
+  - Derek Strong
+  - ' Byoung-Do'
+  - ' '
+  - Malak S. Abedalthagafi
+  - Onur Mutlu
+  - Serghei Mangul
+  publisher: arXiv
+  date: '2022-01-01'
+  link: https://doi.org/gpvv7j
+  id: doi:10.48550/arXiv.2203.16261
+  image: ''
+- title: 'Exome-wide association study to identify rare variants influencing COVID-19
+    outcomes: Results from the Host Genetics Initiative'
+  authors:
+  - Guillaume Butler-Laporte
+  - Gundula Povysil
+  - Jack Kosmicki
+  - Elizabeth T Cirulli
+  - Theodore Drivas
+  - Simone Furini
+  - Chadi Saad
+  - Axel Schmidt
+  - Pawel Olszewski
+  - Urszula Korotko
+  - Mathieu Quinodoz
+  - "Elifnaz \xC7elik"
+  - Kousik Kundu
+  - Klaudia Walter
+  - Junghyung Jung
+  - Amy D Stockwell
+  - Laura G Sloofman
+  - Alexander W Charney
+  - Daniel Jordan
+  - Noam Beckmann
+  - Bartlomiej Przychodzen
+  - Timothy Chang
+  - Tess D Pottinger
+  - Ning Shang
+  - Fabian Brand
+  - Francesca Fava
+  - Francesca Mari
+  - Karolina Chwialkowska
+  - Magdalena Niemira
+  - Szymon Pula
+  - J Kenneth Baillie
+  - Alex Stuckey
+  - Andrea Ganna
+  - Konrad J Karczewski
+  - Kumar Veerapen
+  - Mathieu Bourgey
+  - Guillaume Bourque
+  - Robert JM Eveleigh
+  - Vincenzo Forgetta
+  - David Morrison
+  - David Langlais
+  - Mark Lathrop
+  - Vincent Mooser
+  - Tomoko Nakanishi
+  - Robert Frithiof
+  - "Michael Hultstr\xF6m"
+  - Miklos Lipcsey
+  - Yanara Marincevic-Zuniga
+  - Jessica Nordlund
+  - Kelly M. Schiabor Barrett
+  - William Lee
+  - Alexandre Bolze
+  - Simon White
+  - Stephen Riffle
+  - Francisco Tanudjaja
+  - Efren Sandoval
+  - Iva Neveux
+  - Shaun Dabe
+  - Nicolas Casadei
+  - Susanne Motameny
+  - Manal Alaamery
+  - Salam Massadeh
+  - Nora Aljawini
+  - Mansour S. Almutairi
+  - Yaseen M. Arabi
+  - Saleh A. Alqahtan
+  - Fawz S. Al Harthi
+  - Amal Almutairi
+  - Fatima Alqubaishi
+  - Sarah Alotaibi
+  - Albandari Binowayn
+  - Ebtehal A. Alsolm
+  - Hadeel El Bardisy
+  - Mohammad Fawzy
+  - Daniel H Geschwind
+  - Stephanie Arteaga
+  - Alexis Stephens
+  - Manish J. Butte
+  - Paul C. Boutros
+  - Takafumi N. Yamaguchi
+  - Shu Tao
+  - Stefan Eng
+  - Timothy Sanders
+  - Paul J. Tung
+  - Michael E. Broudy
+  - Yu Pan
+  - Alfredo Gonzalez
+  - Nikhil Chavan
+  - Ruth Johnson
+  - Bogdan Pasaniuc
+  - Brian Yaspan
+  - Sandra Smieszek
+  - Carlo Rivolta
+  - Stephanie Bibert
+  - Pierre-Yves Bochud
+  - Maciej Dabrowski
+  - Pawel Zawadzki
+  - Mateusz Sypniewski
+  - "El\u017Cbieta Kaja"
+  - Pajaree Chariyavilaskul
+  - Voraphoj Nilaratanakul
+  - Nattiya Hirankarn
+  - Vorasuk Shotelersuk
+  - Monnat Pongpanich
+  - Chureerat Phokaew
+  - Wanna Chetruengchai
+  - Yosuke Kawai
+  - Takanori Hasegawa
+  - Tatsuhiko Naito
+  - Ho Namkoong
+  - Ryuya Edahiro
+  - Akinori Kimura
+  - Seishi Ogawa
+  - Takanori Kanai
+  - Koichi Fukunaga
+  - Yukinori Okada
+  - Seiya Imoto
+  - Satoru Miyano
+  - Serghei Mangul
+  - Malak S Abedalthagafi
+  - Hugo Zeberg
+  - Joseph J Grzymski
+  - Nicole L Washington
+  - Stephan Ossowski
+  - Kerstin U Ludwig
+  - Eva C Schulte
+  - Olaf Riess
+  - Marcin Moniuszko
+  - Miroslaw Kwasniewski
+  - Hamdi Mbarek
+  - Said I Ismail
+  - Anurag Verma
+  - David B Goldstein
+  - Krzysztof Kiryluk
+  - Alessandra Renieri
+  - Manuel Ferreira
+  - J Brent Richards
+  - ' '
+  - ' '
+  - ' '
+  - ' '
+  - ' '
+  - ' '
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-03-30'
+  link: https://doi.org/gpvv7k
+  id: doi:10.1101/2022.03.28.22273040
+  image: https://www.medrxiv.org/content/medrxiv/early/2022/03/31/2022.03.28.22273040/F2.large.jpg
+- title: Pathogenesis, Symptomatology, and Transmission of SARS-CoV-2 through Analysis
+    of Viral Genomics and Structure
+  authors:
+  - Halie M. Rando
+  - Adam L. MacLean
+  - Alexandra J. Lee
+  - Ronan Lordan
+  - Sandipan Ray
+  - Vikas Bansal
+  - Ashwin N. Skelly
+  - Elizabeth Sell
+  - John J. Dziak
+  - Lamonica Shinholster
+  - "Lucy D\u2019Agostino McGowan"
+  - Marouen Ben Guebila
+  - Nils Wellhausen
+  - Sergey Knyazev
+  - Simina M. Boca
+  - Stephen Capone
+  - Yanjun Qi
+  - YoSon Park
+  - David Mai
+  - Yuchen Sun
+  - Joel D. Boerckel
+  - Christian Brueffer
+  - James Brian Byrd
+  - Jeremy P. Kamil
+  - Jinhui Wang
+  - Ryan Velazquez
+  - Gregory L. Szeto
+  - John P. Barton
+  - Rishi Raj Goel
+  - Serghei Mangul
+  - Tiago Lubiana
+  - Anthony Gitter
+  - Casey S. Greene
+  - ' '
+  publisher: mSystems
+  date: '2021-10-26'
+  link: https://doi.org/gm8k9b
+  id: doi:10.1128/msystems.00095-21
+  image: https://journals.asm.org/cms/10.1128/msystems.00095-21/asset/6ededb25-0c63-49f2-a252-aaf523906b46/assets/images/large/msystems.00095-21-f001.jpg
+- title: Virtual meetings promise to eliminate geographical and administrative barriers
+    and increase accessibility, diversity and inclusivity
+  authors:
+  - Juncheng Wu
+  - Anushka Rajesh
+  - Yu-Ning Huang
+  - Karishma Chhugani
+  - Rajesh Acharya
+  - Kerui Peng
+  - Ruth D. Johnson
+  - Andrada Fiscutean
+  - Carla Daniela Robles-Espinoza
+  - Francisco M. De La Vega
+  - Riyue Bao
+  - Serghei Mangul
+  publisher: Nature Biotechnology
+  date: '2021-12-29'
+  link: https://doi.org/gpjjmh
+  id: doi:10.1038/s41587-021-01176-z
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41587-021-01176-z/MediaObjects/41587_2021_1176_Fig3_HTML.png?as=webp
 - title: Whole genome sequencing reveals host factors underlying critical Covid-19
   authors:
   - Athanasios Kousathanas
@@ -2551,26 +2792,6 @@
   link: http://arxiv.org/abs/2010.02391
   id: url:https://arxiv.org/abs/2010.02391v3
   image: https://i.ibb.co/DKTR3Fp/k6-Gr-Jgn-d.webp
-- title: Virtual meetings promise to eliminate the geographical and administrative
-    barriers and increase accessibility, diversity, and inclusivity
-  authors:
-  - Juncheng Wu
-  - Anushka Rajesh
-  - Yu-Ning Huang
-  - Karishma Chhugani
-  - Rajesh Acharya
-  - Kerui Peng
-  - Ruth D. Johnson
-  - Andrada Fiscutean
-  - Carla Daniela Robles-Espinoza
-  - Francisco M. De La Vega
-  - Riyue Bao
-  - Serghei Mangul
-  publisher: Cold Spring Harbor Laboratory
-  date: '2021-07-08'
-  link: https://doi.org/gk6cmr
-  id: doi:10.1101/2021.07.07.451408
-  image: /images/research/2021.07.07.451408.png
 - title: 'PhenomeXcan: Mapping the genome to the phenome through the transcriptome'
   authors:
   - Milton Pividori
@@ -4684,31 +4905,8 @@
   - type: preprint
   - type: manubot
     link: https://doi.org/10.1016/j.immuni.2021.09.015
-- title: Virtual meetings promise to eliminate geographical and administrative barriers
-    and increase accessibility, diversity and inclusivity
-  authors:
-  - Juncheng Wu
-  - Anushka Rajesh
-  - Yu-Ning Huang
-  - Karishma Chhugani
-  - Rajesh Acharya
-  - Kerui Peng
-  - Ruth D. Johnson
-  - Andrada Fiscutean
-  - Carla Daniela Robles-Espinoza
-  - Francisco M. De La Vega
-  - Riyue Bao
-  - Serghei Mangul
-  publisher: Nature Biotechnology
-  date: '2021-12-29'
-  link: https://doi.org/gpjjmh
-  id: doi:10.1038/s41587-021-01176-z
-  image: https://www.biorxiv.org/content/biorxiv/early/2019/10/03/792911/F1.medium.gif
-  extra-links:
-  - type: preprint
-  - type: manubot
-    link: https://doi.org/10.1038/s41587-021-01176-z
-  title: Simulation Of Emission Dispersion As The Method Of Air Quality Management
+
+- title: Simulation Of Emission Dispersion As The Method Of Air Quality Management
   authors:
   - Z. Comarova
   - S. Mangul
