@@ -88,9 +88,12 @@
 - id: doi:10.1101/2021.11.22.469640
   image: ''
   
-- id: doi:10.1101/2021.07.12.451567
-  image: ''
+#- id: doi:10.1101/2021.07.12.451567
+#  image: ''
 
+- id: doi:10.1038/s41592-022-01431-4
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41592-022-01431-4/MediaObjects/41592_2022_1431_Fig3_HTML.png?as=webp
+  
 - id: doi:10.1016/j.cell.2020.08.036
   image: ''
 
@@ -165,7 +168,10 @@
 - id: doi:/10.1038/s41592-021-01169-5
   image: ''
 
-- id: doi:10.48550/arXiv.2104.14005
+#- id: doi:10.48550/arXiv.2104.14005
+#  image: images/research/2104.14005.png
+  
+- id: doi:10.1038/s41592-022-01444-z
   image: images/research/2104.14005.png
 
 - id: doi:10.48550/arXiv.2103.02723

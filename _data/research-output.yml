@@ -1777,115 +1777,116 @@
   link: https://doi.org/gphssh
   id: doi:10.1101/2021.11.22.469640
   image: 'https://www.biorxiv.org/content/biorxiv/early/2021/12/11/2021.11.22.469640/F2.large.jpg?width=800&height=600&carousel=1'
-- title: Critical Assessment of Metagenome Interpretation - the second round of challenges
+- title: 'Critical Assessment of Metagenome Interpretation: the second round of challenges'
   authors:
-  - F. Meyer
-  - A. Fritz
-  - Z.-L. Deng
-  - D. Koslicki
-  - A. Gurevich
-  - G. Robertson
-  - M. Alser
-  - D. Antipov
-  - F. Beghini
-  - D. Bertrand
-  - J. J. Brito
-  - C.T. Brown
-  - J. Buchmann
-  - "A. Bulu\xE7"
-  - B. Chen
-  - R. Chikhi
-  - P. T. Clausen
-  - A. Cristian
-  - P. W. Dabrowski
-  - A. E. Darling
-  - R. Egan
-  - E. Eskin
-  - E. Georganas
-  - E. Goltsman
-  - M. A. Gray
-  - L. H. Hansen
-  - S. Hofmeyr
-  - P. Huang
-  - L. Irber
-  - H. Jia
-  - "T. S. J\xF8rgensen"
-  - S. D. Kieser
-  - T. Klemetsen
-  - A. Kola
-  - M. Kolmogorov
-  - A. Korobeynikov
-  - J. Kwan
-  - N. LaPierre
-  - C. Lemaitre
-  - C. Li
-  - A. Limasset
-  - F. Malcher-Miranda
-  - S. Mangul
-  - V. R. Marcelino
-  - C. Marchet
-  - P. Marijon
-  - D. Meleshko
-  - D. R. Mende
-  - A. Milanese
-  - N. Nagarajan
-  - J. Nissen
-  - S. Nurk
-  - L. Oliker
-  - L. Paoli
-  - P. Peterlongo
-  - V. C. Piro
-  - J. S. Porter
-  - S. Rasmussen
-  - E. R. Rees
-  - K. Reinert
-  - B. Renard
-  - E. M. Robertsen
-  - G. L. Rosen
-  - H.-J. Ruscheweyh
-  - V. Sarwal
-  - N. Segata
-  - E. Seiler
-  - L. Shi
-  - F. Sun
-  - S. Sunagawa
-  - "S. J. S\xF8rensen"
-  - A. Thomas
-  - C. Tong
-  - M. Trajkovski
-  - J. Tremblay
-  - G. Uritskiy
-  - R. Vicedomini
-  - Zi. Wang
-  - Zhe. Wang
-  - Zho. Wang
-  - A. Warren
-  - N. P. Willassen
-  - K. Yelick
-  - R. You
-  - G. Zeller
-  - Z. Zhao
-  - S. Zhu
-  - J. Zhu
-  - R. Garrido-Oter
-  - P. Gastmeier
-  - S. Hacquard
-  - "S. H\xE4u\xDFler"
-  - A. Khaledi
-  - F. Maechler
-  - F. Mesny
-  - S. Radutoiu
-  - P. Schulze-Lefert
-  - N. Smit
-  - T. Strowig
-  - A. Bremges
-  - A. Sczyrba
-  - A. C. McHardy
-  publisher: Cold Spring Harbor Laboratory
-  date: '2021-07-12'
-  link: https://doi.org/gk566x
-  id: doi:10.1101/2021.07.12.451567
-  image: 'https://www.biorxiv.org/content/biorxiv/early/2021/07/12/2021.07.12.451567/F1.large.jpg?width=800&height=600&carousel=1'
+  - Fernando Meyer
+  - Adrian Fritz
+  - Zhi-Luo Deng
+  - David Koslicki
+  - Till Robin Lesker
+  - Alexey Gurevich
+  - Gary Robertson
+  - Mohammed Alser
+  - Dmitry Antipov
+  - Francesco Beghini
+  - Denis Bertrand
+  - Jaqueline J. Brito
+  - C. Titus Brown
+  - Jan Buchmann
+  - "Aydin Bulu\xE7"
+  - Bo Chen
+  - Rayan Chikhi
+  - Philip T. L. C. Clausen
+  - Alexandru Cristian
+  - Piotr Wojciech Dabrowski
+  - Aaron E. Darling
+  - Rob Egan
+  - Eleazar Eskin
+  - Evangelos Georganas
+  - Eugene Goltsman
+  - Melissa A. Gray
+  - Lars Hestbjerg Hansen
+  - Steven Hofmeyr
+  - Pingqin Huang
+  - Luiz Irber
+  - Huijue Jia
+  - "Tue Sparholt J\xF8rgensen"
+  - Silas D. Kieser
+  - Terje Klemetsen
+  - Axel Kola
+  - Mikhail Kolmogorov
+  - Anton Korobeynikov
+  - Jason Kwan
+  - Nathan LaPierre
+  - Claire Lemaitre
+  - Chenhao Li
+  - Antoine Limasset
+  - Fabio Malcher-Miranda
+  - Serghei Mangul
+  - Vanessa R. Marcelino
+  - Camille Marchet
+  - Pierre Marijon
+  - Dmitry Meleshko
+  - Daniel R. Mende
+  - Alessio Milanese
+  - Niranjan Nagarajan
+  - Jakob Nissen
+  - Sergey Nurk
+  - Leonid Oliker
+  - Lucas Paoli
+  - Pierre Peterlongo
+  - Vitor C. Piro
+  - Jacob S. Porter
+  - Simon Rasmussen
+  - Evan R. Rees
+  - Knut Reinert
+  - Bernhard Renard
+  - Espen Mikal Robertsen
+  - Gail L. Rosen
+  - Hans-Joachim Ruscheweyh
+  - Varuni Sarwal
+  - Nicola Segata
+  - Enrico Seiler
+  - Lizhen Shi
+  - Fengzhu Sun
+  - Shinichi Sunagawa
+  - "S\xF8ren Johannes S\xF8rensen"
+  - Ashleigh Thomas
+  - Chengxuan Tong
+  - Mirko Trajkovski
+  - Julien Tremblay
+  - Gherman Uritskiy
+  - Riccardo Vicedomini
+  - Zhengyang Wang
+  - Ziye Wang
+  - Zhong Wang
+  - Andrew Warren
+  - Nils Peder Willassen
+  - Katherine Yelick
+  - Ronghui You
+  - Georg Zeller
+  - Zhengqiao Zhao
+  - Shanfeng Zhu
+  - Jie Zhu
+  - Ruben Garrido-Oter
+  - Petra Gastmeier
+  - Stephane Hacquard
+  - "Susanne H\xE4u\xDFler"
+  - Ariane Khaledi
+  - Friederike Maechler
+  - Fantin Mesny
+  - Simona Radutoiu
+  - Paul Schulze-Lefert
+  - Nathiana Smit
+  - Till Strowig
+  - Andreas Bremges
+  - Alexander Sczyrba
+  - Alice Carolyn McHardy
+  publisher: Nature Methods
+  date: '2022-04-08'
+  link: https://doi.org/gpvs88
+  id: doi:10.1038/s41592-022-01431-4
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41592-022-01431-4/MediaObjects/41592_2022_1431_Fig3_HTML.png?as=webp
 - title: A Quantitative Proteome Map of the Human Body
   authors:
   - Lihua Jiang
@@ -2454,7 +2455,7 @@
   link: https://doi.org//10.1038/s41592-021-01169-5
   id: doi:/10.1038/s41592-021-01169-5
   image: ''
-- title: Unlocking capacities of viral genomics for the COVID-19 pandemic response
+- title: Unlocking capacities of genomics for the COVID-19 response and future pandemics
   authors:
   - Sergey Knyazev
   - Karishma Chhugani
@@ -2463,25 +2464,38 @@
   - Harman Singh
   - Smruthi Karthikeyan
   - Dhrithi Deshpande
+  - Pelin Icer Baykal
   - Zoia Comarova
   - Angela Lu
   - Yuri Porozov
+  - Tetyana I. Vasylyeva
+  - Joel O. Wertheim
+  - Braden T. Tierney
+  - Charles Y. Chiu
+  - Ren Sun
   - Aiping Wu
-  - Malak Abedalthagafi
-  - Shivashankar Nagaraj
-  - Adam Smith
+  - Malak S. Abedalthagafi
+  - Victoria M. Pak
+  - Shivashankar H. Nagaraj
+  - Adam L. Smith
   - Pavel Skums
-  - Jason Ladner
+  - Bogdan Pasaniuc
+  - Andrey Komissarov
+  - Christopher E. Mason
+  - Eric Bortz
+  - Philippe Lemey
+  - Fyodor Kondrashov
+  - Niko Beerenwinkel
   - Tommy Tsan-Yuk Lam
-  - Nicholas Wu
+  - Nicholas C. Wu
   - Alex Zelikovsky
   - Rob Knight
-  - Keith Crandall
+  - Keith A. Crandall
   - Serghei Mangul
-  publisher: arXiv
-  date: '2021-01-01'
-  link: https://doi.org/gpjjgw
-  id: doi:10.48550/arXiv.2104.14005
+  publisher: Nature Methods
+  date: '2022-04-08'
+  link: https://doi.org/gpvs87
+  id: doi:10.1038/s41592-022-01444-z
   image: images/research/2104.14005.png
 - title: Identification and Development of Therapeutics for COVID-19
   authors:
