@@ -6,7 +6,7 @@ search:
   - Ginjala
 image: images/team/Srishti_Ginjala.jpg
 role: undergrad
-email: 
+email: srishti.ginjala@gmail.com
 github: Srishtiginjala
 ---
 
