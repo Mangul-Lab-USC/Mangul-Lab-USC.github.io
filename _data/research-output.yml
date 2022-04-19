@@ -1,3 +1,20 @@
+- title: Data availability of open T-cell receptor repertoire data, a systematic assessment
+  authors:
+  - Yu-Ning Huang
+  - Naresh Amrat Patel
+  - Jay Himanshu Mehta
+  - Srishti Ginjala
+  - Petter Brodin
+  - Clive M Gray
+  - Yesha M Patel
+  - Lindsay G. Cowell
+  - Amanda M. Burkhardt
+  - Serghei Mangul
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-04-16'
+  link: https://doi.org/gpxdwd
+  id: doi:10.1101/2022.04.13.488243
+  image: ''
 - title: 'Packaging, containerization, and virtualization of computational omics methods:
     Advances, challenges, and opportunities'
   authors:

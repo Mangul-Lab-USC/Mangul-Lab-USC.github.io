@@ -52,6 +52,9 @@
 # and retrieve a direct link to a figure from the paper before adding an article...
 # Do not use the same image for multiple articles... - Jaden :)
 
+- id: doi:10.1101/2022.04.13.488243
+  image: ''
+
 - id: doi:10.48550/arXiv.2203.16261
   image: ''
   
