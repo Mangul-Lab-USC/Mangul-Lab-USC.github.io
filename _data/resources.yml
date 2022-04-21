@@ -20,6 +20,12 @@
 # repo:
 # A GitHub repo to automatically fetch tags (aka "topics") from.
 
+- title: Mangul lab publishes study focusing on accessibility, diversity and inclusion at virtual scientific conferences 
+  type: legacy
+  image: images/resources/nano-dissection.png
+  link: https://pharmacyschool.usc.edu/news/study-focuses-on-accessibility-diversity-and-inclusion-at-virtual-scientific-conferences/
+  description: "Our paper 'Virtual meetings promise to eliminate geographical and administrative barriers and increase accessibility, diversity and inclusivity' was highlighted in the USC Pharmacy news."
+  
 - title:  Congratulations to Dottie Yu on Provost Undergraduate Research award 
   type: legacy
   image: images/resources/nano-dissection.png
