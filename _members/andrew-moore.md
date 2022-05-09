@@ -6,6 +6,7 @@ search:
   - Moore
 image: images/team/andrew-moore.jpg
 role: undergrad
+group: alum
 email: mooreand@usc.edu
 github: drewm8080
 

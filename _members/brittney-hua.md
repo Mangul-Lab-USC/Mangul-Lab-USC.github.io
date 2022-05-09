@@ -6,6 +6,7 @@ search:
   - Hua
 image: images/team/brittney-hua.jpg
 role: phd
+group: alum
 email: bahua@usc.edu
 github: brittneyhua
 ---

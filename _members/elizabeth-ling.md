@@ -13,7 +13,7 @@ image: images/team/elizabeth-ling.jpg
 role: pharmd
 
 # add person to alumni group
-# group: alum
+group: alum
 
 # contact info and social media links
 email: lingeliz@usc.edu

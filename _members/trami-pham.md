@@ -6,6 +6,7 @@ search:
   - Pham
 image: images/team/trami-pham.jpg
 role: masters
+group: alum
 website: http://www.linkedin.com/in/tramipham
 email: dnpham@usc.edu
 ---

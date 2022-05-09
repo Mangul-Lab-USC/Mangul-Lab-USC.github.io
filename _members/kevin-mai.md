@@ -6,6 +6,7 @@ search:
   - Mai
 image: images/team/kevin-mai.jpg
 role: masters
+group: alum
 email: maikevintime@gmail.com
 github: maikevin
 ---
