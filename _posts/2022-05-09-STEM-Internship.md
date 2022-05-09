@@ -1,8 +1,8 @@
 ---
 title: "Now recruiting: 2022-2023 Undergraduate STEM Intern!"
 
-author: Dhrithi Deshpande
-member-page: dhrithideshpande
+author: Anish Nagareddy 
+member-page: anish-nagareddy.html
 
 image: images/blog/USC_SOP.jpg
 
