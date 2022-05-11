@@ -12,7 +12,7 @@ tags:
   - Mangul lab
 ---
 
-## Now recruiting: 2022-2023 Undergraduate STEM Intern!
+## NOW RECRUITING: 2022-2023 NSF-funded UNDERGRADUATE STEM INTERN!
  
 We are actively accepting applications from current undergraduate STEM students to fill the position of an Undergraduate Researcher at the Mangul Lab for Summer 2022.
 
