@@ -13,7 +13,7 @@ image: images/team/jieting-hu.jpg
 role: masters
 
 # add person to alumni group
-# group: alum
+group: alum
 
 # contact info and social media links
 email: jietingh@usc.edu

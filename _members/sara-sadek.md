@@ -6,7 +6,6 @@ search:
   - sadek
 image: images/team/sara-sadek.jpg
 role: undergrad
-group: alum
 github: EBYEMJC1
 email: EBYEMJC1@csu.fullerton.edu
 
