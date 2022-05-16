@@ -6,7 +6,7 @@ search:
   - Matheus 
   - Brocchi
 image: images/team/Matheus-Brocchi.jpeg
-role: High-School Researcher
+role: highschool
 email: matheusbrocchi1@gmail.com
 github: matheusbrocchi
 ---
