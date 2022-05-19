@@ -19,34 +19,27 @@
 
 # repo:
 # A GitHub repo to automatically fetch tags (aka "topics") from.
-- title: Now recruiting :volunteers to collect urban microbiome samples and represent Los Angeles for this year's MetaSUB Global City Sampling Day
-  type: legacy
-  image: images/resources/nano-dissection.png
-  link: 
-  description: "Would you like to take part in an exciting, one-day event along with fellow researchers across the globe? Then consider representing Los Angeles in this year's Global City Sampling Day, hosted by the international MetaSUB Consortium! You can join in at any commitment level, and as a participant you will be swabbing frequently touched objects across LA to sample the microbial composition of areas with high human traffic. These include bus, rail, and subways systems from the heart of Downtown to the beach cities of Santa Monica and Long Beach. Then once the day's over, your samples will be collected and go on to contribute to a wide body of microbiome research from tracking the spread of antibiotic resistance to identifying novel biosynthetic gene clusters for drug discovery. So mark your calendars for June 21st and sign up by filling out a short registration form below: https://docs.google.com/forms/d/e 1FAIpQLSf5QGpkF5iBvnvuOi4ULZClRkpfAme-58KExszyZ7XSSB7JyA/viewform. Then if you have any questions, feel free to email me at cynthiaflaire@gmail.com. "
-  
-
 - title: Mangul lab publishes study focusing on accessibility, diversity and inclusion at virtual scientific conferences 
   type: legacy
   image: images/resources/nano-dissection.png
   link: https://pharmacyschool.usc.edu/news/study-focuses-on-accessibility-diversity-and-inclusion-at-virtual-scientific-conferences/
   description: "Our paper 'Virtual meetings promise to eliminate geographical and administrative barriers and increase accessibility, diversity and inclusivity' was highlighted in the USC Pharmacy news."
-  
-- title:  Congratulations to Dottie Yu on Provost Undergraduate Research award 
+
+- title:  Congratulations to Dottie Yu on Provost Undergraduate Research award
   type: legacy
   image: images/resources/nano-dissection.png
   link:
   description: "Congratulations to Dottie Yu for winning the Summer 2022 Provost Undergraduate Research Fellowship award. She is awarded for continuing work on project titled 'Rigorous Benchmarking of HLA callers for RNA sequencing data.' Dottie is an junior undergraduate student in the Quantitative and Computational Biology department at USC and has been working on the HLA project for the past year."
 
 
-- title: Our work about how the virtual meetings promise to eliminate geographical and administrative barriers(https://www.nature.com/articles/s41587-021-01176-z) was highlighted in NIH guest post by Marie A. Bernard, M.D., NIH Chief Officer for Scientific Workforce Diversity. 
+- title: Our work about how the virtual meetings promise to eliminate geographical and administrative barriers(https://www.nature.com/articles/s41587-021-01176-z) was highlighted in NIH guest post by Marie A. Bernard, M.D., NIH Chief Officer for Scientific Workforce Diversity.
   type: legacy
   image: images/resources/nano-dissection.png
   link: https://nexus.od.nih.gov/all/2022/02/24/how-virtual-convenings-can-enhance-diversity-equity-inclusion-and-accessibility/
   description: "In their comment,'Another recent study affirms that online meetings can promote participant diversity by minimizing barriers to attendance. The authors analyzed the demographics of attendees at scientific conferences before and after the adoption of a virtual format. They observed a significant increase in attendees from underrepresented groups at the virtual events and suggest online platforms may be more inclusive by offering increased accessibility and programming flexibility compared to in-person convenings.'"
 
 
-- title: Nature Methods highlighted our work on unlocking the capacities of genomics for the COVID-19 response and future pandemics. 
+- title: Nature Methods highlighted our work on unlocking the capacities of genomics for the COVID-19 response and future pandemics.
   type: legacy
   image: images/resources/nano-dissection.png
   link: https://www.nature.com/articles/s41592-022-01474-7
@@ -67,7 +60,7 @@
   description: an open-source web application that tracks the progress of jobs submitted to remote servers using Sun Grid Engine (SGE) on-demand scheduling system
   repo: Mangul-Lab-USC/telescope
 
-- title: SBT 
+- title: SBT
   type: featured
   image: images/resources/preprint-similarity-search.png
   link: https://github.com/Mangul-Lab-USC
@@ -102,7 +95,7 @@
   description: a method for detecting low abundance viral and fungal organisms in metagenomic sample
   repo: smangul1/miCoP
 
-- title: Microbe-scope 
+- title: Microbe-scope
   type: featured
   image: images/resources/manubot.png
   link: https://github.com/smangul1/Microbe-scope/wiki
@@ -123,7 +116,7 @@
   description: a computational protocol allowing to differentiate PCR duplicates from biological duplicates using UMIs; designed in collaboration with Prof. Kelsey Martin
   repo: smangul1/UMI-Reducer/wiki
 
-- title: VGA 
+- title: VGA
   type: featured
   image: images/resources/connectivity-search.png
   link: http://genetics.cs.ucla.edu/vga
@@ -169,7 +162,7 @@
 - title: "BCC2020 Virtual Conference on July 19, 2020: Dr Jaque Brito"
   type: other
   image: images/resources/tribe.png
-  link: https://vimeo.com/437698243 
+  link: https://vimeo.com/437698243
   description: "Talk presented by Mangul Lab postdoctoral scholar Dr. Jaque Brito at the BCC2020 Virtual Conference on July 19, 2020:"
 
 - title: "RECOMB-Seq 2020 Virtual Conference on June 26, 2020 : Nathan LaPierre"
@@ -243,5 +236,3 @@
   image: images/resources/nano-dissection.png
   link: https://pharmacyschool.usc.edu/usc-investigators-lead-international-call-for-increased-diversity-in-immunogenomics/
   description: "USC School of Pharmacy scientists united researchers worldwide to promote inclusivity in immunology studies"
-  
-
