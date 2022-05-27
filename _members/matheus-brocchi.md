@@ -5,7 +5,7 @@ title: Matheus Brocchi
 search:
   - Matheus 
   - Brocchi
-image: images/team/Matheus-Brocchi.jpeg
+image: images/team/Matheus-Brocchi.jpg
 role: highschool
 email: matheusbrocchi1@gmail.com
 github: matheusbrocchi
