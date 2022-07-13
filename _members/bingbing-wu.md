@@ -1,5 +1,5 @@
 ---
-title: Bing Bing
+title: Bingbing Wu
 search:
   - Bing
   - Bing
