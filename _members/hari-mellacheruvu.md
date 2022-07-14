@@ -6,6 +6,7 @@ search:
   - Mellacheruvu
 image: images/team/hari-mellacheruvu.jpg
 role: undergrad
+group: alum
 email: mellache@usc.edu
 github: mellache
 ---
