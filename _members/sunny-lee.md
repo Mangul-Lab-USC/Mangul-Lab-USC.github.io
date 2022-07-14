@@ -6,6 +6,7 @@ search:
   - Lee
 image: images/team/sunny-lee.jpg
 role: undergrad
+group: alum
 email: hyosunle@usc.edu
 github: sunnyyleee
 ---
