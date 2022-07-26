@@ -63,3 +63,15 @@
     }
   }
 }
+
+.feature:nth-child(3) {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  .feature_image {
+    width: auto;
+    height: auto;
+    margin: 20px 0px;
+  }
+}
