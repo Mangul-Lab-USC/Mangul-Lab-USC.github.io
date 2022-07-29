@@ -5,7 +5,7 @@ search:
   - Grigore
   - Boldirev
 image: images/team/grigore-boldirev.jpg 
-role: masters 
+role: undergrad 
 email: grigore.boldirev@gmail.com
 github: Sorcery229
 ---
