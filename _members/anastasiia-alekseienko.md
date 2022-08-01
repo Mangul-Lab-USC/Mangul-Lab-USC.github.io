@@ -4,7 +4,7 @@ title: Anastasiia Alekseienko
 search:
   - Anastasiia
   - Alekseienko
-image: images/team/anastasiia-alekseienko.jpeg
+image: images/team/anastasiia-alekseienko.jpg
 role: masters 
 email: alekseienkoa27@gmail.com
 github: aalksnk
