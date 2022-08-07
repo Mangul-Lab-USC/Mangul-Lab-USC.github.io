@@ -11,7 +11,7 @@ This page includes our open-sourced softwares, some information we find useful, 
 ## We’re in the news!
 
 {% capture html %}
-{% include new_resource-list.html type="legacy" size="small" %}
+{% include resource-list.html type="legacy" size="small" %}
 {% endcapture %}
 
 {% include centerer.html html=html %}

@@ -1,8 +1,8 @@
 ---
-title: Media
+title: Updates
 ---
 
-# <i class="fas fa-tools"></i>Media
+# <i class="fas fa-tools"></i>Updates
 
 This page includes our open-sourced softwares, some information we find useful, our lab videos and news in which Mangul Lab was featured.  
 
@@ -11,7 +11,7 @@ This page includes our open-sourced softwares, some information we find useful, 
 ## We’re in the news!
 
 {% capture html %}
-{% include resource-list.html type="legacy" size="small" %}
+{% include new_resource-list.html type="legacy" size="small" %}
 {% endcapture %}
 
 {% include centerer.html html=html %}
