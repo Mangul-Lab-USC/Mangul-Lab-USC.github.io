@@ -19,4 +19,10 @@
 
 # repo:
 # A GitHub repo to automatically fetch tags (aka "topics") from.
+- title: New paper from Mangul Lab published at 2022 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW)
+  type: legacy
+  image: 
+  link: https://www.computer.org/csdl/proceedings-article/ipdpsw/2022/974700a216/1Fu9x93O9na
+  description: "Paper published as proceedings of the IEEE International Symposium Workshops (IPDPSW) titled: «Reproducibility of Bioinformatics Tools»."
+
 
