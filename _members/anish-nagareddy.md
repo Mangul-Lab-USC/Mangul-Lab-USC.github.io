@@ -5,7 +5,8 @@ search:
   - Anish
   - Nagareddy
 image: images/team/anish-nagareddy.jpg
-role: alum
+role: undergrad
+group: alum
 email: nagaredd@usc.edu
 github: AnishNagareddy
 ---

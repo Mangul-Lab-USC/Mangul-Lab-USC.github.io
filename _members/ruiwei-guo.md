@@ -5,7 +5,8 @@ search:
   - Ruiwei
   - Guo
 image: images/team/ruiwei-guo.jpg
-role: alum
+role: masters
+group: alum
 <!-- website: https://addicted-to-coding.github.io/webpage/ -->
 email: ruiweigu@usc.edu
 
