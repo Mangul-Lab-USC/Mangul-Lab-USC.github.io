@@ -6,6 +6,7 @@ search:
   - Tao
 image: images/team/tianze-tao.jpg
 role: masters
+group: alum
 email: tianzeta@usc.edu
 github: tianzetao
 ---
