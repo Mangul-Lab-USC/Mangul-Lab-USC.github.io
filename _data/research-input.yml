@@ -78,7 +78,7 @@
 ##New papers added from here 
    
 - id: doi:10.1038/s41586-022-04576-6
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13059-018-1403-7/MediaObjects/13059_2018_1403_Fig2_HTML.gif?as=webp
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-022-04576-6/MediaObjects/41586_2022_4576_Fig1_HTML.png?as=webp
   tags:
     - SARS-CoV-2
     - Respiratory distress syndrome
@@ -529,10 +529,70 @@
     - type: manubot
       link: https://doi.org/10.1016/j.immuni.2021.09.015
 - id: doi:10.1093/bib/bbac221
-  image: 
+  image: Mangul-Lab-USC.github.io/images/paper-thumbnail.svg
   extra-links:
     - type: preprint
     - type: manubot
       link: https://doi.org/10.1093/bib/bbac221
-
+- id: doi:10.1109/IPDPSW55747.2022.00046
+  image: Mangul-Lab-USC.github.io/images/paper-thumbnail.svg
+  extra-links:
+    - type: preprint
+    - type: manubot
+      link: https://doi.org/10.1109/IPDPSW55747.2022.00046
+- id: doi:10.1101/2022.05.26.22275650
+  image: https://www.medrxiv.org/content/medrxiv/early/2022/05/27/2022.05.26.22275650/F1.medium.gif
+  extra-links: 
+    - type: preprint
+    - type: manubot
+      link: https://doi.org/10.1101/2022.05.26.22275650
+- id: doi:10.1101/2022.04.28.489926
+  image: https://www.biorxiv.org/content/biorxiv/early/2022/04/29/2022.04.28.489926/F1.medium.gif
+  extra-links: 
+    - type: preprint
+    - type: manubot
+      link: https://doi.org/10.1101/2022.04.28.489926
+- id: doi:10.1101/2022.04.22.488804
+  image: Mangul-Lab-USC.github.io/images/paper-thumbnail.svg
+  extra-links: 
+    - type: preprint
+    - type: manubot
+      link: https://doi.org/10.1101/2022.04.22.488804
+- id: doi:10.1101/2022.04.13.488243
+  image: https://www.biorxiv.org/content/biorxiv/early/2022/04/18/2022.04.13.488243/F1.medium.gif
+  extra-links: 
+    - type: preprint
+    - type: manubot
+      link: https://doi.org/10.1101/2022.04.13.488243
+- id: doi:10.1101/2022.03.31.22273249
+  image: https://www.medrxiv.org/content/medrxiv/early/2022/03/31/2022.03.31.22273249/F1.medium.gif
+  extra-links: 
+    - type: preprint
+    - type: manubot
+      link: https://doi.org/10.1101/2022.03.31.22273249
+- id: doi:10.1101/2022.03.28.22273040
+  image: https://www.medrxiv.org/content/medrxiv/early/2022/07/20/2022.03.28.22273040/F1.medium.gif
+  extra-links: 
+    - type: preprint
+    - type: manubot
+      link: https://doi.org/10.1101/2022.03.28.22273040
+- id: doi:10.1128/mSystems.00095-21
+  image: https://journals.asm.org/cms/10.1128/msystems.00095-21/asset/6ededb25-0c63-49f2-a252-aaf523906b46/assets/images/large/msystems.00095-21-f001.jpg
+  extra-links: 
+    - type: preprint
+    - type: manubot
+      link: https://doi.org/10.1128/mSystems.00095-21
+- id: doi:10.1007/s00439-021-02397-7
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00439-021-02397-7/MediaObjects/439_2021_2397_Fig1_HTML.png?as=webp
+  extra-links: 
+    - type: preprint
+    - type: manubot
+      link: https://doi.org/10.1007/s00439-021-02397-7
+- id: doi:10.1038/s41587-021-01176-z
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41587-021-01176-z/MediaObjects/41587_2021_1176_Fig1_HTML.png?as=webp
+  extra-links: 
+    - type: preprint
+    - type: manubot
+      link: https://doi.org/10.1038/s41587-021-01176-z
   
+      
