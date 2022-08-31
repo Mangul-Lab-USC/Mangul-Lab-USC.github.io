@@ -454,12 +454,12 @@
     - cancer
     - machine learning
 
-- id: doi:10.1101/2020.01.17.910521
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/01/18/2020.01.17.910521/F1.large.jpg?width=800&height=600
-  extra-links:
-    - type: preprint
-    - type: manubot
-      link: https://doi.org/10.1101/2020.01.17.910521
+# - id: doi:10.1101/2020.01.17.910521
+#   image: https://www.biorxiv.org/content/biorxiv/early/2020/01/18/2020.01.17.910521/F1.large.jpg?width=800&height=600
+#   extra-links:
+#     - type: preprint
+#     - type: manubot
+#       link: https://doi.org/10.1101/2020.01.17.910521
   tags:
     - cancer
     - machine learning
@@ -474,16 +474,22 @@
     - cancer
     - machine learning
 ###################
-- id: doi:10.1101/833210
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/03/13/833210/F1.large.jpg?width=800&height=600
+# - id: doi:10.1101/833210
+#   image: https://www.biorxiv.org/content/biorxiv/early/2020/03/13/833210/F1.large.jpg?width=800&height=600
+#   extra-links:
+#     - type: preprint
+#     - type: manubot
+#       link: https://doi.org/10.1101/833210
+  # tags:
+  #   - cancer
+  #   - machine learning
+- id: doi:10.1145/2975167.2975174
+  image: 
   extra-links:
     - type: preprint
     - type: manubot
-      link: https://doi.org/10.1101/833210
-  tags:
-    - cancer
-    - machine learning
-
+      link: https://dl.acm.org/doi/abs/10.1145/2975167.2975174
+    
 - id: doi:10.1101/808295
   image: https://www.biorxiv.org/content/biorxiv/early/2019/10/17/808295/F2.large.jpg?width=800&height=600
   extra-links:
@@ -508,12 +514,12 @@
     - type: manubot
       link: https://doi.org/10.1101/786053
 
-- id: doi:10.1101/792911
-  image: https://www.biorxiv.org/content/biorxiv/early/2019/10/03/792911/F1.medium.gif
-  extra-links:
-    - type: preprint
-    - type: manubot
-      link: https://doi.org/10.1101/792911
+# - id: doi:10.1101/792911
+#   image: https://www.biorxiv.org/content/biorxiv/early/2019/10/03/792911/F1.medium.gif
+#   extra-links:
+#     - type: preprint
+#     - type: manubot
+#       link: https://doi.org/10.1101/792911
 
 - id: doi:10.1002/jac5.1519
   image: https://www.biorxiv.org/content/biorxiv/early/2019/10/03/792911/F1.medium.gif
