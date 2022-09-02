@@ -1,20 +1,3 @@
-- title: Data availability of open T-cell receptor repertoire data, a systematic assessment
-  authors:
-  - Yu-Ning Huang
-  - Naresh Amrat Patel
-  - Jay Himanshu Mehta
-  - Srishti Ginjala
-  - Petter Brodin
-  - Clive M Gray
-  - Yesha M Patel
-  - Lindsay G. Cowell
-  - Amanda M. Burkhardt
-  - Serghei Mangul
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-04-16'
-  link: https://doi.org/gpxdwd
-  id: doi:10.1101/2022.04.13.488243
-  image: ''
 - title: 'Packaging, containerization, and virtualization of computational omics methods:
     Advances, challenges, and opportunities'
   authors:
@@ -5267,308 +5250,9 @@
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41398-018-0107-9/MediaObjects/41398_2018_107_Fig2_HTML.jpg?as=webp
 - title: Genetic effects on gene expression across human tissues
   authors:
-  - "Fran\xE7ois Aguet"
-  - Andrew A. Brown
-  - Stephane E. Castel
-  - Joe R. Davis
-  - Yuan He
-  - Brian Jo
-  - Pejman Mohammadi
-  - YoSon Park
-  - Princy Parsana
-  - "Ayellet V. Segr\xE8"
-  - Benjamin J. Strober
-  - Zachary Zappala
-  - Beryl B. Cummings
-  - Ellen T. Gelfand
-  - Kane Hadley
-  - Katherine H. Huang
-  - Monkol Lek
-  - Xiao Li
-  - Jared L. Nedzel
-  - Duyen Y. Nguyen
-  - Michael S. Noble
-  - Timothy J. Sullivan
-  - Taru Tukiainen
-  - Daniel G. MacArthur
-  - Gad Getz
-  - Anjene Addington
-  - Ping Guan
-  - Susan Koester
-  - A. Roger Little
-  - Nicole C. Lockhart
-  - Helen M. Moore
-  - Abhi Rao
-  - Jeffery P. Struewing
-  - Simona Volpi
-  - Lori E. Brigham
-  - Richard Hasz
-  - Marcus Hunter
-  - Christopher Johns
-  - Mark Johnson
-  - Gene Kopen
-  - William F. Leinweber
-  - John T. Lonsdale
-  - Alisa McDonald
-  - Bernadette Mestichelli
-  - Kevin Myer
-  - Bryan Roe
-  - Michael Salvatore
-  - Saboor Shad
-  - Jeffrey A. Thomas
-  - Gary Walters
-  - Michael Washington
-  - Joseph Wheeler
-  - Jason Bridge
-  - Barbara A. Foster
-  - Bryan M. Gillard
-  - Ellen Karasik
-  - Rachna Kumar
-  - Mark Miklos
-  - Michael T. Moser
-  - Scott D. Jewell
-  - Robert G. Montroy
-  - Daniel C. Rohrer
-  - Dana Valley
-  - Deborah C. Mash
-  - David A. Davis
-  - Leslie Sobin
-  - Mary E. Barcus
-  - Philip A. Branton
-  - Nathan S. Abell
-  - Brunilda Balliu
-  - Olivier Delaneau
-  - "Laure Fr\xE9sard"
-  - Eric R. Gamazon
-  - "Diego Garrido-Mart\xEDn"
-  - Ariel D. H. Gewirtz
-  - Genna Gliner
-  - Michael J. Gloudemans
-  - Buhm Han
-  - Amy Z. He
-  - Farhad Hormozdiari
-  - Xin Li
-  - Boxiang Liu
-  - Eun Yong Kang
-  - Ian C. McDowell
-  - Halit Ongen
-  - John J. Palowitch
-  - Christine B. Peterson
-  - Gerald Quon
-  - Stephan Ripke
-  - Ashis Saha
-  - Andrey A. Shabalin
-  - Tyler C. Shimko
-  - Jae Hoon Sul
-  - Nicole A. Teran
-  - Emily K. Tsang
-  - Hailei Zhang
-  - Yi-Hui Zhou
-  - Carlos D. Bustamante
-  - Nancy J. Cox
-  - "Roderic Guig\xF3"
-  - Manolis Kellis
-  - Mark I. McCarthy
-  - Donald F. Conrad
-  - Eleazar Eskin
-  - Gen Li
-  - Andrew B. Nobel
-  - Chiara Sabatti
-  - Barbara E. Stranger
-  - Xiaoquan Wen
-  - Fred A. Wright
-  - Kristin G. Ardlie
-  - Emmanouil T. Dermitzakis
-  - Tuuli Lappalainen
-  - "Fran\xE7ois Aguet"
-  - Kristin G. Ardlie
-  - Beryl B. Cummings
-  - Ellen T. Gelfand
-  - Gad Getz
-  - Kane Hadley
-  - Robert E. Handsaker
-  - Katherine H. Huang
-  - Seva Kashin
-  - Konrad J. Karczewski
-  - Monkol Lek
-  - Xiao Li
-  - Daniel G. MacArthur
-  - Jared L. Nedzel
-  - Duyen T. Nguyen
-  - Michael S. Noble
-  - "Ayellet V. Segr\xE8"
-  - Casandra A. Trowbridge
-  - Taru Tukiainen
-  - Nathan S. Abell
-  - Brunilda Balliu
-  - Ruth Barshir
-  - Omer Basha
-  - Alexis Battle
-  - Gireesh K. Bogu
-  - Andrew Brown
-  - Christopher D. Brown
-  - Stephane E. Castel
-  - Lin S. Chen
-  - Colby Chiang
-  - Donald F. Conrad
-  - Nancy J. Cox
-  - Farhan N. Damani
-  - Joe R. Davis
-  - Olivier Delaneau
-  - Emmanouil T. Dermitzakis
-  - Barbara E. Engelhardt
-  - Eleazar Eskin
-  - Pedro G. Ferreira
-  - "Laure Fr\xE9sard"
-  - Eric R. Gamazon
-  - "Diego Garrido-Mart\xEDn"
-  - Ariel D.H. Gewirtz
-  - Genna Gliner
-  - Michael J. Gloudemans
-  - Roderic Guigo
-  - Ira M. Hall
-  - Buhm Han
-  - Yuan He
-  - Farhad Hormozdiari
-  - Cedric Howald
-  - Hae Kyung Im
-  - Brian Jo
-  - Eun Yong Kang
-  - Yungil Kim
-  - Sarah Kim-Hellmuth
-  - Tuuli Lappalainen
-  - Gen Li
-  - Xin Li
-  - Boxiang Liu
-  - Serghei Mangul
-  - Mark I. McCarthy
-  - Ian C. McDowell
-  - Pejman Mohammadi
-  - Jean Monlong
-  - Stephen B. Montgomery
-  - "Manuel Mu\xF1oz-Aguirre"
-  - Anne W. Ndungu
-  - Dan L. Nicolae
-  - Andrew B. Nobel
-  - Meritxell Oliva
-  - Halit Ongen
-  - John J. Palowitch
-  - Nikolaos Panousis
-  - Panagiotis Papasaikas
-  - YoSon Park
-  - Princy Parsana
-  - Anthony J. Payne
-  - Christine B. Peterson
-  - Jie Quan
-  - Ferran Reverter
-  - Chiara Sabatti
-  - Ashis Saha
-  - Michael Sammeth
-  - Alexandra J. Scott
-  - Andrey A. Shabalin
-  - Reza Sodaei
-  - Matthew Stephens
-  - Barbara E. Stranger
-  - Benjamin J. Strober
-  - Jae Hoon Sul
-  - Emily K. Tsang
-  - Sarah Urbut
-  - Martijn Bunt
-  - Gao Wang
-  - Xiaoquan Wen
-  - Fred A. Wright
-  - Hualin S. Xi
-  - Esti Yeger-Lotem
-  - Zachary Zappala
-  - Judith B. Zaugg
-  - Yi-Hui Zhou
-  - Joshua M. Akey
-  - Daniel Bates
-  - Joanne Chan
-  - Lin S. Chen
-  - Melina Claussnitzer
-  - Kathryn Demanelis
-  - Morgan Diegel
-  - Jennifer A. Doherty
-  - Andrew P. Feinberg
-  - Marian S. Fernando
-  - Jessica Halow
-  - Kasper D. Hansen
-  - Eric Haugen
-  - Peter F. Hickey
-  - Lei Hou
-  - Farzana Jasmine
-  - Ruiqi Jian
-  - Lihua Jiang
-  - Audra Johnson
-  - Rajinder Kaul
-  - Manolis Kellis
-  - Muhammad G. Kibriya
-  - Kristen Lee
-  - Jin Billy Li
-  - Qin Li
-  - Xiao Li
-  - Jessica Lin
-  - Shin Lin
-  - Sandra Linder
-  - Caroline Linke
-  - Yaping Liu
-  - Matthew T. Maurano
-  - Benoit Molinie
-  - Stephen B. Montgomery
-  - Jemma Nelson
-  - Fidencio J. Neri
-  - Meritxell Oliva
-  - Yongjin Park
-  - Brandon L. Pierce
-  - Nicola J. Rinaldi
-  - Lindsay F. Rizzardi
-  - Richard Sandstrom
-  - Andrew Skol
-  - Kevin S. Smith
-  - Michael P. Snyder
-  - John Stamatoyannopoulos
-  - Barbara E. Stranger
-  - Hua Tang
-  - Emily K. Tsang
-  - Li Wang
-  - Meng Wang
-  - Nicholas Van Wittenberghe
-  - Fan Wu
-  - Rui Zhang
-  - Concepcion R. Nierras
-  - Philip A. Branton
-  - Latarsha J. Carithers
-  - Ping Guan
-  - Helen M. Moore
-  - Abhi Rao
-  - Jimmie B. Vaught
-  - Sarah E. Gould
-  - Nicole C. Lockart
-  - Casey Martin
-  - Jeffery P. Struewing
-  - Simona Volpi
-  - Anjene M. Addington
-  - Susan E. Koester
-  - A. Roger Little
-  - ' GTEx Consortium'
-  - ' Lead analysts:'
-  - 'Data Analysis & Coordinating Center (LDACC): Laboratory'
-  - ' NIH program management:'
-  - ' Biospecimen collection:'
-  - ' Pathology:'
-  - ' eQTL manuscript working group:'
-  - "Data Analysis & Coordinating Center (LDACC)\u2014Analysis Working Group Laboratory"
-  - " Statistical Methods groups\u2014Analysis Working Group"
-  - ' Enhancing GTEx (eGTEx) groups'
-  - ' NIH Common Fund'
-  - ' NIH/NCI'
-  - ' NIH/NHGRI'
-  - ' NIH/NIMH'
-  - ' NIH/NIDA'
-  - " Biospecimen Collection Source Site\u2014NDRI"
+  - ' '
   publisher: Nature
-  date: '2017-10-01'
+  date: '2017-10-12'
   link: https://doi.org/gb2nqv
   id: doi:10.1038/nature24277
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature24277/MediaObjects/41586_2017_Article_BFnature24277_Fig1_HTML.jpg
@@ -6004,6 +5688,26 @@
   - type: preprint
   - type: manubot
     link: https://doi.org/10.1101/2022.04.22.488804
+- title: Data Availability of Open T-Cell Receptor Repertoire Data, a Systematic Assessment
+  authors:
+  - Yu-Ning Huang
+  - Naresh Amrat Patel
+  - Jay Himanshu Mehta
+  - Srishti Ginjala
+  - Petter Brodin
+  - Clive M. Gray
+  - Yesha M. Patel
+  - Lindsay G. Cowell
+  - Amanda M. Burkhardt
+  - Serghei Mangul
+  publisher: Frontiers in Systems Biology
+  date: '2022-06-06'
+  link: https://doi.org/gqq8xt
+  id: doi:10.3389/fsysb.2022.918792
+  image: https://www.frontiersin.org/files/Articles/918792/fsysb-02-918792-HTML/image_m/fsysb-02-918792-g001.jpg
+  extra-links:
+  - type: manubot
+    link: https://doi.org/10.3389/fsysb.2022.918792
 - title: Rigorous benchmarking of T cell receptor repertoire profiling methods for
     cancer RNA sequencing
   authors:
@@ -6065,9 +5769,9 @@
   - Rishi Raj Goel
   - Serghei Mangul
   - Tiago Lubiana
-  - ' COVID-19 Review Consortium'
   - Anthony Gitter
   - Casey S. Greene
+  - ' '
   publisher: mSystems
   date: '2021-10-26'
   link: https://doi.org/gm8k9b

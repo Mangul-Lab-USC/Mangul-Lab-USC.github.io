@@ -52,8 +52,8 @@
 # and retrieve a direct link to a figure from the paper before adding an article...
 # Do not use the same image for multiple articles... - Jaden :)
 
-- id: doi:10.1101/2022.04.13.488243
-  image: ''
+# - id: doi:10.1101/2022.04.13.488243
+#   image: ''
 
 - id: doi:10.48550/arXiv.2203.16261
   image: ''
@@ -570,6 +570,12 @@
 #     - type: preprint
 #     - type: manubot
 #       link: https://doi.org/10.1101/2022.04.13.488243
+- id: doi:10.3389/fsysb.2022.918792
+  image: https://www.frontiersin.org/files/Articles/918792/fsysb-02-918792-HTML/image_m/fsysb-02-918792-g001.jpg
+  extra-links: 
+    - type: manubot
+      link: https://doi.org/10.3389/fsysb.2022.918792
+
 - id: doi:10.1101/2022.03.31.22273249
   image: https://www.medrxiv.org/content/medrxiv/early/2022/03/31/2022.03.31.22273249/F1.medium.gif
   extra-links: 
