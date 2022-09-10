@@ -6,6 +6,7 @@ search:
   - Wen
 image: images/team/shirley-wen.jpg
 role: masters
+group: alum
 email: wwen0449@usc.edu
 github: ShirleyWenxiaoer
 ---
