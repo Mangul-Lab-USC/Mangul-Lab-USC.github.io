@@ -12,7 +12,7 @@ image: images/team/yu-ning-huang.jpg
 
 # role must be included or person won't appear on team page
 # available roles - pi, postdoc, phd, masters, pharmd, undergrad, highschool, programmer
-role: masters
+role: phd
 
 # add person to alumni group
 #group: alum
@@ -25,9 +25,4 @@ twitter: HuangYuNing4
 
 ---
 
-Yu Ning is a Master's student in the Clinical and Experimental Therapeutics Program, University of Southern California School of Pharmacy. 
-He has a strong clinical background, and is a registered pharmacist in Taiwan.
-His research interests include bioinformatics, drug development, and immunogenetics.
-Currently, he is conducting immunogenetics research around comparing the ancestry differences in the AIRR sequencing cohorts. 
-
-
+I’m a PhD student at the Pharmaceutical and Translational Sciences program, University of Southern California School of Pharmacy. I have a strong clinical background, and am a registered pharmacist in Taiwan. My research focuses on bioinformatics, computational biology, and immunogenetics. 
