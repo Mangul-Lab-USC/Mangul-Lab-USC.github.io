@@ -233,6 +233,19 @@
   - cancer
   - single cell
   - ovarian cancer
+- title: 'The Pioneer Advantage: Filling the blank spots on the map of genome diversity
+    in Europe'
+  authors:
+  - Taras K Oleksyk
+  - Walter W Wolfsberger
+  - Khrystyna Schubelka
+  - Serghei Mangul
+  - Stephen J O'Brien
+  publisher: GigaScience
+  date: '2022-01-01'
+  link: https://doi.org/gqsfmm
+  id: doi:10.1093/gigascience/giac081
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gigascience/11/10.1093_gigascience_giac081/1/m_giac081fig1.jpeg?Expires=1665803744&Signature=DzAgDGQjXWbAIOevqHS-XemQeajHIF6gS3rxNApjY-uC~u~sE7779R-Y9WsMyaBUyjuWVBvWj2o75Y4JlwClmrUgZDxmvItkFtplynamPtezQVWsWSMDPJou2K11nnVuxQmq3xtlOOP3msBUBdaN05rl-giRhCy~SybbazT-CbgFKCZBLcY5v6fvgo76IPRrpfe~A1UKmlG7Xlp6izb1WalBKlpMY2h4au2J4MM-OlmQQdFLiQSUx5OOhQvUD6PShd~MbhLjpBDUPmG9F1Cigv5oeTyz6QDp1mrvK1EuOr2pBtj3qZEijeAo18MRO7T9Q-eYTn2e1pWmIulUHu2Qpw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 - title: Whole-genome sequencing reveals host factors underlying critical COVID-19
   authors:
   - Athanasios Kousathanas
@@ -2884,7 +2897,7 @@
   date: '2021-11-23'
   link: https://doi.org/gphssh
   id: doi:10.1101/2021.11.22.469640
-  image: ''
+  image: https://www.biorxiv.org/content/biorxiv/early/2021/12/11/2021.11.22.469640/F1.medium.gif
 - title: 'Critical Assessment of Metagenome Interpretation: the second round of challenges'
   authors:
   - Fernando Meyer
@@ -3175,7 +3188,7 @@
   date: '2020-10-01'
   link: https://doi.org/ghbjrk
   id: doi:10.1016/j.cell.2020.08.036
-  image: ''
+  image: https://www.cell.com/cms/attachment/f6d5841f-07a2-4d7a-9160-b18e119aff5c/gr2.jpg
 - title: Recommendations to enhance rigor and reproducibility in biomedical research
   authors:
   - Jaqueline J Brito
@@ -3189,7 +3202,7 @@
   date: '2020-06-01'
   link: https://doi.org/ggzr3d
   id: doi:10.1093/gigascience/giaa056
-  image: ''
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gigascience/9/6/10.1093_gigascience_giaa056/2/m_giaa056fig1.jpeg?Expires=1665094520&Signature=eKx76NIh9nvI1oXKQwxTnZN2Gvzpt7XVQpQwgwa6j8JKkfw9xNg1MSWYnIi-zdHLzhxq0LPzNbYzaYH1~5o1AxEmlfRJO79ORh6m~E96K71QkbvXAFKGkVjQFHfy6~PVrDnwd3XogBaWedNUJybWr2rDEdgfrGvz-we9x6XlJ2kgKtM~tel5J5OIl11NoEtD9v5Lc29-uQH9RyVPuyXJCVl2BeLbGsnyLFLgJ5NNOTj0Z-8xGmPouj3Bd3dG9Zjowxl5NEjONEF4WcBCKWsW3-WLJddaH14oeUtWToXFvmKhnWxvIK0Eh0kqnHHX3oI3VBVYLT4Q9HUngGy3oxN0NQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 - title: 'PUMAA: A Platform for Accessible Microbiome Analysis in the Undergraduate
     Classroom'
   authors:
@@ -3204,7 +3217,7 @@
   date: '2020-10-06'
   link: https://doi.org/gph5qf
   id: doi:10.3389/fmicb.2020.584699
-  image: ''
+  image: https://www.frontiersin.org/files/Articles/584699/fmicb-11-584699-HTML/image_m/fmicb-11-584699-g001.jpg
 - title: 'PUMA: A tool for processing 16S rRNA taxonomy data for analysis and visualization'
   authors:
   - Keith Mitchell
@@ -3216,7 +3229,7 @@
   date: '2018-11-29'
   link: https://doi.org/gkt2c3
   id: doi:10.1101/482380
-  image: ''
+  image: https://www.biorxiv.org/content/biorxiv/early/2018/11/29/482380/F1.large.jpg?width=800&height=600&carousel=1
 - title: Profiling immunoglobulin repertoires across multiple human tissues using
     RNA sequencing
   authors:
@@ -3596,7 +3609,7 @@
   date: '2020-09-11'
   link: https://doi.org/ghbvbf
   id: doi:10.1126/sciadv.aba2083
-  image: https://advances.sciencemag.org/content/advances/6/37/eaba2083/F3.large.jpg
+  image: https://www.science.org/cms/10.1126/sciadv.aba2083/asset/4932c38e-30a4-44f1-bb8b-8e52065216ec/assets/graphic/aba2083-f1.jpeg
 - title: Accurate assembly of minority viral haplotypes from next-generation sequencing
     through efficient noise reduction
   authors:
@@ -3635,7 +3648,7 @@
   date: '2020-01-01'
   link: https://doi.org/ghp8z9
   id: doi:10.1093/gigascience/giz163
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gigascience/9/1/10.1093_gigascience_giz163/1/m_giz163fig1.jpeg?Expires=1627825084&Signature=3aPVD6kXHDXKvnXwUn7Lmfd0SNdLjvquEGekZHEx9HYZZdnC7GX6XtWFmaGfU1HeKCWSYuzNDoahuDqSKE7l~MjX9uiJFKyL1wBUewSHxMLdAsxnB3xLt~dI8GTxQ3LiGMqrL0A-FX23QlxPb4BzkyePBuK2uM6q5pfOre3y0ABQWqws-mghEffRLVU0tRUagLGMfqWIsVyUmdURuHu2vOvR5CNzUaDsua9ugEOzWVBnUWZYJY7hghod3Y-UOdSfikMHTFqpebSGCDZqg-lL3Cuzr2yapA9KuPUofH3LtIX0ZwH5i3Gk83hf7yll0vpcsRSKq~2mgs2PkWy8scR1ZA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gigascience/9/1/10.1093_gigascience_giz163/1/m_giz163fig1.jpeg?Expires=1665166848&Signature=SlqfVwz7Ouv-sOv8xZVkuCeeImOKmkUdamYJ6MKiHkqctjReMTTyGe2Du1-eHQPAOSzq0vQvisHW06dtTHPUNmCKK1w6oP5NDS2Vbd~Ov~whaPxN-pzpQS6PYFVNB9YznpgjXGIK5iYQSCxhpaB4uW3AXQrAA7WYV4aHYJaugU1nMY0plQ7caeC4jbE~RaMR9bKnNBwhtVWSlMndSsLdmeE53J4xxhtrA~WFeLgrseYELOzfEBFeP4aNl-LVpegvMc57FDa2~UV6qO9yfmpqD5pvUFvzS2vTptFRHRsQGx44J46ErD3pxqcb6dlSmLrRsnnb01Wzdf06UQT7pzNVeA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 - title: 'MiCoP: microbial community profiling method for detecting viral and fungal
     organisms in metagenomic samples'
   authors:
@@ -3999,7 +4012,7 @@
   date: '2016-11-01'
   link: https://doi.org/f9ff5k
   id: doi:10.1534/genetics.115.177246
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/genetics/204/3/10.1534_genetics.115.177246/5/m_1057fig2.gif?Expires=1628644194&Signature=yOBylnex-KS-rri9giwwrqthE5Io609Auh5r5V0Ydb1nReHBwdF06kU2HBYTrTDrI~92r~ZW3olB2BflDpz1U8QmdbPlh7QyeICh-6EA3Au9P8g6IgPOPGCYpyvMuopHondfCVESAmh1~qLodzgQ5lqOvj2txv-t5sVSSfVGexzMvRbEKVPGjxJDb6VLAmXmd~3MFujR66~j9pGLkSP8Pm0ZfyQ6UKUgALfElRAfsVx5WtfJK92ki9GbA-uCPuiJWgTpP9KOxYNdymjKctWczN8-e4Y5lmaQyQGx~6l4Yp85546iHZ~swj3OkUo~Y1IvuA-TIcNawj7l76z7yI61cg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/genetics/204/3/10.1534_genetics.115.177246/7/m_1057fig1.jpeg?Expires=1665077368&Signature=umN-rV~Hpw87958sw6qaBTyQEGBs5nl5Z07Qo9PJz-6cdPVCmAp5YYLA7tRG0TAtAEMngfoLLmQUarLhKxH5QwJ0O5VsDiVd2WHkmAOCfPUjFHeVAQwHRIqZ9BqGI1K7i4g61HvhYDXSAa3kh0ChQyPcjvC5TePVmw-t5I3ouIH38tKXvBSIRn~SE2HSdDZnhEZJZ3URfrXkZgYnVp62htAXM4bIx2rZpxvffppUIrKekhhnI3vdOaL~h6m6BfiE3hRfDouj3Q-0z9mQV3GpNcGaPHq5rAzDMRPr8RfDbD2LuTmd2iVLZ4mmor9Wj9crBvt4ldiFTcPv2-56Hg2oeA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 - title: Applications of High-Fidelity Sequencing Protocol to RNA Viruses
   authors:
   - Serghei Mangul
@@ -4287,7 +4300,7 @@
   date: '2021-01-29'
   link: https://doi.org/gh87gh
   id: doi:10.1093/gigascience/giab002
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gigascience/10/2/10.1093_gigascience_giab002/3/m_giab002fig1.jpeg?Expires=1627831916&Signature=t41E54zyrgVce8Y-vG2ZTOhQsnHMSnSU5fm375Qqg1tuDR9cfGBwvlnLmKa4m8S2zlcquAsWqgDPn8tXfwB7KXCZ5njGP0p3lVFf19jbgTc94jqC1y-os~Xq0C~ZYYOVN9owvh~UBf-tp4IvROVMZ-wqLD9J7GpkKdoBXnTZP0RguLCBdl2vKwoEd79Y-L~I1ymuDm2SxdMHBX36niyTvbcBQzOYw6ifsFAtKrDN7Eyd7iQcPqJAQ1fnGMR6EGGw-9mwuosnaLGzUNVtxMyLMmYjYQ70Qlny8GwYLnvOTeaFoWh~X~8rDKMTEN0fhn8L2iOF1~J3Bbdedif65Mpv9g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gigascience/10/2/10.1093_gigascience_giab002/3/m_giab002fig3.jpeg?Expires=1665134851&Signature=E~jr6LhlZ0GEyesPMCjAVYMoadzL12CzmNidzzpBejhKIDJRVgLjVw914lok6oTeTPirnw7E4iHPxqZMCubY6Nxhd4COiqCKNlBkUdsi85lVMrjTIKOwQnKBdlCC6SRdCvXk4GLvtvCoLm9txdYsEU9Jsclp6g~q9Q3EBFchg2rb-o4jAki3WH341iJQk9Z1WWYes5W7BorUQG-TeVRQ2oHpW-2wP3oM9kn2vhpwXStQ6RyFFkD3kyAkBVrxYl1gf~EFusH2R~As1l6cm3htWIHFrUqzagdz6sm4hZb0Q5xDD9sKK3xWP1WfuJzGy1lj6Bz2~fqNNqUXFXOBotHaaA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 - title: 'Metalign: efficient alignment-based metagenomic profiling via containment
     min hash'
   authors:
@@ -4692,7 +4705,7 @@
   date: '2020-09-10'
   link: https://doi.org/ghbnkj
   id: doi:10.1126/science.aba3066
-  image: https://science.sciencemag.org/content/sci/369/6509/eaba3066/F1.large.jpg?width=800&height=600
+  image: https://www.science.org/cms/10.1126/science.aba3066/asset/d7704c08-907c-4c47-9acc-d6f3b6f9ac3b/assets/graphic/369_aba3066_f2.jpeg
   tags:
   - cancer
   - single cell
@@ -4704,7 +4717,7 @@
   date: '2020-09-10'
   link: https://doi.org/ghbnhr
   id: doi:10.1126/science.aaz1776
-  image: https://science.sciencemag.org/content/sci/369/6509/1318/F2.large.jpg?width=800&height=600
+  image: https://www.science.org/cms/10.1126/science.aaz1776/asset/cbde5871-192c-452e-abca-828b7996df87/assets/graphic/369_1318_f2.jpeg
   tags:
   - cancer
   - single cell
@@ -4750,7 +4763,7 @@
   date: '2020-09-10'
   link: https://doi.org/ghbnkh
   id: doi:10.1126/science.aaz8528
-  image: https://science.sciencemag.org/content/sci/369/6509/eaaz8528/F3.large.jpg?width=800&height=600
+  image: https://www.science.org/cms/10.1126/science.aaz8528/asset/311bb300-27ab-4f9e-8aa8-5887db08ad47/assets/graphic/369_aaz8528_fa.jpeg
   tags:
   - cancer
   - single cell
@@ -4784,7 +4797,7 @@
   date: '2020-09-10'
   link: https://doi.org/ghbsdk
   id: doi:10.1126/science.aaz6876
-  image: https://science.sciencemag.org/content/sci/369/6509/eaaz6876/F1.large.jpg?width=800&height=600
+  image: https://www.science.org/cms/10.1126/science.aaz6876/asset/8a9699fe-bf2a-43ac-8690-40ec915530eb/assets/graphic/369_aaz6876_f1.jpeg
   tags:
   - cancer
   - single cell
@@ -5224,7 +5237,7 @@
   date: '2018-08-30'
   link: https://doi.org/gd5c2s
   id: doi:10.1093/molbev/msy170
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/mbe/35/11/10.1093_molbev_msy170/5/m_msy170f1.jpeg?Expires=1628105722&Signature=AXm0pAewafsmvbDlUH-svohLxgwzHFsUDXgOB9y1-cSIPorwpdRTVLqOpJ8UNIwCdaFDVRuMfQCUNa2~F5bMMXt7SRBIW1TqaCBjZgrK-wygt1BAj3bZ0yf~6ywkzp6EWuk7xqWQTn0sdvjPfRviwiH~t7SSNP16slHizPbc~f40uhZUDmxKNDQ4IUwFeWQ-WckTUzC54cagYSJw4LnQCLLLo6LaqHxYljXgqS-ezThPWzFnyqMYQJAAHYyLJYwPefmKi9S3Av7qV1A2yajCKPSEdZhvGdStlhPhIs5zTDxz17k4OCz2zC~U7c1fVPuNPdhRIHLPLYA-aXjZnMfmIw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/mbe/35/11/10.1093_molbev_msy170/5/m_msy170f1.jpeg?Expires=1665091879&Signature=G1NY~PL6ogqLr0rQqCK8XYs8AAs4AaKVPhoF2JYi-UM-B4n-Ty8lU8rfveR9i5eQJPgB5tE8lATTNrStIZI0fDR-tK-C47LG7HzPkCv0zqvAWsq~PwEAuk48vAU7fN6JnvOEn~E4VhZfQIcIEVtZ9RejY651e5qIpaIpDWZd38DsxBEx60CgzTabyqVp-PWa2jcTXdAWHvyKWQBsd-IpuZxBtpFKVs6uTYJVW93kuBegs5glWg4tIl2vc11NXJ4gYbjM22Ht4BueyLsQg42OQQS~NWRQzOO6~hKRElX9l-8BCnEFytETYNo1emF79deg-E5gFZ9sLwLGHk2D0-JOvA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 - title: Transcriptome analysis in whole blood reveals increased microbial diversity
     in schizophrenia
   authors:
@@ -5609,7 +5622,6 @@
   id: doi:10.1093/bib/bbac221
   image: Mangul-Lab-USC.github.io/images/paper-thumbnail.svg
   extra-links:
-  - type: preprint
   - type: manubot
     link: https://doi.org/10.1093/bib/bbac221
 - title: Reproducibility of Bioinformatics Tools
@@ -5624,7 +5636,6 @@
   id: doi:10.1109/IPDPSW55747.2022.00046
   image: Mangul-Lab-USC.github.io/images/paper-thumbnail.svg
   extra-links:
-  - type: preprint
   - type: manubot
     link: https://doi.org/10.1109/IPDPSW55747.2022.00046
 - title: 'pyTCR: a comprehensive and scalable platform for TCR-Seq data analysis to

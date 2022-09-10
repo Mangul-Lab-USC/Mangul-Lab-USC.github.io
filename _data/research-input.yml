@@ -56,7 +56,7 @@
 #   image: ''
 
 - id: doi:10.48550/arXiv.2203.16261
-  image: ''
+  image: 'https://raw.githubusercontent.com/Mangul-Lab-USC/Mangul-Lab-USC.github.io/main/images/research/image.png'
   
 - id: doi:10.1101/2022.03.28.22273040
   image: https://www.medrxiv.org/content/medrxiv/early/2022/03/31/2022.03.28.22273040/F2.large.jpg
@@ -97,10 +97,10 @@
     - SARS-CoV-2
     
 - id: doi:10.31219/osf.io/t4n72
-  image: ''
+  image: 'https://raw.githubusercontent.com/Mangul-Lab-USC/Mangul-Lab-USC.github.io/main/images/research/rRigorous%20Benchmarking%20of%20HLA%20Callers.png'
 
 - id: doi:10.31219/osf.io/uz7m5
-  image: ''
+  image: 'https://raw.githubusercontent.com/Mangul-Lab-USC/Mangul-Lab-USC.github.io/main/images/research/A%20comprehensive%20analysis%20of%20code%20and%20data%20availability%20in%20biomedical%20research.png'
   
 - id: doi:10.1101/2021.11.22.469640
   image: 'https://www.biorxiv.org/content/biorxiv/early/2021/12/11/2021.11.22.469640/F1.medium.gif'
