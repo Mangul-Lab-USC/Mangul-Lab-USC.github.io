@@ -38,26 +38,6 @@ We are actively recruiting highly motivated graduate students and postdocs with 
   link="join"
 %}{:.center}
 
-<!-- section break -->
-
-## Alumni
-
-
-These are past lab alumni who have moved on to the industry, other school programs, new jobs, or elsewhere.
-
-{% capture html %}
-{% include team-list.html role="pi" group="alum" mini="true" %}
-{% include team-list.html role="postdoc" group="alum" mini="true" %}
-{% include team-list.html role="phd" group="alum" mini="true" %}
-{% include team-list.html role="masters" group="alum" mini="true" %}
-{% include team-list.html role="pharmd" group="alum" mini="true" %}
-{% include team-list.html role="undergrad" group="alum" mini="true" %}
-{% include team-list.html role="highschool" group="alum" mini="true" %}
-{% include team-list.html role="programmer" group="alum" mini="true" %}
-{% include team-list.html role="mascot" group="alum" mini="true" %}
-{% endcapture %}
-
-{% include centerer.html html=html %}
 
 <!-- section break -->
 
