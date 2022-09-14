@@ -1,4 +1,4 @@
-#THIS RESOURCE LIST CORRESPONDS TO NEWS TAB
+#THIS RESOURCE LIST CORRESPONDS TO UPDATES TAB
 # List your resources here. Read by the resources list component.
 # PARAMETERS:
 
@@ -19,6 +19,11 @@
 
 # repo:
 # A GitHub repo to automatically fetch tags (aka "topics") from.
+- title: Congratulations to Cecilia(Fangyun) Liu on Provost Undergraduate Research Fellowship
+  type: legacy
+  image: 
+  link: https://mangul-lab-usc.github.io/news/
+  description: "Congratulations to Cecilia(Fangyun) Liu for winning the Fall 2022 Provost Undergraduate Research Fellowship. The award is given for her work on the project titled “Assessment of  robustness and reproducibility of transcriptome quantification tools based on RNA-Seq-based computational replicates.” Cecilia started this project in Summer 2022 Bridge Undergraduate Research Program. She is currently a senior student in Quantitative Biology at USC."
 - title: Congratulations to Andrew Wesel on acceptance into the Southern California Academy of Sciences (SCAS) Research Training Program (RTP)
   type: legacy
   image: 
@@ -34,4 +39,3 @@
   image: 
   link: https://www.computer.org/csdl/proceedings-article/ipdpsw/2022/974700a216/1Fu9x93O9na
   description: "Paper published as proceedings of the IEEE International Symposium Workshops (IPDPSW) titled: «Reproducibility of Bioinformatics Tools»."
-
