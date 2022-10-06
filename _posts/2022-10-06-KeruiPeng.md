@@ -1,4 +1,4 @@
-
+---
 title: "Mangul Lab to present at the NGSymposium in Computational Biology 2022"
 
 author: Kerui Peng
