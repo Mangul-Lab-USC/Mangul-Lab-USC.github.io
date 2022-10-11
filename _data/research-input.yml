@@ -573,12 +573,26 @@
     - type: manubot
       link: https://doi.org/10.3389/fsysb.2022.918792
 
+- id: doi:10.1093/gigascience/giac081
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gigascience/11/10.1093_gigascience_giac081/1/m_giac081fig1.jpeg?Expires=1668511866&Signature=kARNCvIZbJRAreA264HreXwCETfEaon2hIfQa3PonhBpMN7CfmiiGUaQgZocoD9ScCj8okc9ugL0qKB-MgzVodyL2wfcDXcMPOIqgrl0cs6vrJUlRuKKGcpqFKLvHFJeduhd55v0nngzrYxgPuxz5MIUx8va6ojoaMwOIAIqLUdzU5hTDx6lAkxCEpm4LkIVWsqNIy7BvCX8vUSprXyNWgyogYiQApf-4o-dko~ZPZWAyUOu7Ggthj5KXbaI~-ZfNvVZ4FwLN5Jz8evGteFuZ0UDlqb5crqwWlK~f1PDVlnradFFQjqdOKsndD~bdG4b6NtBig-2h0hFwANpWkgFgQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  extra-links: 
+    - type: manubot
+      link: https://doi.org/10.1093/gigascience/giac081
+
+- id: doi:10.31219/osf.io/vkp5q
+  image: 
+  extra-links: 
+    - type: preprint
+    - type: manubot
+      link: https://doi.org/10.31219/osf.io/vkp5q
+
 - id: doi:10.1101/2022.03.31.22273249
   image: https://www.medrxiv.org/content/medrxiv/early/2022/03/31/2022.03.31.22273249/F1.medium.gif
   extra-links: 
     - type: preprint
     - type: manubot
       link: https://doi.org/10.1101/2022.03.31.22273249
+
 # - id: doi:10.1101/2022.03.28.22273040
 #   image: https://www.medrxiv.org/content/medrxiv/early/2022/07/20/2022.03.28.22273040/F1.medium.gif
 #   extra-links: 

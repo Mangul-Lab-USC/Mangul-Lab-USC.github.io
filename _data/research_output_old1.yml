@@ -25,7 +25,7 @@
   date: '2022-01-01'
   link: https://doi.org/gpvv7j
   id: doi:10.48550/arXiv.2203.16261
-  image: ''
+  image: https://raw.githubusercontent.com/Mangul-Lab-USC/Mangul-Lab-USC.github.io/main/images/research/image.png
 - title: 'Exome-wide association study to identify rare variants influencing COVID-19
     outcomes: Results from the Host Genetics Initiative'
   authors:
@@ -2863,7 +2863,7 @@
   date: '2021-11-29'
   link: https://doi.org/gphssd
   id: doi:10.31219/osf.io/t4n72
-  image: ''
+  image: https://raw.githubusercontent.com/Mangul-Lab-USC/Mangul-Lab-USC.github.io/main/images/research/rRigorous%20Benchmarking%20of%20HLA%20Callers.png
 - title: A comprehensive analysis of code and data availability in biomedical research
   authors:
   - Dhrithi Deshpande
@@ -2876,7 +2876,7 @@
   date: '2021-11-27'
   link: https://doi.org/gphssg
   id: doi:10.31219/osf.io/uz7m5
-  image: ''
+  image: https://raw.githubusercontent.com/Mangul-Lab-USC/Mangul-Lab-USC.github.io/main/images/research/A%20comprehensive%20analysis%20of%20code%20and%20data%20availability%20in%20biomedical%20research.png
 - title: The systematic assessment of completeness of public metadata accompanying
     omics studies
   authors:

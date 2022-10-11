@@ -4279,6 +4279,16 @@
   authors:
   - Yu-Ning Huang
   - Kerui Peng
+  - Alice B. Popejoy
+  - Jieting Hu
+  - Theodore Scott Nowicki
+  - Stefan M. Gold
+  - Lluis Quintana-Murci
+  - Macarena Fuentes-Guajardo
+  - Mikhail Shugay
+  - Victor Greiff
+  - Amanda M. Burkhardt
+  - Houda Alachkar
   - SERGHEI MANGUL
   publisher: Center for Open Science
   date: '2021-03-01'
@@ -5719,6 +5729,51 @@
   extra-links:
   - type: manubot
     link: https://doi.org/10.3389/fsysb.2022.918792
+- title: 'The Pioneer Advantage: Filling the blank spots on the map of genome diversity
+    in Europe'
+  authors:
+  - Taras K Oleksyk
+  - Walter W Wolfsberger
+  - Khrystyna Schubelka
+  - Serghei Mangul
+  - Stephen J O'Brien
+  publisher: GigaScience
+  date: '2022-01-01'
+  link: https://doi.org/gqsfmm
+  id: doi:10.1093/gigascience/giac081
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gigascience/11/10.1093_gigascience_giac081/1/m_giac081fig1.jpeg?Expires=1668511866&Signature=kARNCvIZbJRAreA264HreXwCETfEaon2hIfQa3PonhBpMN7CfmiiGUaQgZocoD9ScCj8okc9ugL0qKB-MgzVodyL2wfcDXcMPOIqgrl0cs6vrJUlRuKKGcpqFKLvHFJeduhd55v0nngzrYxgPuxz5MIUx8va6ojoaMwOIAIqLUdzU5hTDx6lAkxCEpm4LkIVWsqNIy7BvCX8vUSprXyNWgyogYiQApf-4o-dko~ZPZWAyUOu7Ggthj5KXbaI~-ZfNvVZ4FwLN5Jz8evGteFuZ0UDlqb5crqwWlK~f1PDVlnradFFQjqdOKsndD~bdG4b6NtBig-2h0hFwANpWkgFgQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  extra-links:
+  - type: manubot
+    link: https://doi.org/10.1093/gigascience/giac081
+- title: 'Effective and feasible mechanisms to support Ukrainian researchers and students
+    at risk: opportunities, challenges and pitfalls'
+  authors:
+  - Karishma Chhugani
+  - Alina Frolova
+  - Yuriy Salyha
+  - Oksana Zlenko
+  - Sanita Reinsone
+  - Walter Wolfsberger
+  - Oleksandra V. Ivashchenko
+  - Megi Maci
+  - Dmytro Dziuba
+  - Andrii Parkhomenko
+  - Eric Bortz
+  - Fyodor Kondrashov
+  - "Pawe\u0142 P. \u0141abaj"
+  - Veronika Romero
+  - "Jakub Hl\xE1vka"
+  - Taras K. Oleksyk
+  - SERGHEI MANGUL
+  publisher: Center for Open Science
+  date: '2022-10-07'
+  link: https://doi.org/gqzwnw
+  id: doi:10.31219/osf.io/vkp5q
+  image: null
+  extra-links:
+  - type: preprint
+  - type: manubot
+    link: https://doi.org/10.31219/osf.io/vkp5q
 - title: Rigorous benchmarking of T cell receptor repertoire profiling methods for
     cancer RNA sequencing
   authors:
