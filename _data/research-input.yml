@@ -555,6 +555,13 @@
     - type: preprint
     - type: manubot
       link: https://doi.org/10.1101/2022.04.28.489926
+      
+- id: doi:10.1101/2022.09.22.508982
+  image: https://www.biorxiv.org/content/biorxiv/early/2022/09/23/2022.09.22.508982/F1.large.jpg?width=800&height=600&carousel=1
+  extra-links: 
+    - type: manubot
+      link: https://doi.org/10.1101/2022.09.22.508982
+
 - id: doi:10.1101/2022.04.22.488804
   image: Mangul-Lab-USC.github.io/images/paper-thumbnail.svg
   extra-links: 
