@@ -52,6 +52,11 @@
   link: https://us5.campaign-archive.com/?u=a082ace86bd6c415ad13789ef&id=1281989972
   description: "Dottie Yu is a third year undergraduate in the QCB department and has been working on this project since June 2021. This project evaluates and benchmarks the performance of the 12 existing RNA-seq based HLA callers for their performance in allele typing of the HLA genes, an essential immune-related locus of the human genome. Systematic and comprehensive benchmarking is crucial to helping researchers and clinicians make informed decisions on which HLA caller tool is best for their purposes."
 
+- title: pyTCR
+  type: featured
+  link: https://github.com/Mangul-Lab-USC/pyTCR
+  description: a comprehensive jupyter notebook based platform for T-Cell receptor (TCR) data analysis to facilitate reproducibility and rigor of immunogenomics research.
+  repo: Mangul-Lab-USC/pyTCR
 
 - title: Telescope
   type: featured
