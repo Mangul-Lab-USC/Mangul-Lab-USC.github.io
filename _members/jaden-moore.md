@@ -8,6 +8,7 @@ image: images/team/jaden-moore.jpg
 role: undergrad
 email: moorejaden5389@gmail.com
 github: Jdyn
+group: alum
 
 ---
 
