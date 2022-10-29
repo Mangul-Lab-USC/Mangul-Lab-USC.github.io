@@ -543,12 +543,12 @@
   extra-links:
     - type: manubot
       link: https://doi.org/10.1109/IPDPSW55747.2022.00046
-- id: doi:10.1101/2022.05.26.22275650
-  image: https://www.medrxiv.org/content/medrxiv/early/2022/05/27/2022.05.26.22275650/F1.medium.gif
+
+- id: doi:10.3389/fimmu.2022.954078
+  image: https://www.frontiersin.org/files/Articles/954078/fimmu-13-954078-HTML-r1/image_m/fimmu-13-954078-g001.jpg
   extra-links: 
-    - type: preprint
     - type: manubot
-      link: https://doi.org/10.1101/2022.05.26.22275650
+      link: https://doi.org/10.3389/fimmu.2022.954078
 - id: doi:10.1101/2022.04.28.489926
   image: https://www.biorxiv.org/content/biorxiv/early/2022/04/29/2022.04.28.489926/F1.medium.gif
   extra-links: 
