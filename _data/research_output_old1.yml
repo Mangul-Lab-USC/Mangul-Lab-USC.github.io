@@ -4653,9 +4653,10 @@
   link: https://doi.org/ghxddj
   id: doi:10.1186/s13059-020-02122-z
   image: https://www.biorxiv.org/content/biorxiv/early/2019/10/03/792911/F6.large.jpg?width=800&height=600&carousel=1
-- title: 'Path to independence: Overview of challenges and opportunities of computational
-    data-driven research in biology'
+- title: Systematic overview of challenges and opportunities of computational data-driven
+    research in biology
   authors:
+  - Tejasvene Ramesh
   - Karishma Chhugani
   - "Vanessa J\xF6nsson"
   - SERGHEI MANGUL
@@ -5648,25 +5649,25 @@
   extra-links:
   - type: manubot
     link: https://doi.org/10.1109/IPDPSW55747.2022.00046
-- title: 'pyTCR: a comprehensive and scalable platform for TCR-Seq data analysis to
+- title: 'pyTCR: A comprehensive and scalable solution for TCR-Seq data analysis to
     facilitate reproducibility and rigor of immunogenomics research'
   authors:
   - Kerui Peng
   - Jaden Moore
+  - Mohammad Vahed
   - Jaqueline Brito
   - Guoyun Kao
   - Amanda M. Burkhardt
   - Houda Alachkar
   - Serghei Mangul
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-05-27'
-  link: https://doi.org/gqj7k6
-  id: doi:10.1101/2022.05.26.22275650
-  image: https://www.medrxiv.org/content/medrxiv/early/2022/05/27/2022.05.26.22275650/F1.medium.gif
+  publisher: Frontiers in Immunology
+  date: '2022-10-27'
+  link: https://doi.org/gq48j7
+  id: doi:10.3389/fimmu.2022.954078
+  image: https://www.frontiersin.org/files/Articles/954078/fimmu-13-954078-HTML-r1/image_m/fimmu-13-954078-g001.jpg
   extra-links:
-  - type: preprint
   - type: manubot
-    link: https://doi.org/10.1101/2022.05.26.22275650
+    link: https://doi.org/10.3389/fimmu.2022.954078
 - title: 'TAMPA: interpretable analysis and visualization of metagenomics-based taxon
     abundance profiles'
   authors:
