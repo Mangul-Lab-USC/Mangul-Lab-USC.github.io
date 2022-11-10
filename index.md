@@ -49,7 +49,7 @@ We are a team of enthusiastic researchers aimed to combine open omics data with 
 {% endcapture %}
 {%
   include feature.html
-  image="images/team/group-photo-4.jpg"
+  image="images/team/IMG-3719.jpg"
   link="team"
   heading="Our team"
   text=text
