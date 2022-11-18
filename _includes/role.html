@@ -41,6 +41,11 @@
 {%- assign text = "Software Engineer" -%}
 {%- endif -%}
 
+{%- if include.type == "affiliate" -%}
+{%- assign icon = "fas fa-affiliate" -%}
+{%- assign text = "Affiliate Member" -%}
+{%- endif -%}
+
 {%- if include.type == "mascot" -%}
 {%- assign icon = "fas fa-dog" -%}
 {%- assign text = "Mascot" -%}
