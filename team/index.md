@@ -25,10 +25,6 @@ Our diverse team is composed of a highly enthusiastic and collaborative research
 {% include team-list.html role="mascot" group="" %}
 {% endcapture %}
 
-<!-- section break -->
-# <i class="fas fa-users"></i>Affiliate members
-{% include team-list.html role="affiliate" group="" %}
-<!-- section break -->
 
 {% include centerer.html html=html %}
 
