@@ -9,7 +9,6 @@ This tab contains photos of Mangul Lab.
 
 {%
   include gallery.html
-  image1="images/gallery/Screen Shot 2022-12-12 at 7.29.25 PM.png"
   image2="images/gallery/1_b0ERNXxhEsWLGJ3tpHmmfQ (1).jpeg"
   image3="images/gallery/IMG_1757.jpg"
   image4="images/gallery/IMG_1893.jpg"
