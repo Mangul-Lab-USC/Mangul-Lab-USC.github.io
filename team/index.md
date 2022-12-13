@@ -30,7 +30,7 @@ Our diverse team is composed of a highly enthusiastic and collaborative research
 
 <!-- section break -->
 
-<!-- ## Affiliate members
+## Affiliate members
 
 {% include team-list.html role="affiliate" group="" %}
 
