@@ -8,7 +8,7 @@ These are past lab alumni who have moved on to the industry, other school progra
 
 JUNGHYUN JUNG [LinkedIn Profile](https://www.linkedin.com/in/junghyun-jung-0197b29b?original_referer=https%3A%2F%2Fjunghyunjj.github.io%2F)\
 BRENT A. BEADELL [LinkedIn Profile](http://www.linkedin.com/in/brent-beadell-1594ab11b)\
-DANDAN PENG [LinkedIn Profile](https://dandanpeng.github.io/)\
+DANDAN PENG [LinkedIn Profile](https://dandanpeng.github.io/)
 
 {% include centerer.html html=html %}
 
