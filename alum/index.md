@@ -2,10 +2,11 @@
 <!-- section break -->
 
 ## Alumni
-
+<style>
 div{
   text-align:justify;
 }
+</style>
 
 These are past lab alumni who have moved on to the industry, other school programs, new jobs, or elsewhere.
 
