@@ -11,7 +11,6 @@ BRENT A. BEADELL PhD Student 2019-2020 [beadell@usc.edu](beadell@usc.edu) [https
 DANDAN PENG PhD Student 2018-2019 [dandanpe@usc.edu](dandanpe@usc.edu) [https://dandanpeng.github.io/](https://dandanpeng.github.io/) [@Dandan_Peng](https://twitter.com/Dandan_Peng) [LinkedIn Profile](https://dandanpeng.github.io/)
 
 
-
 <!-- section break -->
 
 <!-- ## Funding
