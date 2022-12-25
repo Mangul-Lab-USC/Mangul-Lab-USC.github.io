@@ -3,10 +3,11 @@
 
 ## Alumni
 <style>
-div{
-  text-align:justify;
-}
-</style>
+   .text-justify { 
+    text-align: justify; 
+    text-align-last: center; 
+   }
+ </style>
 
 These are past lab alumni who have moved on to the industry, other school programs, new jobs, or elsewhere.
 
