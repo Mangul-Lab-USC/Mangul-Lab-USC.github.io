@@ -21,5 +21,6 @@ Also, two members of the lab were invited to present posters. Varuni Sarwal a Ph
 
 Rocky Bioinformatics Conference is an international conference celebrating its 20th anniversary. It is a platform for computational biologists from different areas to present their work and establish potential future collaborations. It occurred on December 8-10, 2022, in Aspen/Snowmass, Colorado.
 
-{% include figure.html image="images/blog/logo_small.png" %}
+{% include figure.html image="images/blog/Serghei_4985.jpg" %}
+{% include figure.html image="images/blog/Mohammad_104959880.jpg" %}
 
