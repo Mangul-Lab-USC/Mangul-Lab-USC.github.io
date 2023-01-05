@@ -19,6 +19,11 @@
 
 # repo:
 # A GitHub repo to automatically fetch tags (aka "topics") from.
+- title: Congratulations to Dottie Yu on Provost Undergraduate Research award
+  type: legacy
+  image: 
+  link: https://mangul-lab-usc.github.io/news/
+  description: "Congratulations to Dottie Yu for winning the Spring 2023 Provost Undergraduate Research Fellowship award. She is awarded for continuing work on project titled ‘Rigorous Benchmarking of HLA callers for RNA sequencing data.’ Dottie is an senior undergraduate student in the Quantitative and Computational Biology department at USC and has been working on the HLA project for the past year."
 - title: Congratulations to Cecilia(Fangyun) Liu on Provost Undergraduate Research Fellowship
   type: legacy
   image: 
