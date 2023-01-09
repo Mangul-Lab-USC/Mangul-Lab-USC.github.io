@@ -22,5 +22,5 @@ Rocky Bioinformatics Conference is an international conference celebrating its 2
 
 
 {% include figure.html image="images/blog/Serghei_4985.jpg" %}
-{% include figure.html image="images/blog/Mohammad_104959880.jpg" %}
+{% include figure.html image="images/blog/FjjeARHXkAIPXVh.jpeg" %}
 {% include figure.html image="images/blog/varuni.jpg" %}
