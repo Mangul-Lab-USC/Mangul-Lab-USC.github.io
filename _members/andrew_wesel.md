@@ -9,7 +9,6 @@ image: images/team/andrew-wesel.png
 role: highschool
 email: awesel1@hwemail.com
 github: awesel
-group: alum
 
 ---
 
