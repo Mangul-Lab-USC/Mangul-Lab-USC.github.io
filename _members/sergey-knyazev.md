@@ -5,7 +5,7 @@ search:
   - Sergey 
   - Knyazev
 image: images/team/Sergey-Knyazev.jpg
-role: postdoc
+role: affiliate
 email: 
 github: 
 ---
