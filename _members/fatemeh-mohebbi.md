@@ -2,10 +2,9 @@
 title: Fatemeh Mohebbi
 
 image: images/team/fatemeh.jpeg
-role: postdoc
-group: affiliate
-<!-- email: fmohebbi1@student.gsu.edu  -->
-<!-- github: FatemehMhbi -->
+role: affiliate
+email: fmohebbi1@student.gsu.edu 
+github: FatemehMhbi
 
 ---
 
