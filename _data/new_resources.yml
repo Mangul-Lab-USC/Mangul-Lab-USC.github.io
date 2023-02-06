@@ -19,6 +19,11 @@
 
 # repo:
 # A GitHub repo to automatically fetch tags (aka "topics") from.
+- title: Highlighted talk at GigaScience in the 2022 ISMB conference CAMDA track in Madison
+  type: legacy
+  image: 
+  link: https://mangul-lab-usc.github.io/news/
+  description: "Our talk was highlighted in the blog post of the Journal, GigaScience (http://gigasciencejournal.com/blog/birthday-at-ismb2022/). The first year PhD student, Yu Ning, was a speaker at the 2022 ISMB conference held in Madison, where he presented in the CAMDA (Critical Assessment of Mass Data Analysis) track. During the conference, he presented two talks, Data availability of open T-cell receptor repertoire data, a systematic assessment and Assessing the completeness of immunogenetics databases across diverse populations. The talk for the assessment of the raw data availability in immunogenetics studies introduced the published research in June 2022 examining the raw data availability in the immunogenetics studies. He also presented the ongoing immunogenetics projects analyzing the completeness of the immunogenetics database (IMGT databased) representing diverse populations. The PI, Dr Serghei Mangul, presented one talk, The systematic assessment for the completeness of metadata information accompanying omics studies. His talk centered around the analysis of the completeness of metadata in biomedical research fields. The ISMB conference is a well-respected platform for scientists and researchers in computational biology and your participation in this conference highlights your standing in the industry. The CAMDA track specifically focuses on the critical evaluation of large-scale data analysis. Our talk provided valuable insights into the current state of the field and paved the way for further research and discussions."
 - title: Congratulations to Dottie Yu on Provost Undergraduate Research award
   type: legacy
   image: 
