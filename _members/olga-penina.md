@@ -1,4 +1,3 @@
-
 ---
 title: Olga Penina
 
