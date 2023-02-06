@@ -4,7 +4,7 @@ title: Fil Rondel
 search:
   - Fil
   - Rondel
-image: images/team/fil-rondel.jpg
+image: images/team/fil-rondeljpg.jpg
 role: affiliate
 email: fil.rondel@gmail.com
 github: frondel
