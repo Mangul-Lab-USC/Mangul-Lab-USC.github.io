@@ -4,7 +4,7 @@ title: Olga Penina
 search:
   - Olga
   - Penina
-image: images/team/olga-penina.jpg
+image: images/team/olga_penina.jpg
 role: affiliate
 email: olga.penina@usmf.md
 github: PeninaOlga
