@@ -1,4 +1,3 @@
-
 ---
 title: Ram Ayyala
 search:
