@@ -3,7 +3,7 @@ title: Likhitha Chittampalli
 search:
   - Likhitha Chittampalli
 image: images/team/Likhitha.jpeg
-role: undergrad
+role: masters
 email: chittamp@usc.edu
 github: likhitha99
 
