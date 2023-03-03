@@ -7,6 +7,7 @@ search:
 image: images/team/shirley_monge.jpg
 
 role: undergrad
+group: alum
 email: monge_shirley@student.smc.edu
 
 
