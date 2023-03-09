@@ -9,6 +9,7 @@ role: undergrad
 website: https://aditya-sarkar441.github.io/
 email: asnov2k@gmail.com
 github: aditya-sarkar441
+group: alum
 
 ---
 
