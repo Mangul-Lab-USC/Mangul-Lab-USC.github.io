@@ -5,9 +5,8 @@ search:
   - Viorel
   - Munteanu
 image: images/team/viorel-munteanu.jpg
-role: phd
+role: affiliate
 email: viorelmunteanu.md@gmail.com
-group: affiliate
 
 
 ---
