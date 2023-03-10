@@ -7,6 +7,7 @@ search:
 image: images/team/viorel-munteanu.jpg
 role: phd
 email: viorelmunteanu.md@gmail.com
+group: affiliate
 
 
 ---
