@@ -5,7 +5,7 @@ search:
   - Srishti 
   - Ginjala
 image: images/team/Srishti_Ginjala.jpg
-role: undergrad
+role: affiliate
 email: srishti.ginjala@gmail.com
 github: Srishtiginjala
 ---
