@@ -4730,7 +4730,9 @@
   - Aaron Karlsberg
   - Caitlin Loeffler
   - Jinyang Zhang
-  - Agata Muszynska
+  - "Agata Muszy\u0144ska"
+  - Viorel Munteanu
+  - Harry Yang
   - Jeremy Rotman
   - Laura Tao
   - Brunilda Balliu
@@ -4738,13 +4740,13 @@
   - Eleazar Eskin
   - Fangqing Zhao
   - Pejman Mohammadi
-  - Pawel P. Labaj
+  - "Pawe\u0142 P. \u0141abaj"
   - Serghei Mangul
-  publisher: arXiv
-  date: '2021-02-16'
-  link: http://arxiv.org/abs/2010.02391
-  id: url:https://arxiv.org/abs/2010.02391v3
-  image: https://i.ibb.co/DKTR3Fp/k6-Gr-Jgn-d.webp
+  publisher: Frontiers in Genetics
+  date: '2023-03-13'
+  link: https://doi.org/grw668
+  id: doi:10.3389/fgene.2023.997383
+  image: https://www.frontiersin.org/files/Articles/997383/fgene-14-997383-HTML-r1/image_m/fgene-14-997383-g001.jpg
 - title: 'PhenomeXcan: Mapping the genome to the phenome through the transcriptome'
   authors:
   - Milton Pividori
