@@ -5,7 +5,7 @@ search:
   - Sofiya 
   - Asadchaya
 image: images/team/sofiya-asadchaya.jpg
-role: undergrad
+role: affiliate
 email: asadchaya.s@gmail.com
 github: sofiya-asadchaya
 
