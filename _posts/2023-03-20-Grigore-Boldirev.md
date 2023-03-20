@@ -9,7 +9,7 @@ image: images/blog/
 
 
 ---
-{% include figure.html image="images/team/quishi-peng.jpg" %}
+{% include figure.html image="images/team/qiushi-peng.jpg" %}
 
 
 ### Congratulations to Qiushi on acceptance into the University of Notre Dame Graduate Program!
