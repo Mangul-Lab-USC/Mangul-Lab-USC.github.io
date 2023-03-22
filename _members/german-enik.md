@@ -7,7 +7,7 @@ title: German Enik
 #  - <name variation 2>
 
 # if image not specified, default will automatically be used
-image: images/team/german-enik.jpg
+image: images/team/profile-german-enik.jpg
 
 # role must be included or person won't appear on team page
 role: undergrad
