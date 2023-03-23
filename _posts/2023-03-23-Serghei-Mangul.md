@@ -9,7 +9,7 @@ image: images/blog/
 
 
 ---
-
+{% include figure.html image="images/team/grigore-boldirev.jpg" %}
 
 
 ### Congratulations to Grigore on acceptance into the Georgia State University Graduate Program!
