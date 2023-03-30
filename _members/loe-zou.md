@@ -4,7 +4,7 @@ title: Loe Zou
 search:
   - Loe
   - Zou
-image: images/team/loe-zou.jpg
+image: images/team/loe-zou.jpeg
 role: masters
 email: zoul@usc.edu
 github: Loe-zou
