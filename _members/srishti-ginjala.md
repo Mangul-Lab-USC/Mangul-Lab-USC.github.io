@@ -7,6 +7,7 @@ search:
 image: images/team/Srishti_Ginjala.jpg
 role: affiliate
 email: srishti.ginjala@gmail.com
+group: alum
 github: Srishtiginjala
 ---
 
