@@ -65,9 +65,9 @@ We will also encourage the Fellow to submit their work to the annual USC Undergr
 
 ### SELECTION CRITERIA
 
-(1) Computational background;
-(2) Life science background;
-(3) Past academic performance;
+(1) Computational background;\
+(2) Life science background;\
+(3) Past academic performance;\
 (4) Aptitude for completion of a research project.
 
 ### ABOUT PI MANGUL
