@@ -13,7 +13,7 @@ image: images/blog/
 
 
 ### Congratulations to Qiushi Peng on acceptance into the University of Notre Dame Graduate Program!
-We are thrilled to share with you the news of (Qiushi's)[https://mangul-lab-usc.github.io/members/qiushi-peng.html] acceptance into the Graduate Program in Integrated Biomedical Sciences at the University of Notre Dame.  Qiushi Peng is a master's student in the Mangul Lab, which is dedicated to advancing scientific research in the fields of genomics and bioinformatics. This is a remarkable achievement, and we would like to take a moment to extend my warmest congratulations to Qiushi for this tremendous accomplishment.
+We are thrilled to share with you the news of [Qiushi's](https://mangul-lab-usc.github.io/members/qiushi-peng.html) acceptance into the Graduate Program in Integrated Biomedical Sciences at the University of Notre Dame.  Qiushi Peng is a master's student in the Mangul Lab, which is dedicated to advancing scientific research in the fields of genomics and bioinformatics. This is a remarkable achievement, and we would like to take a moment to extend my warmest congratulations to Qiushi for this tremendous accomplishment.
 
 The University of Notre Dame is a prestigious university in the United States, known for its exceptional academic programs and rigorous research environment. Qiushi's acceptance into this program is a testament to his hard work, dedication, and intellectual curiosity. 
 
