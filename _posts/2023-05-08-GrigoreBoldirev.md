@@ -38,6 +38,7 @@ Mangul Lab designs, develops, and applies novel data-driven, computational appro
 
 <p>SAMPLE PROJECTS</p>
 We propose research projects that are well-suited to model for the URAP Fellow how scientific methods, data, and ideas translate in real time. Each benchmarking study will require the Fellow to select performance metrics relevant to their research questions; document their work as they install, run, and debug each computational tool; generate summary statistics using open-source genomics tools; interpret results in the context of major scientific questions; and present project materials on an open-source data-sharing platform.
+
 <p>(1) Benchmarking of computational genomics tools designed for read alignment, quantification, and detection of structural variants in genomic data, to assess their robustness and reproducibility.</p>
 <p>(2) Benchmarking of computational methods developed to perform error correction on next-generation sequencing data. Errors present in genomic data may impact downstream analysis and limit the applicability of sequencing technologies in clinical tools.</p>
 <p>(3) Benchmarking of gene expression deconvolution tools, which are designed to estimate cell type abundance using gene expression data.\</p>
@@ -56,7 +57,7 @@ We will also encourage the Intern to submit their work to national conferences. 
 (1) Computational background (Experience in Python, Bash shell scripting, Jupyter Notebooks preferred but not required)\
 (2) Life science background\
 (3) Past academic performance\
-(4) Aptitude for completion of a research project\
+(4) Aptitude for completion of a research project
 
 ### ABOUT PI MANGUL
 Dr. Mangul is a highly experienced instructor with over a decade of expertise teaching BDAT and computational genomics techniques to researchers at various levels, including undergraduate students. During his postdoctoral fellowship at UCLA, he created a comprehensive “Intro to UNIX” workshop that he taught 15 times, reaching over 300 individuals between 2013 and 2019. In addition to his instructional roles, Dr. Mangul has mentored over 30 undergraduate students, 16 of whom were enrolled in the UCLA Bruins-in-Genomics (B.I.G.) Summer Undergraduate Research Program, and six of these students won the Best Poster Award. Six former mentees of Dr. Mangul are currently pursuing Ph.D. degrees in bioinformatics at esteemed institutions such as USC, UCLA, UC Davis, and George Washington University. Moreover, at least 20 of Dr. Mangul’s undergraduate mentees are contributing authors on peer-reviewed publications, with three of them as the first author. Furthermore, Dr. Mangul has recently mentored three undergraduate students under the USC URAP 2020-23 program, one of whom, [Cecilia Liu](https://mangul-lab-usc.github.io/2023/03/13/GrigoreBoldirev.html), was accepted into the prestigious USC Quantitative and Computational Biology Ph.D. program.
