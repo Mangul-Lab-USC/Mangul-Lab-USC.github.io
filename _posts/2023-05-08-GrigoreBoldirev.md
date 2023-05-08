@@ -22,7 +22,7 @@ Thursday, May 20, 2023 5:00pm Pacific Time (We will be interviewing candidates o
 
 ### WHO SHOULD APPLY?
 
-Undergraduate students who are interested in computational bioscience research and have basic computational training are invited to join Mangul Lab from June 16th, 2023, to August 20, 2023. The intern will perform individual research projects, guided by Dr. Mangul, in collaboration with and assistance from our graduate students and postdoctoral scholars. Candidates must be eligible to work in the United States.
+Undergraduate students who are interested in computational bioscience research and have basic computational training are invited to join Mangul Lab from June 16th, 2023, to August 20, 2023. The intern will perform individual research projects, guided by Dr. Mangul, in collaboration with and assistance from our graduate students and postdoctoral scholars. Candidates must be eligible to work in the United States.\
 <em>Applications from traditionally underrepresented students will receive priority consideration and are highly encouraged to apply.</em> 
 
 ### WHAT IS INVOLVED IN THE INTERNSHIP?
@@ -37,10 +37,10 @@ The successful applicant will be employed by USC and paid $3000 over the period 
 Mangul Lab designs, develops, and applies novel data-driven, computational approaches that accelerate the diffusion of genomics and biomedical data into translational research and education. Mangul Lab undergraduate and graduate students, postdocs, and PI create novel bioinformatics methods and apply these tools to big omics data; perform benchmarking studies to assess omics methods and help researchers select the right tools for a project; and work to increase the installability and archival stability of bioinformatics software. Our primary goal is to equip the intern with practical, hands-on training in the use of computational genomics tools for analyzing big data and ensuring scientific replicability. Through this internship, the intern will gain a realistic and multidisciplinary research experience equivalent to that of a first-year graduate student. Our approach will be centered on providing the intern with ample opportunities to engage in meaningful research, learn new techniques, and develop key skills that will prepare them for a successful career in the field. Our team of experienced professionals will provide mentorship and guidance throughout the program, ensuring that the intern receives the support they need to thrive.
 <p>SAMPLE PROJECTS</p>
 We propose research projects that are well-suited to model for the URAP Fellow how scientific methods, data, and ideas translate in real time. Each benchmarking study will require the Fellow to select performance metrics relevant to their research questions; document their work as they install, run, and debug each computational tool; generate summary statistics using open-source genomics tools; interpret results in the context of major scientific questions; and present project materials on an open-source data-sharing platform.
-(1) Benchmarking of computational genomics tools designed for read alignment, quantification, and detection of structural variants in genomic data, to assess their robustness and reproducibility.
-(2) Benchmarking of computational methods developed to perform error correction on next-generation sequencing data. Errors present in genomic data may impact downstream analysis and limit the applicability of sequencing technologies in clinical tools.
-(3) Benchmarking of gene expression deconvolution tools, which are designed to estimate cell type abundance using gene expression data.
-(4) Develop robust and scalable methods to assemble V(D)J alleles from next-generation sequencing data and robust species- and strain-specific methods to assemble B and T cell receptor repertoire from next-generation sequencing data.
+(1) Benchmarking of computational genomics tools designed for read alignment, quantification, and detection of structural variants in genomic data, to assess their robustness and reproducibility.\
+(2) Benchmarking of computational methods developed to perform error correction on next-generation sequencing data. Errors present in genomic data may impact downstream analysis and limit the applicability of sequencing technologies in clinical tools.\
+(3) Benchmarking of gene expression deconvolution tools, which are designed to estimate cell type abundance using gene expression data.\
+(4) Develop robust and scalable methods to assemble V(D)J alleles from next-generation sequencing data and robust species- and strain-specific methods to assemble B and T cell receptor repertoire from next-generation sequencing data.\
 
 ### REQUIRED ACTIVITIES IN ADDITION TO RESEARCH
 
