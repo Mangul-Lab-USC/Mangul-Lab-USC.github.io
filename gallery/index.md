@@ -15,4 +15,5 @@ This tab contains photos of Mangul Lab.
   image5="images/gallery/IMG_2112.jpg"
   image6="images/gallery/IMG_4944.jpg"
   image7="images/gallery/IMG_5042.jpg"
+  image8="images/gallery/img213.jpg"
 %}
