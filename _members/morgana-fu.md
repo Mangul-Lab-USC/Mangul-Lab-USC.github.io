@@ -6,7 +6,7 @@ search:
   - Jiaqi Fu
 
 # if image not specified, default will automatically be used
-image: images/team/morgana-fu.jpg
+image: images/team/Morgana-Fu.jpg
 
 # role must be included or person won't appear on team page
 role: masters
