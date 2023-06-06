@@ -13,6 +13,8 @@ Congratulations on being accepted into the PhD program and choosing to join the 
 
 I was the first PhD student in this lab and recently graduated from the CXPT PhD program in less than 4 years. Looking back, it was a challenging and rewarding experience. I never regret that I invested a few years of my life in doing this, in fact, I have grown so much over the past years. Here is my personal advice based on what I have learned by myself or from others.
 
+{% include figure.html image="images/blog/52901171853_e9d11dc7fd_k.jpg" %}
+{% include figure.html image="images/blog/1684192397107.jpeg" %}
 
 ### Be ready to learn new skills
 
