@@ -14,7 +14,7 @@ Congratulations on being accepted into the PhD program and choosing to join the 
 I was the first PhD student in this lab and recently graduated from the CXPT PhD program in less than 4 years. Looking back, it was a challenging and rewarding experience. I never regret that I invested a few years of my life in doing this, in fact, I have grown so much over the past years. Here is my personal advice based on what I have learned by myself or from others.
 
 {% include figure.html image="images/blog/52901171853_e9d11dc7fd_k.jpg" %}
-{% include figure.html image="images/blog/1684192397107.jpeg" %}
+
 
 ### Be ready to learn new skills
 
@@ -54,3 +54,4 @@ If I have goals for myself, I am more motivated to do the work and get closer to
 You need to know that you are not alone in the PhD journey. Make some friends along the way. No matter whether it is to cheer each other up or complain about things together, it is all good. This is never a one-way street, please do help and support your friends when they are in need as well.
 ### Last but not least, work hard and enjoy the journey!
 I really like the advice that I received from Dr. Frances Richmond and Dr. Eunjoo Pacifici. I want to share this with you as well. “Once you say yes to something, just do the absolute best job you can.” “Try to be like a sponge, learn from the people, and get the most out of this experience.”
+{% include figure.html image="images/blog/1684192397107.jpeg" %}
