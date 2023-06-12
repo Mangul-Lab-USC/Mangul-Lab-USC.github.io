@@ -10,4 +10,6 @@ email: anushkay@usc.edu
 github: anushka2899
 ---
 
-Anushka is a graduate student, currently pursuing a master's in Pharmaceutical Sciences. She received her bachelor's degree in engineering in the field of Biotechnology from Manipal Institute of Technology, India. She is well acquainted with clinical programming and programming languages such as Java, R, SAS, Python.
+Anushka worked on her masters thesis ‘Benchmarking of Computational Tools for Ancestry prediction using RNA-seq data’ under the guidance of Dr. Serghei Mangul. She received her bachelor’s degree in engineering in the field of Biotechnology from Manipal Institute of Technology, India and pursued Masters in Pharmaceutical Sciences at Alfred E. Mann USC School of Pharmacy. She previously worked as a Clinical Programming Intern at GlaxoSmithKline, India. Anushka will be joining Memorial Sloan Kettering Cancer Center New York as a Bioinformatics Technician. She is well acquainted with programming languages such as Java, R, Python and Bash.
+
+
