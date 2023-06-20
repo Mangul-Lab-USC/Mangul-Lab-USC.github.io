@@ -23,7 +23,7 @@
   date: '2023-06-08'
   link: https://doi.org/gsczs6
   id: doi:10.1093/bib/bbad220
-  image: https://github.com/Mangul-Lab-USC/Mangul-Lab-USC.github.io/blob/main/images/research/m_bbad220f1.jpeg
+  image: https://raw.githubusercontent.com/Mangul-Lab-USC/Mangul-Lab-USC.github.io/main/images/research/m_bbad220f1.jpeg
 - title: Meta-analysis of (single-cell method) benchmarks reveals the need for extensibility
     and interoperability
   authors:
