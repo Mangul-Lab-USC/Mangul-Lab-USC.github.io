@@ -1,7 +1,7 @@
 ---
 title: "Navigating the job hunt: A piece of advice from my own experience"
 
-author: Anushka-Yadav
+author: Anushka Yadav
 member-page: anushka-yadav.html
 
 image: images/blog/
