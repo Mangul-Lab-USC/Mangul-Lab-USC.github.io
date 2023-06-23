@@ -4,7 +4,7 @@ title: Diya Sreedhar
 search:
   - Diya
   - Sreedhar
-image: images/team/diya-sreedhar.jpg
+image: images/team/diya-sreedhar.png
 role: highschool
 email: diyasreedhar9@gmail.com
 github: ds9-code
