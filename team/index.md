@@ -32,8 +32,11 @@ Our diverse team is composed of a highly enthusiastic and collaborative research
 
 ## Affiliated members
 
+{% capture teamhtml %}
 {% include team-list.html role="affiliate" group="" %}
+{% endcapture %}
 
+{% include centerer.html html=teamhtml %}
 
 
 <!-- section break -->
