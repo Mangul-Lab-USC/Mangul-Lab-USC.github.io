@@ -9,7 +9,7 @@ image: images/blog/
 
 
 ---
-{% include figure.html image="images/" %}
+{% include figure.html image="images/blog/amazon_1.jpg" %}
 
 
 ### Varuni Sarwal selected as a 2023 Amazon Fellow!
@@ -19,3 +19,4 @@ The Science Hub is a collaborative effort between UCLA and Amazon with the missi
 
 The fellowships will provide each selected doctoral graduate student with up to two quarters of funding during academic-year quarters to pursue independent research projects. Fellows are invited to present their research progress at the annual Science Hub Research Showcase, and to present a lightning talk about their research progress. In addition, the Fellows will be considered for paid summer internships at Amazon, gaining valuable industry insights and experience through direct engagement with Amazon researchers. The students awarded the fellowships will be known as Amazon Fellows.
 
+{% include figure.html image="images/blog/amazon_2.jpg" %}
