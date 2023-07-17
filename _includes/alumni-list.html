@@ -1,0 +1,59 @@
+{% assign members = site.members %}
+
+{% if include.order and site.data[include.order] %}
+{% assign members = "" | split: "" %}
+{% for name in site.data[include.order] %}
+{% assign path = name | append: ".html" %}
+{% for member in site.members %}
+{% if member.url contains path %}
+{% assign members = members | push: member %}
+{% endif %}
+{% endfor %}
+{% endfor %}
+{% endif %}
+
+{% if include.role != nil %}
+{% if include.role == "" %}
+{% assign role = nil %}
+{% else %}
+{% assign role = include.role %}
+{% endif %}
+{% assign members = members | where_exp: "member", "member.role == role" %}
+{% endif %}
+
+{% if include.group != nil %}
+{% if include.group == "" %}
+{% assign group = nil %}
+{% else %}
+{% assign group = include.group %}
+{% endif %}
+{% assign members = members | where_exp: "member", "member.group == group" %}
+{% endif %}
+
+{% assign rolesData = members
+| where_exp: "m", "m.group == 'alum'"
+<!-- | where_exp: "m", "m.role == 'postdoc' or m.role == 'masters' or m.role == 'undergrad'"  -->
+| group_by: "role"
+| where_exp: "m", "m.size > 1" %}
+
+{% for role in rolesData %}
+  <h3>{{role.name}} ({{role.size}})</h3>
+  <div class="section">
+  <table style="width: 100%; border-collapse: collapse; display: table; overflow: hidden;">
+    <thead>
+      <th></th>
+      <th></th>
+    </thead>
+    <tbody>
+      {% for m in role.items %}
+      <tr>
+        <td><a href="{{ m.url | relative_url }}">{{m.title}}</a>
+          ({{"now" | date: "%Y" | minus: 2}} - {{"now" |
+          date:"%Y"}}){% if "m.title contains 'an' %}&nbsp;&nbsp;{% include icon.html icon="gradcap.svg" %}{% endif %}</td>
+        <td> Research Scientist at Google Deepmind &nbsp; <a href="https://www.linkedin.com">{% include icon.html icon="linkedin.svg" %}</a></td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+{% endfor %}
