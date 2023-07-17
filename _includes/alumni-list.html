@@ -32,7 +32,6 @@
 
 {% assign rolesData = members
 | where_exp: "m", "m.group == 'alum'"
-<!-- | where_exp: "m", "m.role == 'postdoc' or m.role == 'masters' or m.role == 'undergrad'"  -->
 | group_by: "role"
 | where_exp: "m", "m.size > 1" %}
 
