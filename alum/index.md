@@ -1,12 +1,3 @@
----
-title: Alum
-redirect_from:
-  - /lab-members
-  - /alums
-  - /mascots
-  - /staff
-  - /trainees
----
 ## Alumni
 
 
