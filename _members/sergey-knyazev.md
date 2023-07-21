@@ -7,7 +7,7 @@ search:
 image: images/team/Sergey-Knyazev.jpg
 role: postdoc‎ # from affiliate
 email: sergey.n.knyazev@gmail.com # from nothing
-github: https://www.linkedin.com/in/sergey-knyazev/ # from nothing
+github: Sergey-Knyazev # from nothing
 group: alum
 ---
 
