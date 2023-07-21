@@ -5,9 +5,9 @@ search:
   - Sergey 
   - Knyazev
 image: images/team/Sergey-Knyazev.jpg
-role: postdoc‎
-email: sergey.n.knyazev@gmail.com
-github: 
+role: postdoc‎ # from affiliate
+email: sergey.n.knyazev@gmail.com # from nothing
+github: https://www.linkedin.com/in/sergey-knyazev/ # from nothing
 group: alum
 ---
 
