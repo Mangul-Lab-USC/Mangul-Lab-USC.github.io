@@ -1,4 +1,3 @@
-
 ---
 title: Bingbing Wu
 search:
