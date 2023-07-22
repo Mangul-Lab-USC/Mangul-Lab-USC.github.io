@@ -1,5 +1,5 @@
 ---
-title: Ncik Drabcinski
+title: Nick Drabcinski
 search:
   - Nick Drabcinski
 image: images/team/nick-drabcinski.png
