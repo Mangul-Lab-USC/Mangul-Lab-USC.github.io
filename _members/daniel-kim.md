@@ -5,7 +5,7 @@ image: images/team/daniel-kim.png
 role: undergrad
 
 #name variations to include when generating list of this person's papers
-#search:
+search:
   - Daniel
   - Kim
 
