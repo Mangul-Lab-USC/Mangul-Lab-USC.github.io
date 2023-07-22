@@ -1,8 +1,8 @@
 ---
 title: "A transformative pursuit"
 
-author: Timur Suhodolschi
-member-page: timur-suhodolschi.html
+author: Khooshbu Patel
+member-page: khooshbu-patel.html
 
 image: images/blog/
 
