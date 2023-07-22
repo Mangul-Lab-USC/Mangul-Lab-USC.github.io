@@ -2,7 +2,7 @@
 title: Ncik Drabcinski
 search:
   - Nick Drabcinski
-image: images/team/nick-drabcinski.jpg
+image: images/team/nick-drabcinski.png
 role: affiliate
 email: drabcinski@gmail.com
 github: drabcinski
