@@ -5,7 +5,7 @@ search:
   - Matheus 
   - Brocchi
 
-image: images/team/blank.jpg
+image: images/team/Matheus-Brocchi.jpg
 role: undergrad
 
 email: matheusbrocchi1@gmail.com
