@@ -38,32 +38,6 @@
   link: https://doi.org/gsjd4b
   id: doi:10.1093/gigascience/giad045
   image: https://raw.githubusercontent.com/Mangul-Lab-USC/Mangul-Lab-USC.github.io/main/images/research/Scientists-without-borders.jpeg
-- title: Rigorous benchmarking of T-cell receptor repertoire profiling methods for
-    cancer RNA sequencing
-  authors:
-  - Kerui Peng
-  - Theodore S Nowicki
-  - Katie Campbell
-  - Mohammad Vahed
-  - Dandan Peng
-  - Yiting Meng
-  - Anish Nagareddy
-  - Yu-Ning Huang
-  - Aaron Karlsberg
-  - Zachary Miller
-  - Jaqueline Brito
-  - Brian Nadel
-  - Victoria M Pak
-  - Malak S Abedalthagafi
-  - Amanda M Burkhardt
-  - Houda Alachkar
-  - Antoni Ribas
-  - Serghei Mangul
-  publisher: Briefings in Bioinformatics
-  date: '2023-06-08'
-  link: https://doi.org/gsczs6
-  id: doi:10.1093/bib/bbad220
-  image: https://raw.githubusercontent.com/Mangul-Lab-USC/Mangul-Lab-USC.github.io/main/images/research/m_bbad220f1.jpeg
 - title: Meta-analysis of (single-cell method) benchmarks reveals the need for extensibility
     and interoperability
   authors:
