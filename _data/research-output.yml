@@ -1,3 +1,13 @@
+- title: 'A Rigorous Benchmarking of alignment-based HLA callers for RNA-seq data'
+  authors:
+  - Dottie Yu
+  - Ram Ayyala
+  - Serghei Mangul
+  publisher: bioRxiv
+  date: '2023-05-24'
+  link: https://doi.org/10.1101/2023.05.22.541750 
+  id: doi:10.1101/2023.05.22.541750 
+  image: images/research/paper-thumbnail.png
 - title: 'Scientists without borders: lessons from Ukraine'
   authors:
   - Walter Wolfsberger
@@ -5443,13 +5453,6 @@
   date: '2014-06-01'
   link: https://doi.org/gk5ck3
   id: doi:10.1109/ICCABS.2014.6863946
-  image: images/research/paper-thumbnail.png
-- title: 'Porcine Viruses: From Pathogenesis to Strategies for Control'
-  authors: []
-  publisher: Caister Academic Press
-  date: '2019-01-01'
-  link: https://doi.org/gk5cmw
-  id: doi:10.21775/9781910190913
   image: images/research/paper-thumbnail.png
 - title: Monte-Carlo Regression algorithm for isoform frequency estimation from RNA-Seq
     data
