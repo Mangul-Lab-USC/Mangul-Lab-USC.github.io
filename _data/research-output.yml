@@ -4763,7 +4763,7 @@
   date: '2021-05-17'
   link: https://doi.org//10.1038/s41592-021-01169-5
   id: doi:/10.1038/s41592-021-01169-5
-  image: ''
+  image: images/research/paper-thumbnail.png
 - title: Unlocking capacities of genomics for the COVID-19 response and future pandemics
   authors:
   - Sergey Knyazev
@@ -4836,7 +4836,7 @@
   date: '2021-01-01'
   link: https://doi.org/gpjjkm
   id: doi:10.48550/arXiv.2103.02723
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7941644/bin/nihpp-2103.02723v1-f0003.jpg
+  image: images/research/paper-thumbnail.png
 - title: 'RNA-seq data science: From raw data to effective interpretation'
   authors:
   - Dhrithi Deshpande
@@ -5295,7 +5295,7 @@
   date: '2016-08-26'
   link: https://doi.org/ghp82h
   id: doi:10.1002/9781119272182.ch4
-  image: ''
+  image: images/research/paper-thumbnail.png
 - title: CRISPR-Mediated VHL Knockout Generates an Improved Model for Metastatic Renal
     Cell Carcinoma
   authors:
@@ -5386,7 +5386,7 @@
   date: '2015-10-01'
   link: https://doi.org/gk5ckw
   id: doi:10.1109/ICCABS.2015.7344730
-  image: ''
+  image: images/research/paper-thumbnail.png
 - title: Transcriptome assembly and quantification from Ion Torrent RNA-Seq data
   authors:
   - Serghei Mangul
@@ -5414,7 +5414,7 @@
   date: '2014-06-01'
   link: https://doi.org/ghp82k
   id: doi:10.1109/ICCABS.2014.6863932
-  image: ''
+  image: images/research/paper-thumbnail.png
 - title: Reconstruction of influenza a virus variants from PacBio reads
   authors:
   - Alexander Artyomenko
@@ -5428,7 +5428,7 @@
   date: '2014-06-01'
   link: https://doi.org/gk5ck2
   id: doi:10.1109/ICCABS.2014.6863935
-  image: ''
+  image: images/research/paper-thumbnail.png
 - title: Deterministic regression algorithm for transcriptome frequency estimation
   authors:
   - Adrian Caciula
@@ -5443,14 +5443,14 @@
   date: '2014-06-01'
   link: https://doi.org/gk5ck3
   id: doi:10.1109/ICCABS.2014.6863946
-  image: ''
+  image: images/research/paper-thumbnail.png
 - title: 'Porcine Viruses: From Pathogenesis to Strategies for Control'
   authors: []
   publisher: Caister Academic Press
   date: '2019-01-01'
   link: https://doi.org/gk5cmw
   id: doi:10.21775/9781910190913
-  image: ''
+  image: images/research/paper-thumbnail.png
 - title: Monte-Carlo Regression algorithm for isoform frequency estimation from RNA-Seq
     data
   authors:
@@ -5464,7 +5464,7 @@
   date: '2013-06-01'
   link: https://doi.org/gk5cmx
   id: doi:10.1109/ICCABS.2013.6629228
-  image: ''
+  image: images/research/paper-thumbnail.png
 - title: An integer programming approach to novel transcript reconstruction from paired-end
     RNA-Seq reads
   authors:
@@ -5492,7 +5492,7 @@
   date: '2012-02-01'
   link: https://doi.org/gk5cm3
   id: doi:10.1109/ICCABS.2012.6182673
-  image: ''
+  image: images/research/paper-thumbnail.png
 - title: RNA-Seq based discovery and reconstruction of unannotated transcripts in
     partially annotated genomes
   authors:
@@ -5933,7 +5933,7 @@
   date: '2020-11-25'
   link: https://doi.org/ghxddk
   id: doi:10.31219/osf.io/v5kr4
-  image: ''
+  image: images/research/paper-thumbnail.png
   tags:
   - cancer
   - single cell
@@ -7005,7 +7005,7 @@
   date: '2021-04-15'
   link: https://doi.org/gjt6d6
   id: doi:10.1186/s13059-021-02332-z
-  image: ''
+  image: images/research/paper-thumbnail.png
 - title: Rare loss-of-function variants in type I IFN immunity genes are not associated
     with severe COVID-19
   authors:
@@ -7286,7 +7286,7 @@
   date: '2021-06-29'
   link: https://doi.org/gj9qvs
   id: doi:10.1128/mSystems.00122-21
-  image: ''
+  image: images/research/paper-thumbnail.png
 - title: Improving the usability and archival stability of bioinformatics software
   authors:
   - Serghei Mangul
@@ -7297,7 +7297,7 @@
   date: '2019-02-27'
   link: https://doi.org/ggc6j6
   id: doi:10.1186/s13059-019-1649-8
-  image: ''
+  image: images/research/paper-thumbnail.png
   tags:
   - cancer
   - machine learning
@@ -7324,7 +7324,7 @@
   date: '2019-06-26'
   link: https://doi.org/d53v
   id: doi:10.1042/ETLS20180175
-  image: https://port.silverchair-cdn.com/port/content_public/journal/emergtoplifesci/issue/3/4/2/m_etls_3_4.cover.png?Expires=1628756579&Signature=H~H1KoW--CMVlpmQ~YrcJ~HK4~mdUNtBCF0JFNcJVZigUIZu6WZI79DemQmc~w-hjPRG4JG5Ne3vU6QUN0HLAgaTvug7oKbXHbkSZUepOFkPEDWC8Qk-bD2fW-~O4bOrom4U6DiVA~5DrY0XvO2qHuROyQP87EG~Jsop7kjkUY~7dzTk4ki6nZvLYrRf4ByOgKNMElzz5R84OdpHlDeqy1r0IkEQoHJVSHOpC6brrvwAPkWjUbD0FYZbDcii3rW38LST61o1G0-GaLjUSuRCpyOAcsCECBXAOgfAXwc-6b0~uav8NsqFBevShlLkw2zFU7dFT8Ndrj6WPWfcewhtBQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: images/research/paper-thumbnail.png
   tags:
   - cancer
   - machine learning
@@ -7343,7 +7343,7 @@
   date: '2019-03-01'
   link: https://doi.org/gfwnsm
   id: doi:10.1038/s41587-019-0053-y
-  image: ''
+  image: images/research/paper-thumbnail.png
 - title: AIRR Community Standardized Representations for Annotated Immune Repertoires
   authors:
   - Jason Anthony Vander Heiden
@@ -7552,7 +7552,7 @@
   date: '2020-06-17'
   link: http://arxiv.org/abs/2002.12268
   id: url:https://arxiv.org/abs/2002.12268
-  image: ''
+  image: images/research/paper-thumbnail.png
   extra-links:
   - type: preprint
   - type: manubot
@@ -7595,7 +7595,7 @@
   date: '2016-10-02'
   link: https://doi.org/ghp82g
   id: doi:10.1145/2975167.2975174
-  image: null
+  image: images/research/paper-thumbnail.png
   extra-links:
   - type: preprint
   - type: manubot
@@ -7774,7 +7774,7 @@
   date: '2022-05-01'
   link: https://doi.org/gqpd59
   id: doi:10.1109/IPDPSW55747.2022.00046
-  image: Mangul-Lab-USC.github.io/images/paper-thumbnail.svg
+  image: images/research/paper-thumbnail.png
   extra-links:
   - type: manubot
     link: https://doi.org/10.1109/IPDPSW55747.2022.00046
@@ -7869,7 +7869,7 @@
   date: '2022-04-25'
   link: https://doi.org/gqpd6c
   id: doi:10.1101/2022.04.22.488804
-  image: Mangul-Lab-USC.github.io/images/paper-thumbnail.svg
+  image: images/research/paper-thumbnail.png
   extra-links:
   - type: preprint
   - type: manubot
