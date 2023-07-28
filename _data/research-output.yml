@@ -7705,7 +7705,7 @@
   date: '2021-10-01'
   link: https://doi.org/gpjjmf
   id: doi:10.1002/jac5.1519
-  image: https://www.biorxiv.org/content/biorxiv/early/2019/10/03/792911/F1.medium.gif
+  image: images/research/paper-thumbnail.png
   extra-links:
   - type: preprint
   - type: manubot
@@ -7729,7 +7729,7 @@
   date: '2021-10-01'
   link: https://doi.org/gpjjmg
   id: doi:10.1016/j.immuni.2021.09.015
-  image: https://www.biorxiv.org/content/biorxiv/early/2019/10/03/792911/F1.medium.gif
+  image: images/research/paper-thumbnail.png
   extra-links:
   - type: preprint
   - type: manubot
