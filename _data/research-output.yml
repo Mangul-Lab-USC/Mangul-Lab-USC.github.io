@@ -1,4 +1,4 @@
-- title: Scientists without borders: lessons from Ukraine
+- title: 'Scientists without borders: lessons from Ukraine'
   authors:
   - Walter Wolfsberger
   - Karishma Chhugani
@@ -6,25 +6,26 @@
   - Alina Frolova
   - Yuriy Salyha
   - Oksana Zlenko
-  - Mykhailo Arych,
+  - Mykhailo Arych
   - Dmytro Dziuba
   - Andrii Parkhomenko
   - Volodymyr Smolanka
-  - Zeynep H Gumus
+  - "Zeynep H G\xFCm\xFC\u015F"
   - Efe Sezgin
   - Alondra Diaz-Lameiro
   - Viktor R Toth
   - Megi Maci
   - Eric Bortz
+  - Fyodor Kondrashov
   - Patricia M Morton
-  - Pawel P Łabaj
+  - "Pawe\u0142 P \u0141abaj"
   - Veronika Romero
-  - Jakub Hlávka
+  - "Jakub Hl\xE1vka"
   - Serghei Mangul
   - Taras K Oleksyk
   publisher: GigaScience
   date: '2023-07-27'
-  link: https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giad045/7227947?searchresult=1&login=false
+  link: https://doi.org/gsjd4b
   id: doi:10.1093/gigascience/giad045
   image: https://raw.githubusercontent.com/Mangul-Lab-USC/Mangul-Lab-USC.github.io/main/images/research/Scientists-without-borders.jpeg
 - title: Rigorous benchmarking of T-cell receptor repertoire profiling methods for
