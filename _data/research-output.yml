@@ -5505,7 +5505,7 @@
   date: '2011-11-01'
   link: https://doi.org/fznt46
   id: doi:10.1109/BIBMW.2011.6112363
-  image: ''
+  image: images/research/paper-thumbnail.png
 - title: Inferring viral quasispecies spectra from 454 pyrosequencing reads
   authors:
   - Irina Astrovskaya
