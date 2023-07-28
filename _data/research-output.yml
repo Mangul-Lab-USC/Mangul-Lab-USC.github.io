@@ -4119,18 +4119,6 @@
   - Minimal spanning network
   - Genetic relatedness
   - SARS-CoV-2
-- title: Rigorous Benchmarking of HLA Callers for RNA Sequencing Data
-  authors:
-  - Ram Ayyala
-  - Dottie Yu
-  - Junghyun Jung
-  - Sergey Knyazev
-  - SERGHEI MANGUL
-  publisher: Center for Open Science
-  date: '2021-11-29'
-  link: https://doi.org/gphssd
-  id: doi:10.31219/osf.io/t4n72
-  image: https://raw.githubusercontent.com/Mangul-Lab-USC/Mangul-Lab-USC.github.io/main/images/research/rRigorous%20Benchmarking%20of%20HLA%20Callers.png
 - title: A comprehensive analysis of code and data availability in biomedical research
   authors:
   - Dhrithi Deshpande
