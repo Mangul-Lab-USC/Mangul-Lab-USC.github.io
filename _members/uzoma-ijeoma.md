@@ -1,9 +1,9 @@
 ---
-title: Uzoma Ijeoma .C.
+title: Ijeoma .C. Uzoma
 
 search:
-  - Uzoma
   - Ijeoma
+  - Uzoma
 image: images/team/ijeoma-uzoma.jpg
 role: affiliate
 email: ijeoma.uzoma@unn.edu.ng
