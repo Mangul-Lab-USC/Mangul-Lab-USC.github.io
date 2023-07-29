@@ -1,9 +1,9 @@
 ---
-title: Oleg Arnaut
+title: Arnaut Oleg
 
 search:
-  - Oleg
   - Arnaut
+  - Oleg
 image: images/team/oleg-arnaut.jpg
 role: affiliate
 email: arnautoleg1@gmail.com
