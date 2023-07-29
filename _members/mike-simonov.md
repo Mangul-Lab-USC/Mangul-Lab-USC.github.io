@@ -1,9 +1,9 @@
 ---
-title: Mike Simonov
+title: Simonov Mike 
 
 search:
-  - Mike
   - Simonov
+  - Mike
 image: images/team/mike.png
 role: affiliate
 email: mike@simonov.cc
