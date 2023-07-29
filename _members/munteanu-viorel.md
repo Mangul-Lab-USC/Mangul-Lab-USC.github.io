@@ -1,9 +1,9 @@
 ---
-title: Munteanu Viorel 
+title: Viorel Munteanu
 
 search:
-  - Munteanu
   - Viorel
+  - Munteanu
 image: images/team/viorel-munteanu.jpg
 role: affiliate
 email: viorelmunteanu.md@gmail.com
