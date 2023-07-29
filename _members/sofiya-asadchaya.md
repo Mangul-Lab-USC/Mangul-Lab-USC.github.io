@@ -1,9 +1,9 @@
 ---
-title: Sofiya Asadchaya
+title: Asadchaya Sofiya
 
 search:
-  - Sofiya 
   - Asadchaya
+  - Sofiya
 image: images/team/sofiya-asadchaya.jpg
 role: affiliate
 email: asadchaya.s@gmail.com
