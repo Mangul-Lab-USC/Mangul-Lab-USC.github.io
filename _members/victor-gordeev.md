@@ -1,7 +1,7 @@
 ---
-title: Victor Gordeev
+title: Gordeev Victor
 search:
-  - Victor Gordeev
+  - Gordeev Victor
 image: images/team/victor-gordeev.png
 role: affiliate
 email: victorgordeev.2010@googlemail.com
