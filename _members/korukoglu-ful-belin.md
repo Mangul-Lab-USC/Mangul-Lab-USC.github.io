@@ -1,9 +1,9 @@
 ---
-title: Korukoglu Ful Belin
+title: Ful Belin Korukoglu
 
 search:
-  - Korukoglu
   - Belin
+  - Korukoglu
 image: images/team/ful-belin.png
 role: affiliate
 email: fulbelin_2000@hotmail.com
