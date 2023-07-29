@@ -1,7 +1,7 @@
 ---
-title: Drabcinski Nick
+title: Nick Drabcinski
 search:
-  - Drabcinski Nick
+  - Nick Drabcinski
 image: images/team/nick-drabcinski.png
 role: affiliate
 email: drabcinski@gmail.com
