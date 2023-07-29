@@ -1,9 +1,9 @@
 ---
-title: Olga Penina
+title: Penina Olga
 
 search:
-  - Olga
   - Penina
+  - Olga
 image: images/team/olga_penina.jpg
 role: affiliate
 email: olga.penina@usmf.md
