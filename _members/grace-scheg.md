@@ -6,6 +6,7 @@ search:
   - Scheg
 image: images/team/grace-scheg.jpg
 role: undergrad
+group: alum
 email: gscheg@usc.edu
 github: gscheg
 ---
