@@ -1,7 +1,7 @@
 ---
-title: Suhodolschi Timur
+title: Timur Suhodolschi
 search:
-  - Suhodolschi Timur
+  - Timur Suhodolschi
 image: images/team/timur-suhodolschi.jpg
 role: affiliate
 email: suhodolschitimur@gmail.com
