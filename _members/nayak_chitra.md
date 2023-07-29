@@ -5,7 +5,7 @@ search:
   - Chitra
   - Nayak
 image: images/team/Nayak_Chitra.jpg
-
+group: alum
 role: affiliate
 email: rchitra.r@gmail.com
 
