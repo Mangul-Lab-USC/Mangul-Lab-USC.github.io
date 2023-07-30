@@ -2,7 +2,7 @@
 title: Krish Kothiya
 
 image: images/team/krish-kothiya.jpg
-role: undergrad
+role: highschool
 email: krishkothiya5@gmail.com
 github: krishkothiya
 
