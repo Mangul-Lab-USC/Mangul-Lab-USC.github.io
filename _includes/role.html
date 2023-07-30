@@ -11,6 +11,11 @@
 {%- assign text = "Postdoctoral Researcher" -%}
 {%- endif -%}
 
+{%- if include.type == "bioinformatics-analyst" -%}
+{%- assign icon = "fas fa-mortar-pestle" -%}
+{%- assign text = "Bioinformatics Analyst" -%}
+{%- endif -%}
+
 {%- if include.type == "phd" -%}
 {%- assign icon = "fas fa-graduation-cap" -%}
 {%- assign text = "PhD Student" -%}
