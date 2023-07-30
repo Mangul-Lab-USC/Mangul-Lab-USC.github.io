@@ -5,7 +5,7 @@ search:
   - Negar
   - Ahani
 image: images/team/negar-ahani.jpeg
-role: masters
+role: undergrad
 email: ahani@usc.edu
 github: negarahani
 
