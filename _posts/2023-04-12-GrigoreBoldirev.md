@@ -2,7 +2,7 @@
 title: "Congratulations to Anushka Yadav on landing her new job as a Bioinformatics Analyst at NYU Grossman School of Medicine"
 
 author: Grigore Boldirev
-member-page: grigore-boldirev.html
+member-page: boldirev-grigore.html
 
 image: images/blog/
 
