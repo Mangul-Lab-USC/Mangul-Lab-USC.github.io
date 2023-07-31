@@ -2,7 +2,7 @@
 title: "A transformative pursuit"
 
 author: Khooshbu Patel
-member-page: khooshbu-patel.html
+member-page: patel-khooshbu.html
 
 image: images/blog/
 
