@@ -17,4 +17,9 @@ This tab contains photos of Mangul Lab.
   image7="images/gallery/IMG_5042.jpg"
   image8="images/gallery/img213.png"
   image9="images/gallery/IMG-1946.jpg"
+  image10="images/gallery/The-Mangul-lab-presented-two-talks-and-two-posters-at-the-ISMBECCB-2023-conference-in-Lyon-France-1.jpeg"
+  image11="images/gallery/The-Mangul-lab-presented-two-talks-and-two-posters-at-the-ISMBECCB-2023-conference-in-Lyon-France-2.jpeg"
+  image12="images/gallery/The-Mangul-lab-presented-two-talks-and-two-posters-at-the-ISMBECCB-2023-conference-in-Lyon-France-3.jpeg"
+  image13="images/gallery/The-Mangul-lab-presented-two-talks-and-two-posters-at-the-ISMBECCB-2023-conference-in-Lyon-France-4.jpeg"
+  image14="images/gallery/The-Mangul-lab-presented-two-talks-and-two-posters-at-the-ISMBECCB-2023-conference-in-Lyon-France-5.jpeg"
 %}
