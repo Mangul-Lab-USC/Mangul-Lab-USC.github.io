@@ -2,7 +2,7 @@
 title: "My pieces of advice for PhD students"
 
 author: Kerui-Peng
-member-page: kerui-peng.html
+member-page: peng-kerui.html
 
 image: images/blog/
 
