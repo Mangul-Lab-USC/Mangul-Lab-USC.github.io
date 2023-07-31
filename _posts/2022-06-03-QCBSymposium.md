@@ -2,7 +2,7 @@
 title: "Dottie and Cecilia share their experience at the 2022 USC QCB Conference"
 
 author: Dottie Yu
-member-page: dottie-yu.html
+member-page: yu-dottie.html
 
 image: images/blog/QCB.JPG
 
