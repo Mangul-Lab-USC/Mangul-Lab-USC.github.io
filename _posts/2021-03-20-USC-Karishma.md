@@ -1,7 +1,7 @@
 ---
 title: "Featured in USC School of Pharmacy February 2021 Newsletter"
 author: Karishma Chhugani
-member-page: chhugani
+member-page: chhugani-karishma.html
 tags:
   - Karishma
   - USC
