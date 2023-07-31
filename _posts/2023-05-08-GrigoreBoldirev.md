@@ -2,7 +2,7 @@
 title: "NOW RECRUITING: 2023-2024 NSF-funded UNDERGRADUATE STEM INTERN!"
 
 author: Grigore Boldirev
-member-page: grigore-boldirev.html
+member-page: boldirev-grigore.html
 
 image: images/blog/
 
