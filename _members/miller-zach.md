@@ -6,7 +6,7 @@ search:
   - Zachary Miller
 
 # if image not specified, default will automatically be used
-#image: images/team/<file name>
+image: images/team/blank.jpg
 
 # role must be included or person won't appear on team page
 role: phd
