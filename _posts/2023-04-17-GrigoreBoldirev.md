@@ -2,7 +2,7 @@
 title: "NOW ACCEPTING APPLICATIONS: 2023-2024 USC URAP FELLOW!"
 
 author: Grigore Boldirev
-member-page: grigore-boldirev.html
+member-page: boldirev-grigore.html
 
 image: images/blog/
 
