@@ -2,7 +2,7 @@
 title: "Varuni Sarwal selected as a 2023 Amazon Fellow!"
 
 author: Grigore Boldirev
-member-page: grigore-boldirev.html
+member-page: boldirev-grigore.html
 
 image: images/blog/
 
