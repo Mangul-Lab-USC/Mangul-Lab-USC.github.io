@@ -2,7 +2,7 @@
 title: "Congratulations to Cecilia on Acceptance into USC QCB Graduate Program!"
 
 author: Grigore Boldirev
-member-page: grigore-boldirev.html
+member-page: boldirev-grigore.html
 
 image: images/blog/
 
