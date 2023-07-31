@@ -2,7 +2,7 @@
 title: "Mangul Lab Awarded $3.9 Million NIH Grant"
 
 author: Grigore Boldirev
-member-page: grigore-boldirev.html
+member-page: boldirev-grigore.html
 
 image: images/blog/
 
