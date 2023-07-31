@@ -2,7 +2,7 @@
 title: "Congratulations to Dhrithi on her acceptance into the USC PHTS Graduate Program!"
 
 author: Grigore Boldirev
-member-page: grigore-boldirev.html
+member-page: boldirev-grigore.html
 
 image: images/blog/
 
