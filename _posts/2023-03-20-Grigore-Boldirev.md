@@ -2,7 +2,7 @@
 title: "Congratulations to Qiushi on acceptance into the University of Notre Dame Graduate Program!"
 
 author: Grigore Boldirev
-member-page: grigore-boldirev.html
+member-page: boldirev-grigore.html
 
 image: images/blog/
 
