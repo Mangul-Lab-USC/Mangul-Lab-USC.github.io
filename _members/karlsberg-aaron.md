@@ -10,7 +10,7 @@ title: Aaron Karlsberg
 image: images/team/aaron-karlsberg.jpg
 
 # role must be included or person won't appear on team page
-role: programmer
+role: bioinformatics-analyst
 
 # add person to alumni group
 group: alum
