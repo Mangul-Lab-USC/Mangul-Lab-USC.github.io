@@ -2,7 +2,7 @@
 title: "Mangul Lab to present at the Rocky Bioinformatics Conference 2022"
 
 author: Mohammad Vahed
-member-page: mohammad-vahed.html
+member-page: vahed-mohammad.html
 
 image: images/blog/
 
