@@ -5,8 +5,8 @@ search:
   - Dhrithi
   - Deshpande
 image: images/team/dhrithi-deshpande.jpg
-role : masters
-group: alum
+role : phd
+group: 
 email: dhrithideshpande@gmail.com
 github: dhrithideshpande
 
