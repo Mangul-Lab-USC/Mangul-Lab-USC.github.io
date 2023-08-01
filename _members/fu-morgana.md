@@ -13,7 +13,7 @@ role: masters
 
 
 # contact info and social media links
-#email: <email>
+#email: jiaqifu@usc.edu
 #website: <url>
 github: MorganaFu
 twitter: MorganaFu
