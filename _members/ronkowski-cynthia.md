@@ -4,7 +4,7 @@ search:
   - Cynthia Ronkowski
 image: images/team/cynthia-ronkowski.jpg
 role: bioinformatics-analyst
-email: cr_055@usc.edu
+email: cr_055@usc.edu #cynthiaflaire@gmail.com
 github: CynthiaFlaire
 #twitter: Cynechococcus
 
