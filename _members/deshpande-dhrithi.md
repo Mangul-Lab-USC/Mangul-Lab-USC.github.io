@@ -12,10 +12,8 @@ github: dhrithideshpande
 
 ---
 
-Dhrithi Deshpande is a graduate student doing her Masters in Molecular Phamarcology and Toxicology at the School of Pharmacy at USC. 
-She graduated from Dayananda Sagar College of Engineering, Bangalore, India, with a Bachelor of Engineering degree in Biotechnology.
-Her undergraduate research experience lies in the eco-toxicological studies and antimicrobial resistance pattern of coliform bacteria, structural, 
-and conformational analysis of the drug resistant gene products to devise a novel bacteriophage based therapy for the treatment of lake water. 
-Dhrithi was also a Summer Intern at IIT Bombay, where she explored the effects of various micronutrients, lifestyles, and environmental 
-parameters on the dynamics of T-cells and B-cells in the body (i.e., quantification of immunity using a systems biology approach). 
-She is currently working on studying the robustness and reproducbility of DNA-seq and RNA-seq tools used in biomedical research.
+Dhrithi Deshpande is currently pursuing her PhD in Pharmaceutical and Translational Sciences at USC Mann School of Pharmacy and Pharmaceutical Sciences. She holds a Bachelor's degree in Biotechnology from Dayananda Sagar College of Engineering, Bangalore, India, where she conducted research on eco-toxicological studies, antimicrobial resistance patterns of coliform bacteria, and structural analysis of drug-resistant gene products for a novel bacteriophage-based therapy in lake water treatment.
+
+During her Master's in Molecular Pharmacology and Toxicology at USC, Dhrithi focused on studying the robustness and reproducibility of DNA-seq and RNA-seq tools used in biomedical research, working at the Mangul lab.
+
+Additionally, she has worked as a Bioinformatics Research Associate for Xbiome, an AI-based microbiome drug development company, where she was involved in groundbreaking projects related to human microbiome-derived small molecule prediction platform. Her work included evaluating computational methods for predicting structural similarity, ADMET profiling, target prediction, pharmacokinetics of identified small molecules, and analyzing patterns and network structures in small molecules. She also contributed to the development of a pipeline for identifying secondary metabolite biosynthetic gene clusters and their small molecule products from metagenomic data obtained from cancer patients, collaborating with interdisciplinary teams in the process.
