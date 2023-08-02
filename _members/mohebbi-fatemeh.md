@@ -3,7 +3,7 @@ title: Fatemeh Mohebbi
 
 image: images/team/fatemeh.jpeg
 role: affiliate
-email: fmohebbi1@student.gsu.edu 
+email: fmohebbi1@student.gsu.edu #mohebbi.fateme@gmail.com
 github: FatemehMhbi
 
 ---
