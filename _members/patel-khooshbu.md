@@ -5,6 +5,7 @@ search:
   - Khooshbu 
   - Patel
 image: images/team/khooshbu-patel.png
+group: alum
 role: masters
 email: khooshbu@usc.edu
 github: khooshbu1511
