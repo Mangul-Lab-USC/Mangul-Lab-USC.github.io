@@ -7,7 +7,7 @@ search:
 image: images/team/viorel-munteanu.jpg
 role: affiliate
 email: viorelmunteanu.md@gmail.com
-
+github: munteanuvv
 
 ---
 
