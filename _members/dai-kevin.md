@@ -3,7 +3,7 @@ title: Kevin Dai
 search:
    - Kevin
    - Dai
-image: images/team/kevin-dai.jpg
+image: images/team/kevin-dai.png
 role: undergrad
 email: kdai@usc.edu
 github: kevindai8
