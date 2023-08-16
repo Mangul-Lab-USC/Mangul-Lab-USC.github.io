@@ -5,6 +5,7 @@ search:
   - Shaunak
   - Kapur
 image: images/team/shaunak.jpg
+group: alum
 role: highschool
 email: sk_466@usc.edu
 github: shaunk120
