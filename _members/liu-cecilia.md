@@ -5,6 +5,7 @@ search:
   - Cecilia
   - Liu
 image: images/team/cecilia-liu.jpg
+group: alum
 role: undergrad
 github: cclliu1212
 email: fangyunl@usc.edu
