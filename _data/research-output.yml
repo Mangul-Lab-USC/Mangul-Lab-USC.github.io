@@ -1,3 +1,19 @@
+- title: 'Scientists without borders: lessons from Ukraine'
+  authors:
+  - Pelin Icer Baykal
+  - "Pawe\u0142 P \u0141abaj"
+  - Florian Markowetz
+  - Lynn M. Schriml
+  - Daniel J. Stekhoven
+  - Serghei Mangul
+  - Niko Beerenwinkel
+  publisher: arXiv
+  date: '2023-08-18'
+  link: https://doi.org/10.48550/arXiv.2308.09558
+  id: doi:10.48550/arXiv.2308.09558
+  image: images/research/paper-thumbnail.png
+  extra-links:
+  - type: preprint
 - title: Rigorous benchmarking of T-cell receptor repertoire profiling methods for cancer RNA sequencing
   authors:
   - Kerui Peng
