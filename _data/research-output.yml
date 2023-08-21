@@ -1,3 +1,28 @@
+- title: Rigorous benchmarking of T-cell receptor repertoire profiling methods for cancer RNA sequencing
+  authors:
+  - Kerui Peng
+  - Theodore Scott Nowicki
+  - Katie Campbell
+  - Mohammad Vahed
+  - Dandan Peng
+  - Yiting Meng
+  - Anish Nagareddy
+  - Yu-Ning Huang
+  - Aaron Karlsberg
+  - Zachary Miller
+  - Jaqueline Brito
+  - Brian Nadel
+  - Victoria M. Pak
+  - Malak S. Abedalthagafi
+  - Amanda M. Burkhardt
+  - Houda Alachkar
+  - Antoni Ribas
+  - Serghei Mangul
+  publisher: Briefings in Bioinformatics
+  date: '2023-06-08'
+  link: https://doi.org/10.1093/bib/bbad220
+  id: doi:10.1093/bib/bbad220
+  image: https://www.medrxiv.org/content/medrxiv/early/2022/03/31/2022.03.31.22273249/F1.medium.gif
 - title: 'VISTA: An integrated framework for structural variant discovery'
   authors:
   - Varuni Sarwal
@@ -7893,33 +7918,6 @@
   - type: preprint
   - type: manubot
     link: https://doi.org/10.31219/osf.io/vkp5q
-- title: Rigorous benchmarking of T cell receptor repertoire profiling methods for
-    cancer RNA sequencing
-  authors:
-  - Kerui Peng
-  - Theodore Scott Nowicki
-  - Katie Campbell
-  - Dandan Peng
-  - Anish Nagareddy
-  - Yu-Ning Huang
-  - Aaron Karlsberg
-  - Zachary Miller
-  - Jaqueline Brito
-  - Victoria M. Pak
-  - Malak S. Abedalthagafi
-  - Amanda M. Burkhardt
-  - Houda Alachkar
-  - Antoni Ribas
-  - Serghei Mangul
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-03-31'
-  link: https://doi.org/gqj7k7
-  id: doi:10.1101/2022.03.31.22273249
-  image: https://www.medrxiv.org/content/medrxiv/early/2022/03/31/2022.03.31.22273249/F1.medium.gif
-  extra-links:
-  - type: preprint
-  - type: manubot
-    link: https://doi.org/10.1101/2022.03.31.22273249
 - title: Pathogenesis, Symptomatology, and Transmission of SARS-CoV-2 through Analysis
     of Viral Genomics and Structure
   authors:
