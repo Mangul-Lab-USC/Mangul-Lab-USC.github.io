@@ -53,6 +53,8 @@
   link: https://doi.org/10.1101/2023.08.11.553053
   id: doi:10.1101/2023.08.11.553053 
   image: images/research/VISTA-An-integrated-framework-for-structural-variant-discovery.png
+  extra-links:
+  - type: preprint
 - title: 'Analytical code sharing practices in biomedical research'
   authors:
   - Nitesh Kumar Sharma
@@ -75,6 +77,8 @@
   link: https://doi.org/10.1101/2023.07.31.551384 
   id: doi:10.1101/2023.07.31.551384 
   image: images/research/Analytical-code-sharing-practices-in-biomedical-research.png
+  extra-links:
+  - type: preprint
 - title: 'A Rigorous Benchmarking of alignment-based HLA callers for RNA-seq data'
   authors:
   - Dottie Yu
@@ -85,6 +89,8 @@
   link: https://doi.org/10.1101/2023.05.22.541750 
   id: doi:10.1101/2023.05.22.541750 
   image: images/research/A-Rigorous-Benchmarking-of-alignment-based-HLA-callers-for-RNA-seq-data.jpg
+  extra-links:
+  - type: preprint
 - title: 'Scientists without borders: lessons from Ukraine'
   authors:
   - Walter Wolfsberger
@@ -161,6 +167,8 @@
   link: https://doi.org/gr5c8t
   id: doi:10.1101/2023.04.07.23287912
   image: https://www.medrxiv.org/content/medrxiv/early/2023/04/12/2023.04.07.23287912/F1.large.jpg?width=800&height=600&carousel=1
+  extra-links:
+  - type: preprint  
 - title: Community structure and temporal dynamics of SARS-CoV-2 epistatic network
     allows for early detection of emerging variants with altered phenotypes
   authors:
@@ -174,6 +182,8 @@
   link: https://doi.org/gr4g3q
   id: doi:10.1101/2023.04.02.535277
   image: https://www.biorxiv.org/content/biorxiv/early/2023/04/03/2023.04.02.535277/F2.large.jpg?width=800&height=600&carousel=1
+  extra-links:
+  - type: preprint
 - title: Remote opportunities for scholars in Ukraine
   authors:
   - Karishma Chhugani
