@@ -2,7 +2,7 @@
 title: Jeremy Rotman
 
 image: images/team/jeremy-rotman.jpg
-role: programmer
+role: bioinformatics-analyst
 group: alum
 <!-- email: britoj@usc.edu -->
 <!-- github: ajlee21 -->
