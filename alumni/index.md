@@ -10,8 +10,8 @@ These are past lab alumni who have moved on to the industry, other school progra
 {% include team-list.html role="postdoc" group="alum" mini="true" %}
 {% include team-list.html role="bioinformatics-analyst" group="alum" mini="true" %}
 {% include team-list.html role="phd" group="alum" mini="true" %}
-{% include team-list.html role="masters" group="alum" mini="true" %}
 {% include team-list.html role="pharmd" group="alum" mini="true" %}
+{% include team-list.html role="masters" group="alum" mini="true" %}
 {% include team-list.html role="undergrad" group="alum" mini="true" %}
 {% include team-list.html role="highschool" group="alum" mini="true" %}
 {% include team-list.html role="programmer" group="alum" mini="true" %}
