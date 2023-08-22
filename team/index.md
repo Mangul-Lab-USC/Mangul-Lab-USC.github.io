@@ -18,8 +18,8 @@ Our diverse team is composed of a highly enthusiastic and collaborative research
 {% include team-list.html role="postdoc" group="" %}
 {% include team-list.html role="bioinformatics-analyst" group="" %}
 {% include team-list.html role="phd" group="" %}
-{% include team-list.html role="masters" group="" %}
 {% include team-list.html role="pharmd" group="" %}
+{% include team-list.html role="masters" group="" %}
 {% include team-list.html role="undergrad" group="" %}
 {% include team-list.html role="highschool" group="" %}
 {% include team-list.html role="programmer" group="" %}
