@@ -20,8 +20,6 @@ We are actively accepting applications from current USC undergraduate students t
 
 Deadline is rolling.
 
-[Application form](https://docs.google.com/forms/d/e/1FAIpQLScBDxK_UXgJEPxj8wWOev82UoblPghHpGfVxjRcKBTOwuLNbg/viewform)
-
 ### WHO SHOULD APPLY?
 
 USC undergraduate students who are interested in computational bioscience research and have basic computational training are invited to join Mangul Lab from May 20th, 2023, to April 30, 2024 (Summer 2023 or Fall/Spring 2023-2024). Fellows will assume the role of undergraduate student researcher and perform individual research projects, guided by Dr. Mangul, in collaboration with and assistance from our graduate students and postdoctoral scholars.
@@ -71,6 +69,8 @@ We will also encourage the Fellow to submit their work to the annual USC Undergr
 (2) Life science background;\
 (3) Past academic performance;\
 (4) Aptitude for completion of a research project.
+
+### [Application form](https://docs.google.com/forms/d/e/1FAIpQLScBDxK_UXgJEPxj8wWOev82UoblPghHpGfVxjRcKBTOwuLNbg/viewform)
 
 ### ABOUT PI MANGUL
 Dr. Mangul is a highly experienced instructor with over a decade of expertise teaching BDAT and computational genomics techniques to researchers at various levels, including undergraduate students. During his postdoctoral fellowship at UCLA, he created a comprehensive "Intro to UNIX" workshop that he taught 15 times, reaching over 300 individuals between 2013 and 2019. In addition to his instructional roles, Dr. Mangul has mentored over 30 undergraduate students, 16 of whom were enrolled in the UCLA Bruins-in-Genomics (B.I.G.) Summer Undergraduate Research Program, and six of these students won the Best Poster Award. Six former mentees of Dr. Mangul are currently pursuing Ph.D. degrees in bioinformatics at esteemed institutions such as USC, UCLA, UC Davis, and George Washington University. Moreover, at least 20 of Dr. Mangul's undergraduate mentees are contributing authors on peer-reviewed publications, with three of them as the first author. Furthermore, Dr. Mangul has recently mentored three undergraduate students under the USC URAP 2020-23 program, one of whom, [Cecilia Liu](https://mangul-lab-usc.github.io/2023/03/13/GrigoreBoldirev.html), was accepted into the prestigious USC Quantitative and Computational Biology Ph.D. program. 
