@@ -18,7 +18,6 @@ We are actively accepting applications from current USC undergraduate students t
 
 ### DEADLINE TO APPLY?
 
-# Monday, May 10, 2023 5:00pm Pacific Time (We will be interviewing candidates on a rolling basis, we encourage you to apply early)
 Deadline is rolling.
 
 ### WHO SHOULD APPLY?
