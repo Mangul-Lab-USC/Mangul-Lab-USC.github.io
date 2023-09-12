@@ -20,7 +20,7 @@ We are actively accepting applications from current USC undergraduate students t
 
 Deadline is rolling.
 
-Application form: https://docs.google.com/forms/d/e/1FAIpQLScBDxK_UXgJEPxj8wWOev82UoblPghHpGfVxjRcKBTOwuLNbg/viewform
+[Application form](https://docs.google.com/forms/d/e/1FAIpQLScBDxK_UXgJEPxj8wWOev82UoblPghHpGfVxjRcKBTOwuLNbg/viewform)
 
 ### WHO SHOULD APPLY?
 
