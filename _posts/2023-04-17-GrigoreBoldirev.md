@@ -20,6 +20,8 @@ We are actively accepting applications from current USC undergraduate students t
 
 Deadline is rolling.
 
+Application form: https://docs.google.com/forms/d/e/1FAIpQLScBDxK_UXgJEPxj8wWOev82UoblPghHpGfVxjRcKBTOwuLNbg/viewform
+
 ### WHO SHOULD APPLY?
 
 USC undergraduate students who are interested in computational bioscience research and have basic computational training are invited to join Mangul Lab from May 20th, 2023, to April 30, 2024 (Summer 2023 or Fall/Spring 2023-2024). Fellows will assume the role of undergraduate student researcher and perform individual research projects, guided by Dr. Mangul, in collaboration with and assistance from our graduate students and postdoctoral scholars.
