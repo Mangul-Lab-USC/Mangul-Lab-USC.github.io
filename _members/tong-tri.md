@@ -8,4 +8,4 @@ role: undergrad
 email: tmtong@usc.edu
 github: tong03
 ---
-Pursuing a B.S in Quantitative Biology
+Tri Tong is an undergraduate student pursuing a B.S. in Quantitative Biology.
