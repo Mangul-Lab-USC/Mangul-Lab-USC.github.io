@@ -2,7 +2,6 @@
 title: Fatemeh Mohebbi
 
 image: images/team/fatemeh.jpeg
-group: team
 role: postdoc
 email: fmohebbi1@student.gsu.edu #mohebbi.fateme@gmail.com
 github: FatemehMhbi
