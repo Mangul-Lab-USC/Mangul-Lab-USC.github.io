@@ -1,3 +1,32 @@
+- title: 'SARS-CoV-2 Wastewater Genomic Surveillance: Approaches, Challenges, and Opportunities'
+  authors:
+  - Viorel Munteanu 
+  - Michael Saldana
+  - Nitesh Kumar Sharma
+  - Wenhao O. Ouyang
+  - Eva Aßmann
+  - Victor Gordeev
+  - Nadiia Kasianchuk
+  - Braden T Tierney
+  - Alexander G Lucaci
+  - Sergey Knyazev
+  - Dumitru Ciorba
+  - Viorel Bostan
+  - Christopher Mason
+  - Pavel Skums
+  - Nicholas C. Wu
+  - Piotr Rzymski
+  - Martin Hölzer
+  - Alex Zelikovsky
+  - Adam Smith
+  - Serghei Mangul
+  publisher: arXiv
+  date: '2023-09-23'
+  link: https://doi.org/10.48550/arXiv.2309.13326
+  id: doi:10.48550/arXiv.2309.13326
+  image: images/research/SARS-CoV-2-Wastewater-Genomic-Surveillance-Approaches-Challenges-and-Opportunities.png
+  extra-links:
+  - type: preprint
 - title: 'The Genomic Landscape of Colorectal Cancer in the Saudi Arabian Population Using a Comprehensive Genomic Panel'
   authors:
   - Ebtehal Alsolme
