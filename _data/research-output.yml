@@ -1,3 +1,23 @@
+- title: 'A rigorous benchmarking of methods for SARS-CoV-2 lineage abundance estimation in wastewater'
+  authors:
+  - Viorel Munteanu 
+  - Victor Gordeev 
+  - Justin Maine Su 
+  - Khooshbu Kantibhai Patel 
+  - Nicolae Drabcinski 
+  - Oksana Zlenko 
+  - Maryna Kit 
+  - Yidian Xu 
+  - Pooja Jaiswal 
+  - Alex Zelikovsky 
+  - Serghei Mangul
+  publisher: arXiv
+  date: '2023-09-29'
+  link: https://doi.org/10.48550/arXiv.2309.16994
+  id: doi:10.48550/arXiv.2309.16994
+  image: images/research/A-rigorous-benchmarking-of-methods-for-SARS-CoV-2-lineage-abundance-estimation-in-wastewater.png
+  extra-links:
+  - type: preprint
 - title: 'SARS-CoV-2 Wastewater Genomic Surveillance: Approaches, Challenges, and Opportunities'
   authors:
   - Viorel Munteanu 
