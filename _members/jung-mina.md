@@ -4,7 +4,7 @@ title: Mina Jung
 search:
   - Mina
   - Jung
-image: images/team/mina-jung.jpeg
+image: images/team/mina-jung.png
 role: undergrad
 email:  minajung@usc.edu
 github: bluemjay21 
