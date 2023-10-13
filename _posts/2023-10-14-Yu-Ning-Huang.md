@@ -9,7 +9,7 @@ image: images/blog/
 ---
 ### Bridge Undergraduate Science Program (BUGS) Summer 2023
 
-{% include figure.html image="images/blog/Bridge-Undergraduate-Science-Program-BUGS-Summer-2023-1.jpg" %
+{% include figure.html image="images/blog/Bridge-Undergraduate-Science-Program-BUGS-Summer-2023-1.jpg" %}
 
 [Shaunak Kapur](https://mangul-lab-usc.github.io/members/kapur-shaunak.html), a rising senior from Seven Lakes High School in Houston, Texas, has embodied this commitment through his proactive involvement in the research endeavors, particularly during his summer term at the BUGS research program at the University of Southern California (USC). Shaunak  foray into the sophisticated world of immunogenetics research began in The Mangul lab with his association with the BUGS summer research program at USC. Under the mentorship of [Yu Ning](https://mangul-lab-usc.github.io/members/huang-yu-ning.html), a current PhD student at the university, Shaunak immersed himself into the challenging yet intriguing domain of immunogenetics. This not only provided him with a platform to apply his academic knowledge but also bestowed him with real-world experience, which is pivotal in scientific research. It is during this tenure that Shaunak was introduced to two significant projects, each with its unique challenges and learnings.
 
