@@ -1,5 +1,5 @@
 ---
-title: "Bridge Undergraduate Science Program (BUGS) Summer 2023"
+title: "Navigating the BUGS Jr. Summer Research Program 2023: A Handbook for High School Participants"
 
 author: Yu Ning Huang
 member-page: huang-yu-ning.html
@@ -7,7 +7,7 @@ member-page: huang-yu-ning.html
 image: images/blog/
 
 ---
-### Bridge Undergraduate Science Program (BUGS) Summer 2023
+### Navigating the BUGS Jr. Summer Research Program 2023: A Handbook for High School Participants
 
 {% include figure.html image="images/blog/Bridge-Undergraduate-Science-Program-BUGS-Summer-2023-1.jpg" %}
 
