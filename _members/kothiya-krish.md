@@ -2,6 +2,7 @@
 title: Krish Kothiya
 
 image: images/team/krish-kothiya.jpg
+group: alum
 role: highschool
 email: krishkothiya5@gmail.com
 github: krishkothiya
