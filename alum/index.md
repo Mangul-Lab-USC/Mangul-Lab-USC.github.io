@@ -1,3 +1,11 @@
+---
+title: Alum
+redirect_from:
+  - /alum
+---
+
+<!-- section break -->
+
 ## Alumni
 
 
