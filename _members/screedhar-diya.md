@@ -5,7 +5,7 @@ search:
   - Diya
   - Sreedhar
 image: images/team/diya-sreedhar.png
-group: alum
+# group: alum
 role: highschool
 email: diyasreedhar9@gmail.com
 github: ds9-code
