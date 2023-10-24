@@ -1,33 +1,21 @@
 ---
-title: Team
+title: Affiliates
 redirect_from:
-  - /lab-members
-  - /alums
-  - /mascots
-  - /staff
-  - /trainees
+  - /affiliates
 ---
 
-# <i class="fas fa-users"></i>Team
+<!-- section break -->
 
-Our diverse team is composed of a highly enthusiastic and collaborative researchers. We foster a friendly and collaborative environment, where team members can learn from each other.
+## Affiliated members
 
+These are affiliated members of the Mangul Lab USC.
 
-{% capture html %}
-{% include team-list.html role="pi" group="" %}
-{% include team-list.html role="postdoc" group="" %}
-{% include team-list.html role="bioinformatics-analyst" group="" %}
-{% include team-list.html role="phd" group="" %}
-{% include team-list.html role="pharmd" group="" %}
-{% include team-list.html role="masters" group="" %}
-{% include team-list.html role="undergrad" group="" %}
-{% include team-list.html role="highschool" group="" %}
-{% include team-list.html role="programmer" group="" %}
-{% include team-list.html role="mascot" group="" %}
+{% capture teamhtml %}
+{% include team-list.html role="affiliate" group="" %}
 {% endcapture %}
 
+{% include centerer.html html=teamhtml %}
 
-{% include centerer.html html=html %}
 
 <!-- section break -->
 
