@@ -1,5 +1,5 @@
 ---
-title: "Navigating the BUGS Jr. Summer Research Program 2023: A Handbook for High School Participants"
+title: "Navigating the USC BUGS Jr. Summer Research Program 2023: A Handbook for High School Participants"
 
 author: Yu Ning Huang
 member-page: huang-yu-ning.html
@@ -7,11 +7,11 @@ member-page: huang-yu-ning.html
 image: images/blog/
 
 ---
-### Navigating the BUGS Jr. Summer Research Program 2023: A Handbook for High School Participants
+### Navigating the USC BUGS Jr. Summer Research Program 2023: A Handbook for High School Participants
 
 {% include figure.html image="images/blog/Bridge-Undergraduate-Science-Program-BUGS-Summer-2023-1.jpg" %}
 
-[Shaunak Kapur](https://mangul-lab-usc.github.io/members/kapur-shaunak.html), a rising senior from Seven Lakes High School in Houston, Texas, has embodied this commitment through his proactive involvement in the research endeavors, particularly during his summer term at the BUGS research program at the University of Southern California (USC). Shaunak  foray into the sophisticated world of immunogenetics research began in The Mangul lab with his association with the BUGS summer research program at USC. Under the mentorship of [Yu Ning](https://mangul-lab-usc.github.io/members/huang-yu-ning.html), a current PhD student at the university, Shaunak immersed himself into the challenging yet intriguing domain of immunogenetics. This not only provided him with a platform to apply his academic knowledge but also bestowed him with real-world experience, which is pivotal in scientific research. It is during this tenure that Shaunak was introduced to two significant projects, each with its unique challenges and learnings.
+[Shaunak Kapur](https://mangul-lab-usc.github.io/members/kapur-shaunak.html), a rising senior from Seven Lakes High School in Houston, Texas, has embodied this commitment through his proactive involvement in the research endeavors, particularly during his summer term at the [BUGS](https://dornsife.usc.edu/bridge-institute/bugs-program/) research program at the University of Southern California (USC). Shaunak  foray into the sophisticated world of immunogenetics research began in The Mangul lab with his association with the BUGS summer research program at USC. Under the mentorship of [Yu Ning](https://mangul-lab-usc.github.io/members/huang-yu-ning.html), a current PhD student at the university, Shaunak immersed himself into the challenging yet intriguing domain of immunogenetics. This not only provided him with a platform to apply his academic knowledge but also bestowed him with real-world experience, which is pivotal in scientific research. It is during this tenure that Shaunak was introduced to two significant projects, each with its unique challenges and learnings.
 
 The first research project titled "Assessing the Completeness of Immunogenetic Databases Across European Populations" presented Shaunak with the opportunity to analyze and comprehend the completeness of the IMGT database in representing various studies. Selecting two human TCR-Seq studies from the Sequence Read Archives (SRA), Shaunak executed a meticulous analysis by leveraging the bioinformatics tool, MiXCR, to evaluate how IMGT database in capturing and representing the V and J genes in the two studies. Shaunak also learned data analysis in Python. By utilizing different data science libraries in Python, Shaunak’s evaluative process concentrated on the number of mismatches in the V gene, which encompassed substitutions, insertions, and deletions. His rigorous analysis, coupled with an adept creation of figures based on European ancestries, uncovered valuable insights into the representativeness of the selected studies within the IMGT database. This in-depth analysis and its findings stand crucial for ensuring that the IMGT database is a reliable and comprehensive resource for immunogeneticists globally.
 
