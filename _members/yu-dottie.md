@@ -5,7 +5,7 @@ search:
   - Dottie
   - Yu
 image: images/team/dottie-yu.png
-role: undergrad
+role: bioinformatics-analyst
 email: dottieyu@usc.edu
 github: dottieyu
 
