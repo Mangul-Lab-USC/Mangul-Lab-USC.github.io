@@ -1,7 +1,7 @@
 ---
-title: Abdullah Nahid
+title: Abdullah Al Nahid
 search:
-  - Abdullah Nahid
+  - Abdullah Al Nahid
 image: images/team/abdullah-nahid.jpg
 role: affiliate
 email: abdnahid56@gmail.com
