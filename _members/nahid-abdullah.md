@@ -6,7 +6,7 @@ image: images/team/abdullah-nahid.jpg
 role: affiliate
 email: abdnahid56@gmail.com
 github: nahid18
-twitter: https://twitter.com/abdnahid
+twitter: https://twitter.com/abdnahid_
 
 
 ---
