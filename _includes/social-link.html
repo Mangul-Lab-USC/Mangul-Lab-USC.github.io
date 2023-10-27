@@ -31,6 +31,12 @@
 {%- assign link = include.link | default: site.github | default: "" | prepend: "https://github.com/" -%}
 {%- endif -%}
 
+{%- if include.type == "linkedin" -%}
+{%- assign icon = "fab fa-linkedin-in" -%}
+{%- assign text = "LinkedIn" -%}
+{%- assign link = include.link | default: site.linkedin | default: "" | prepend: "https://linkedin.com/in/" -%}
+{%- endif -%}
+
 {%- if include.type == "twitter" -%}
 {%- assign icon = "fab fa-twitter" -%}
 {%- assign text = "Twitter" -%}

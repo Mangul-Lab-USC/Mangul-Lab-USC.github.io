@@ -9,17 +9,16 @@ group: alum
 # degree: <pi / postdoc / phd / masters / undergrad>
 role: postdoc 
 email: sergey.n.knyazev@gmail.com
-# linkedin: https://www.linkedin.com/in/sergey-knyazev/
+linkedin: sergey-knyazev
 github: Sergey-Knyazev
 # twitter: <username>
 # google: <url>
 # website: <url>
 
 # Information for alumni page:
-# lab_member_years: 0000--0000
-# alma_mater: Postdoctoral Scholar, joint with Prof. Bogdan Pasaniuc, USC School of Pharmacy
-# current_job_position: Currently Senior Softwaer Engineer at Alumnit
+lab_member_years: 0000--0000
+alma_mater: Postdoctoral Scholar, joint with Prof. Bogdan Pasaniuc, USC School of Pharmacy
+current_job_position: Currently Senior Softwaer Engineer at Alumnit
 
 ---
 Dr. Knyazev is a postdoctoral fellow from Dr. Pasaniuc‘s Lab at UCLA with Dr. Mangul as a co-adviser from USC. Before joining UCLA, Sergey developed, bench-marked, and applied NGS data processing software for viral and metagenomic data at Dr. Zelikovsky’s lab at GSU and Dr. Swithzer’s lab at the Centers for Disease Control and Prevention. He received M.S. in Applied Mathematics at Saint Petersburg Academic University and Ph.D. in Computer Science at Georgia State University (GSU).
----

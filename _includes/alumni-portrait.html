@@ -1,0 +1,62 @@
+<div>
+<a {% if include.link %}href="{{ include.link | relative_url }}"{% endif %} class="portrait" data-mini="{{ include.mini | default: false }}">
+
+    {%- assign placeholder = include.placeholder | default: "images/placeholder.svg" | relative_url -%}
+  
+    <span class="portrait_image">
+      {%- if include.image -%}
+      <img
+        src="{{ include.image | relative_url }}"
+        onerror="this.src = '{{ placeholder }}'; this.onerror = null;"
+      >
+      {%- else -%}
+      <img src="{{ placeholder }}">
+      {%- endif -%}
+    </span>
+  
+    {%- if include.role -%}
+    {%- include role.html type=include.role -%}
+    {%- endif -%}
+  
+    {%- if include.name -%}
+    <span class="portrait_name">
+      {{ include.name }}
+    </span>
+    {%- endif -%}
+
+<span>
+    {%- if include.email -%}
+    {%- include social-link.html type="email" link=include.email -%}
+    {%- endif -%}
+
+    {%- if include.email -%}
+    <span class="portrait_name">
+      {{ include.email }}
+    </span>
+    {%- endif -%}
+</span>
+<span>
+    {%- if include.github -%}
+    {%- include social-link.html type="github" link=include.github -%}
+    {%- endif -%}
+
+    {%- if include.github -%}
+    <span class="portrait_name">
+      {{ include.github }}
+    </span>
+    {%- endif -%}
+</span>
+<span>
+    {%- if include.linkedin -%}
+    {%- include social-link.html type="linkedin" link=include.linkedin -%}
+    {%- endif -%}
+
+    {%- if include.linkedin -%}
+    <span class="portrait_name">
+      {{ include.linkedin }}
+    </span>
+    {%- endif -%}
+</span>
+
+  </a>
+</div>
