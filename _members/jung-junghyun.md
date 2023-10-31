@@ -3,11 +3,16 @@ title: Junghyun Jung
 image: images/team/junghyun-jung.jpg
 role: postdoc
 group: alum
-website: https://junghyunjj.github.io/
 email: junghyun.jung@usc.edu
-google: 3Va15VcAAAAJ
+linkedin: junghyun-jung-0197b29b
 github: junghyunJJ
+google: 3Va15VcAAAAJ
 twitter: junghyunjj
+# website:
+
+lab_member_years: 
+alma_mater: test
+current_job_position: test
 ---
 
 Junghyun Jung joins Mangul Lab in 2020 as a new postdoctoral scholar and is co-advised by Dr. Serghei Mangul and [Dr. Nicholas Mancuso](https://www.mancusolab.com/). He received his Ph.D.in 2020 from [Dongguk University](http://www.dongguk.edu/mbs/en/index.jsp), Seoul, Korea. His research interests include integrative analysis using multi-omic data and method development for functional genomic data.

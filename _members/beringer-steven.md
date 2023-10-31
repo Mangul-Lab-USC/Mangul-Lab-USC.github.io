@@ -17,8 +17,8 @@ group: alum
 
 # contact info and social media links
 email: sberinge@usc.edu
-website: https://www.linkedin.com/in/stevenberinger/
 github: stberinger
+linkedin: stevenberinger
 #twitter: <username>
 
 ---

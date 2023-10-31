@@ -17,7 +17,7 @@ group: alum
 
 # contact info and social media links
 email: Aaron.karlsberg@gmail.com
-website: https://www.linkedin.com/in/aaronkarlsberg
+linkedin: aaronkarlsberg
 github: aaronkarlsberg
 twitter: A4RONK
 

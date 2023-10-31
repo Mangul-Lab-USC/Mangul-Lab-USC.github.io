@@ -10,8 +10,8 @@ group: alum
 
 #contact info and social media links
 email: beadell@usc.edu
-website: http://www.linkedin.com/in/brent-beadell-1594ab11b
 github: bbdell
+linkedin: brent-beadell-1594ab11b
 ---
 
 Brent Beadell is a graduate student pursuing a Ph.D. in the Pharmaceutical and Translational Sciences program.

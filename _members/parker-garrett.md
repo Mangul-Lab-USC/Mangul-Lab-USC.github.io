@@ -16,8 +16,8 @@ group: alum
 
 # contact info and social media links
 email: garrett.parker@me.com
-website: https://www.linkedin.com/in/garrettparker/
 github: garrett-parker
+linkedin: garrettparker
 #twitter: <username>
 
 ---

@@ -17,8 +17,8 @@ group: alum
 
 # contact info and social media links
 email: rchikka11@gmail.com
-website: https://www.linkedin.com/in/rahul-chikka/
 #github: <username>
+linkedin: rahul-chikka
 #twitter: <username>
 
 ---

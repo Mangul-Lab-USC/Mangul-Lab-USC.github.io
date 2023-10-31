@@ -16,7 +16,7 @@ linkedin: sergey-knyazev
 # website: <url>
 
 # Information for alumni page:
-lab_member_years: 0000--0000
+lab_member_years: 
 alma_mater: Postdoctoral Scholar, joint with Prof. Bogdan Pasaniuc, USC School of Pharmacy
 current_job_position: Currently Senior Softwaer Engineer at Alumnit
 ---

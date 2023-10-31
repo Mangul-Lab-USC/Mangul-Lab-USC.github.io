@@ -16,8 +16,8 @@ group: alum
 
 # contact info and social media links
 email: zmmiller@usc.edu
-website: https://www.linkedin.com/in/zacharymiller459
 github: zachmiller459
+linkedin: zacharymiller459
 #twitter: <username>
 
 ---
