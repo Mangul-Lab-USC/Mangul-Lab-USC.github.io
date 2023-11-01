@@ -1,17 +1,17 @@
 ---
 title: Brent A. Beadell
-
 image: images/team/brent-beadell.jpg
-role: phd
 
-# add person to alumni group
+role: phd
 group: alum
 
-
-#contact info and social media links
 email: beadell@usc.edu
 github: bbdell
 linkedin: brent-beadell-1594ab11b
+
+lab_member_years: 
+alma_mater: Ph.D. Rotation student, Pharmaceutical and Translational Sciences (PHTS) Program, USC School of Pharmacy
+current_job_position: Currently Research Technician at Molecular Express, Inc.
 ---
 
 Brent Beadell is a graduate student pursuing a Ph.D. in the Pharmaceutical and Translational Sciences program.

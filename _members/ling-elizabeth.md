@@ -1,26 +1,18 @@
 ---
 title: Elizabeth Ling
-
-# name variations to include when generating list of this person's papers
-#search:
-#  - <name variation 1>
-#  - <name variation 2>
-
-# if image not specified, default will automatically be used
 image: images/team/elizabeth-ling.jpg
 
-# role must be included or person won't appear on team page
 role: pharmd
-
-# add person to alumni group
 group: alum
 
-# contact info and social media links
 email: lingeliz@usc.edu
-#website: <url>
+linkedin: elizabethlitingling
 #github: <username>
 #twitter: <username>
 
+lab_member_years:
+alma_mater: PharmD Rotation student, USC School of Pharmacy
+current_job_position: Currently PharmD Student at Biogen
 ---
 
 Elizabeth is a second year pharmacy student at the University of Southern California.

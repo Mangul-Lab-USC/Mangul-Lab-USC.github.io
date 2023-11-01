@@ -1,25 +1,20 @@
 ---
 title: Zach Miller
- 
-# name variations to include when generating list of this person's papers
 search:
   - Zachary Miller
+image: images/team/zach-miller.jpg
 
-# if image not specified, default will automatically be used
-image: images/team/blank.jpg
-
-# role must be included or person won't appear on team page
 role: phd
-
-# add person to alumni group
 group: alum
 
-# contact info and social media links
 email: zmmiller@usc.edu
 github: zachmiller459
 linkedin: zacharymiller459
 #twitter: <username>
 
+lab_member_years:
+alma_mater: Ph.D. Rotation student, Physical Chemistry, University of California, Berkeley
+current_job_position: Currently PhD Student in Physical Chemistry at University of California, Berkeley
 ---
 
 Zach Miller is a first year graduate student pursuing a Ph.D. in the Pharmaceutical and Translational Sciences program.

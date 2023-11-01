@@ -1,13 +1,13 @@
 ---
 title: Sergey Knyazev
-
 search:
   - Sergey
   - Knyazev
 image: images/team/Sergey-Knyazev.jpg
+
+role: postdoc # degree: <pi / postdoc / phd / masters / undergrad>
 group: alum
-# degree: <pi / postdoc / phd / masters / undergrad>
-role: postdoc
+
 email: sergey.n.knyazev@gmail.com
 github: Sergey-Knyazev
 linkedin: sergey-knyazev

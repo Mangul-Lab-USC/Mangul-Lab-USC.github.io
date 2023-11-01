@@ -8,7 +8,9 @@ redirect_from:
 
 # <i class="fas fa-tools"></i>Resources
 
+<p style="text-align: center;">
 This page includes our open-sourced softwares, some information we find useful, our lab videos and the news in which Mangul Lab was present.  
+</p>
 
 <!-- section break -->
 

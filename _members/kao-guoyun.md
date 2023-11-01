@@ -1,26 +1,19 @@
 ---
 title: Guoyun Kao
-
-# name variations to include when generating list of this person's papers
-#search:
-#  - <name variation 1>
-#  - <name variation 2>
-
-# if image not specified, default will automatically be used
 image: images/team/guoyun-kao.jpg
 
-# role must be included or person won't appear on team page
 role: phd
-
-# add person to alumni group
 group: alum
 
-# contact info and social media links
 email: guoyunka@usc.edu
+linkedin: guoyun-kao-b1505526b
 #website: <url>
 github: guoyunka
 #twitter: <username>
 
+lab_member_years:
+alma_mater: Ph.D. Rotation student, Pharmaceutical and Translational Sciences (PHTS) Program, USC School of Pharmacy
+current_job_position: Currently PhD Student at USC Alfred E. Mann School of Pharmacy and Pharmaceutical Sciences
 ---
 
 Guoyun Kao received his Doctor of Pharmacy from the Massachusetts College of Pharmacy and Health Sciences (MCPHS University) and is currently studying PhD at USC.
