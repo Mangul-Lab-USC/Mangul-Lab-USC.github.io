@@ -17,8 +17,8 @@ group: alum
 
 # contact info and social media links
 email: german@cs.stanford.edu
-website: https://www.linkedin.com/in/germanenik/
 #github: <username>
+linkedin: germanenik
 #twitter: <username>
 
 ---

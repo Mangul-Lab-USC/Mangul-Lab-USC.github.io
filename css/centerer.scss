@@ -20,3 +20,21 @@
     margin: 10px;
   }
 }
+
+.centered_alumni {
+  flex-direction: column;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  width: 2000;
+  @include block-margins;
+  @include trim-margins;
+
+  & > * {
+    text-align: none;
+  }
+
+  &[data-spaced="true"] > * {
+    margin: 10px;
+  }
+}

@@ -1,26 +1,18 @@
 ---
 title: Saki Watanabe
-
-# name variations to include when generating list of this person's papers
-#search:
-#  - <name variation 1>
-#  - <name variation 2>
-
-# if image not specified, default will automatically be used
 image: images/team/saki-watanabe.jpg
 
-# role must be included or person won't appear on team page
 role: phd
-
-# add person to alumni group
 group: alum
 
-# contact info and social media links
 #email: <email>
-#website: <url>
 #github: <username>
+linkedin: saki-watanabe
 #twitter: <username>
 
+lab_member_years:
+alma_mater: Ph.D. Rotation student, Pharmaceutical and Translational Sciences (PHTS) Program, USC School of Pharmacy
+current_job_position: Currently Emergency Medical Technician at PRN Ambulance, Inc.
 ---
 
 Saki was a PhD rotation student a Mangul Lab during fall of 2020. 

@@ -72,3 +72,17 @@
     }
   }
 }
+
+.portrait_alumni
+{
+  width: 100%;
+  display: flex; 
+  justify-content: space-between; 
+  align-items: center;
+
+}
+
+.portrait_alumni .social_link
+{
+  padding: 5px;
+}

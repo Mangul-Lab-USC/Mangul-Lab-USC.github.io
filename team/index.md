@@ -10,8 +10,9 @@ redirect_from:
 
 # <i class="fas fa-users"></i>Team
 
+<p style="text-align: center;">
 Our diverse team is composed of a highly enthusiastic and collaborative researchers. We foster a friendly and collaborative environment, where team members can learn from each other.
-
+</p>
 
 {% capture html %}
 {% include team-list.html role="pi" group="" %}

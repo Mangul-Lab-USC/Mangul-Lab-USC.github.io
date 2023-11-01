@@ -17,8 +17,8 @@ group: alum
 
 # contact info and social media links
 email: taylor.shabani@duke.edu
-website: https://www.linkedin.com/in/taylorshabani/
 github: taylorshab
+linkedin: taylorshabani
 #twitter: <username>
 
 ---

@@ -8,7 +8,9 @@ redirect_from:
 
 ## Affiliated members
 
+<p style="text-align: center;">
 These are affiliated members of the Mangul Lab USC.
+</p>
 
 {% capture teamhtml %}
 {% include team-list.html role="affiliate" group="" %}

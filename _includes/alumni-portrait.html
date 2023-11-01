@@ -1,0 +1,87 @@
+<div class="portrait_alumni">
+  
+  <span style="flex-basis: 8%;">
+    {%- if include.lab_member_years -%} 
+    <span class="portrait_name"> {{ include.lab_member_years }} </span>
+    {%- endif -%}
+  </span>
+  
+  <a {% if include.link %}href="{{ include.link | relative_url }}" {% endif %} class="portrait" data-mini="{{ include.mini | default: false }}">
+    <span>
+      {%- assign placeholder = include.placeholder | default: "images/placeholder.svg" | relative_url -%}
+
+      <span class="portrait_image">
+        {%- if include.image -%}
+        <img src="{{ include.image | relative_url }}" onerror="this.src = '{{ placeholder }}'; this.onerror = null;" />
+        {%- else -%}
+        <img src="{{ placeholder }}" />
+        {%- endif -%}
+      </span>
+
+      {%- if include.role -%} {%- include role.html type=include.role -%} {%- endif -%} {%- if include.name -%}
+      <span class="portrait_name"> {{ include.name }} </span>
+      {%- endif -%}
+    </span>
+  </a>
+  <span style="display: inline-flex; flex-direction: column; align-items: flex-start; flex-basis: 25%;">
+    <span>
+      {%- if include.email -%} {%- include social-link.html type="email" link=include.email -%} {%- endif -%} {%- if include.email -%}
+      <span class="portrait_name"> {{ include.email }} </span>
+      {%- endif -%}
+    </span>
+
+    <span>
+      {%- if include.website -%} {%- include social-link.html type="website" link=include.website -%} {%- endif -%} {%- if include.website -%}
+      <span class="portrait_name"> {{ include.website }} </span>
+      {%- endif -%}
+    </span>
+
+    <span>
+      {%- if include.google -%} {%- include social-link.html type="google" link=include.google -%} {%- endif -%} {%- if include.google -%}
+      <span class="portrait_name"> {{ include.google }} </span>
+      {%- endif -%}
+    </span>
+
+    <span>
+      {%- if include.github -%} {%- include social-link.html type="github" link=include.github -%} {%- endif -%} {%- if include.github -%}
+      <span class="portrait_name"> {{ include.github }} </span>
+      {%- endif -%}
+    </span>
+
+    <span>
+      {%- if include.linkedin -%} {%- include social-link.html type="linkedin" link=include.linkedin -%} {%- endif -%} {%- if include.linkedin -%}
+      <span class="portrait_name"> {{ include.linkedin }} </span>
+      {%- endif -%}
+    </span>
+
+    <span>
+      {%- if include.twitter -%} {%- include social-link.html type="twitter" link=include.twitter -%} {%- endif -%} {%- if include.twitter -%}
+      <span class="portrait_name"> {{ include.twitter }} </span>
+      {%- endif -%}
+    </span>
+
+    <span>
+      {%- if include.instagram -%} {%- include social-link.html type="twitter" link=include.instagram -%} {%- endif -%} {%- if include.instagram -%}
+      <span class="portrait_name"> {{ include.instagram }} </span>
+      {%- endif -%}
+    </span>
+
+    <span>
+      {%- if include.youtube -%} {%- include social-link.html type="twitter" link=include.youtube -%} {%- endif -%} {%- if include.youtube -%}
+      <span class="portrait_name"> {{ include.youtube }} </span>
+      {%- endif -%}
+    </span>
+  </span>
+
+  <span style="flex-basis: 30%; padding: 5px;">
+    {%- if include.alma_mater -%} 
+    <span class="portrait_name"> {{ include.alma_mater }} </span>
+    {%- endif -%}
+  </span>
+
+  <span style="flex-basis: 30%; padding: 5px;">
+    {%- if include.current_job_position -%} 
+    <span class="portrait_name"> {{ include.current_job_position }} </span>
+    {%- endif -%}
+  </span>
+</div>

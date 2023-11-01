@@ -5,7 +5,9 @@ background: images/backgrounds/califo.jpg
 
 # <i class="fas fa-feather-alt"></i>Gallery
 
+<p style="text-align: center;">
 This tab contains photos of Mangul Lab. 
+</p>
 
 {%
   include gallery.html

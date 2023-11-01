@@ -1,26 +1,19 @@
 ---
 title: Dandan Peng
-
-# name variations to include when generating list of this person's papers
-#search:
-#  - <name variation 1>
-#  - <name variation 2>
-
-# if image not specified, default will automatically be used
 image: images/team/dandan-peng.png
 
-# role must be included or person won't appear on team page
 role: phd
-
-# add person to alumni group
 group: alum
 
-# contact info and social media links
 email: dandanpe@usc.edu
-website: https://dandanpeng.github.io/
+linkedin: dandan-peng-816142a9
 github: dandanpeng
 twitter: Dandan_Peng
+website: https://dandanpeng.github.io/
 
+lab_member_years:
+alma_mater: Ph.D. Rotation student, Computational Biology and Bioinformatics, University of Southern California
+current_job_position: Currently PhD Student at University of Southern California
 ---
 
 Dandan Peng, rotation student. 
