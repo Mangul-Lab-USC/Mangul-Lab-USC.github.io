@@ -15,23 +15,23 @@ These are past lab alumni who have moved on to the industry, other school progra
 {% capture html %}
 
 {% include alumni-tabled.html role="pi" group="alum" mini="true" %}
-<h3 style="text-align: start; width: 83%;"> Postdoctoral Fellows </h3>
+<h3 style="text-align: start; width: 85%;"> Postdoctoral Fellows </h3>
 {% include alumni-tabled.html role="postdoc" group="alum" mini="true" %}
-<h3 style="text-align: start; width: 83%;"> Bioinformatics Analysts </h3>
+<h3 style="text-align: start; width: 85%;"> Bioinformatics Analysts </h3>
 {% include alumni-tabled.html role="bioinformatics-analyst" group="alum" mini="true" %}
-<h3 style="text-align: start; width: 83%;"> PhD Rotation Students </h3>
+<h3 style="text-align: start; width: 85%;"> PhD Rotation Students </h3>
 {% include alumni-tabled.html role="phd" group="alum" mini="true" %}
-<h3 style="text-align: start; width: 83%;"> PharmD Students </h3>
+<h3 style="text-align: start; width: 85%;"> PharmD Students </h3>
 {% include alumni-tabled.html role="pharmd" group="alum" mini="true" %}
-<h3 style="text-align: start; width: 83%;"> Master’s Students </h3>
+<h3 style="text-align: start; width: 85%;"> Master’s Students </h3>
 {% include alumni-tabled.html role="masters" group="alum" mini="true" %}
-<h3 style="text-align: start; width: 83%;"> Undergraduate Students </h3>
+<h3 style="text-align: start; width: 85%;"> Undergraduate Students </h3>
 {% include alumni-tabled.html role="undergrad" group="alum" mini="true" %}
-<h3 style="text-align: start; width: 83%;"> High School Students </h3>
+<h3 style="text-align: start; width: 85%;"> High School Students </h3>
 {% include alumni-tabled.html role="highschool" group="alum" mini="true" %}
-<!-- <h3 style="text-align: start; width: 83%;"> Programmers </h3> -->
+<!-- <h3 style="text-align: start; width: 85%;"> Programmers </h3> -->
 {% include alumni-tabled.html role="programmer" group="alum" mini="true" %}
-<!-- <h3 style="text-align: start; width: 83%;"> Mascots </h3> -->
+<!-- <h3 style="text-align: start; width: 85%;"> Mascots </h3> -->
 {% include alumni-tabled.html role="mascot" group="alum" mini="true" %}
 
 {% endcapture %}
