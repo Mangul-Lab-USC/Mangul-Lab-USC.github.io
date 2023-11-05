@@ -1,25 +1,21 @@
 ---
 title: Garrett Parker
-
-# name variations to include when generating list of this person's papers
 search:
   - J. Garrett Parker
-
-# if image not specified, default will automatically be used
 image: images/team/garett-parker.jpg
 
-# role must be included or person won't appear on team page
 role: undergrad
-
-# add person to alumni group
 group: alum
 
-# contact info and social media links
 email: garrett.parker@me.com
+linkedin: garrettparker
 github: garrett-parker
 linkedin: garrettparker
 #twitter: <username>
 
+lab_member_years: 2016 - 2018
+alma_mater: Bachelor of Science, Applied Mathematics, UC San Diego
+current_job_position: Former Researcher at NASA Jet Propulsion Laboratory 
 ---
 
 Garrett Parker was an undergraduate researcher at Mangul lab from 2016 to 2018, and a 2017 UCLA QCB B.I.G. Summer Scholar. 
