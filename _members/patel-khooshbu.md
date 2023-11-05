@@ -5,8 +5,8 @@ search:
   - Patel
 image: images/team/khooshbu-patel.png
 
-group: alum
 role: masters
+group: alum
 
 email: khooshbu@usc.edu
 linkedin: khooshbu-patel99

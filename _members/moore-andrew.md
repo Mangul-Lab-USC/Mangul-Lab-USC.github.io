@@ -9,6 +9,7 @@ role: masters
 group: alum
 
 email: mooreand@usc.edu
+linkedin: andrewlmoore2020
 github: drewm8080
 
 lab_member_years: 
