@@ -12,7 +12,7 @@ email: srishti.ginjala@gmail.com
 linkedin: srishti-ginjala-6348271b6
 github: Srishtiginjala
 
-#lab_member_years: 
+lab_member_years: 
 alma_mater: PHD Student, Computer Science, The Ohio State University
 current_job_position: Former Undergraduate Researcher at University of Southern California
 ---
