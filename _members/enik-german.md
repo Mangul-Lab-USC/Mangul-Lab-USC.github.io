@@ -1,26 +1,18 @@
 ---
 title: German Enik
- 
-# name variations to include when generating list of this person's papers
-#search:
-#  - <name variation 1>
-#  - <name variation 2>
-
-# if image not specified, default will automatically be used
 image: images/team/profile-german-enik.jpg
 
-# role must be included or person won't appear on team page
-role: undergrad
-
-# add person to alumni group
+role: masters
 group: alum
 
-# contact info and social media links
 email: german@cs.stanford.edu
 #github: <username>
 linkedin: germanenik
 #twitter: <username>
 
+lab_member_years: 
+alma_mater: Master of Science, Computer Science, Stanford University
+current_job_position: Currently Software Engineer at Apple
 ---
 
 German was a high school researcher at Mangul lab in 2017.

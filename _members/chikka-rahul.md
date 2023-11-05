@@ -1,26 +1,18 @@
 ---
 title: Rahul Chikka
-
-# name variations to include when generating list of this person's papers
-#search:
-#  - <name variation 1>
-#  - <name variation 2>
-
-# if image not specified, default will automatically be used
 image: images/team/rahul-chikka.jpg
 
-# role must be included or person won't appear on team page
-role: undergrad
-
-# add person to alumni group
+role: masters
 group: alum
 
-# contact info and social media links
 email: rchikka11@gmail.com
 #github: <username>
 linkedin: rahul-chikka
 #twitter: <username>
 
+lab_member_years:
+alma_mater: Master of Science, Computer Science, UCLA
+current_job_position: Currently Software Development Engineer at Amazon Web Services (AWS)
 ---
 
 Rahul was an undergraduate researcher at Mangul lab in 2019.
