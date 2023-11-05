@@ -1,7 +1,7 @@
 ---
-title: Alumni
+title: Alum
 redirect_from:
-  - /alumni
+  - /alum
 ---
 
 <!-- section break -->
