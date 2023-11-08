@@ -1,3 +1,20 @@
+- title: 'SequenceLab: A Comprehensive Benchmark of Computational Methods for Comparing Genomic Sequences'
+  authors:
+  - Maximilian-David Rumpf
+  - Mohammed Alser
+  - Arvid E. Gollwitzer
+  - Joel Lindegger
+  - Nour Almadhoun
+  - Can Firtina
+  - Serghei Mangul
+  - Onur Mutlu
+  publisher: arXiv
+  date: '2023-10-25'
+  link: https://doi.org/10.48550/arXiv.2310.16908
+  id: doi:10.48550/arXiv.2310.16908
+  image: images/research/SequenceLab-A-Comprehensive-Benchmark-of-Computational-Methods-for-Comparing-Genomic-Sequences.png
+  extra-links:
+  - type: preprint
 - title: 'A rigorous benchmarking of methods for SARS-CoV-2 lineage abundance estimation in wastewater'
   authors:
   - Viorel Munteanu 
