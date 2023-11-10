@@ -5,7 +5,7 @@ search:
   - Knyazev
 image: images/team/Sergey-Knyazev.jpg
 
-role: postdoc # degree: <pi / postdoc / phd / masters / undergrad>
+role: postdoc # degree: <pi / postdoc / phd / masters / undergrad / highschool>
 group: alum
 
 email: sergey.n.knyazev@gmail.com
