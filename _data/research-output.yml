@@ -1,5 +1,22 @@
 - title: 'SequenceLab: A Comprehensive Benchmark of Computational Methods for Comparing Genomic Sequences'
   authors:
+  - Arvid E. Gollwitzer
+  - Mohammed Alser
+  - Joel Bergtholdt
+  - Joel Lindegger
+  - Maximilian-David Rumpf
+  - Can Firtina
+  - Serghei Mangul
+  - Onur Mutlu
+  publisher: arXiv
+  date: '2023-11-03'
+  link: https://doi.org/10.48550/arXiv.2311.02029
+  id: doi:10.48550/arXiv.2311.02029
+  image: images/research/MetaFast-Enabling-Fast-Metagenomic-Classification-via-Seed-Counting-and-Edit-Distance-Approximation.png
+  extra-links:
+  - type: preprint
+- title: 'SequenceLab: A Comprehensive Benchmark of Computational Methods for Comparing Genomic Sequences'
+  authors:
   - Maximilian-David Rumpf
   - Mohammed Alser
   - Arvid E. Gollwitzer
