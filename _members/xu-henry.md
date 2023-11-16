@@ -4,8 +4,8 @@ search:
   - Henry Xu
 image: images/team/henry-xu.jpg
 
-group: alum
-role: masters
+# group: alum
+role: affiliate # masters
 
 email: yidian@usc.edu 
 github: Silverkey0 
