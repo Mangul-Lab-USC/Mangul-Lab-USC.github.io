@@ -5,8 +5,8 @@ search:
   - Mehta
 image: images/team/jay-mehta.jpg
 
-group: alum
-role: masters
+# group: alum
+role: affiliate # masters
 
 email: jayhiman@usc.edu
 github: jaymehta8898
