@@ -27,7 +27,7 @@
   image: images/research/paper-thumbnail.png
   extra-links:
   - type: preprint
-    link: https://doi.org/10.31219/osf.io/rcsaq
+    link: https://osf.io/rcsaq/
 - title: 'MetaFast: Enabling Fast Metagenomic Classification via Seed Counting and Edit Distance Approximation'
   authors:
   - Arvid E. Gollwitzer
