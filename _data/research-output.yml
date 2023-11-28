@@ -1,3 +1,33 @@
+- title: 'Pioneering computational culture within pharmacy schools by empowering students with data science and bioinformatics skills'
+  authors:
+  - Cynthia Ronkowski
+  - Nitesh Sharma
+  - Mohammad Vahed 
+  - Yesha M. Patel
+  - Dhrithi Deshpande
+  - Hovhannes J. Gukasyan
+  - Maryann Wu
+  - Kerui Peng
+  - Terry David Church
+  - Rory E. Kim
+  - Edith Mirzaian
+  - William Vincent Padula
+  - Daniel Tomaszewski
+  - Tien M.H. Ng
+  - Annie Wong-Beringer
+  - Jennica Zaro
+  - Dima M. Qato
+  - Daryl L. Davies
+  - Vassilios Papadopoulos
+  - Serghei Mangul
+  publisher: Center for Open Science
+  date: '2022-11-23'
+  link: https://osf.io/rcsaq/
+  id: doi:10.31219/osf.io/rcsaq
+  image: images/research/paper-thumbnail.png
+  extra-links:
+  - type: preprint
+    link: https://doi.org/10.31219/osf.io/rcsaq
 - title: 'MetaFast: Enabling Fast Metagenomic Classification via Seed Counting and Edit Distance Approximation'
   authors:
   - Arvid E. Gollwitzer
@@ -8041,35 +8071,6 @@
   extra-links:
   - type: manubot
     link: https://doi.org/10.3389/fsysb.2022.918792
-- title: 'Effective and feasible mechanisms to support Ukrainian researchers and students
-    at risk: opportunities, challenges and pitfalls'
-  authors:
-  - Karishma Chhugani
-  - Alina Frolova
-  - Yuriy Salyha
-  - Oksana Zlenko
-  - Sanita Reinsone
-  - Walter Wolfsberger
-  - Oleksandra V. Ivashchenko
-  - Megi Maci
-  - Dmytro Dziuba
-  - Andrii Parkhomenko
-  - Eric Bortz
-  - Fyodor Kondrashov
-  - "Pawe\u0142 P. \u0141abaj"
-  - Veronika Romero
-  - "Jakub Hl\xE1vka"
-  - Taras K. Oleksyk
-  - SERGHEI MANGUL
-  publisher: Center for Open Science
-  date: '2022-10-07'
-  link: https://doi.org/gqzwnw
-  id: doi:10.31219/osf.io/vkp5q
-  image: images/research/paper-thumbnail.png
-  extra-links:
-  - type: preprint
-  - type: manubot
-    link: https://doi.org/10.31219/osf.io/vkp5q
 - title: Pathogenesis, Symptomatology, and Transmission of SARS-CoV-2 through Analysis
     of Viral Genomics and Structure
   authors:
