@@ -24,4 +24,5 @@ This tab contains photos of Mangul Lab.
   image13="images/gallery/The-Mangul-lab-presented-two-talks-and-two-posters-at-the-ISMBECCB-2023-conference-in-Lyon-France-5.jpeg"
   image14="images/gallery/Bridge-Undergraduate-Science-Program-BUGS-Summer-2023-2.jpg"
   image15="images/gallery/PHOTO-2023-11-18-09-58-19.jpg"
+  image16="images/gallery/MC022067.jpg"
 %}
