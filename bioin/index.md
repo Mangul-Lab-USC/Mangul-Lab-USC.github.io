@@ -22,5 +22,6 @@ Your donation is a powerful tool for change in the field of bioinformatics and b
   include figure.html
   flat="true"
   image="images/bioinformatics_for_ukraine/donate_now.png"
+  width="200" height="100"
   link="https://www.betterunite.com/bioinformaticsforukraine-empowerdreamsscholarshipfundforukrainianscholars"
 %}
