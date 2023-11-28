@@ -16,7 +16,7 @@ Kick off the season by showing your support for [Bioinformatics for Ukraine](htt
 
 Donating is quick and easy – simply click on the [Donate Now](https://www.betterunite.com/bioinformaticsforukraine-empowerdreamsscholarshipfundforukrainianscholars) button, and your generosity will provide essential support to both aspiring and current fellows of the Bioinformatics for Ukraine initiative. By doing so, you're not only investing in their future but also contributing to the greater global effort to bridge the gap in resources and opportunities for researchers in regions with limited access to funding. Join us in making a positive impact and fostering a brighter future for the next generation of Ukrainian scientists and researchers. 
 
-Your donation is a powerful tool for change in the field of bioinformatics and biology, and it will help Ukraine and similar countries overcome the obstacles they face. Together, we can create a ripple effect of progress and innovation in these vital areas. Visit http://bioinformaticsforukraine.com/ and take the first step in supporting this meaningful cause today.
+Your donation is a powerful tool for change in the field of bioinformatics and biology, and it will help Ukraine and similar countries overcome the obstacles they face. Together, we can create a ripple effect of progress and innovation in these vital areas. Visit [http://bioinformaticsforukraine.com/](http://bioinformaticsforukraine.com/) and take the first step in supporting this meaningful cause today.
 
 {%
   include figure.html
