@@ -1,3 +1,19 @@
+- title: 'BioLLMBench: A Comprehensive Benchmarking of Large Language Models in Bioinformatics'
+  authors:
+  - Varuni Sarwal
+  - Viorel Munteanu
+  - Timur Suhodolschi
+  - Dumitru Ciorba
+  - Eleazar Eskin
+  - Wei Wang
+  - Serghei Mangul
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-12-20'
+  link: https://www.biorxiv.org/content/10.1101/2023.12.19.572483v1
+  id: doi:10.1101/2023.12.19.572483 
+  image: images/research/BioLLMBench-A-Comprehensive-Benchmarking-of-Large-Language-Models-in-Bioinformatics.png
+  extra-links:
+  - type: preprint
 - title: 'Fasting-Mimicking Diet Inhibits Autophagy and Synergizes with Chemotherapy to Promote T-Cell-Dependent Leukemia-Free Survival'
   authors:
   - Roberta Buono
