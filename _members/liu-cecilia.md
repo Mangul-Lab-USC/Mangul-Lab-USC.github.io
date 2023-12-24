@@ -5,7 +5,7 @@ search:
   - Liu
 image: images/team/cecilia-liu.jpg
 
-role: phd
+role: undergrad
 group: alum
 
 email: fangyunl@usc.edu
