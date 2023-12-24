@@ -5,7 +5,7 @@ search:
   - Chang
 image: images/team/sei-chang.jpg
 
-role: phd
+role: undergrad
 group: alum
 
 website: http://seichang.me
