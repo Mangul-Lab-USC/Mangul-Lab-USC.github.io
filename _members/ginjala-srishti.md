@@ -5,7 +5,7 @@ search:
   - Ginjala
 image: images/team/Srishti_Ginjala.jpg
 
-role: phd
+role: undergrad
 group: alum
 
 email: srishti.ginjala@gmail.com
