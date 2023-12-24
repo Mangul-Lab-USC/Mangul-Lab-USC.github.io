@@ -5,7 +5,7 @@ search:
   - Patel
 image: images/team/yesha-patel.jpg
 
-role: postdoc
+role: bioinformatics-analyst
 group: alum
 
 email: ypatel@med.usc.edu
