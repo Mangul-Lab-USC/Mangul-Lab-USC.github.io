@@ -184,32 +184,6 @@
   link: https://doi.org/10.3390/diagnostics13182993
   id: doi:10.3390/diagnostics13182993
   image: images/research/The-Genomic-Landscape-of-Colorectal-Cancer-in-the-Saudi-Arabian-Population-Using-a-Comprehensive-Genomic-Panel.png
-- title: 'Whole Blood Transcriptomics Identifies Subclasses of Pediatric Septic Shock'
-  authors:
-  - Jamie O Yang
-  - Matt S. Zinter
-  - Matteo Pellegrini
-  - Man Yee Wong
-  - Kinisha Gala
-  - Daniela Markovic
-  - Brian Nadel
-  - Kerui Peng
-  - Nguyen Do
-  - Serghei Mangul
-  - Vinay M. Nadkarni
-  - Aaron Karlsberg
-  - Dhrithi Deshpande
-  - Manish J. Butte
-  - Lisa Asaro
-  - Michael Agus
-  - Anil Sapru
-  publisher: Research Square
-  date: '2023-08-28'
-  link: https://doi.org/10.21203/rs.3.rs-3267057/v1
-  id: doi:10.21203/rs.3.rs-3267057/v1
-  image: images/research/Whole-Blood-Transcriptomics-Identifies-Subclasses-of Pediatric-Septic-Shock.png
-  extra-links:
-  - type: preprint
 - title: 'Genomic reproducibility in the bioinformatics era'
   authors:
   - Pelin Icer Baykal
