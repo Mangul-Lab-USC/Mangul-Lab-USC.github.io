@@ -1,11 +1,13 @@
 ---
 title: Loe Zou
-
 search:
   - Loe
   - Zou
 image: images/team/loe-zou.jpeg
+
+group: alum
 role: masters
+
 email: zoul@usc.edu
 github: Loe-zou
 twitter: loezou
