@@ -13,7 +13,7 @@ image: images/blog/
 
 
 ### Varuni Sarwal selected as a 2023 Amazon Fellow!
-Varuni Sarwal, a CS PhD student jointly advised by Eleazar Eskin, UCLA and Serghei Mangul, USC was selected as one of the 2023 Amazon Fellows funded through [the Science Hub for Humanity and Artificial Intelligence at UCLA](https://www.sciencehub.ucla.edu/funding-fourth-call/). Her nomination stood out among a pool of highly competitive candidates.
+[Varuni Sarwal](https://mangul-lab-usc.github.io/members/sarwal-varuni.html), a CS PhD student jointly advised by Eleazar Eskin, UCLA and Serghei Mangul, USC was selected as one of the 2023 Amazon Fellows funded through [the Science Hub for Humanity and Artificial Intelligence at UCLA](https://www.sciencehub.ucla.edu/funding-fourth-call/). Her nomination stood out among a pool of highly competitive candidates.
 
 The Science Hub is a collaborative effort between UCLA and Amazon with the mission to address humanity’s pressing challenges by cross-pollinating academic and industry research that harnesses the power of artificial intelligence. Every year, the Science Hub will invite UCLA faculty to submit nominations for doctoral student fellows. The fellowships will provide each selected UCLA Samueli doctoral graduate student with funding to pursue independent research projects.
 
