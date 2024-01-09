@@ -1,9 +1,9 @@
 ---
 
-title: Diala Alhousari
+title: Bhavatharini Arun
 search:
-  - Diala
-  - Alhousari
+  - Bhavatharini 
+  - Arun
 image: images/team/bhavatharini-arun.jpg
 
 role: phd
