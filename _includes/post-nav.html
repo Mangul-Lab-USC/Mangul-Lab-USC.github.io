@@ -4,7 +4,7 @@
     <i class="fas fa-angle-left"></i> Previous post<br />
     <a
       href="{{ include.post.previous.url | relative_url }}"
-      class="truncate"
+      class="flex-child"
       >
       {{ include.post.previous.title }}
     </a>
@@ -15,7 +15,7 @@
     Next post <i class="fas fa-angle-right"></i><br />
     <a
       href="{{ include.post.next.url | relative_url }}"
-      class="truncate"
+      class="flex-child"
     >
       {{ include.post.next.title }}
     </a>
