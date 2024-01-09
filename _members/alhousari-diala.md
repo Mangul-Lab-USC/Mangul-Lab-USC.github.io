@@ -5,7 +5,9 @@ search:
   - Diala
   - Alhousari
 image: images/team/diala-alhousari.jpg
+
 role: phd
+
 email: alhousar@usc.edu
 github: Dialaalhousari
 twitter: Lalousheeee
