@@ -1,7 +1,9 @@
 ---
 title: Henry Xu
 search:
-  - Henry Yidian Xu
+  - Henry
+  - Yidian
+  - Xu
 image: images/team/henry-xu.jpg
 
 group: alum
