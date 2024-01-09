@@ -1,7 +1,7 @@
 ---
 title: Henry Xu
 search:
-  - Henry
+ # - Henry
   - Yidian
   - Xu
 image: images/team/henry-xu.jpg
