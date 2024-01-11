@@ -14,6 +14,7 @@
   image: images/research/BioLLMBench-A-Comprehensive-Benchmarking-of-Large-Language-Models-in-Bioinformatics.png
   extra-links:
   - type: preprint
+
 - title: 'Fasting-Mimicking Diet Inhibits Autophagy and Synergizes with Chemotherapy to Promote T-Cell-Dependent Leukemia-Free Survival'
   authors:
   - Roberta Buono
@@ -30,6 +31,7 @@
   link: https://doi.org/10.3390/cancers15245870
   id: doi:10.3390/cancers15245870
   image: images/research/Fasting-Mimicking-Diet-Inhibits-Autophagy-and-Synergizes-with-Chemotherapy-to-Promote-T-Cell-Dependent-Leukemia-Free-Survival.png
+
 - title: 'Whole blood transcriptomics identifies subclasses of pediatric septic shock'
   authors:
   - Jamie O. Yang
@@ -54,6 +56,7 @@
   link: https://doi.org/10.1186/s13054-023-04689-y
   id: doi:10.1186/s13054-023-04689-y
   image: images/research/Whole-blood-transcriptomics-identifies-subclasses-of-pediatric-septic-shock.png
+
 - title: 'Pioneering computational culture within pharmacy schools by empowering students with data science and bioinformatics skills'
   authors:
   - Cynthia Ronkowski
@@ -84,6 +87,7 @@
   extra-links:
   - type: preprint
     link: https://osf.io/rcsaq/
+
 - title: 'MetaFast: Enabling Fast Metagenomic Classification via Seed Counting and Edit Distance Approximation'
   authors:
   - Arvid E. Gollwitzer
@@ -101,6 +105,7 @@
   image: images/research/MetaFast-Enabling-Fast-Metagenomic-Classification-via-Seed-Counting-and-Edit-Distance-Approximation.png
   extra-links:
   - type: preprint
+
 - title: 'SequenceLab: A Comprehensive Benchmark of Computational Methods for Comparing Genomic Sequences'
   authors:
   - Maximilian-David Rumpf
@@ -118,6 +123,7 @@
   image: images/research/SequenceLab-A-Comprehensive-Benchmark-of-Computational-Methods-for-Comparing-Genomic-Sequences.png
   extra-links:
   - type: preprint
+
 - title: 'A rigorous benchmarking of methods for SARS-CoV-2 lineage abundance estimation in wastewater'
   authors:
   - Viorel Munteanu 
@@ -138,6 +144,7 @@
   image: images/research/A-rigorous-benchmarking-of-methods-for-SARS-CoV-2-lineage-abundance-estimation-in-wastewater.png
   extra-links:
   - type: preprint
+
 - title: 'SARS-CoV-2 Wastewater Genomic Surveillance: Approaches, Challenges, and Opportunities'
   authors:
   - Viorel Munteanu 
@@ -167,6 +174,7 @@
   image: images/research/SARS-CoV-2-Wastewater-Genomic-Surveillance-Approaches-Challenges-and-Opportunities.png
   extra-links:
   - type: preprint
+
 - title: 'The Genomic Landscape of Colorectal Cancer in the Saudi Arabian Population Using a Comprehensive Genomic Panel'
   authors:
   - Ebtehal Alsolme
@@ -184,6 +192,7 @@
   link: https://doi.org/10.3390/diagnostics13182993
   id: doi:10.3390/diagnostics13182993
   image: images/research/The-Genomic-Landscape-of-Colorectal-Cancer-in-the-Saudi-Arabian-Population-Using-a-Comprehensive-Genomic-Panel.png
+
 - title: 'Genomic reproducibility in the bioinformatics era'
   authors:
   - Pelin Icer Baykal
@@ -200,6 +209,7 @@
   image: images/research/Genomic-reproducibility-in-the-bioinformatics-era.png
   extra-links:
   - type: preprint
+
 - title: Rigorous benchmarking of T-cell receptor repertoire profiling methods for cancer RNA sequencing
   authors:
   - Kerui Peng
@@ -225,6 +235,7 @@
   link: https://doi.org/10.1093/bib/bbad220
   id: doi:10.1093/bib/bbad220
   image: https://www.medrxiv.org/content/medrxiv/early/2022/03/31/2022.03.31.22273249/F1.medium.gif
+
 - title: 'VISTA: An integrated framework for structural variant discovery'
   authors:
   - Varuni Sarwal
@@ -241,6 +252,7 @@
   image: images/research/VISTA-An-integrated-framework-for-structural-variant-discovery.png
   extra-links:
   - type: preprint
+
 - title: 'Analytical code sharing practices in biomedical research'
   authors:
   - Nitesh Kumar Sharma
@@ -265,6 +277,7 @@
   image: images/research/Analytical-code-sharing-practices-in-biomedical-research.png
   extra-links:
   - type: preprint
+
 - title: 'A Rigorous Benchmarking of alignment-based HLA callers for RNA-seq data'
   authors:
   - Dottie Yu
@@ -277,6 +290,7 @@
   image: images/research/A-Rigorous-Benchmarking-of-alignment-based-HLA-callers-for-RNA-seq-data.jpg
   extra-links:
   - type: preprint
+
 - title: 'Scientists without borders: lessons from Ukraine'
   authors:
   - Walter Wolfsberger
@@ -307,6 +321,7 @@
   link: https://doi.org/gsjd4b
   id: doi:10.1093/gigascience/giad045
   image: https://raw.githubusercontent.com/Mangul-Lab-USC/Mangul-Lab-USC.github.io/main/images/research/Scientists-without-borders-lessons-from-Ukraine.jpeg
+
 - title: Meta-analysis of (single-cell method) benchmarks reveals the need for extensibility
     and interoperability
   authors:
@@ -338,6 +353,7 @@
   extra-links:
   - type: manubot
     link: https://doi.org/10.1186/s13059-023-02962-5
+
 - title: Large-scale Integrative Analysis of Juvenile Idiopathic Arthritis for New
     Insight into Its Pathogenesis
   authors:
@@ -355,6 +371,7 @@
   image: https://www.medrxiv.org/content/medrxiv/early/2023/04/12/2023.04.07.23287912/F1.large.jpg?width=800&height=600&carousel=1
   extra-links:
   - type: preprint  
+
 - title: Community structure and temporal dynamics of SARS-CoV-2 epistatic network
     allows for early detection of emerging variants with altered phenotypes
   authors:
@@ -370,6 +387,7 @@
   image: https://www.biorxiv.org/content/biorxiv/early/2023/04/03/2023.04.02.535277/F2.large.jpg?width=800&height=600&carousel=1
   extra-links:
   - type: preprint
+
 - title: Remote opportunities for scholars in Ukraine
   authors:
   - Karishma Chhugani
@@ -395,6 +413,7 @@
   link: https://doi.org/grj7c2
   id: doi:10.1126/science.adg0797
   image: https://www.science.org/cms/10.1126/science.adg0797/asset/eea223b5-fbf1-466b-bccf-fb2233bbc885/assets/images/large/science.adg0797-f1.jpg
+
 - title: 'Packaging, containerization, and virtualization of computational omics methods:
     Advances, challenges, and opportunities'
   authors:
@@ -413,8 +432,7 @@
   - Eleazar Eskin
   - Qiyang Hu
   - Derek Strong
-  - ' Byoung-Do'
-  - ' '
+  - Byoung-Do
   - Malak S. Abedalthagafi
   - Onur Mutlu
   - Serghei Mangul
@@ -423,6 +441,7 @@
   link: https://doi.org/gpvv7j
   id: doi:10.48550/arXiv.2203.16261
   image: https://raw.githubusercontent.com/Mangul-Lab-USC/Mangul-Lab-USC.github.io/main/images/research/image.png
+
 - title: 'Exome-wide association study to identify rare variants influencing COVID-19
     outcomes: Results from the Host Genetics Initiative'
   authors:
@@ -584,22 +603,14 @@
   - Alessandra Renieri
   - Manuel A. R. Ferreira
   - J Brent Richards
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
   publisher: PLOS Genetics
   date: '2022-11-03'
   link: https://doi.org/gq6z3b
   id: doi:10.1371/journal.pgen.1010367
   image: https://www.medrxiv.org/content/medrxiv/early/2022/03/31/2022.03.28.22273040/F2.large.jpg
+
 - title: A first update on mapping the human genetic architecture of COVID-19
   authors:
-  - ' '
   - Gita A. Pathak
   - Juha Karjalainen
   - Christine Stevens
@@ -1470,246 +1481,12 @@
   - Les Biesecker
   - V. Eric Kerchberger
   - J. Kenneth Baillie
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
   publisher: Nature
   date: '2022-08-03'
   link: https://doi.org/gqnr2g
   id: doi:10.1038/s41586-022-04826-7
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-022-04826-7/MediaObjects/41586_2022_4826_Fig1_HTML.png?as=webp
+
 - title: 'ROP: dumpster diving in RNA-sequencing to find the source of 1 trillion
     reads across diverse adult human tissues'
   authors:
@@ -1746,6 +1523,7 @@
   - cancer
   - single cell
   - ovarian cancer
+
 - title: 'The Pioneer Advantage: Filling the blank spots on the map of genome diversity
     in Europe'
   authors:
@@ -1759,6 +1537,7 @@
   link: https://doi.org/gqsfmm
   id: doi:10.1093/gigascience/giac081
   image: images/research/The-Pioneer-Advantage-Filling-the-blank-spots-on-the-map-of-genome-diversity-in-Europe.jpeg
+
 - title: Whole-genome sequencing reveals host factors underlying critical COVID-19
   authors:
   - Athanasios Kousathanas
@@ -4141,199 +3920,6 @@
   - Andy Law
   - Mark J. Caulfield
   - J. Kenneth Baillie
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
   publisher: Nature
   date: '2022-03-07'
   link: https://doi.org/gpnbnn
@@ -4343,6 +3929,7 @@
   - SARS-CoV-2
   - Respiratory distress syndrome
   - Genome-wide association studies
+
 - title: A Novel Network Representation of SARS-CoV-2 Sequencing Data
   authors:
   - Sergey Knyazev
@@ -4366,6 +3953,7 @@
   - Minimal spanning network
   - Genetic relatedness
   - SARS-CoV-2
+
 - title: A comprehensive analysis of code and data availability in biomedical research
   authors:
   - Dhrithi Deshpande
@@ -4379,6 +3967,7 @@
   link: https://doi.org/gphssg
   id: doi:10.31219/osf.io/uz7m5
   image: https://raw.githubusercontent.com/Mangul-Lab-USC/Mangul-Lab-USC.github.io/main/images/research/A%20comprehensive%20analysis%20of%20code%20and%20data%20availability%20in%20biomedical%20research.png
+
 - title: The systematic assessment of completeness of public metadata accompanying
     omics studies
   authors:
@@ -4410,6 +3999,7 @@
   link: https://doi.org/gphssh
   id: doi:10.1101/2021.11.22.469640
   image: https://www.biorxiv.org/content/biorxiv/early/2021/12/11/2021.11.22.469640/F1.medium.gif
+
 - title: 'Critical Assessment of Metagenome Interpretation: the second round of challenges'
   authors:
   - Fernando Meyer
@@ -4520,6 +4110,7 @@
   link: https://doi.org/gpvs88
   id: doi:10.1038/s41592-022-01431-4
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41592-022-01431-4/MediaObjects/41592_2022_1431_Fig3_HTML.png?as=webp
+
 - title: A Quantitative Proteome Map of the Human Body
   authors:
   - Lihua Jiang
@@ -4701,6 +4292,7 @@
   link: https://doi.org/ghbjrk
   id: doi:10.1016/j.cell.2020.08.036
   image: https://www.cell.com/cms/attachment/f6d5841f-07a2-4d7a-9160-b18e119aff5c/gr2.jpg
+
 - title: Recommendations to enhance rigor and reproducibility in biomedical research
   authors:
   - Jaqueline J Brito
@@ -4715,6 +4307,7 @@
   link: https://doi.org/ggzr3d
   id: doi:10.1093/gigascience/giaa056
   image: images/research/Recommendations-to-enhance-rigor-and-reproducibility-in-biomedical-research.jpeg
+
 - title: 'PUMAA: A Platform for Accessible Microbiome Analysis in the Undergraduate
     Classroom'
   authors:
@@ -4730,6 +4323,7 @@
   link: https://doi.org/gph5qf
   id: doi:10.3389/fmicb.2020.584699
   image: https://www.frontiersin.org/files/Articles/584699/fmicb-11-584699-HTML/image_m/fmicb-11-584699-g001.jpg
+
 - title: 'PUMA: A tool for processing 16S rRNA taxonomy data for analysis and visualization'
   authors:
   - Keith Mitchell
@@ -4742,6 +4336,7 @@
   link: https://doi.org/gkt2c3
   id: doi:10.1101/482380
   image: https://www.biorxiv.org/content/biorxiv/early/2018/11/29/482380/F1.large.jpg?width=800&height=600&carousel=1
+
 - title: Profiling immunoglobulin repertoires across multiple human tissues using
     RNA sequencing
   authors:
@@ -4771,6 +4366,7 @@
   tags:
   - cancer
   - machine learning
+
 - title: Accurate viral population assembly from ultra-deep sequencing data
   authors:
   - Serghei Mangul
@@ -4784,6 +4380,7 @@
   link: https://doi.org/f58h9q
   id: doi:10.1093/bioinformatics/btu295
   image: images/research/btu295.png
+
 - title: Benchmarking of computational error-correction methods for next-generation
     sequencing data
   authors:
@@ -4822,6 +4419,7 @@
   - cancer
   - single cell
   - ovarian cancer
+
 - title: Systematic benchmarking of omics computational tools
   authors:
   - Serghei Mangul
@@ -4841,6 +4439,7 @@
   - cancer
   - single cell
   - ovarian cancer
+
 - title: Challenges and recommendations to improve the installability and archival
     stability of omics computational tools
   authors:
@@ -4870,6 +4469,7 @@
   - cancer
   - single cell
   - ovarian cancer
+
 - title: "Involving undergraduates in genomics research to narrow the education\u2013\
     research gap"
   authors:
@@ -4881,6 +4481,7 @@
   link: https://doi.org/ghqfdv
   id: doi:10.1038/nbt.4113
   image: https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fnbt.4113/MediaObjects/41587_2018_Article_BFnbt4113_Fig2_HTML.jpg?as=webp
+
 - title: Transcriptional profiling of single fiber cells in a transgenic paradigm
     of an inherited childhood cataract reveals absence of molecular heterogeneity
   authors:
@@ -4896,6 +4497,7 @@
   link: https://doi.org/ghp82b
   id: doi:10.1074/jbc.RA119.008853
   image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/e42debd4-5cf1-4a7b-82c7-64dd1622eb44/gr1.jpg
+
 - title: Hidden Treasures in Contemporary RNA Sequencing
   authors:
   - Serghei Mangul
@@ -4907,6 +4509,7 @@
   link: https://doi.org/ghp82c
   id: doi:10.1007/978-3-030-13973-5_1
   image: https://media.springernature.com/w306/springer-static/cover-hires/book/978-3-030-13973-5
+
 - title: Spatial Analysis of Single Fiber Cells of the Developing Ocular Lens Reveals
     Regulated Heterogeneity of Gene Expression
   authors:
@@ -4922,6 +4525,7 @@
   link: https://doi.org/ggsz39
   id: doi:10.1016/j.isci.2018.11.024
   image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/cf70d94d-0f6b-415c-af80-c613680722d6/fx1.jpg
+
 - title: 'Addressing the Digital Divide in Contemporary Biology: Lessons from Teaching
     UNIX'
   authors:
@@ -4935,6 +4539,7 @@
   link: https://doi.org/ghqfdw
   id: doi:10.1016/j.tibtech.2017.06.007
   image: https://user-images.githubusercontent.com/71193439/125512144-dbd9e6ff-f327-4a47-aff0-3bc11a19a84f.png
+
 - title: 'Seeing beyond the target: Leveraging off-target reads in targeted clinical
     tumor sequencing to identify prognostic biomarkers'
   authors:
@@ -4948,6 +4553,7 @@
   link: https://doi.org/gk457s
   id: doi:10.1101/2021.05.28.446240
   image: images/research/2021.05.28.446240.jpg
+
 - title: Systematic evaluation of transcriptomics-based deconvolution methods and
     references using thousands of clinical samples
   authors:
@@ -4967,6 +4573,7 @@
   link: https://doi.org/gh87dp
   id: doi:10.1101/2021.03.09.434660
   image: https://www.biorxiv.org/content/biorxiv/early/2021/03/10/2021.03.09.434660/F2.medium.gif
+
 - title: 'Diversity in immunogenomics: the value and the challenge'
   authors:
   - Kerui Peng
@@ -5009,6 +4616,7 @@
   link: https://doi.org//10.1038/s41592-021-01169-5
   id: doi:/10.1038/s41592-021-01169-5
   image: images/research/paper-thumbnail.png
+
 - title: Unlocking capacities of genomics for the COVID-19 response and future pandemics
   authors:
   - Sergey Knyazev
@@ -5051,6 +4659,7 @@
   link: https://doi.org/gpvs87
   id: doi:10.1038/s41592-022-01444-z
   image: images/research/2104.14005.png
+
 - title: Identification and Development of Therapeutics for COVID-19
   authors:
   - Halie M. Rando
@@ -5082,6 +4691,7 @@
   link: https://doi.org/gpjjkm
   id: doi:10.48550/arXiv.2103.02723
   image: images/research/paper-thumbnail.png
+
 - title: 'RNA-seq data science: From raw data to effective interpretation'
   authors:
   - Dhrithi Deshpande
@@ -5107,6 +4717,7 @@
   link: https://doi.org/grw668
   id: doi:10.3389/fgene.2023.997383
   image: https://www.frontiersin.org/files/Articles/997383/fgene-14-997383-HTML-r1/image_m/fgene-14-997383-g001.jpg
+
 - title: 'PhenomeXcan: Mapping the genome to the phenome through the transcriptome'
   authors:
   - Milton Pividori
@@ -5124,6 +4735,7 @@
   link: https://doi.org/ghbvbf
   id: doi:10.1126/sciadv.aba2083
   image: https://www.science.org/cms/10.1126/sciadv.aba2083/asset/4932c38e-30a4-44f1-bb8b-8e52065216ec/assets/graphic/aba2083-f1.jpeg
+
 - title: Accurate assembly of minority viral haplotypes from next-generation sequencing
     through efficient noise reduction
   authors:
@@ -5144,6 +4756,7 @@
   link: https://doi.org/gk6cmp
   id: doi:10.1093/nar/gkab576
   image: images/research/gkab576.jpg
+
 - title: 'Telescope: an interactive tool for managing large-scale analysis from mobile
     devices'
   authors:
@@ -5163,6 +4776,7 @@
   link: https://doi.org/ghp8z9
   id: doi:10.1093/gigascience/giz163
   image: images/research/Telescope-an-interactive-tool-for-managing-large-scale-analysis-from-mobile-devices.jpeg
+
 - title: 'MiCoP: microbial community profiling method for detecting viral and fungal
     organisms in metagenomic samples'
   authors:
@@ -5178,6 +4792,7 @@
   link: https://doi.org/gg4mxz
   id: doi:10.1186/s12864-019-5699-9
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12864-019-5699-9/MediaObjects/12864_2019_5699_Fig1_HTML.png?as=webp
+
 - title: 'Abstract 4688: Single-cell discrimination of altered human T cell states
     in the bladder tumor microenvironment'
   authors:
@@ -5199,6 +4814,7 @@
   link: https://doi.org/gk5ckc
   id: doi:10.1158/1538-7445.AM2018-4688
   image: https://i.ibb.co/BPqvmFK/KG9x2Mo.png
+
 - title: Single Cell Heterogeneity is Absent in the Transgenic Paradigm of an Inherited
     Cataract
   authors:
@@ -5214,6 +4830,7 @@
   link: https://doi.org/gk5ckd
   id: doi:10.2139/ssrn.3244893
   image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/asset/atypon:cms:attachment:img:d264e6:rev:1604337987489-13181:pii:S2468266720X00053/cover.tif.jpg
+
 - title: Identifying cis-mediators for trans-eQTLs across many human tissues using
     genomic mediation analysis
   authors:
@@ -5466,6 +5083,7 @@
   link: https://genome.cshlp.org/content/27/11/1859
   id: url:https://genome.cshlp.org/content/27/11/1859.short
   image: https://i.ibb.co/pnxn61x/Do6qWqB.png
+
 - title: Long Single-Molecule Reads Can Resolve the Complexity of the Influenza Virus
     Composed of Rare, Closely Related Mutant Variants
   authors:
@@ -5480,6 +5098,7 @@
   link: https://doi.org/gbh42m
   id: doi:10.1089/cmb.2016.0146
   image: /images/research/cmb.2016.0146.png
+
 - title: 'HapIso: An Accurate Method for the Haplotype- Specific Isoforms Reconstruction
     From Long Single-Molecule Reads'
   authors:
@@ -5496,6 +5115,7 @@
   link: https://doi.org/ghp82d
   id: doi:10.1109/TNB.2017.2675981
   image: https://i.ibb.co/zXvvsdf/9a4d5tS.png
+
 - title: 'UMI-Reducer: Collapsing duplicate sequencing reads via Unique Molecular
     Identifiers'
   authors:
@@ -5509,6 +5129,7 @@
   link: https://doi.org/gkw3vr
   id: doi:10.1101/103267
   image: https://www.biorxiv.org/content/biorxiv/early/2017/01/25/103267/F1.medium.gif
+
 - title: Discovering Single Nucleotide Polymorphisms Regulating Human Gene Expression
     Using Allele Specific Expression from RNA-seq Data
   authors:
@@ -5527,6 +5148,7 @@
   link: https://doi.org/f9ff5k
   id: doi:10.1534/genetics.115.177246
   image: images/research/Discovering-Single-Nucleotide-Polymorphisms-Regulating-Human-Gene-Expression-Using-Allele-Specific-Expression-from-RNA-seq-Data.jpeg
+
 - title: Applications of High-Fidelity Sequencing Protocol to RNA Viruses
   authors:
   - Serghei Mangul
@@ -5541,6 +5163,7 @@
   link: https://doi.org/ghp82h
   id: doi:10.1002/9781119272182.ch4
   image: images/research/paper-thumbnail.png
+
 - title: CRISPR-Mediated VHL Knockout Generates an Improved Model for Metastatic Renal
     Cell Carcinoma
   authors:
@@ -5560,6 +5183,7 @@
   link: https://doi.org/f8tdfs
   id: doi:10.1038/srep29032
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fsrep29032/MediaObjects/41598_2016_Article_BFsrep29032_Fig6_HTML.jpg?as=webp
+
 - title: Local genetic effects on gene expression across 44 human tissues
   authors:
   - "Fran\xE7ois Aguet"
@@ -5612,12 +5236,12 @@
   - Emmanouil T. Dermitzakis
   - Christopher D. Brown
   - Stephen B. Montgomery
-  - ' '
   publisher: Cold Spring Harbor Laboratory
   date: '2016-09-09'
   link: https://doi.org/gkwhnv
   id: doi:10.1101/074450
   image: https://www.biorxiv.org/content/biorxiv/early/2016/09/09/074450/F1.medium.gif
+
 - title: '2SNV: Quasispecies reconstruction from PacBio reads'
   authors:
   - Alexander Artyomenko
@@ -5632,6 +5256,7 @@
   link: https://doi.org/gk5ckw
   id: doi:10.1109/ICCABS.2015.7344730
   image: images/research/paper-thumbnail.png
+
 - title: Transcriptome assembly and quantification from Ion Torrent RNA-Seq data
   authors:
   - Serghei Mangul
@@ -5645,6 +5270,7 @@
   link: https://doi.org/gb3g2g
   id: doi:10.1186/1471-2164-15-S5-S7
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2F1471-2164-15-S5-S7/MediaObjects/12864_2014_Article_6255_Fig1_HTML.jpg?as=webp
+
 - title: 'VGA: A method for viral quasispecies assembly from ultra-deep sequencing
     data'
   authors:
@@ -5660,6 +5286,7 @@
   link: https://doi.org/ghp82k
   id: doi:10.1109/ICCABS.2014.6863932
   image: images/research/paper-thumbnail.png
+
 - title: Reconstruction of influenza a virus variants from PacBio reads
   authors:
   - Alexander Artyomenko
@@ -5674,6 +5301,7 @@
   link: https://doi.org/gk5ck2
   id: doi:10.1109/ICCABS.2014.6863935
   image: images/research/paper-thumbnail.png
+
 - title: Deterministic regression algorithm for transcriptome frequency estimation
   authors:
   - Adrian Caciula
@@ -5689,6 +5317,7 @@
   link: https://doi.org/gk5ck3
   id: doi:10.1109/ICCABS.2014.6863946
   image: images/research/paper-thumbnail.png
+
 - title: Monte-Carlo Regression algorithm for isoform frequency estimation from RNA-Seq
     data
   authors:
@@ -5703,6 +5332,7 @@
   link: https://doi.org/gk5cmx
   id: doi:10.1109/ICCABS.2013.6629228
   image: images/research/paper-thumbnail.png
+
 - title: An integer programming approach to novel transcript reconstruction from paired-end
     RNA-Seq reads
   authors:
@@ -5718,6 +5348,7 @@
   link: https://doi.org/gk5cmz
   id: doi:10.1145/2382936.2382983
   image: images/research/2382936.2382983.png
+
 - title: 'Workshop: Novel transcript reconstruction from paired-end RNA-Seq reads
     using fragment length distribution'
   authors:
@@ -5731,6 +5362,7 @@
   link: https://doi.org/gk5cm3
   id: doi:10.1109/ICCABS.2012.6182673
   image: images/research/paper-thumbnail.png
+
 - title: RNA-Seq based discovery and reconstruction of unannotated transcripts in
     partially annotated genomes
   authors:
@@ -5744,6 +5376,7 @@
   link: https://doi.org/fznt46
   id: doi:10.1109/BIBMW.2011.6112363
   image: images/research/paper-thumbnail.png
+
 - title: Inferring viral quasispecies spectra from 454 pyrosequencing reads
   authors:
   - Irina Astrovskaya
@@ -5758,6 +5391,7 @@
   link: https://doi.org/fh64g8
   id: doi:10.1186/1471-2105-12-S6-S1
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2F1471-2105-12-S6-S1/MediaObjects/12859_2011_Article_4668_Fig3_HTML.jpg?as=webp
+
 - title: Maximum Likelihood Estimation of Incomplete Genomic Spectrum from HTS Data
   authors:
   - Serghei Mangul
@@ -5771,6 +5405,7 @@
   link: https://doi.org/bfs9j3
   id: doi:10.1007/978-3-642-23038-7_19
   image: images/research/978-3-642-23038-7_19.png
+
 - title: Estimation of alternative splicing isoform frequencies from RNA-Seq data
   authors:
   - Marius Nicolae
@@ -5782,6 +5417,7 @@
   link: https://doi.org/dvh359
   id: doi:10.1186/1748-7188-6-9
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2F1748-7188-6-9/MediaObjects/13015_2010_Article_123_Fig3_HTML.jpg?as=webp
+
 - title: Lack of diversity in T cell receptor sequencing studies
   authors:
   - Yu-Ning Huang
@@ -5802,6 +5438,7 @@
   link: https://doi.org/gk4582
   id: doi:10.31219/osf.io/w25hq
   image: https://user-images.githubusercontent.com/71193439/125509349-143c61d8-7517-43f3-98ab-7de9908444e6.png
+
 - title: 'The Gene Expression Deconvolution Interactive Tool (GEDIT): accurate cell
     type quantification from gene expression data'
   authors:
@@ -5818,6 +5455,7 @@
   link: https://doi.org/gh87gh
   id: doi:10.1093/gigascience/giab002
   image: images/research/The-Gene-Expression-Deconvolution-Interactive-Tool-(GEDIT)-accurate cell-type-quantification-from-gene-expression-data.jpeg
+
 - title: 'Metalign: efficient alignment-based metagenomic profiling via containment
     min hash'
   authors:
@@ -5831,6 +5469,7 @@
   link: https://doi.org/ghtqrz
   id: doi:10.1186/s13059-020-02159-0
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13059-020-02159-0/MediaObjects/13059_2020_2159_Fig1_HTML.png
+
 - title: Exploiting the GTEx resources to decipher the mechanisms at GWAS loci
   authors:
   - Alvaro N. Barbeira
@@ -5861,8 +5500,6 @@
   - Tuuli Lappalainen
   - Xiaoquan Wen
   - Hae Kyung Im
-  - ' '
-  - ' '
   publisher: Genome Biology
   date: '2021-01-26'
   link: https://doi.org/ghxdc9
@@ -5872,6 +5509,7 @@
   - cancer
   - single cell
   - ovarian cancer
+
 - title: 'PTWAS: investigating tissue-relevant causal molecular mechanisms of complex
     traits using probabilistic TWAS analysis'
   authors:
@@ -5883,7 +5521,6 @@
   - Roger Pique-Regi
   - Hae Kyung Im
   - Xiaoquan Wen
-  - ' '
   publisher: Genome Biology
   date: '2020-09-11'
   link: https://doi.org/ghxddb
@@ -5893,6 +5530,7 @@
   - cancer
   - single cell
   - ovarian cancer
+
 - title: 'sn-spMF: matrix factorization informs tissue-specific genetic regulation
     of gene expression'
   authors:
@@ -5907,7 +5545,6 @@
   - Hae Kyung Im
   - Christopher D. Brown
   - Alexis Battle
-  - ' '
   publisher: Genome Biology
   date: '2020-09-11'
   link: https://doi.org/ghxddc
@@ -5917,6 +5554,7 @@
   - cancer
   - single cell
   - ovarian cancer
+
 - title: Impact of admixture and ancestry on eQTL analysis and GWAS colocalization
     in GTEx
   authors:
@@ -5939,7 +5577,6 @@
   - Tuuli Lappalainen
   - Xiaoquan Wen
   - Stephen B. Montgomery
-  - ' '
   publisher: Genome Biology
   date: '2020-09-11'
   link: https://doi.org/ghxddg
@@ -5949,6 +5586,7 @@
   - cancer
   - single cell
   - ovarian cancer
+
 - title: A vast resource of allelic expression data spanning human tissues
   authors:
   - Stephane E. Castel
@@ -6154,12 +5792,12 @@
   - Simona Volpi
   - Kristin G. Ardlie
   - Tuuli Lappalainen
-  - ' '
   publisher: Genome Biology
   date: '2020-09-11'
   link: https://doi.org/ghxddj
   id: doi:10.1186/s13059-020-02122-z
   image: https://www.biorxiv.org/content/biorxiv/early/2019/10/03/792911/F6.large.jpg?width=800&height=600&carousel=1
+
 - title: Systematic overview of challenges and opportunities of computational data-driven
     research in biology
   authors:
@@ -6176,6 +5814,7 @@
   - cancer
   - single cell
   - ovarian cancer
+
 - title: The impact of sex on gene expression across human tissues
   authors:
   - Meritxell Oliva
@@ -6390,7 +6029,6 @@
   - Abhi K. Rao
   - Jimmie B. Vaught
   - Simona Volpi
-  - ' '
   publisher: Science
   date: '2020-09-11'
   link: https://doi.org/ghbnkj
@@ -6400,9 +6038,9 @@
   - cancer
   - single cell
   - ovarian cancer
+
 - title: The GTEx Consortium atlas of genetic regulatory effects across human tissues
   authors:
-  - ' '
   - "Fran\xE7ois Aguet"
   - Shankara Anand
   - Kristin G. Ardlie
@@ -6584,6 +6222,7 @@
   - cancer
   - single cell
   - ovarian cancer
+
 - title: "Cell type\u2013specific genetic regulation of gene expression across human\
     \ tissues"
   authors:
@@ -6792,7 +6431,6 @@
   - Abhi K. Rao
   - Jimmie B. Vaught
   - Simona Volpi
-  - ' '
   publisher: Science
   date: '2020-09-11'
   link: https://doi.org/ghbnkh
@@ -6802,6 +6440,7 @@
   - cancer
   - single cell
   - ovarian cancer
+
 - title: Determinants of telomere length across human tissues
   authors:
   - Kathryn Demanelis
@@ -6998,7 +6637,6 @@
   - Abhi K. Rao
   - Jimmie B. Vaught
   - Simona Volpi
-  - ' '
   publisher: Science
   date: '2020-09-11'
   link: https://doi.org/ghbsdk
@@ -7008,6 +6646,7 @@
   - cancer
   - single cell
   - ovarian cancer
+
 - title: Transcriptomic signatures across human tissues identify functional rare genetic
     variation
   authors:
@@ -7220,8 +6859,6 @@
   - Abhi K. Rao
   - Jimmie B. Vaught
   - Simona Volpi
-  - ' '
-  - ' '
   publisher: Science
   date: '2020-09-11'
   link: https://doi.org/ghxdfd
@@ -7231,6 +6868,7 @@
   - cancer
   - single cell
   - ovarian cancer
+
 - title: Improving the completeness of public metadata accompanying omics studies
   authors:
   - Anushka Rajesh
@@ -7244,6 +6882,7 @@
   link: https://doi.org/gjt6d6
   id: doi:10.1186/s13059-021-02332-z
   image: images/research/paper-thumbnail.png
+
 - title: Rare loss-of-function variants in type I IFN immunity genes are not associated
     with severe COVID-19
   authors:
@@ -7304,6 +6943,7 @@
   link: https://doi.org/gj8d5s
   id: doi:10.1172/JCI147834
   image: https://i.ibb.co/0j6N1vr/chrome-8y-Cy-Ybl-PYT.png
+
 - title: "Detection of viral gene expression in risk\u2010stratified biopsies reveals\
     \ no active HPV in cutaneous squamous cell carcinoma"
   authors:
@@ -7325,6 +6965,7 @@
   link: https://doi.org/gj7b4r
   id: doi:10.1111/exd.14385
   image: https://user-images.githubusercontent.com/71193439/125508827-f8b3b03a-0265-49f2-a56b-0437b0ef96df.png
+
 - title: Population-scale tissue transcriptomics maps long non-coding RNAs to complex
     disease
   authors:
@@ -7513,18 +7154,19 @@
   link: https://doi.org/gjtcvr
   id: doi:10.1016/j.cell.2021.03.050
   image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/f92b0d6f-abbc-4e86-b99b-77372bbca37c/fx1.jpg
+
 - title: Dietary Supplements and Nutraceuticals under Investigation for COVID-19 Prevention
     and Treatment
   authors:
   - Ronan Lordan
   - Halie M. Rando
   - Casey S. Greene
-  - ' '
   publisher: mSystems
   date: '2021-06-29'
   link: https://doi.org/gj9qvs
   id: doi:10.1128/mSystems.00122-21
   image: images/research/paper-thumbnail.png
+
 - title: Improving the usability and archival stability of bioinformatics software
   authors:
   - Serghei Mangul
@@ -7539,6 +7181,7 @@
   tags:
   - cancer
   - machine learning
+
 - title: Improving the usability and comprehensiveness of microbial databases
   authors:
   - Caitlin Loeffler
@@ -7555,6 +7198,7 @@
   tags:
   - cancer
   - machine learning
+
 - title: Interpreting and integrating big data in the life sciences
   authors:
   - Serghei Mangul
@@ -7566,6 +7210,7 @@
   tags:
   - cancer
   - machine learning
+
 - title: How bioinformatics and open data can boost basic science in countries and
     universities with limited resources
   authors:
@@ -7582,6 +7227,7 @@
   link: https://doi.org/gfwnsm
   id: doi:10.1038/s41587-019-0053-y
   image: images/research/paper-thumbnail.png
+
 - title: AIRR Community Standardized Representations for Annotated Immune Repertoires
   authors:
   - Jason Anthony Vander Heiden
@@ -7598,12 +7244,12 @@
   - Chaim A. Schramm
   - Scott Christley
   - Uri Laserson
-  - ' '
   publisher: Frontiers in Immunology
   date: '2018-09-28'
   link: https://doi.org/gfftj8
   id: doi:10.3389/fimmu.2018.02206
   image: https://www.frontiersin.org/files/Articles/402803/fimmu-09-02206-HTML-r1/image_m/fimmu-09-02206-g003.jpg
+
 - title: "A Comprehensive Map of Genetic Variation in the World\u2019s Largest Ethnic\
     \ Group\u2014Han Chinese"
   authors:
@@ -7616,6 +7262,7 @@
   link: https://doi.org/gd5c2s
   id: doi:10.1093/molbev/msy170
   image: images/research/A-Comprehensive-Map-of-Genetic-Variation-in-the-World’s-Largest-Ethnic-Group-Han-Chinese.jpeg
+
 - title: Transcriptome analysis in whole blood reveals increased microbial diversity
     in schizophrenia
   authors:
@@ -7639,6 +7286,7 @@
   link: https://doi.org/gdkhgz
   id: doi:10.1038/s41398-018-0107-9
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41398-018-0107-9/MediaObjects/41398_2018_107_Fig2_HTML.jpg?as=webp
+
 - title: Genetic effects on gene expression across human tissues
   authors:
   - ' '
@@ -7647,6 +7295,7 @@
   link: https://doi.org/gb2nqv
   id: doi:10.1038/nature24277
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature24277/MediaObjects/41586_2017_Article_BFnature24277_Fig1_HTML.jpg
+
 - title: Intratumoral CD4+ T Cells Mediate Anti-tumor Cytotoxicity in Human Bladder
     Cancer
   authors:
@@ -7675,10 +7324,10 @@
   link: https://doi.org/ggzhwz
   id: doi:10.1016/j.cell.2020.05.017
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0092867420306127-fx1.jpg
+
 - title: Dynamic landscape and regulation of RNA editing in mammals
   authors:
   - Meng How Tan
-  - ' '
   - Qin Li
   - Raghuvaran Shanmugam
   - Robert Piskol
@@ -7712,6 +7361,7 @@
   link: https://doi.org/gb2qv5
   id: doi:10.1038/nature24041
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature24041/MediaObjects/41586_2017_Article_BFnature24041_Fig1_HTML.jpg
+
 - title: Co-expression networks reveal the tissue-specific regulation of transcription
     and splicing
   authors:
@@ -7723,12 +7373,12 @@
   - Ian C. McDowell
   - Barbara E. Engelhardt
   - Alexis Battle
-  - ' '
   publisher: Genome Research
   date: '2017-10-11'
   link: https://doi.org/gb2qx6
   id: doi:10.1101/gr.216721.116
   image: images/research/gr.216721.116.png
+
 - title: 'Technology dictates algorithms: Recent developments in read alignment'
   authors:
   - Mohammed Alser
@@ -7756,6 +7406,7 @@
   - type: preprint
   - type: manubot
     link: https://arxiv.org/abs/2003.00110
+
 - title: Mechanisms of tissue-specific genetic regulation revealed by latent factors
     across eQTLs
   authors:
@@ -7770,7 +7421,6 @@
   - Hae Kyung Im
   - Christopher D. Brown
   - Alexis Battle
-  - ' '
   publisher: Cold Spring Harbor Laboratory
   date: '2019-10-06'
   link: https://doi.org/ghqfd2
@@ -7780,6 +7430,7 @@
   - type: preprint
   - type: manubot
     link: https://doi.org/10.1101/785584
+
 - title: Refining the conference experience for junior scientists in the wake of climate
     change
   authors:
@@ -7798,6 +7449,7 @@
   tags:
   - cancer
   - machine learning
+
 - title: 'Metagenomics for clinical diagnostics: technologies and informatics'
   authors:
   - Caitlin Loeffler
@@ -7824,6 +7476,7 @@
   tags:
   - cancer
   - machine learning
+
 - title: Reference-free comparison of microbial communities via de Bruijn graphs
   authors:
   - Serghei Mangul
@@ -7838,6 +7491,7 @@
   - type: preprint
   - type: manubot
     link: https://dl.acm.org/doi/abs/10.1145/2975167.2975174
+
 - title: Investigating tissue-relevant causal molecular mechanisms of complex traits
     using probabilistic TWAS analysis
   authors:
@@ -7849,7 +7503,6 @@
   - Roger Pique-Regi
   - Hae Kyung Im
   - Xiaoquan Wen
-  - ' '
   publisher: Cold Spring Harbor Laboratory
   date: '2019-10-17'
   link: https://doi.org/ghqfdz
@@ -7862,6 +7515,7 @@
   tags:
   - cancer
   - machine learning
+
 - title: Long non-coding RNA gene regulation and trait associations across human tissues
   authors:
   - O. M. de Goede
@@ -7885,7 +7539,6 @@
   - T. Quertermous
   - K. Kirkegaard
   - S. B. Montgomery
-  - ' '
   publisher: Cold Spring Harbor Laboratory
   date: '2019-10-04'
   link: https://doi.org/gg7m52
@@ -7895,6 +7548,7 @@
   - type: preprint
   - type: manubot
     link: https://doi.org/10.1101/793091
+
 - title: Diverse transcriptomic signatures across human tissues identify functional
     rare genetic variation
   authors:
@@ -7920,7 +7574,6 @@
   - Pejman Mohammadi
   - Stephen B. Montgomery
   - Alexis Battle
-  - ' '
   publisher: Cold Spring Harbor Laboratory
   date: '2019-10-03'
   link: https://doi.org/gg7m5z
@@ -7930,6 +7583,7 @@
   - type: preprint
   - type: manubot
     link: https://doi.org/10.1101/786053
+
 - title: Integrating big data computational skills in education to facilitate reproducibility
     and transparency in pharmaceutical sciences
   authors:
@@ -7948,6 +7602,7 @@
   - type: preprint
   - type: manubot
     link: https://doi.org/10.1002/jac5.1519
+
 - title: Ancestral diversity is limited in published T cell receptor sequencing studies
   authors:
   - Yu-Ning Huang
@@ -7972,6 +7627,7 @@
   - type: preprint
   - type: manubot
     link: https://doi.org/10.1016/j.immuni.2021.09.015
+
 - title: A comprehensive benchmarking of WGS-based deletion structural variant callers
   authors:
   - Varuni Sarwal
@@ -8002,6 +7658,7 @@
   extra-links:
   - type: manubot
     link: https://doi.org/10.1093/bib/bbac221
+
 - title: Reproducibility of Bioinformatics Tools
   authors:
   - Pelin Icer Baykal
@@ -8016,6 +7673,7 @@
   extra-links:
   - type: manubot
     link: https://doi.org/10.1109/IPDPSW55747.2022.00046
+
 - title: 'pyTCR: A comprehensive and scalable solution for TCR-Seq data analysis to
     facilitate reproducibility and rigor of immunogenomics research'
   authors:
@@ -8035,6 +7693,7 @@
   extra-links:
   - type: manubot
     link: https://doi.org/10.3389/fimmu.2022.954078
+
 - title: 'TAMPA: interpretable analysis and visualization of metagenomics-based taxon
     abundance profiles'
   authors:
@@ -8051,6 +7710,7 @@
   - type: preprint
   - type: manubot
     link: https://doi.org/10.1093/gigascience/giad008
+
 - title: Unlocking the microblogging potential for science and medicine
   authors:
   - Aditya Sarkar
@@ -8081,6 +7741,7 @@
   - type: preprint
   - type: manubot
     link: https://doi.org/10.1101/2022.04.22.488804
+
 - title: Data Availability of Open T-Cell Receptor Repertoire Data, a Systematic Assessment
   authors:
   - Yu-Ning Huang
@@ -8101,6 +7762,7 @@
   extra-links:
   - type: manubot
     link: https://doi.org/10.3389/fsysb.2022.918792
+
 - title: Pathogenesis, Symptomatology, and Transmission of SARS-CoV-2 through Analysis
     of Viral Genomics and Structure
   authors:
@@ -8137,7 +7799,6 @@
   - Tiago Lubiana
   - Anthony Gitter
   - Casey S. Greene
-  - ' '
   publisher: mSystems
   date: '2021-10-26'
   link: https://doi.org/gm8k9b
@@ -8147,6 +7808,7 @@
   - type: preprint
   - type: manubot
     link: https://doi.org/10.1128/mSystems.00095-21
+
 - title: Common, low-frequency, rare, and ultra-rare coding variants contribute to
     COVID-19 severity
   authors:
@@ -9724,9 +9386,6 @@
   - Francesca Mari
   - Alessandra Renieri
   - Simone Furini
-  - ' '
-  - ' '
-  - ' '
   publisher: Human Genetics
   date: '2021-12-10'
   link: https://doi.org/gnrf8b
@@ -9736,6 +9395,7 @@
   - type: preprint
   - type: manubot
     link: https://doi.org/10.1007/s00439-021-02397-7
+
 - title: Virtual meetings promise to eliminate geographical and administrative barriers
     and increase accessibility, diversity and inclusivity
   authors:
