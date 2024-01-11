@@ -3,9 +3,10 @@
 title: Yu Ning Huang
 
 # name variations to include when generating list of this person's papers
-#search:
-#  - <name variation 1>
-#  - <name variation 2>
+search:
+  - Yu 
+  - Ning
+  - Huang
 
 # if image not specified, default will automatically be used
 image: images/team/yu-ning-huang.jpg
