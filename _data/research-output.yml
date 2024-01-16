@@ -1,3 +1,29 @@
+- title: 'Perceptual and technical barriers in sharing and formatting metadata accompanying omics studies'
+authors:
+  - Yu-Ning Huang
+  - Michael I. Love
+  - Cynthia Flaire Ronkowski
+  - Dhrithi Deshpande
+  - Lynn M. Schriml
+  - Annie Wong-Beringer
+  - Barend Mons
+  - Russell Corbett-Detig
+  - Christopher I Hunter
+  - Jason H. Moore
+  - Lana X. Garmire
+  - T.B.K. Reddy
+  - Winston A. Hide
+  - Atul J. Butte
+  - Mark D. Robinson
+  - Serghei Mangul
+  publisher: arXiv
+  date: '2023-11-22'
+  link: https://arxiv.org/abs/2401.02965
+  id: doi:10.48550/arXiv.2401.02965
+  image: images/research/paper-thumbnail.png
+  extra-links:
+  - type: preprint
+
 - title: 'BioLLMBench: A Comprehensive Benchmarking of Large Language Models in Bioinformatics'
   authors:
   - Varuni Sarwal
