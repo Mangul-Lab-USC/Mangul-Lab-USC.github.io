@@ -3,7 +3,7 @@ title: Bioinformatics for Ukraine
 background: images/backgrounds/califo.jpg
 ---
 
-# <i class="fas fa-envelope"></i>Bioinformatics for Ukraine
+# <i class="fas fa-laptop-code"></i>Bioinformatics for Ukraine
 
 {%
   include figure.html
