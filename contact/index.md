@@ -29,7 +29,7 @@ Our group is located on the second floor of the [Center for the Health Professio
 
 <div align="center"> 
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3068.497471886399!2d-118.20827562471472!3d34.06444241708672!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2c5d89c31f391%3A0xfee7da2c5f603354!2s1450%20Alcazar%20St%2C%20Los%20Angeles%2C%20CA%2090033%2C%20USA!5e1!3m2!1sen!2s!4v1705811725136!5m2!1sen!2s" 
-  width="95%" 
+  width="100%" 
   height="300" 
   style="border:0;" 
   allowfullscreen="" 
@@ -55,5 +55,5 @@ Our group is located on the second floor of the [Center for the Health Professio
 ## <i class="fas fa-car"></i>Parking
 
 <div align="center">
-  <iframe src="https://www.spotangels.com/map?lng=-82.00399297224736&lat=33.42802850566272&zoom=15.189474493874139&arrival=1696053600000&departure=1696060800000&spLng=-82.00472&spLat=33.4286&spAddress=2418%20Norfolk%20Street,%20Augusta,%20Georgia%2030906,%20United%20States&product=parking" style="width:101%; height: 500px;-webkit-transform:scale(0.93);-moz-transform-scale(0.93);">
+  <iframe src="https://www.spotangels.com/map?lng=-82.00399297224736&lat=33.42802850566272&zoom=15.189474493874139&arrival=1696053600000&departure=1696060800000&spLng=-82.00472&spLat=33.4286&spAddress=2418%20Norfolk%20Street,%20Augusta,%20Georgia%2030906,%20United%20States&product=parking" style="width:100%; height: 500px;">
 </div>
