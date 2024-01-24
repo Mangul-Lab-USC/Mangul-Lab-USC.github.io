@@ -9,7 +9,7 @@ image: images/blog/
 ---
 ### The Mangul lab presented five talks at the ICCABS 2023 conference
 
-[Ram Ayyala](https://mangul-lab-usc.github.io/members/ayyala-ram.html), [Grigore Boldirev](https://mangul-lab-usc.github.io/members/boldirev-grigore.html), [Seungmo Lee](https://mangul-lab-usc.github.io/members/lee-seungmo.html), and [Justin Su](https://mangul-lab-usc.github.io/members/su-justin.html) participated in the 12th International Conference on Computational Advances in Bio and Medical Sciences (ICCABS) which was held at the University of Oklahoma from December 11-13, 2023.
+[Ram Ayyala](https://mangul-lab-usc.github.io/members/ayyala-ram.html), [Grigore Boldirev](https://mangul-lab-usc.github.io/members/boldirev-grigore.html), [Seungmo Lee](https://mangul-lab-usc.github.io/members/lee-seungmo.html), and [Justin Su](https://mangul-lab-usc.github.io/members/su-justin.html) participated in the 12th International Conference on Computational Advances in Bio and Medical Sciences ([ICCABS](https://iccabs.engr.uconn.edu/)) which was held at the University of Oklahoma from December 11-13, 2023.
 
 ICCABS stands at the forefront of integrating computational methods with biological research, aiming to bring together leading academic and industry researchers to discuss the latest advances. The conference is structured over three days, consisting of keynote talks, workshop talks, poster presentations, and cool networking opportunities! The first day focused on biomedical research (Immunotherapy and Cancer Research, Epidemiology), the second day focused on sequence analysis and machine learning models in bio and medical sciences, and the last day focused on genomics and neuroscience.
 
