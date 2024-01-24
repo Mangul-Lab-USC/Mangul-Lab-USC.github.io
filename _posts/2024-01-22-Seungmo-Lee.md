@@ -27,4 +27,4 @@ The second day wrapped up with a banquet, providing an extensive opportunity for
 
 Additionally, we are thankful to NSF for providing the Student Travel Fellowship allowing Mangul Lab to attend the conference.
 
-I highly recommend ICCABS and immerse yourself in the world of computational biology.
+We highly recommend ICCABS and immerse yourself in the world of computational biology.
