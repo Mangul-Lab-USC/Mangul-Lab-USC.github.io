@@ -22,7 +22,7 @@ Thursday, May 20, 2023 5:00pm Pacific Time (We will be interviewing candidates o
 
 ### WHO SHOULD APPLY?
 
-Undergraduate students who are interested in computational bioscience research and have basic computational training are invited to join Mangul Lab from June 16th, 2023, to August 20, 2023. The intern will perform individual research projects, guided by Dr. Mangul, in collaboration with and assistance from our graduate students and postdoctoral scholars. Candidates must be eligible to work in the United States.\
+Undergraduate students who are interested in computational bioscience research and have basic computational training are invited to join Mangul Lab from June 16th, 2023, to August 20, 2023 (dates can be changed if necessary). The intern will perform individual research projects, guided by Dr. Mangul, in collaboration with and assistance from our graduate students and postdoctoral scholars. Candidates must be eligible to work in the United States.\
 <em>We strongly encourage applications from traditionally underrepresented students.</em> 
 
 ### WHAT IS INVOLVED IN THE INTERNSHIP?
