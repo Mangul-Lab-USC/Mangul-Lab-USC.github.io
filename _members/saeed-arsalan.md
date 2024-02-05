@@ -3,7 +3,7 @@ title: Arsalan Saeed
 search:
   - Arsalan
   - Saeed
-image: images/team/saeed-arsalan.png
+image: images/team/arsalan-saeed.png
 
 role: undergrad
 
