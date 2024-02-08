@@ -12,4 +12,4 @@ github: shakil2490
 
 ---
 
-I have a strong clinical pharmacy background; I completed Pharm D from Rajiv Gandhi University of Health Sciences, Bangalore, India. Dynamic programming fascinates me. I hope to learn and utilize algorithms and machine learning applications in genomics and computational biology. I am currently pursuing a master’s degree in Pharmaceutical Science at the Alfred E. Mann School of Pharmacy and Pharmaceutical Sciences, University of Southern California. 
+Shakil has a strong clinical pharmacy background; He has completed Pharm D from Rajiv Gandhi University of Health Sciences, Bangalore, India. Dynamic programming fascinates him. he hopes to learn and utilize algorithms and machine learning applications in genomics and computational biology. He is currently pursuing a master’s degree in Pharmaceutical Science at the Alfred E. Mann School of Pharmacy and Pharmaceutical Sciences, University of Southern California. 
