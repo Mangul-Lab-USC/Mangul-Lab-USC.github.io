@@ -5,7 +5,7 @@ search:
 image: images/team/keith-mitchell.png
 
 group: alum
-role: phd
+role: undergrad
 
 linkedin: keith-g-mitchell
 
