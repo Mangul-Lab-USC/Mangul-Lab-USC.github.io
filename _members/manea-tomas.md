@@ -5,7 +5,10 @@ search:
   - Tomás
   - Manea
 image: images/team/tomas_manea.png
+
 role: undergrad
+group: alum
+
 email: manea@usc.edu
 github: TDManEA
 
