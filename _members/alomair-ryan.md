@@ -5,7 +5,6 @@ search:
   - Alomair
 image: images/team/ryan-alomair.jpg
 
-group: alum
 role: undergrad
 
 email: ryalomair@g.ucla.edu
