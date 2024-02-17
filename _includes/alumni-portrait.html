@@ -23,19 +23,22 @@
       {%- endif -%}
     </span>
   </a>
+  
+  <!--
   <span style="display: inline-flex; flex-direction: column; align-items: flex-start; flex-basis: 7%;">
+    
     <span>
       {%- if include.email -%} {%- include social-link.html type="email" link=include.email -%} {%- endif -%} {%- if include.email -%}
-      <span class="portrait_name"> <!-- {{ include.email }} --> </span>
+      <span class="portrait_name"> <!-- {{ include.email }} </span>
       {%- endif -%}
     </span>
 
     <span>
       {%- if include.linkedin -%} {%- include social-link.html type="linkedin" link=include.linkedin -%} {%- endif -%} {%- if include.linkedin -%}
-      <span class="portrait_name"> <!-- {{ include.linkedin }} --> </span>
+      <span class="portrait_name"> <!-- {{ include.linkedin }} </span>
       {%- endif -%}
     </span>
-    <!--
+    
     <span>
       {%- if include.website -%} {%- include social-link.html type="website" link=include.website -%} {%- endif -%} {%- if include.website -%}
       <span class="portrait_name"> {{ include.website }} </span>
@@ -71,8 +74,9 @@
       <span class="portrait_name"> {{ include.youtube }} </span>
       {%- endif -%}
     </span>
-    -->
+    
   </span>
+  -->
 
   <span style="flex-basis: 47%; padding: 15px;">
     {%- if include.alma_mater -%} 
