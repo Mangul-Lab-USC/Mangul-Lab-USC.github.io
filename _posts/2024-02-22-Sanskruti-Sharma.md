@@ -1,5 +1,5 @@
 ---
-title: "Congratulations to Aditya Sarkar on being accepted to the University of Maryland, College Park!"
+title: "Celebrating Aditya Sarkar's Admission to the University of Maryland Graduate Program!"
 
 author: Sanskruti Sharma
 member-page: sharma-sanskruti.html
@@ -7,9 +7,9 @@ member-page: sharma-sanskruti.html
 image: images/blog/
 
 ---
-### Congratulations to Aditya Sarkar on being accepted to the University of Maryland, College Park!
+### Celebrating Aditya Sarkar's Admission to the University of Maryland Graduate Program!
 
-Congratulations to [Aditya Sarkar](https://mangul-lab-usc.github.io/members/sarkar-aditya.html) (Undergraduate Researcher in our lab) on being accepted to the University of Maryland, College Park for your Ph.D. in Computer Science! This accomplishment truly underscores his dedication and passion for the field. Despite the geographical distance from India and a significant time zone difference of more than 13 hours, Aditya has played a vital role in our team's success, making substantial contributions.
+Congratulations to [Aditya Sarkar](https://mangul-lab-usc.github.io/members/sarkar-aditya.html) (Undergraduate Researcher in our lab) on being accepted to the [University of Maryland, College Park](https://umd.edu/) for your Ph.D. in Computer Science! This accomplishment truly underscores his dedication and passion for the field. Despite the geographical distance from India and a significant time zone difference of more than 13 hours, Aditya has played a vital role in our team's success, making substantial contributions.
 
 The University of Maryland is renowned for its academic excellence, distinguished faculty, and vibrant campus life. Your acceptance into such a prestigious institution is a testament to your academic prowess and capabilities. We are confident that you will thrive in this intellectually stimulating environment and seize the abundant opportunities for professional growth and interdisciplinary collaborations.
 
