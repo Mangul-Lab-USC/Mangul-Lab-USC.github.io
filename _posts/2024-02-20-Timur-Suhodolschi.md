@@ -1,8 +1,8 @@
 ---
 title: "Congratulations to Dottie Yu on her acceptance to the Cleveland Clinic Lerner College of Medicine!"
 
-author: Dottie Yu
-member-page: yu-dottie.html
+author: Timur Suhodolschi
+member-page: suhodolschi-timur.html
 
 image: images/blog/
 
