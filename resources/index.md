@@ -41,11 +41,3 @@ This page includes our open-sourced softwares, some information we find useful, 
 {% endcapture %}
 
 {% include centerer.html html=html %}
-
-<!-- section break -->
-
-{% capture html %}
-{% include resource-list.html type="legacy" size="small" %}
-{% endcapture %}
-
-{% include centerer.html html=html %}
