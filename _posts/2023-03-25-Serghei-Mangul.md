@@ -1,5 +1,5 @@
 ---
-title: "Celebrating Aditya Sarkar's Admission to The Ohio State University as CS PhD Student!"
+title: "Celebrating Srishti Ginjala's Admission to The Ohio State University as CS PhD Student!"
 
 author: Serghei Mangul
 member-page: serghei-mangul.html
@@ -7,7 +7,7 @@ member-page: serghei-mangul.html
 image: images/blog/
 
 ---
-### Celebrating Aditya Sarkar's Admission to The Ohio State University as CS PhD Student!
+### Celebrating Srishti Ginjala's Admission to The Ohio State University as CS PhD Student!
 
 {% include figure.html image="images/team/Srishti_Ginjala.jpg" %}
 
