@@ -5,8 +5,8 @@ title: News
 # <i class="fas fa-tools"></i>News
 
 <p style="text-align: center;">
-This page includes our open-sourced softwares, some information we find useful, our lab videos and news in which Mangul Lab was featured.  
-</P>
+This page includes our lab news in which Mangul Lab was featured.  
+</p>
 
 <!-- section break -->
 
