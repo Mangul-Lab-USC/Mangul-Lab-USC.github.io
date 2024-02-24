@@ -1,5 +1,5 @@
 ---
-title: "Congratulations to Dottie Yu on her acceptance to the Cleveland Clinic Lerner College of Medicine!"
+title: "Congratulations to Dottie Yu on Provost Undergraduate Research award!"
 
 author: Srishti Ginjala
 member-page: ginjala-srishti.html
