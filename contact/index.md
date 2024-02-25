@@ -50,6 +50,10 @@ Upon entering the building, proceed to the **second floor** of the Center for th
 
 ## <i class="fas fa-car"></i>Parking
 
-<div align="center">
-  <iframe id="embeddedFrame" src="https://www.spotangels.com/map?lng=-82.00399297224736&lat=33.42802850566272&zoom=15.189474493874139&arrival=1696053600000&departure=1696060800000&spLng=-82.00472&spLat=33.4286&spAddress=2418%20Norfolk%20Street,%20Augusta,%20Georgia%2030906,%20United%20States&product=parking" style="width:100%; height: 500px;" frameborder="0"></iframe>
-</div>
+There are abundant parking options available. You have the choice of selecting metered parking nearby or opting for free parking in the residential area, a mere 10-minute walk away, which usually provides ample space. Moreover, you can make use of [SpotAngels](https://www.spotangels.com/), a service that offers both paid and free parking options. Below, you'll find a map from SpotAngels with some recommended spots highlighted.
+
+{%
+  include gallery.html
+  image5="images/contact/Mangul-Lab-Parking.png"
+%}
+
