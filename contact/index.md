@@ -6,7 +6,7 @@ background: images/backgrounds/califo.jpg
 # <i class="fas fa-envelope"></i>Contact
 
 Mangul Lab is part of the Titus Family Department of Clinical Pharmacy at [USC Alfred E. Mann School of Pharmacy and Pharmaceutical Sciences](https://mann.usc.edu/).
-Our group is located on the second floor of the [Center for the Health Professions Building](https://calendar.usc.edu/center_for_the_health_professions_building_chp#.X9EwxmQzaTd) building, which is located on the [University of Southern California Health Sciences Campus](https://visit.usc.edu/maps-directions/health-sciences-campus/) in the Lincoln Heights neighborhood of Los Angeles. Address: 1540 Alcazar St, Los Angeles, CA 90089. For parking directions, please contact Serghei Mangul at [serghei.mangul@gmail.com](serghei.mangul@gmail.com).
+Our group is located on the second floor of the [Center for the Health Professions Building](https://calendar.usc.edu/center_for_the_health_professions_building_chp#.X9EwxmQzaTd) building, which is located on the [University of Southern California Health Sciences Campus](https://visit.usc.edu/maps-directions/health-sciences-campus/) in the Lincoln Heights neighborhood of Los Angeles. Address: 1540 Alcazar St, Los Angeles, CA 90089.
 
 {%
   include figure.html
