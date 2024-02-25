@@ -14,7 +14,7 @@ github: Silverkey0
 linkedin: yidian-xu-93a4a1229
 
 lab_member_years:
-alma_mater: 
+alma_mater: Masters student, USC
 current_job_position: Accepted to PhD programs at University of Sydney 
 ---
 
