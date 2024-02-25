@@ -5,8 +5,8 @@ background: images/backgrounds/califo.jpg
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [University of Southern California School of Pharmacy](https://pharmacyschool.usc.edu/)'s [Titus Department of Clinical Pharmacy](https://pharmacyschool.usc.edu/about/facts/departments/).
-Our group is located on the second floor of the [Center for the Health Professions Building (CHP)](https://calendar.usc.edu/center_for_the_health_professions_building_chp#.X9EwxmQzaTd) building, which is located on the [University of Southern California Health Sciences Campus](https://visit.usc.edu/maps-directions/health-sciences-campus/) in the Lincoln Heights neighborhood of Los Angeles. Address: 1540 Alcazar Street, CHP 236-D, Los Angeles, CA 90089. For parking directions, please contact Serghei Mangul at serghei.mangul@gmail.com.
+Mangul Lab is part of the Titus Family Department of Clinical Pharmacy at [USC Alfred E. Mann School of Pharmacy and Pharmaceutical Sciences](https://mann.usc.edu/).
+Our group is located on the second floor of the [Center for the Health Professions Building](https://calendar.usc.edu/center_for_the_health_professions_building_chp#.X9EwxmQzaTd) building, which is located on the [University of Southern California Health Sciences Campus](https://visit.usc.edu/maps-directions/health-sciences-campus/) in the Lincoln Heights neighborhood of Los Angeles. Address: 1540 Alcazar St, Los Angeles, CA 90089. For parking directions, please contact Serghei Mangul at [serghei.mangul@gmail.com](serghei.mangul@gmail.com).
 
 {%
   include figure.html
@@ -20,15 +20,10 @@ Our group is located on the second floor of the [Center for the Health Professio
 [mangul@usc.edu](mailto:mangul@usc.edu)  
 {:.center}
 
-## <i class="fas fa-phone fa-sm"></i>Phone
-
-[(323)-442-0043](tel:+1-323-442-0043)
-{:.center}
-
 ## <i class="fas fa-map-marked fa-sm"></i>Location
 
 <div align="center"> 
-  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2690.8081331536023!2d-118.2057511177191!3d34.06368193063068!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2c5d89c31f391%3A0xfee7da2c5f603354!2s1450%20Alcazar%20St%2C%20Los%20Angeles%2C%20CA%2090033%2C%20USA!5e0!3m2!1sen!2s!4v1705895180780!5m2!1sen!2s" 
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13220.981366251248!2d-118.22255886313707!3d34.06322449736689!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2c5d8c664f759%3A0x5e62519437113819!2s1540%20Alcazar%20St%20d%2C%20Los%20Angeles%2C%20CA%2090089!5e0!3m2!1sen!2sus!4v1708828626829!5m2!1sen!2sus" 
   width="100%" 
   height="300" 
   style="border:0;" 
@@ -45,12 +40,14 @@ Our group is located on the second floor of the [Center for the Health Professio
 
 {%
   include gallery.html
-  image2="images/contact/usc-pharm.png"
-  image3="images/contact/usc-side.png"
-  image4="images/contact/e1.png"
-  image5="images/contact/e2.png"
-  image6="images/contact/map.png"
+  image2="images/contact/e1.png"
+  image3="images/contact/e2.png"
+  image4="images/contact/map.png"
 %}
+
+To navigate to Mangul Lab, input the address "1540 Alcazar Street, CHP 236-D, Los Angeles, CA 90089" into Google Maps. Please note that there are two entrances to the building. You can refer to the pictures of Entrance 1 and Entrance 2 for visual guidance, and their locations are marked on the provided map.
+
+Upon entering the building, proceed to the second floor of the Center for the Health Professions Building. Mangul Lab is located in room CHP 236-D on the second floor.
 
 ## <i class="fas fa-car"></i>Parking
 
