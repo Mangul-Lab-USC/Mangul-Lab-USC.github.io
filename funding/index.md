@@ -9,6 +9,6 @@ Mangul Laboratory is supported by the National Science Foundation (NSF) grants 2
 
 and add logos of NSF and NIH 
 
-# <i class="fa-solid fa-sack-dollar"></i>Former Funding
+# <i class="fa-light fa-sack-dollar"></i>Former Funding
 
 NSF EAGER Award, “EAGER: Developing a framework to identify and mitigate perceptual and technical barriers in code sharing to facilitate reproducible and transparent research”, PI, $200,000
