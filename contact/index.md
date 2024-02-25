@@ -54,7 +54,7 @@ There are abundant parking options available. You have the choice of selecting m
 
 
 {%
-  include figure.html
+  include gallery.html
   image5="images/contact/Mangul-Lab-Parking.png"
 %}
 
