@@ -7,10 +7,6 @@ background: images/backgrounds/califo.jpg
 
 Mangul Laboratory is supported by the [National Science Foundation (NSF)](https://www.nsf.gov/) grants 2041984 and 2316223 and the [National Institutes of Health (NIH)](https://www.nih.gov/) grant R01AI173172. 
 
-| NSF                                 | NIH                                 |
-| ----------------------------------- | ----------------------------------- |
-| ![NSF](images/funding/NSF-logo.png) | ![NIH](images/funding/NIH-logo.png) |
-
 {%
   include figure.html
   flat="true"
