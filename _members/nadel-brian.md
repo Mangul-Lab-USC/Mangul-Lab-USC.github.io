@@ -5,7 +5,7 @@ search:
   - Nadel
 image: images/team/brian-nadel.jpg
 
-role: bioinformatics-analyst
+role: postdoc
 group: alum
 
 email: bnadel@usc.edu
