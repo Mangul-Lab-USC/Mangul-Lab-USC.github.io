@@ -5,7 +5,7 @@ search:
   - Ramesh
 image: images/team/tejasvene-ramesh.jpg
 
-role: phd
+role: masters
 group: alum
 
 email: tramesh@usc.edu
