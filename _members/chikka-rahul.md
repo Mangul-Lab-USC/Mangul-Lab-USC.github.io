@@ -2,7 +2,7 @@
 title: Rahul Chikka
 image: images/team/rahul-chikka.jpg
 
-role: masters
+role: undergrad
 group: alum
 
 email: rchikka11@gmail.com
