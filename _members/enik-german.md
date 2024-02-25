@@ -2,7 +2,7 @@
 title: German Enik
 image: images/team/profile-german-enik.jpg
 
-role: masters
+role: highschool
 group: alum
 
 email: german@cs.stanford.edu
