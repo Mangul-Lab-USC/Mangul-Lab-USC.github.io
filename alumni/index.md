@@ -19,7 +19,7 @@ These are former lab alumni who have transitioned to various sectors, including 
 {% include alumni-tabled.html role="postdoc" group="alum" mini="true" %}
 <h3 style="text-align: start; width: 85%;"> Bioinformatics Analysts </h3>
 {% include alumni-tabled.html role="bioinformatics-analyst" group="alum" mini="true" %}
-<h3 style="text-align: start; width: 85%;"> PhD Rotation Students </h3>
+<h3 style="text-align: start; width: 85%;"> PhD Students </h3>
 {% include alumni-tabled.html role="phd" group="alum" mini="true" %}
 <h3 style="text-align: start; width: 85%;"> PharmD Students </h3>
 {% include alumni-tabled.html role="pharmd" group="alum" mini="true" %}
