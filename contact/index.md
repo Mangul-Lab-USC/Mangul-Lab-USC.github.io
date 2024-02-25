@@ -56,7 +56,7 @@ There are abundant parking options available. You have the choice of selecting m
   include figure.html
   flat="true"
   image="images/contact/Mangul-Lab-Parking.png"
-  link="https://www.spotangels.com/"
+  width="200%" height="200%"
 %}
 
 
