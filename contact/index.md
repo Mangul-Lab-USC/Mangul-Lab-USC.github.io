@@ -46,7 +46,7 @@ Our group is located on the second floor of the [Center for the Health Professio
 
 To navigate to Mangul Lab, input the address "[1540 Alcazar Street, CHP 236-D, Los Angeles, CA 90089](https://www.google.com/maps/place/1540+Alcazar+St+d,+Los+Angeles,+CA+90089,+USA/@34.0632245,-118.2225589,2819m/data=!3m2!1e3!4b1!4m9!1m2!2m1!1s1540+Alcazar+Street,+CHP+236-D,+Los+Angeles,+CA+90089!3m5!1s0x80c2c5d8c664f759:0x5e62519437113819!8m2!3d34.0632081!4d-118.2041049!15sCjUxNTQwIEFsY2F6YXIgU3RyZWV0LCBDSFAgMjM2LUQsIExvcyBBbmdlbGVzLCBDQSA5MDA4OZIBEGNvbXBvdW5kX3NlY3Rpb27gAQA?entry=ttu)" into Google Maps. Please note that there are **two entrances** to the building. You can refer to the pictures of **Entrance 1** and **Entrance 2** for visual guidance, and their locations are marked on the provided map.
 
-Upon entering the building, proceed to the **second floor** of the Center for the Health Professions Building. Mangul Lab is located in room **CHP 236-D** on the **second floor**.()
+Upon entering the building, proceed to the **second floor** of the Center for the Health Professions Building. Mangul Lab is located in room **CHP 236-D** on the **second floor**.
 
 ## <i class="fas fa-car"></i>Parking
 
