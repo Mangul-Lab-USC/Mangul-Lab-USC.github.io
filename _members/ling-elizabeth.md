@@ -11,8 +11,8 @@ linkedin: elizabethlitingling
 #twitter: <username>
 
 lab_member_years:
-alma_mater: PharmD Rotation student, USC School of Pharmacy
-current_job_position: Currently PharmD Student at Biogen
+alma_mater: PharmD Rotation student, USC Alfred E. Mann School of Pharmacy and Pharmaceutical Sciences 
+current_job_position: PharmD Student
 ---
 
 Elizabeth is a second year pharmacy student at the University of Southern California.
