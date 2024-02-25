@@ -2,7 +2,7 @@
 title: Caitlin Loeffler
 image: images/team/caitlin-loeffler.png
 
-role: phd
+role: undergrad
 group: alum
 
 linkedin: caitlin-loeffler-b33586190
