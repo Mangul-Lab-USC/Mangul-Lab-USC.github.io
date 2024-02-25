@@ -56,7 +56,7 @@ There are abundant parking options available. You have the choice of selecting m
   include figure.html
   flat="true"
   image="images/contact/Mangul-Lab-Parking.png"
-  width="150%" height="150%"
+  width="125%" height="125%"
 %}
 
 
