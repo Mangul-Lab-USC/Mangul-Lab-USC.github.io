@@ -6,7 +6,7 @@ search:
   - Maher
 image: images/team/niko-darci-maher.jpg
 
-role: masters
+role: undergrad
 group: alum
 
 email: niko.darcimaher@gmail.com 
