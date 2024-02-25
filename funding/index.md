@@ -10,13 +10,13 @@ Mangul Laboratory is supported by the [National Science Foundation (NSF)](https:
 {%
   include figure.html
   flat="true"
-  image="images/fundung/NSF-logo.png"
+  image="images/funding/NSF-logo.png"
   link="https://www.nsf.gov/"
 %}
 {%
   include figure.html
   flat="true"
-  image="images/fundung/NIH-logo.png"
+  image="images/funding/NIH-logo.png"
   link="https://www.nih.gov/"
 %}
 
