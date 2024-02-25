@@ -5,7 +5,7 @@ search:
   - Peng
 image: images/team/qiushi-peng.jpg
 
-role: phd
+role: masters
 group: alum
 
 email:  qiushipe@usc.edu
