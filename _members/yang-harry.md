@@ -4,7 +4,7 @@ search:
   - Harry Taegyun Yang
 image: images/team/harry-yang.jpg
 
-role: phd
+role: undergrad
 group: alum
 
 linkedin: harry-taegyun-yang-84941a93
