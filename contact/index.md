@@ -52,10 +52,10 @@ Upon entering the building, proceed to the **second floor** of the Center for th
 
 There are abundant parking options available. You have the choice of selecting metered parking nearby or opting for free parking in the residential area, a mere 10-minute walk away, which usually provides ample space. Moreover, you can make use of [SpotAngels](https://www.spotangels.com/), a service that offers both paid and free parking options. Below, you'll find a map from SpotAngels with some recommended spots highlighted.
 
-<div align="center">
+
 {%
   include gallery.html
   image5="images/contact/Mangul-Lab-Parking.png"
 %}
-</div>
+{:.center}
 
