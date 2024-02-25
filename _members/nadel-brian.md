@@ -13,7 +13,7 @@ github: BNadel
 linkedin: brian-nadel-87b08b97
 
 lab_member_years: 2022 - 2022
-alma_mater: Postdoctoral Scholar, University of California, Los Angeles
+alma_mater: Postdoctoral Scholar, USC Alfred E. Mann School of Pharmacy and Pharmaceutical Sciences
 current_job_position: Currently Bioinformatician at KAISER PERMANENTE REGIONAL LABORATORY
 ---
 
