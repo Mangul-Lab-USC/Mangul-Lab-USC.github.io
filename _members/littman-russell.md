@@ -4,7 +4,7 @@ search:
   - Russell Littman
 image: images/team/russell-littman.jpg
 
-role: bioinformatics-analyst
+role: undergrad
 group: alum
 
 linkedin: russell-littman-999864132
