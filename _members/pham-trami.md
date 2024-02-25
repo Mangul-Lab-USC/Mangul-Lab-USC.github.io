@@ -13,7 +13,7 @@ linkedin: tramipham
 
 lab_member_years:
 alma_mater: PharmD, USC Alfred E. Mann School of Pharmacy and Pharmaceutical Sciences
-current_job_position: Currently Clinical Trials Project Manager at UCLA Health
+current_job_position: PharmD Student
 ---
 
 Trami Pham is pursuing a dual PharmD/MS degree in Regulatory Science at the University of Southern California. 
