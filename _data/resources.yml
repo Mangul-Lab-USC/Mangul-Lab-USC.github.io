@@ -24,26 +24,7 @@
   image: 
   link: https://mangul-lab-usc.github.io/news/
   description: "Our talk was highlighted in the blog post of the Journal, GigaScience (http://gigasciencejournal.com/blog/birthday-at-ismb2022/). The first year PhD student, Yu Ning, was a speaker at the 2022 ISMB conference held in Madison, where he presented in the CAMDA (Critical Assessment of Mass Data Analysis) track. During the conference, he presented two talks, Data availability of open T-cell receptor repertoire data, a systematic assessment and Assessing the completeness of immunogenetics databases across diverse populations. The talk for the assessment of the raw data availability in immunogenetics studies introduced the published research in June 2022 examining the raw data availability in the immunogenetics studies. He also presented the ongoing immunogenetics projects analyzing the completeness of the immunogenetics database (IMGT databased) representing diverse populations. The PI, Dr Serghei Mangul, presented one talk, The systematic assessment for the completeness of metadata information accompanying omics studies. His talk centered around the analysis of the completeness of metadata in biomedical research fields. The ISMB conference is a well-respected platform for scientists and researchers in computational biology and your participation in this conference highlights your standing in the industry. The CAMDA track specifically focuses on the critical evaluation of large-scale data analysis. Our talk provided valuable insights into the current state of the field and paved the way for further research and discussions."
-- title: Congratulations to Dottie Yu on Provost Undergraduate Research award
-  type: legacy
-  image: 
-  link: https://mangul-lab-usc.github.io/news/
-  description: "Congratulations to Dottie Yu for winning the Spring 2023 Provost Undergraduate Research Fellowship award. She is awarded for continuing work on project titled ‘Rigorous Benchmarking of HLA callers for RNA sequencing data.’ Dottie is an senior undergraduate student in the Quantitative and Computational Biology department at USC and has been working on the HLA project for the past year."
-- title: Congratulations to Cecilia(Fangyun) Liu on Provost Undergraduate Research Fellowship
-  type: legacy
-  image: 
-  link: https://mangul-lab-usc.github.io/news/
-  description: "Congratulations to Cecilia(Fangyun) Liu for winning the Fall 2022 Provost Undergraduate Research Fellowship. The award is given for her work on the project titled “Assessment of  robustness and reproducibility of transcriptome quantification tools based on RNA-Seq-based computational replicates.” Cecilia started this project in Summer 2022 Bridge Undergraduate Research Program. She is currently a senior student in Quantitative Biology at USC."
-- title: Congratulations to Andrew Wesel on acceptance into the Southern California Academy of Sciences (SCAS) Research Training Program (RTP)
-  type: legacy
-  image: 
-  link: https://mangul-lab-usc.github.io/news/
-  description: "Andrew Wesel was accepted into the Southern California Academy of Sciences (SCAS) Research Training Program (RTP). SCAS is a member of the National Association of the Academies of Science. Over the next academic year, he will attend training seminars, complete a research project, and present it to a panel in May for a chance to represent SCAS at the American Junior Academy of Science national meeting. The program comes with $300 in funding."
-- title: Congratulations to Yesha Patel on making it through to the Semi finals for the 2022 Charles J. Epstein Trainee Awards for Excellence in Human Genetics Research!
-  type: legacy
-  image: 
-  link: https://mangul-lab-usc.github.io/news/
-  description: "Senior Data Scientist Yesha Patel has been selected as a predoctoral semifinalist for the 2022 Charles J. Epstein Trainee Awards for Excellence in Human Genetics Research for the 2022 Annual Meeting of the American Society of Human Genetics, which will be held in Los Angeles, California from October 25-29, 2022. The competition was intense this year, with over 700 applicants for only 60 semifinalist and 18 finalist selections. Selection to the semifinalist stage is a significant honor and reflects the quality and significance of her work."
+
 - title: New paper from Mangul Lab published at 2022 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW)
   type: legacy
   image: 
