@@ -7,6 +7,7 @@ role: affiliate
 email: abdnahid56@gmail.com
 github: nahid18
 twitter: abdnahid_
+linkedin: abdnahid
 
 
 ---
