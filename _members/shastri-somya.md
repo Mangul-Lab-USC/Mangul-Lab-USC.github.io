@@ -1,8 +1,7 @@
 ---
-title: Somya Brijesh Shastri
+title: Somya Shastri
 search:
   - Somya
-  - Brijesh
   - Shastri
 image: images/team/somya-shastri.png
 
