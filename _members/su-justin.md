@@ -4,6 +4,7 @@ title: Justin Su
 search:
   - Justin
   - Su
+  - Justin Su
 image: images/team/justin-su.jpg
 
 role: phd
