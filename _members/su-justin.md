@@ -9,9 +9,9 @@ image: images/team/justin-su.jpg
 role: phd
 
 email: jmsu@usc.edu
-linkedin: justinmsu
 github: ubicyte
 twitter: justinsuuu
+linkedin: justinmsu
 
 ---
 
