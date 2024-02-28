@@ -1,15 +1,10 @@
 ---
 title: Resources
-redirect_from:
-  - /webservers
-  - /software
-  - /apps
----
 
 # <i class="fas fa-tools"></i>Resources
 
 <p style="text-align: center;">
-This page includes our open-sourced softwares, some information we find useful, our lab videos and the news in which Mangul Lab was present.  
+This page includes information we find useful and our lab videos.  
 </p>
 
 <!-- section break -->
