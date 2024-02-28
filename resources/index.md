@@ -10,16 +10,6 @@ This page includes information we find useful and our lab videos.
 
 <!-- section break -->
 
-## We develop omics software!
-
-{% capture html %}
-{% include resource-list.html type="featured" size="large" %}
-{% endcapture %}
-
-{% include centerer.html html=html %}
-
-<!-- section break -->
-
 ## Information we find useful!
 
 {% capture html %}
