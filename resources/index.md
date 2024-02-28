@@ -5,7 +5,7 @@ title: Resources
 # <i class="fas fa-book"></i>Resources
 
 <p style="text-align: center;">
-This page includes information we find useful and our lab videos.  
+This page includes information we find useful, our lab videos and opportunities.  
 </p>
 
 <!-- section break -->
@@ -51,9 +51,7 @@ Your donation is a powerful tool for change in the field of bioinformatics and b
   link="https://www.betterunite.com/bioinformaticsforukraine-empowerdreamsscholarshipfundforukrainianscholars"
 %}
 
-# <i class="fas fa-feather-alt"></i>Opportunities
-
-## Funding Opportunities
+# <i class="fas fa-feather-alt"></i>Funding Opportunities
 
 We are prepared to help our members apply for internal and external awards for research, travel, and education support! For other curated lists, please see: [https://thethrashlab.com/opportunities/](https://thethrashlab.com/opportunities/)
 
