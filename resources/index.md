@@ -1,7 +1,8 @@
 ---
 title: Resources
+---
 
-# <i class="fas fa-tools"></i>Resources
+# <i class="fas fa-book"></i>Resources
 
 <p style="text-align: center;">
 This page includes information we find useful and our lab videos.  
