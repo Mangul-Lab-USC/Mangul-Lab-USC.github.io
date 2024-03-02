@@ -19,7 +19,7 @@
   - Nicholas Mancuso
   - Junghyun Jung
   - Wonhee Jang
-  publisher: BioMed Central
+  publisher: Arthritis Research & Therapy
   date: '2024-02-10'
   link: https://doi.org/10.1186/s13075-024-03280-2
   id: doi:10.1186/s13075-024-03280-2
@@ -60,7 +60,7 @@
   - Eleazar Eskin
   - Wei Wang
   - Serghei Mangul
-  publisher: Cold Spring Harbor Laboratory
+  publisher: bioRxiv
   date: '2023-12-20'
   link: https://www.biorxiv.org/content/10.1101/2023.12.19.572483v1
   id: doi:10.1101/2023.12.19.572483 
@@ -263,7 +263,7 @@
   extra-links:
   - type: preprint
 
-- title: Rigorous benchmarking of T-cell receptor repertoire profiling methods for cancer RNA sequencing
+- title: 'Rigorous benchmarking of T-cell receptor repertoire profiling methods for cancer RNA sequencing'
   authors:
   - Kerui Peng
   - Theodore Scott Nowicki
@@ -298,7 +298,7 @@
   - Mark Chaisson
   - Eleazar Eskin
   - Serghei Mangul
-  publisher: Cold Spring Harbor Laboratory
+  publisher: bioRxiv
   date: '2023-08-15'
   link: https://doi.org/10.1101/2023.08.11.553053
   id: doi:10.1101/2023.08.11.553053 
@@ -323,7 +323,7 @@
   - Nicole A Nogoy
   - Malak S Abedalthagafi
   - Serghei Mangul
-  publisher: Cold Spring Harbor Laboratory
+  publisher: bioRxiv
   date: '2023-08-05'
   link: https://doi.org/10.1101/2023.07.31.551384 
   id: doi:10.1101/2023.07.31.551384 
@@ -336,7 +336,7 @@
   - Dottie Yu
   - Ram Ayyala
   - Serghei Mangul
-  publisher: Cold Spring Harbor Laboratory
+  publisher: bioRxiv
   date: '2023-05-24'
   link: https://doi.org/10.1101/2023.05.22.541750 
   id: doi:10.1101/2023.05.22.541750 
@@ -375,8 +375,7 @@
   id: doi:10.1093/gigascience/giad045
   image: https://raw.githubusercontent.com/Mangul-Lab-USC/Mangul-Lab-USC.github.io/main/images/research/Scientists-without-borders-lessons-from-Ukraine.jpeg
 
-- title: Meta-analysis of (single-cell method) benchmarks reveals the need for extensibility
-    and interoperability
+- title: 'Meta-analysis of (single-cell method) benchmarks reveals the need for extensibility and interoperability'
   authors:
   - Anthony Sonrel
   - Almut Luetge
@@ -407,15 +406,14 @@
   - type: manubot
     link: https://doi.org/10.1186/s13059-023-02962-5
 
-- title: Community structure and temporal dynamics of SARS-CoV-2 epistatic network
-    allows for early detection of emerging variants with altered phenotypes
+- title: 'Community structure and temporal dynamics of SARS-CoV-2 epistatic network allows for early detection of emerging variants with altered phenotypes'
   authors:
   - Fatemeh Mohebbi
   - Alex Zelikovsky
   - Serghei Mangul
   - Gerardo Chowell
   - Pavel Skums
-  publisher: Cold Spring Harbor Laboratory
+  publisher: bioRxiv
   date: '2023-04-03'
   link: https://doi.org/gr4g3q
   id: doi:10.1101/2023.04.02.535277
@@ -423,7 +421,7 @@
   extra-links:
   - type: preprint
 
-- title: Remote opportunities for scholars in Ukraine
+- title: 'Remote opportunities for scholars in Ukraine'
   authors:
   - Karishma Chhugani
   - Alina Frolova
