@@ -3,9 +3,12 @@ title: Sanskruti Sharma
 search:
   - Sanskruti Sharma
 image: images/team/sanskruti-sharma.jpg
+
 role: masters
+
 email: susharma@usc.edu 
 github: SansSharma
+linkedin: sanskruti-sharma-327807223
 
 ---
 
