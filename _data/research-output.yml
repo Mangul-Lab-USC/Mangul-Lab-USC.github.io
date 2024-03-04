@@ -1,4 +1,21 @@
-- title: Climate warming, environmental degradation and pollution as drivers of antibiotic resistance
+- title: 'The knowns and unknowns of long COVID-19: from mechanisms to therapeutical approaches'
+  authors:
+  - Roxana Gheorghita
+  - Iuliana Soldanescu
+  - Andrei Lobiuc
+  - Olga Adriana Caliman-Sturdza
+  - Roxana Filip
+  - Adela Constantinescu – Bercu
+  - Mihai Dimian
+  - Serghei Mangul
+  - Mihai Covasa
+  publisher: Frontiers in Immunology
+  date: '2024-03-04'
+  link: https://doi.org/10.3389/fimmu.2024.1344086 
+  id: doi:10.3389/fimmu.2024.1344086 
+  image: images/research/The-knowns-and-unknowns-of-long-COVID-19-from-mechanisms-to-therapeutical-approaches.jpg
+
+- title: 'Climate warming, environmental degradation and pollution as drivers of antibiotic resistance'
   authors:
   - Piotr Rzymski
   - Willis Gwenzi
@@ -11,7 +28,7 @@
   id: doi:10.1016/j.envpol.2024.123649
   image: images/research/Climate-warming-environmental-degradation-and-pollution-as-drivers-of-antibiotic-resistance.jpg
 
-- title: Large-scale integrative analysis of juvenile idiopathic arthritis for new insight into its pathogenesis
+- title: 'Large-scale integrative analysis of juvenile idiopathic arthritis for new insight into its pathogenesis'
   authors:
   - Daeun Kim
   - Jaeseung Song
