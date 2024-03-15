@@ -10,12 +10,12 @@ image: images/team/niko-darci-maher.jpg
 role: undergrad
 group: alum
 
+website: https://ndarci.github.io/
 email: niko.darcimaher@gmail.com 
 linkedin: nikodarcimaher
 google: p7pLW8wAAAAJ
 github: ndarci
 twitter: nikodarcimaher
-website: ndarci.github.io
 
 lab_member_years:
 alma_mater: UCLA
