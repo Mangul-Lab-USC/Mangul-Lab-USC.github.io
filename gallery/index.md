@@ -26,4 +26,5 @@ This tab contains photos of Mangul Lab.
   image15="images/gallery/PHOTO-2023-11-18-09-58-19.jpg"
   image16="images/gallery/MC022067.jpg"
   image17="images/gallery/Karishma-gallery.jpg"
+  image18="images/gallery/The-Mangul-lab-presented-at-2nd-Drug-Discovery-Workshop-at-USC-3.jpg"
 %}
