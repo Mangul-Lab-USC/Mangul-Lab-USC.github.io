@@ -2,7 +2,7 @@
 title: Likhitha Chittampalli
 search:
   - Likhitha Chittampalli
-image: images/team/Likhitha.jpeg
+image: images/team/likhitha-chittampalli.jpg
 role: bioinformatics-analyst
 email: chittamp@usc.edu
 github: likhitha99
