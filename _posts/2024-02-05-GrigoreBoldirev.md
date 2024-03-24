@@ -1,5 +1,5 @@
 ---
-title: "NOW RECRUITING: 2023-2024 NSF-funded UNDERGRADUATE STEM INTERN!"
+title: "NOW RECRUITING: 2024-2025 NSF-funded UNDERGRADUATE STEM INTERN!"
 
 author: Grigore Boldirev
 member-page: boldirev-grigore.html
@@ -9,20 +9,20 @@ image: images/blog/
 
 
 ---
-### NOW RECRUITING: 2023-2024 NSF-funded UNDERGRADUATE STEM INTERN!
+### NOW RECRUITING: 2024-2025 NSF-funded UNDERGRADUATE STEM INTERN!
 
-We are actively accepting applications from current undergraduate STEM students to fill the position of an Undergraduate Researcher at the Mangul Lab for Summer 2023.
+We are actively accepting applications from current undergraduate STEM students to fill the position of an Undergraduate Researcher at the Mangul Lab for Summer 2024.
 The Mangul Lab is committed to ensuring an inclusive and supportive environment regardless of age, gender, sexual orientation, disability, race, ethnicity, religion, nationality, or socioeconomic background.
 
 
 
 ### DEADLINE TO APPLY?
 
-Thursday, May 20, 2023 5:00pm Pacific Time (We will be interviewing candidates on a rolling basis, we encourage you to apply early)
+Thursday, May 20, 2024 5:00pm Pacific Time (We will be interviewing candidates on a rolling basis, we encourage you to apply early)
 
 ### WHO SHOULD APPLY?
 
-Undergraduate students who are interested in computational bioscience research and have basic computational training are invited to join Mangul Lab from June 16th, 2023, to August 20, 2023 (dates can be changed if necessary). The intern will perform individual research projects, guided by Dr. Mangul, in collaboration with and assistance from our graduate students and postdoctoral scholars. Candidates must be eligible to work in the United States.\
+Undergraduate students who are interested in computational bioscience research and have basic computational training are invited to join Mangul Lab from June 16th, 2024, to August 20, 2024 (dates can be changed if necessary). The intern will perform individual research projects, guided by Dr. Mangul, in collaboration with and assistance from our graduate students and postdoctoral scholars. Candidates must be eligible to work in the United States.\
 <em>We strongly encourage applications from traditionally underrepresented students.</em> 
 
 ### WHAT IS INVOLVED IN THE INTERNSHIP?
