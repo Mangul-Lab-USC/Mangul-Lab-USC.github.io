@@ -18,7 +18,7 @@ The Mangul Lab is committed to ensuring an inclusive and supportive environment 
 
 ### DEADLINE TO APPLY?
 
-Thursday, May 20, 2024 5:00pm Pacific Time (We will be interviewing candidates on a rolling basis, we encourage you to apply early)
+Monday, May 20, 2024 5:00pm Pacific Time (We will be interviewing candidates on a rolling basis, we encourage you to apply early)
 
 ### WHO SHOULD APPLY?
 
