@@ -8,9 +8,9 @@ member-page: maher-niko-darci.html
 image: images/blog/
 
 tags:
-	- Career
-	- Life decisions
-	- PhD
+    - Career
+    - Life decisions
+    - PhD
 ---
 
 ### Choosing a major
