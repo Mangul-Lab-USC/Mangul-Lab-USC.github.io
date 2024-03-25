@@ -1,6 +1,5 @@
 ---
-title: "Cross-discipline academic journey helps young researcher find career direction"
-subtitle: "My path to pursuing a PhD in microbial ecology"
+title: "Cross-discipline academic journey helps young researcher find career direction: my path to pursuing a PhD in microbial ecology"
 
 author: Niko Darci-Maher
 member-page: maher-niko-darci.html
