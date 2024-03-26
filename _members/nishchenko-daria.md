@@ -6,7 +6,7 @@ search:
   - Nishchenko
 image: images/team/daria-nishchenko.jpg
 
-role: undergrad
+role: affiliate
 
 email: nishchenkodaria@gmail.com
 github: daria-nishchenko
