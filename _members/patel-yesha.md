@@ -13,7 +13,7 @@ github: yeshapatel83
 linkedin: yesha-m-patel
 
 lab_member_years: 
-alma_mater: Postdoctoral Scholar, Department of Clinical Pharmacy, USC School of Pharmacy
+alma_mater: Postdoctoral Scholar, Department of Clinical Pharmacy, USC Alfred E. Mann School of Pharmacy and Pharmaceutical Sciences
 current_job_position: Currently Senior Data Scientist #Data Scientist at Keck Medicine of USC
 ---
 

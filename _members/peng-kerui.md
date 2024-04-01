@@ -14,7 +14,7 @@ github: KeruiP
 twitter: KeruiPeng
 
 lab_member_years:
-alma_mater: Ph.D. Rotation student, Pharmaceutical and Translational Sciences (PHTS) Program, USC School of Pharmacy
+alma_mater: Ph.D. Rotation student, Pharmaceutical and Translational Sciences (PHTS) Program, USC Alfred E. Mann School of Pharmacy and Pharmaceutical Sciences
 current_job_position: Currently Regulatory Affairs Intern at AbbVie
 ---
 
