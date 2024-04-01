@@ -1,11 +1,13 @@
 ---
 title: Dorcus Malomane
-
 search:
   - Dorcus 
   - Malomane
 image: images/team/Dorcus-Malomane.jpg
+
+group: alum
 role: postdoc
+
 email:  malomane@usc.edu
 github: dmaloma
 ---
