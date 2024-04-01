@@ -13,7 +13,7 @@ email: ruiweigu@usc.edu
 github: RuiweiGuo
 
 lab_member_years:
-alma_mater: Master’s Student, Pharmaceutical Sciences, University of Southern Calofornia
+alma_mater: Master’s Student, Pharmaceutical Sciences, USC Alfred E. Mann School of Pharmacy and Pharmaceutical Sciences
 current_job_position: 
 ---
 

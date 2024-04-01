@@ -13,7 +13,7 @@ linkedin: khooshbu-patel99
 github: khooshbu1511
 
 lab_member_years:
-alma_mater: Master of Science, Clinical and Industrial Drug Development, University of Southern Calofornia
+alma_mater: Master of Science, Clinical and Industrial Drug Development, USC Alfred E. Mann School of Pharmacy and Pharmaceutical Sciences
 current_job_position: Currently Bioinformatician I at Duke University School of Medicine
 ---
 

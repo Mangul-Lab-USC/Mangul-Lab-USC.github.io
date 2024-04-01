@@ -13,7 +13,7 @@ group: alum
 <!-- twitter: jaquejbrito -->
 
 lab_member_years: 2017 - 2018
-alma_mater: Bachelor of Science, Department of Computer Science, University of California Los Angeles
+alma_mater: Bachelor of Science, Department of Computer Science, University of California, Los Angeles
 current_job_position: Currently Software Developer at Ardent Labs
 ---
 

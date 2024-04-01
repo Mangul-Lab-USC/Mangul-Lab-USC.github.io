@@ -1,13 +1,13 @@
 <div class="portrait_alumni">
 
-  <!--
+ 
   <span style="flex-basis: 9%;">
     {%- if include.lab_member_years -%} 
     <span class="portrait_name"> {{ include.lab_member_years }} </span>
     {%- endif -%}
   </span>
-  -->
   
+
   <a {% if include.link %}href="{{ include.link | relative_url }}" {% endif %} class="portrait" data-mini="{{ include.mini | default: false }}">
     <span>
       {%- assign placeholder = include.placeholder | default: "images/placeholder.svg" | relative_url -%}
@@ -91,4 +91,5 @@
     <span class="portrait_name"> {{ include.current_job_position }} </span>
     {%- endif -%}
   </span>
+
 </div>

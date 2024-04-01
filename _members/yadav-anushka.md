@@ -13,7 +13,7 @@ linkedin: anushka-yadav-ay
 github: anushka2899
 
 lab_member_years: 
-alma_mater: Master of Science, Pharmateutical Sciences, University of Southern California
+alma_mater: Master of Science, Pharmateutical Sciences, USC Alfred E. Mann School of Pharmacy and Pharmaceutical Sciences
 current_job_position: Currently Computational Biology Research Assistant at Memorial Sloan Kettering Cancer Center
 ---
 
