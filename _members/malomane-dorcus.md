@@ -10,6 +10,7 @@ role: postdoc
 
 email:  malomane@usc.edu
 github: dmaloma
+linkedin: dr-dorcus-kholofelo-malomane-phd-5a37b914
 
 lab_member_years: 
 alma_mater: Postdoctoral Scholar, joint with Prof. Charleston Chiang, USC Alfred E. Mann School of Pharmacy and Pharmaceutical Sciences
