@@ -3,7 +3,9 @@ title: Nadiia Kasianchuk
 search:
   - Nadiia Kasianchuk
 image: images/team/nadiia-kasianchuk.jpg
+
 role: affiliate
+
 email: nadiia.kasianchuk@gmail.com
 github: nadikak 
 
