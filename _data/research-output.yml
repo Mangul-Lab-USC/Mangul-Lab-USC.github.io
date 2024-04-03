@@ -1,3 +1,31 @@
+- title: 'Packaging and containerization of computational methods'
+  authors:
+  - Mohammed Alser
+  - Brendan Lawlor
+  - Richard J. Abdill
+  - Sharon Waymost
+  - Ram Ayyala
+  - Neha Rajkumar
+  - Nathan LaPierre
+  - Jaqueline Brito
+  - Andre M. Ribeiro-dos-Santos
+  - Nour Almadhoun
+  - Varuni Sarwal
+  - Can Firtina
+  - Tomasz Osinski
+  - Eleazar Eskin
+  - Qiyang Hu
+  - Derek Strong
+  - Byoung-Do Kim
+  - Malak S. Abedalthagafi
+  - Onur Mutlu
+  - Serghei Mangul
+  publisher: Nature Protocols
+  date: '2024-04-02'
+  link: https://doi.org/10.1038/s41596-024-00986-0
+  id: doi:10.1038/s41596-024-00986-0
+  image: images/research/Packaging-and-containerization-of-computational-methods.png
+
 - title: 'The knowns and unknowns of long COVID-19: from mechanisms to therapeutical approaches'
   authors:
   - Roxana Gheorghita
@@ -463,34 +491,6 @@
   link: https://doi.org/grj7c2
   id: doi:10.1126/science.adg0797
   image: https://www.science.org/cms/10.1126/science.adg0797/asset/eea223b5-fbf1-466b-bccf-fb2233bbc885/assets/images/large/science.adg0797-f1.jpg
-
-- title: 'Packaging, containerization, and virtualization of computational omics methods:
-    Advances, challenges, and opportunities'
-  authors:
-  - Mohammed Alser
-  - Sharon Waymost
-  - Ram Ayyala
-  - Brendan Lawlor
-  - Richard J. Abdill
-  - Neha Rajkumar
-  - Nathan LaPierre
-  - Jaqueline Brito
-  - Andre M. Ribeiro-dos-Santos
-  - Can Firtina
-  - Nour Almadhoun
-  - Varuni Sarwal
-  - Eleazar Eskin
-  - Qiyang Hu
-  - Derek Strong
-  - Byoung-Do
-  - Malak S. Abedalthagafi
-  - Onur Mutlu
-  - Serghei Mangul
-  publisher: arXiv
-  date: '2022-01-01'
-  link: https://doi.org/gpvv7j
-  id: doi:10.48550/arXiv.2203.16261
-  image: https://raw.githubusercontent.com/Mangul-Lab-USC/Mangul-Lab-USC.github.io/main/images/research/image.png
 
 - title: 'Exome-wide association study to identify rare variants influencing COVID-19
     outcomes: Results from the Host Genetics Initiative'
