@@ -1,3 +1,16 @@
+- title: 'Early detection of emerging viral variants through analysis of community structure of coordinated substitution networks'
+  authors:
+  - Fatemeh Mohebbi
+  - Alex Zelikovsky
+  - Serghei Mangul
+  - Gerardo Chowell
+  - Pavel Skums
+  publisher: Nature Communications
+  date: '2024-04-02'
+  link: https://doi.org/10.1038/s41467-024-47304-6
+  id: doi:10.1038/s41467-024-47304-6
+  image: images/research/Early-detection-of-emerging-viral-variants-through-analysis-of-community-structure-of-coordinated-substitution-networks.jpg
+
 - title: 'Packaging and containerization of computational methods'
   authors:
   - Mohammed Alser
@@ -450,21 +463,6 @@
   extra-links:
   - type: manubot
     link: https://doi.org/10.1186/s13059-023-02962-5
-
-- title: 'Community structure and temporal dynamics of SARS-CoV-2 epistatic network allows for early detection of emerging variants with altered phenotypes'
-  authors:
-  - Fatemeh Mohebbi
-  - Alex Zelikovsky
-  - Serghei Mangul
-  - Gerardo Chowell
-  - Pavel Skums
-  publisher: bioRxiv
-  date: '2023-04-03'
-  link: https://doi.org/gr4g3q
-  id: doi:10.1101/2023.04.02.535277
-  image: https://www.biorxiv.org/content/biorxiv/early/2023/04/03/2023.04.02.535277/F2.large.jpg?width=800&height=600&carousel=1
-  extra-links:
-  - type: preprint
 
 - title: 'Remote opportunities for scholars in Ukraine'
   authors:
