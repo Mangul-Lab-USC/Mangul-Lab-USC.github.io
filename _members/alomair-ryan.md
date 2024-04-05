@@ -5,7 +5,7 @@ search:
   - Alomair
 image: images/team/ryan-alomair.jpg
 
-role: undergrad
+role: phd
 
 email: ryalomair@g.ucla.edu
 linkedin: ryan-alomair-744bba183

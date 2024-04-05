@@ -4,7 +4,7 @@ search:
    - Seungmo
    - Lee
 image: images/team/seungmo-lee.jpg
-role: undergrad
+role: phd
 email: seungmo6@g.ucla.edu
 github: 543090lee
 ---
