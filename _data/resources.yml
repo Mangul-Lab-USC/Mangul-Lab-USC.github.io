@@ -199,6 +199,12 @@
   link: https://youtu.be/PHmfgIuOMFQ
   description: Intro to Unix Workshop taught by Serghei Mangul at UCLA’s Collaboratory; parts 3
 
+- title: "Serghei Mangul: “Systematic Benchmarking of Omics Computational Tools and Databases”"
+  type: other
+  image: images/resources/imp.png
+  link: https://www.youtube.com/watch?v=rd_hpBHFXAg
+  description: Biostats seminars series
+
 - title: Moldovan University on Serghei's Workshops
   type: legacy
   image: images/resources/giant.png

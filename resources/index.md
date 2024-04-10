@@ -5,18 +5,8 @@ title: Resources
 # <i class="fas fa-book"></i>Resources
 
 <p style="text-align: center;">
-This page includes information we find useful, our lab videos and opportunities.  
+This page includes our lab videos, information we find useful and opportunities.  
 </p>
-
-<!-- section break -->
-
-## Information we find useful!
-
-{% capture html %}
-{% include resource-list.html type="more" size="small" %}
-{% endcapture %}
-
-{% include centerer.html html=html %}
 
 <!-- section break -->
 
@@ -24,6 +14,16 @@ This page includes information we find useful, our lab videos and opportunities.
 
 {% capture html %}
 {% include resource-list.html type="other" size="medium" %}
+{% endcapture %}
+
+{% include centerer.html html=html %}
+
+<!-- section break -->
+
+## Information we find useful!
+
+{% capture html %}
+{% include resource-list.html type="more" size="small" %}
 {% endcapture %}
 
 {% include centerer.html html=html %}
