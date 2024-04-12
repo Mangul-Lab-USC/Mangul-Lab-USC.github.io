@@ -13,7 +13,7 @@ email: manyeewo@usc.edu
 github: kayleyw
 
 lab_member_years: 
-alma_mater: Master’s student, Translational Biomedical Informatics at the Department of Translational Genomics, University of Southern California
+alma_mater: Master’s student, Translational Biomedical Informatics at the Department of Translational Genomics, Keck School of Medicine of USC
 current_job_position:
 ---
 
