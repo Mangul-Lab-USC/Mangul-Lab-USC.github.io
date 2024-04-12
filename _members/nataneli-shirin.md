@@ -13,7 +13,7 @@ linkedin: snataneli
 github: ShirNat
 
 lab_member_years: 
-alma_mater: Bachelor of Science, Biology, UCLA
+alma_mater: Bachelor of Science, Biology, University of California, Los Angeles
 current_job_position: Currently Project Intern at NASA Jet Propulsion Laboratory 
 ---
 

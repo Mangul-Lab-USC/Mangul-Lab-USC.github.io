@@ -10,7 +10,7 @@ group: alum
 linkedin: benjamin-statz-64086618b
 
 lab_member_years: 2016 - 2018
-alma_mater: Bachelor of Science, Conputer Science, UCLA
+alma_mater: Bachelor of Science, Conputer Science, University of California, Los Angeles
 current_job_position: Currently Research Assistant at University of California, Los Angeles
 ---
 

@@ -13,7 +13,7 @@ linkedin: linus-brian-chen
 <!-- twitter: jaquejbrito -->
 
 lab_member_years: 2016 - 2018
-alma_mater: Bachelor of Science, Bioengineering and Biomedical Engineering, UCLA
+alma_mater: Bachelor of Science, Bioengineering and Biomedical Engineering, University of California, Los Angeles
 current_job_position: Former Software Engineer at Epic
 ---
 

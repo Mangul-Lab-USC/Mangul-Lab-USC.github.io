@@ -18,7 +18,7 @@ github: ndarci
 twitter: nikodarcimaher
 
 lab_member_years:
-alma_mater: UCLA
+alma_mater: Master of Science, Bioinformatics, University of California, Los Angeles
 current_job_position: ORISE Research Fellow, US Forest Service Northern Research Station
 ---
 

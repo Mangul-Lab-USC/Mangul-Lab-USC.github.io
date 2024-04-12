@@ -10,7 +10,7 @@ group: alum
 linkedin: harry-taegyun-yang-84941a93
 
 lab_member_years: 2016 - 2017
-alma_mater: PhD, Bioinformatics, UCLA
+alma_mater: PhD, Bioinformatics, University of California, Los Angeles
 current_job_position: Currently Graduate Student Researcher at University of California, Los Angeles
 ---
 

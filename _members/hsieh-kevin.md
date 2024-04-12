@@ -12,7 +12,7 @@ github: kahsieh
 #twitter: <username>
 
 lab_member_years: 2016 - 2019
-alma_mater: Master of Science, Computer Science, UCLA
+alma_mater: Master of Science, Computer Science, University of California, Los Angeles
 current_job_position: Currently Software Engineer at Google
 ---
 
