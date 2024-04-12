@@ -13,7 +13,7 @@ linkedin: grace-scheg-75a852252
 github: gscheg
 
 lab_member_years: 
-alma_mater: Bachelor of Science, Quantitative Biology, University of Southern California
+alma_mater: Bachelor of Science, Quantitative Biology, Dornsife College of Letter, Arts and Sciences at USC
 current_job_position:
 ---
 

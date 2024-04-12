@@ -13,7 +13,7 @@ linkedin: sunnyylee
 github: sunnyyleee
 
 lab_member_years: 2021 -2021
-alma_mater: Bachelor of Science, Quantitive Biology, University of Southern California
+alma_mater: Bachelor of Science, Quantitive Biology, USC Dornsife College of Letters, Arts and Sciences
 current_job_position: Currently Product Designer at Cvent
 ---
 

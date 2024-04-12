@@ -11,7 +11,7 @@ group: alum
 email: weidixia@usc.edu
 
 lab_member_years:
-alma_mater: Bachelor of Science, Biological Sciences, USC Dornsife
+alma_mater: Bachelor of Science, Biological Sciences, Dornsife College of Letter, Arts and Sciences at USC
 current_job_position:
 ---
 

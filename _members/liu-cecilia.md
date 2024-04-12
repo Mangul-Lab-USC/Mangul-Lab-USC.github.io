@@ -13,7 +13,7 @@ linkedin: fangyun-cecilia-liu-37003820b
 github: cclliu1212
 
 lab_member_years:
-alma_mater: PhD Student, Computational Biology and Bioinformatics, University of Southern California
+alma_mater: PhD Student, Computational Biology and Bioinformatics, Dornsife College of Letter, Arts and Sciences at USC
 current_job_position: Currently Undergraduate Researcher at University of Southern California
 ---
 

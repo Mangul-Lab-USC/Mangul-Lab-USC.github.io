@@ -15,7 +15,7 @@ linkedin: gmykim
 github: gmykim
 
 lab_member_years: 2020 - 2020
-alma_mater: Bachelor of Science, Quantitive Biology, University of Southern California
+alma_mater: Bachelor of Science, Quantitive Biology, USC Dornsife College of Letters, Arts and Sciences
 current_job_position: Currently Analyst at Stout
 ---
 

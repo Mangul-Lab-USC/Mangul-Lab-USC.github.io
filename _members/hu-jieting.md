@@ -15,7 +15,7 @@ github: emuahu99
 #twitter: <username>
 
 lab_member_years:
-alma_mater: Master of Science, Biotechnology, University of Southern Calofornia
+alma_mater: Master of Science, Biotechnology, Keck School of Medicine of USC
 current_job_position:
 ---
 

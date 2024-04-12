@@ -13,7 +13,7 @@ linkedin: anish-nagareddy
 github: AnishNagareddy
 
 lab_member_years: 
-alma_mater: Bachelor of Science, Computer Science and Business Administration, University of Southern California
+alma_mater: Bachelor of Science, Computer Science and Business Administration, USC Viterbi School of Engineering
 current_job_position: Currently Embedded Software Engineer at USC Rocket Propulsion Laboratory
 ---
 
