@@ -13,7 +13,7 @@ linkedin: wenwen908
 github: ShirleyWenxiaoer
 
 lab_member_years: 2022 - 2022
-alma_mater: Master of Science, Translational Biotechnology, UCLA
+alma_mater: Master of Science, Translational Biotechnology, University of California, Los Angeles 
 current_job_position: Former Research Assistant Intern at Dr.Serghei Mangul's lab at the USC School of Pharmacy 
 ---
 
