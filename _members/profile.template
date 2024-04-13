@@ -10,7 +10,7 @@ title: <display name>
 #image: images/team/<file name>
 
 # role must be included or person won't appear on team page
-role: <pi/postdoc/phd/masters/or undergrad>
+role: <pi/postdoc/phd/masters/undergrad>
 
 # add person to alumni group
 # group: alum
@@ -20,6 +20,7 @@ role: <pi/postdoc/phd/masters/or undergrad>
 # website: <url>
 # github: <username>
 # twitter: <username>
+# linkedin: <username>
 
 ---
 

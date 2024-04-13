@@ -1,4 +1,5 @@
 {% assign resources = site.data.resources %}
+{% assign resources = resources | sort: "date" | reverse %}
 
 {% if include.type != nil %}
 {% if include.type == "" %}
@@ -14,13 +15,20 @@
 {% include tags.html repo=resource.repo %}
 {% endcapture %}
 
+{%- capture details -%}
+{{- resource.date | date: "%d %b %Y" -}}
+{%- endcapture -%}
+
 {%-
   include card.html
   size=include.size
   heading=resource.title
   image=resource.image
   link=resource.link
+  truncate=2
   row1=resource.description
-  row2=tags
+  row2=details
+  row3=tags
 -%}
+
 {% endfor %}

@@ -19,37 +19,82 @@
 
 # repo:
 # A GitHub repo to automatically fetch tags (aka "topics") from.
+
+
+# NEWS
+
 - title: Highlighted talk at GigaScience in the 2022 ISMB conference CAMDA track in Madison
   type: legacy
-  image: 
+  image: images/research/paper-thumbnail.png
+  date: '2022-07-19'
   link: http://gigasciencejournal.com/blog/birthday-at-ismb2022/
   description: "Our talk was highlighted in the blog post of the Journal, [GigaScience](http://gigasciencejournal.com/blog/birthday-at-ismb2022/). The first year PhD student, Yu Ning, was a speaker at the 2022 ISMB conference held in Madison, where he presented in the CAMDA (Critical Assessment of Mass Data Analysis) track. During the conference, he presented two talks, Data availability of open T-cell receptor repertoire data, a systematic assessment and Assessing the completeness of immunogenetics databases across diverse populations. The talk for the assessment of the raw data availability in immunogenetics studies introduced the published research in June 2022 examining the raw data availability in the immunogenetics studies. He also presented the ongoing immunogenetics projects analyzing the completeness of the immunogenetics database (IMGT databased) representing diverse populations. The PI, Dr Serghei Mangul, presented one talk, The systematic assessment for the completeness of metadata information accompanying omics studies. His talk centered around the analysis of the completeness of metadata in biomedical research fields. The ISMB conference is a well-respected platform for scientists and researchers in computational biology and your participation in this conference highlights your standing in the industry. The CAMDA track specifically focuses on the critical evaluation of large-scale data analysis. Our talk provided valuable insights into the current state of the field and paved the way for further research and discussions."
 
 - title: Mangul lab publishes study focusing on accessibility, diversity and inclusion at virtual scientific conferences 
   type: legacy
-  image: images/resources/nano-dissection.png
+  image: images/research/paper-thumbnail.png
+  date: '2022-01-10'
   link: https://pharmacyschool.usc.edu/news/study-focuses-on-accessibility-diversity-and-inclusion-at-virtual-scientific-conferences/
   description: "Our paper 'Virtual meetings promise to eliminate geographical and administrative barriers and increase accessibility, diversity and inclusivity' was highlighted in the USC Pharmacy news."
 
 - title: Our work about how the virtual meetings promise to eliminate geographical and administrative barriers(https://www.nature.com/articles/s41587-021-01176-z) was highlighted in NIH guest post by Marie A. Bernard, M.D., NIH Chief Officer for Scientific Workforce Diversity.
   type: legacy
-  image: images/resources/nano-dissection.png
+  image: images/research/paper-thumbnail.png
+  date: '2022-02-24'
   link: https://nexus.od.nih.gov/all/2022/02/24/how-virtual-convenings-can-enhance-diversity-equity-inclusion-and-accessibility/
   description: "In their comment,'Another recent study affirms that online meetings can promote participant diversity by minimizing barriers to attendance. The authors analyzed the demographics of attendees at scientific conferences before and after the adoption of a virtual format. They observed a significant increase in attendees from underrepresented groups at the virtual events and suggest online platforms may be more inclusive by offering increased accessibility and programming flexibility compared to in-person convenings.'"
 
-
 - title: Nature Methods highlighted our work on unlocking the capacities of genomics for the COVID-19 response and future pandemics.
   type: legacy
-  image: images/resources/nano-dissection.png
+  image: images/research/paper-thumbnail.png
+  date: '2022-04-08'
   link: https://www.nature.com/articles/s41592-022-01474-7
   description: " In their comment, Serghei Mangul and colleagues discuss how genomics and metagenomics methods have become essential public health tools. Once the virus was detected, scientists immediately set about identifying and characterizing the pathogen, enabled by access to reliable and accurate sequencing methods. Similarly, computational tools allowed phylogenetic analyses of the genetic fingerprint of the virus that traced its origin and evolution; by these methods, SARS-CoV-2 was found to have close ancestral ties with bat coronavirus species. Genomic and bioinformatic methods continue to be used across the globe to monitor the emergence of new SARS-CoV-2 variants and track transmission routes."
 
-
 - title: Project "Rigorous benchmarking of HLA Callers for RNA-Sequencing data" featured in the USC QCB department newsletter.
   type: legacy
-  image: images/resources/giant.png
+  image: images/research/paper-thumbnail.png
+  date: '2022-02-02'
   link: https://us5.campaign-archive.com/?u=a082ace86bd6c415ad13789ef&id=1281989972
   description: "Dottie Yu is a third year undergraduate in the QCB department and has been working on this project since June 2021. This project evaluates and benchmarks the performance of the 12 existing RNA-seq based HLA callers for their performance in allele typing of the HLA genes, an essential immune-related locus of the human genome. Systematic and comprehensive benchmarking is crucial to helping researchers and clinicians make informed decisions on which HLA caller tool is best for their purposes."
+
+- title: Moldovan University on Serghei's Workshops
+  type: legacy
+  image: images/research/paper-thumbnail.png
+  date: '2019-06-28'
+  link: https://usmf.md/ro/noutati/bioinformatica-un-nou-trend-cercetarea-medicala
+  description: "State University of Medicine and Pharmacy (Moldova) Newsroom: Bioinformatics - A new trends in mdeical research"
+
+- title: Nature Methods interviews Serghei on benchmarking
+  type: legacy
+  image: images/research/paper-thumbnail.png
+  date: '2020-02-20'
+  link: https://www.nature.com/articles/s41592-020-0768-1?platform=oscar&draft=collection
+  description: "Bench pressing with genomics benchmarkers: Some -omics tools can be accurate, sensitive or efficient than others. Yet benchmarking is no tell-all"
+
+- title: Tech Xplore reports on Telescope
+  type: legacy
+  image: images/research/paper-thumbnail.png
+  date: '2019-10-18'
+  link: https://techxplore.com/news/2019-10-telescope-tool-bioinformatics-analyses-mobile.html
+  description: "Tech Xplore reports on Telescope: a tool to manage bioinformatics analyses on mobile devices"
+
+- title: UCLA Newsroom on Bioinformatics for All
+  type: legacy
+  image: images/research/paper-thumbnail.png
+  date: '2019-04-18'
+  link: https://newsroom.ucla.edu/releases/bioinformatics-for-all
+  description: "UCLA Newsroom: Team proposes plan to use bioinformatics, open data to boost science in developing countries"
+
+- title: USC Investigators Lead International Call for Increased Diversity in Immunogenomics
+  type: legacy
+  image: images/research/paper-thumbnail.png
+  date: '2021-06-09'
+  link: https://pharmacyschool.usc.edu/usc-investigators-lead-international-call-for-increased-diversity-in-immunogenomics/
+  description: "USC School of Pharmacy scientists united researchers worldwide to promote inclusivity in immunology studies"
+
+
+# SOFTWARE
 
 - title: pyTCR
   type: featured
@@ -151,6 +196,9 @@
   link: https://docs.google.com/document/d/1TXmbltzBPcApCcuJ9HLOIQgWPqKylrFRWRudrN-5vBE/edit#heading=h.or1to9c1y8il
   description: "A guide for editing scientific figures in Adobe Illustrator, prepared by the Arun Raj Lab for Systems Biology at UPenn."
 
+
+# LAB VIDEOS
+
 - title: "BCC2020 Virtual Conference on July 20, 2020: Varuni Sarwal"
   type: other
   image: https://manubot.org/share-thumbnail.png
@@ -204,33 +252,3 @@
   image: images/resources/imp.png
   link: https://www.youtube.com/watch?v=rd_hpBHFXAg
   description: Seminar presented by Serghei Mangul at Department of Clinical Pharmacy, Mann School of Pharmacy and Pharmaceutical Sciences University of Southern California on April 27, 2023
-
-- title: Moldovan University on Serghei's Workshops
-  type: legacy
-  image: images/resources/giant.png
-  link: https://usmf.md/ro/noutati/bioinformatica-un-nou-trend-cercetarea-medicala
-  description: "State University of Medicine and Pharmacy (Moldova) Newsroom: Bioinformatics - A new trends in mdeical research"
-
-- title: Nature Methods interviews Serghei on benchmarking
-  type: legacy
-  image: images/resources/nano-dissection.png
-  link: https://www.nature.com/articles/s41592-020-0768-1?platform=oscar&draft=collection
-  description: "Bench pressing with genomics benchmarkers: Some -omics tools can be accurate, sensitive or efficient than others. Yet benchmarking is no tell-all"
-
-- title: Tech Xplore reports on Telescope
-  type: legacy
-  image: images/resources/nano-dissection.png
-  link: https://techxplore.com/news/2019-10-telescope-tool-bioinformatics-analyses-mobile.html
-  description: "Tech Xplore reports on Telescope: a tool to manage bioinformatics analyses on mobile devices"
-
-- title: UCLA Newsroom on Bioinformatics for All
-  type: legacy
-  image: images/resources/nano-dissection.png
-  link: https://newsroom.ucla.edu/releases/bioinformatics-for-all
-  description: "UCLA Newsroom: Team proposes plan to use bioinformatics, open data to boost science in developing countries"
-
-- title: USC Investigators Lead International Call for Increased Diversity in Immunogenomics
-  type: legacy
-  image: images/resources/nano-dissection.png
-  link: https://pharmacyschool.usc.edu/usc-investigators-lead-international-call-for-increased-diversity-in-immunogenomics/
-  description: "USC School of Pharmacy scientists united researchers worldwide to promote inclusivity in immunology studies"
