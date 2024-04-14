@@ -10,6 +10,9 @@ role: masters
 email: swakode@usc.edu
 linkedin: shubham-wakode-947932221
 
+lab_member_years: 
+alma_mater: 
+current_job_position: 
 ---
 
 Shubham is interested in learning Computational tools, RNA Sequencing and Bioinformatics as it fascinates him.  

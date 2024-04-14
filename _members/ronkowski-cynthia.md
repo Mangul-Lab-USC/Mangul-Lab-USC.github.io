@@ -1,6 +1,5 @@
 ---
 title: Cynthia Ronkowski
-
 search:
   - Cynthia Ronkowski
 image: images/team/cynthia-ronkowski.jpg

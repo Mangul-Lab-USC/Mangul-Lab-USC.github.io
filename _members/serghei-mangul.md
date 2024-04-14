@@ -7,9 +7,9 @@ image: images/team/serghei-mangul.png
 
 role: pi
 
-<!-- website: N/A -->
+website: https://mangul-lab-usc.github.io/
 email: serghei.mangul@gmail.com
-<!-- google:  -->
+google: https://scholar.google.com/citations?hl=en&user=gMGrvhsAAAAJ&view_op=list_works&sortby=pubdate
 github: smangul1
 twitter: serghei_mangul
 linkedin: serghei-mangul-ukrainewillwin-🇺🇦-23104538

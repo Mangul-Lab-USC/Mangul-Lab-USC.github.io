@@ -9,6 +9,8 @@ role: highschool
 email: mutakis12@gmail.com
 github: muttaki123
 
-
+lab_member_years: 
+alma_mater: 
+current_job_position: 
 ---
 Muttaki Ahmed is a student at Bravo Medical Magnet. He is affiliated with the STAR/EHA program and has taken 5 APs throughout his highschool career. His strengths focus on chemistry and mathematics and he loves to take on a hard challenge.

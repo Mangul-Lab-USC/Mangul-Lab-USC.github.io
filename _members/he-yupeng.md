@@ -1,6 +1,5 @@
 ---
 title: Yupeng He
-
 search:
   - Yupeng
   - He

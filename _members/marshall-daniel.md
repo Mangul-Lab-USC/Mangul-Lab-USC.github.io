@@ -1,11 +1,15 @@
 ---
 title: Daniel Marshall
-
 image: images/team/daniel-marshall.jpg
+
 role: undergrad
+
 email: dgmarsha@usc.edu
 github: dgmarsha 
 
+lab_member_years: 
+alma_mater: 
+current_job_position: 
 ---
 
 Daniel Marshall is an undergraduate studying quantitative biology at the University of Southern

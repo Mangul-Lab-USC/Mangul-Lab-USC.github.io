@@ -1,15 +1,18 @@
 ---
 title: Dhrithi Deshpande
-
 search:
   - Dhrithi
   - Deshpande
 image: images/team/dhrithi-deshpande.jpg
+
 role : phd
-group: 
+
 email: dhrithideshpande@gmail.com
 github: dhrithideshpande
 
+lab_member_years: 
+alma_mater: 
+current_job_position: 
 ---
 
 Dhrithi Deshpande is currently pursuing her PhD in Pharmaceutical and Translational Sciences at USC Mann School of Pharmacy and Pharmaceutical Sciences. 

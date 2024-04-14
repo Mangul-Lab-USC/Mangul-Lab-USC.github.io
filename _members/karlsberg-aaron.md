@@ -1,10 +1,5 @@
 ---
 title: Aaron Karlsberg
-# name variations to include when generating list of this person's papers
-#search:
-#  - <name variation 1>
-#  - <name variation 2>
-# if image not specified, default will automatically be used
 image: images/team/aaron-karlsberg.jpg
 
 role: bioinformatics-analyst

@@ -1,15 +1,18 @@
 ---
 title: Ijeoma .C. Uzoma
-
 search:
   - Ijeoma
   - Uzoma
 image: images/team/ijeoma-uzoma.jpg
+
 role: affiliate
+
 email: ijeoma.uzoma@unn.edu.ng
 github: IjeomaUzoma
 
-
+lab_member_years: 
+alma_mater: 
+current_job_position: 
 ---
 
 Dr Uzoma is a Cell and Molecular Geneticist. She was the First Medical Laboratory
