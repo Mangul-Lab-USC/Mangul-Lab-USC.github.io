@@ -5,6 +5,7 @@ search:
   - Jung
 image: images/team/mina-jung.png
 
+group: alum
 role: undergrad
 
 email:  minajung@usc.edu
