@@ -2,7 +2,7 @@
 title: Nicolae Drabcinski
 search:
   - Nicolae Drabcinski
-image: images/team/nick-drabcinski.png
+image: images/team/nicolae-drabcinski.png
 
 role: affiliate
 
