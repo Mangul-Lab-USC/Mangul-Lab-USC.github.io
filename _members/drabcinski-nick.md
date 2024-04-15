@@ -1,8 +1,8 @@
 ---
-title: Nick Drabcinski
+title: Nicolae Drabcinski
 search:
-  - Nick Drabcinski
-image: images/team/nick-drabcinski.png
+  - Nicolae Drabcinski
+image: images/team/nicolae-drabcinski.png
 
 role: affiliate
 
