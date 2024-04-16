@@ -4,7 +4,7 @@ search:
   - Abdullah Al Nahid
 image: images/team/abdullah-nahid.jpg
 
-role: affiliate
+role: phd
 
 email: abdnahid56@gmail.com
 github: nahid18
