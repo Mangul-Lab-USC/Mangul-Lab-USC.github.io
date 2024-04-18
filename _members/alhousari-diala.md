@@ -1,11 +1,11 @@
 ---
 title: Diala Alhousari
 search:
-  - Diala
-  - Alhousari
+  - Diala Alhousari
 image: images/team/diala-alhousari.jpg
 
 role: phd
+group: 
 
 email: alhousar@usc.edu
 github: Dialaalhousari

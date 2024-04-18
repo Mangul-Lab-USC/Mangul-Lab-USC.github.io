@@ -3,8 +3,7 @@ title: <display name>
 
 # name variations to include when generating list of this person's papers
 #search:
-#  - <name variation 1>
-#  - <name variation 2>
+#  - <name surname>
 
 # if image not specified, default will automatically be used
 #image: images/team/<file name>
@@ -18,10 +17,10 @@ role: <pi/postdoc/phd/masters/undergrad>
 # contact info and social media links
 # email: <email>
 # website: <url>
+# google: <username>
+# linkedin: <username>
 # github: <username>
 # twitter: <username>
-# linkedin: <username>
-
 ---
 
 #bio
