@@ -11,7 +11,7 @@ role: highschool
 email: diyasreedhar9@gmail.com
 github: ds9-code
 
-lab_member_years: 
+lab_member_years: 2023 - 2024
 alma_mater: 
 current_job_position: 
 ---

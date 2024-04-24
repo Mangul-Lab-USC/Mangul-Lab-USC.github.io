@@ -10,7 +10,7 @@ group: alum
 email: mutakis12@gmail.com
 github: muttaki123
 
-lab_member_years: 
+lab_member_years: 2023 - 2024
 alma_mater: 
 current_job_position: 
 ---
