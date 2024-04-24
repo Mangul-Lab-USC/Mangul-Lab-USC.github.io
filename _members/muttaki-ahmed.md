@@ -5,6 +5,7 @@ search:
 image: images/team/ahmed-muttaki.jpg
 
 role: highschool
+group: alum
 
 email: mutakis12@gmail.com
 github: muttaki123
