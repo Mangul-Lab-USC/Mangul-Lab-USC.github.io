@@ -27,4 +27,5 @@ This tab contains photos of Mangul Lab.
   image16="images/gallery/MC022067.jpg"
   image17="images/gallery/Karishma-gallery.jpg"
   image18="images/gallery/The-Mangul-lab-presented-at-2nd-Drug-Discovery-Workshop-at-USC-3.jpg"
+  image19="images/gallery/Presenting-Benchmarking-of-machine-learning-algorithms-to-predict-mortality-in-sepsis-from-transcriptomic-data-talk-at-the-ShowCAIS-2024-at-USC-Center-for-AI-in-Society.jpeg"
 %}
