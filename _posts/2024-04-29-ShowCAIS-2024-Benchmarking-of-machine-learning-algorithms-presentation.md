@@ -11,7 +11,7 @@ image: images/blog/
 
 {% include figure.html image="images/blog/2024-04-29-ShowCAIS-2024-Benchmarking-of-machine-learning-algorithms-presentation-1.jpeg" %}
 
-On April 19th, 2024 I gave an oral presentation titled "Benchmarking of machine learning algorithms to predict mortality in sepsis from transcriptomic data" at the [ShowCAIS 2024](https://sites.google.com/usc.edu/showcais-2024) here at the [USC Center for AI in Society](https://cais.usc.edu/) in which students and faculty showcased their AI-related research.  The primary goal of the USC Center for AI in Society is to develop, test, iterate, and demonstrate how AI can be used to tackle the most difficult societal problems. Their goal is to help foster genuine partnerships between computer science, operations research, social work, and community organizations. 
+On April 19th, 2024 I gave an oral presentation titled ["Benchmarking of machine learning algorithms to predict mortality in sepsis from transcriptomic data"](https://www.youtube.com/watch?v=422i02CUumE) at the [ShowCAIS 2024](https://sites.google.com/usc.edu/showcais-2024) here at the [USC Center for AI in Society](https://cais.usc.edu/) in which students and faculty showcased their AI-related research.  The primary goal of the USC Center for AI in Society is to develop, test, iterate, and demonstrate how AI can be used to tackle the most difficult societal problems. Their goal is to help foster genuine partnerships between computer science, operations research, social work, and community organizations. 
 
 {% include figure.html image="images/blog/2024-04-29-ShowCAIS-2024-Benchmarking-of-machine-learning-algorithms-presentation-2.jpeg" %}
 
