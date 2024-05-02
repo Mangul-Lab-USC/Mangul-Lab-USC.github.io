@@ -219,42 +219,42 @@
 
 - title: "BCC2020 Virtual Conference on July 19, 2020: Dr Jaque Brito"
   type: other
-  image: images/resources/tribe.png
+  image: https://manubot.org/share-thumbnail.png
   link: https://vimeo.com/437698243
   description: "Talk presented by Mangul Lab postdoctoral scholar Dr. Jaque Brito at the BCC2020 Virtual Conference on July 19, 2020:"
 
 - title: "RECOMB-Seq 2020 Virtual Conference on June 26, 2020 : Nathan LaPierre"
   type: other
-  image: images/resources/tribe.png
+  image: https://manubot.org/share-thumbnail.png
   link: https://youtu.be/-DYsD0X-1Eo
   description: "Talk presented by Mangul Lab collaborator Nathan LaPierre at the RECOMB-Seq 2020 Virtual Conference on June 26, 2020"
 
 - title: "USC Preventive Medicine Biostatistics Seminar Series Preventive Medicine on February 27, 2020 : Dr Jaque Brito"
   type: other
-  image: images/resources/tribe.png
+  image: https://manubot.org/share-thumbnail.png
   link: https://youtu.be/K0nX6P5l1Vo
   description: "Seminar presented by Mangul Lab postdoctoral scholar Dr. Jaque Brito at the USC Preventive Medicine Biostatistics Seminar Series Preventive Medicine on February 27, 2020"
 
 - title: "Intro to Unix Workshop: part 1:"
   type: other
-  image: images/resources/imp.png
+  image: https://manubot.org/share-thumbnail.png
   link: https://youtu.be/liC5uM8czyo
   description: Intro to Unix Workshop taught by Serghei Mangul at UCLA’s Collaboratory; parts 1
 
 - title: "Intro to Unix Workshop: part 2: Dr Serghei Mangul"
   type: other
-  image: images/resources/imp.png
+  image: https://manubot.org/share-thumbnail.png
   link: https://youtu.be/ArbOG6YpakU
   description: Intro to Unix Workshop taught by Serghei Mangul at UCLA’s Collaboratory; parts 2
 
 - title: "Intro to Unix Workshop: part 3: Dr Serghei Mangul"
   type: other
-  image: images/resources/imp.png
+  image: https://manubot.org/share-thumbnail.png
   link: https://youtu.be/PHmfgIuOMFQ
   description: Intro to Unix Workshop taught by Serghei Mangul at UCLA’s Collaboratory; parts 3
 
 - title: "Serghei Mangul: “Systematic Benchmarking of Omics Computational Tools and Databases”"
   type: other
-  image: images/resources/imp.png
+  image: https://manubot.org/share-thumbnail.png
   link: https://www.youtube.com/watch?v=rd_hpBHFXAg
   description: Seminar presented by Serghei Mangul at Department of Clinical Pharmacy, Mann School of Pharmacy and Pharmaceutical Sciences University of Southern California on April 27, 2023
