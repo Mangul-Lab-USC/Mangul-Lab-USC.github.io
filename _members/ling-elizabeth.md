@@ -6,7 +6,7 @@ role: pharmd
 group: alum
 
 email: lingeliz@usc.edu
-linkedin: elizabethlitingling
+linkedin: in/elizabethlitingling
 #github: <username>
 #twitter: <username>
 

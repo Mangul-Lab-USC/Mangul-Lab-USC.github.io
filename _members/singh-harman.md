@@ -10,7 +10,7 @@ group: alum
 
 <!-- website: N/A -->
 email: harmansingh.iitd@gmail.com 
-linkedin: harman-singh-4243ab180 
+linkedin: in/harman-singh-4243ab180 
 
 lab_member_years: 2020 - 2021
 alma_mater: Bachelor of Technology, Indian Institute of Technology, Delhi

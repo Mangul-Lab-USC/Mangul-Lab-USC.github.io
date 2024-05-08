@@ -8,7 +8,7 @@ role: masters
 
 email: susharma@usc.edu 
 github: SansSharma
-linkedin: sanskruti-sharma-327807223
+linkedin: in/sanskruti-sharma-327807223
 
 lab_member_years: 
 alma_mater: 

@@ -9,7 +9,7 @@ group: alum
 role: undergrad
 
 github: EBYEMJC1
-linkedin: sara-ayoub-sadek-630b55168
+linkedin: in/sara-ayoub-sadek-630b55168
 email: EBYEMJC1@csu.fullerton.edu
 
 lab_member_years: 

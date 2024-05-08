@@ -9,7 +9,7 @@ role: masters
 group: alum
 
 email: wwen0449@usc.edu
-linkedin: wenwen908
+linkedin: in/wenwen908
 github: ShirleyWenxiaoer
 
 lab_member_years: 2022 - 2022

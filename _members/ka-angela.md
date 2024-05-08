@@ -8,7 +8,6 @@ role: undergrad
 group: alum
 
 <!-- email: britoj@usc.edu -->
-
 <!-- github: ajlee21 -->
 <!-- twitter: jaquejbrito -->
 

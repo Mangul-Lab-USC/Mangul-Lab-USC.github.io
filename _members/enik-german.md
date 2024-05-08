@@ -7,7 +7,7 @@ group: alum
 
 email: german@cs.stanford.edu
 #github: <username>
-linkedin: germanenik
+linkedin: in/germanenik
 #twitter: <username>
 
 lab_member_years: 

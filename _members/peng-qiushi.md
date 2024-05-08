@@ -9,7 +9,7 @@ role: masters
 group: alum
 
 email:  qiushipe@usc.edu
-linkedin: qiushi-peng-25bb741b4
+linkedin: in/qiushi-peng-25bb741b4
 github: qiushipeng
 
 lab_member_years:

@@ -10,7 +10,7 @@ group: alum
 
 email: bnadel@usc.edu
 github: BNadel
-linkedin: brian-nadel-87b08b97
+linkedin: in/brian-nadel-87b08b97
 
 lab_member_years: 2022 - 2022
 alma_mater: Postdoctoral Scholar, USC Alfred E. Mann School of Pharmacy and Pharmaceutical Sciences

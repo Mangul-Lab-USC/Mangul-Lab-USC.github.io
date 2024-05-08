@@ -9,7 +9,7 @@ role: masters
 group: alum
 
 email: anushkay@usc.edu
-linkedin: anushka-yadav-ay
+linkedin: in/anushka-yadav-ay
 github: anushka2899
 
 lab_member_years: 

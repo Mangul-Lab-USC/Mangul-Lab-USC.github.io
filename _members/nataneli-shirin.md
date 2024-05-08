@@ -9,7 +9,7 @@ role: undergrad
 group: alum
 
 email: shirinnataneli@gmail.com
-linkedin: snataneli
+linkedin: in/snataneli
 github: ShirNat
 
 lab_member_years: 

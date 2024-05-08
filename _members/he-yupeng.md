@@ -9,7 +9,7 @@ role: masters
 group: alum
 
 email: yupenghe@usc.edu
-linkedin: yupeng-he-27124624b
+linkedin: in/yupeng-he-27124624b
 github: yphecc
 
 lab_member_years:

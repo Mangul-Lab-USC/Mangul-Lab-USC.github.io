@@ -9,7 +9,7 @@ role: bioinformatics-analyst
 
 email: cr_055@usc.edu #cynthiaflaire@gmail.com
 github: CynthiaFlaire
-linkedin: cynthia-ronkowski-04a963139
+linkedin: in/cynthia-ronkowski-04a963139
 #twitter: Cynechococcus
 
 lab_member_years: 2021 - 2024

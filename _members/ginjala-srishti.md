@@ -9,7 +9,7 @@ role: undergrad
 group: alum
 
 email: srishti.ginjala@gmail.com
-linkedin: srishti-ginjala-6348271b6
+linkedin: in/srishti-ginjala-6348271b6
 github: Srishtiginjala
 
 lab_member_years: 

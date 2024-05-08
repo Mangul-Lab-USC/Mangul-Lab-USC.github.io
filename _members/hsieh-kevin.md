@@ -6,7 +6,7 @@ role: masters
 group: alum
 
 email: kevin.hsieh@ucla.edu
-linkedin: kahsieh
+linkedin: in/kahsieh
 website: https://www.kevinhsieh.net/
 github: kahsieh
 #twitter: <username>

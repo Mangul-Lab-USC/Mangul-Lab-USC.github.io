@@ -9,7 +9,7 @@ role: affiliate
 
 email: nishchenkodaria@gmail.com
 github: daria-nishchenko
-linkedin: daria-nishchenko
+linkedin: in/daria-nishchenko
 
 lab_member_years: 
 alma_mater: 

@@ -9,7 +9,7 @@ role: undergrad
 group: alum
 
 email: fangyunl@usc.edu
-linkedin: fangyun-cecilia-liu-37003820b
+linkedin: in/fangyun-cecilia-liu-37003820b
 github: cclliu1212
 
 lab_member_years:

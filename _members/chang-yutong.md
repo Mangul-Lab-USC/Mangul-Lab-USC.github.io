@@ -6,7 +6,7 @@ role: masters
 group: alum
 
 email: yutongch@usc.edu
-linkedin: yutong-chang-0a502a1ba
+linkedin: in/yutong-chang-0a502a1ba
 github: LizChang
 
 lab_member_years:

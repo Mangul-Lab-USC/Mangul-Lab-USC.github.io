@@ -7,7 +7,7 @@ image: images/team/emily-wesel.jpg
 role: undergrad
 group: alum
 
-linkedin: emily-wesel-650806177
+linkedin: in/emily-wesel-650806177
 
 lab_member_years: 2018 - 2018
 alma_mater: Bachelor of Science, Conputer Science, Stanford University

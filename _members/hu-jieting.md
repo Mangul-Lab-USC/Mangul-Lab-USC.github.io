@@ -9,7 +9,7 @@ role: masters
 group: alum
 
 email: jietingh@usc.edu
-linkedin: cat-jieting-hu-085b11280
+linkedin: in/cat-jieting-hu-085b11280
 #website: <url>
 github: emuahu99
 #twitter: <username>

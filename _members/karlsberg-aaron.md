@@ -6,7 +6,7 @@ role: bioinformatics-analyst
 group: alum
 
 email: Aaron.karlsberg@gmail.com
-linkedin: aaronkarlsberg
+linkedin: in/aaronkarlsberg
 github: aaronkarlsberg
 twitter: A4RONK
 

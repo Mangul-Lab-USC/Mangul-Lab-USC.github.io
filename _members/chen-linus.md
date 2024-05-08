@@ -8,7 +8,7 @@ role: undergrad
 group: alum
 
 <!-- email: britoj@usc.edu -->
-linkedin: linus-brian-chen
+linkedin: in/linus-brian-chen
 <!-- github: ajlee21 -->
 <!-- twitter: jaquejbrito -->
 

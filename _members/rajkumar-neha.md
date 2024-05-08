@@ -10,7 +10,7 @@ group: alum
 
 <!-- website: N/A -->
 email: nrajkumar@gmail.com 
-linkedin: neha-rajkumar
+linkedin: in/neha-rajkumar
 
 lab_member_years: 2019 - 2021
 alma_mater: Bachelor of Science, Bioengineering and Biomedical Engineering, University of California, Los Angeles

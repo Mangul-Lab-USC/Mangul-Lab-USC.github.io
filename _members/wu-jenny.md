@@ -8,7 +8,7 @@ role: undergrad
 group: alum
 
 email: Jenny.Wu.Dalian@outlook.com 
-linkedin: jenny-wu-0ba65359
+linkedin: in/jenny-wu-0ba65359
 
 lab_member_years: 
 alma_mater: Master of Science, Electronics Engineering, Caltech

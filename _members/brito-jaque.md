@@ -11,7 +11,7 @@ group: alum
 
 email: britoj@usc.edu
 <!-- github: ajlee21 -->
-linkedin: jaquejbrito
+linkedin: in/jaquejbrito
 twitter: jaquejbrito
 
 lab_member_years: 

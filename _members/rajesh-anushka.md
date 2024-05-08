@@ -10,7 +10,7 @@ group: alum
 
 <!-- website: N/A -->
 email: anushkar@usc.edu
-linkedin: anushka-rajesh
+linkedin: in/anushka-rajesh
 github: anushkar04
 
 lab_member_years:

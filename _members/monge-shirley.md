@@ -9,7 +9,7 @@ role: undergrad
 group: alum
 
 email: monge_shirley@student.smc.edu
-linkedin: shirley-monge-th3cr4ft
+linkedin: in/shirley-monge-th3cr4ft
 
 lab_member_years: 
 alma_mater: Associate of Science, STEM Scholars Program, Santa Monica College

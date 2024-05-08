@@ -8,7 +8,7 @@ image: images/team/shubham-anil-wakode.jpg
 role: masters
 
 email: swakode@usc.edu
-linkedin: shubham-wakode-947932221
+linkedin: in/shubham-wakode-947932221
 
 lab_member_years: 
 alma_mater: 

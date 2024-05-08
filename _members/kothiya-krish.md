@@ -6,7 +6,7 @@ group: alum
 role: highschool
 
 email: krishkothiya5@gmail.com
-linkedin: krish-kothiya-73655b279
+linkedin: in/krish-kothiya-73655b279
 github: krishkothiya
 
 lab_member_years: 2022 - 2022

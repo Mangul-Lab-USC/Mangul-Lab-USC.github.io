@@ -10,7 +10,7 @@ group: alum
 
 website: http://seichang.me
 email: seichang00@g.ucla.edu
-linkedin: sei-chang-3b4003168
+linkedin: in/sei-chang-3b4003168
 github: seichang00
 twitter: saysei18
 

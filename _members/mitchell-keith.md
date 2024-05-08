@@ -7,7 +7,7 @@ image: images/team/keith-mitchell.png
 group: alum
 role: undergrad
 
-linkedin: keith-g-mitchell
+linkedin: in/keith-g-mitchell
 
 lab_member_years: 2016 - 2018
 alma_mater: Ph.D. Rotation student, Computational Genomics, University of California, Davis

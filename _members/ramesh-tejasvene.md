@@ -9,7 +9,7 @@ role: masters
 group: alum
 
 email: tramesh@usc.edu
-linkedin: tejasvene-ramesh
+linkedin: in/tejasvene-ramesh
 github: tejasvene
 
 lab_member_years:

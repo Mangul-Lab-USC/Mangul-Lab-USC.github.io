@@ -8,7 +8,7 @@ role: undergrad
 group: alum
 
 email: garrett.parker@me.com
-linkedin: garrettparker
+linkedin: in/garrettparker
 github: garrett-parker
 linkedin: garrettparker
 #twitter: <username>

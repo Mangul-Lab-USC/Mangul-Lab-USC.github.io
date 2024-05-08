@@ -9,7 +9,7 @@ role: undergrad
 group: alum
 
 email: gscheg@usc.edu
-linkedin: grace-scheg-75a852252
+linkedin: in/grace-scheg-75a852252
 github: gscheg
 
 lab_member_years: 

@@ -8,7 +8,7 @@ role: undergrad
 group: alum
 
 <!-- email: britoj@usc.edu -->
-linkedin: castellanosjacqueline
+linkedin: in/castellanosjacqueline
 <!-- github: ajlee21 -->
 <!-- twitter: jaquejbrito -->
 

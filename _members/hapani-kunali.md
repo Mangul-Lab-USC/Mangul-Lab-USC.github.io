@@ -9,7 +9,7 @@ role: masters
 
 email: khapani@usc.edu
 github: kunali19
-linkedin: kunalihapani19
+linkedin: in/kunalihapani19
 
 lab_member_years: 
 alma_mater: 

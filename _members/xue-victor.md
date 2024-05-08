@@ -8,7 +8,7 @@ role: masters
 group: alum
 
 <!-- email: britoj@usc.edu -->
-linkedin: victor-xue
+linkedin: in/victor-xue
 <!-- github: ajlee21 -->
 <!-- twitter: jaquejbrito -->
 

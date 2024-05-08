@@ -9,7 +9,7 @@ role: undergrad
 group: alum
 
 email: nagaredd@usc.edu
-linkedin: anish-nagareddy
+linkedin: in/anish-nagareddy
 github: AnishNagareddy
 
 lab_member_years: 

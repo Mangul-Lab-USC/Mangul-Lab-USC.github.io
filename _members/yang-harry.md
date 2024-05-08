@@ -7,7 +7,7 @@ image: images/team/harry-yang.jpg
 role: undergrad
 group: alum
 
-linkedin: harry-taegyun-yang-84941a93
+linkedin: in/harry-taegyun-yang-84941a93
 
 lab_member_years: 2016 - 2017
 alma_mater: PhD, Bioinformatics, University of California, Los Angeles

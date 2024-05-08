@@ -10,7 +10,7 @@ group: alum
 
 <!-- website: <website link> -->
 email: mkim3704@usc.edu
-linkedin: gmykim
+linkedin: in/gmykim
 <!-- google: <google scholar account> -->
 github: gmykim
 

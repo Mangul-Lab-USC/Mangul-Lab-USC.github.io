@@ -7,7 +7,7 @@ group: alum
 
 email: sberinge@usc.edu
 github: stberinger
-linkedin: stevenberinger
+linkedin: in/stevenberinger
 
 lab_member_years:
 alma_mater: Bachelor of Arts, Economics and Accounting, UCSB

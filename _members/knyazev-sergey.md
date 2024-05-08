@@ -10,7 +10,7 @@ group: alum
 
 email: sergey.n.knyazev@gmail.com
 github: Sergey-Knyazev
-linkedin: sergey-knyazev
+linkedin: in/sergey-knyazev
 # twitter: <username>
 # google: <url>
 # website: <url>

@@ -10,7 +10,7 @@ role: masters
 
 email: jayhiman@usc.edu
 github: jaymehta8898
-linkedin: https://www.linkedin.com/in/jaymehta98/
+linkedin: in/jaymehta98/
 
 lab_member_years: 2022 - 2023
 alma_mater: Master of Science, Pharmaceutical Sciences, USC Alfred E. Mann School of Pharmacy and Pharmaceutical Sciences

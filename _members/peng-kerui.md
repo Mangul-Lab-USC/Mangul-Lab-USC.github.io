@@ -9,7 +9,7 @@ role: phd
 group: alum
 
 email: keruipen@usc.edu
-linkedin: kerui-peng
+linkedin: in/kerui-peng
 github: KeruiP
 twitter: KeruiPeng
 

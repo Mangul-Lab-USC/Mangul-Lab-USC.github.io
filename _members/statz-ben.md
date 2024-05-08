@@ -7,7 +7,7 @@ image: images/team/ben-statz.jpg
 role: undergrad
 group: alum
 
-linkedin: benjamin-statz-64086618b
+linkedin: in/benjamin-statz-64086618b
 
 lab_member_years: 2016 - 2018
 alma_mater: Bachelor of Science, Conputer Science, University of California, Los Angeles

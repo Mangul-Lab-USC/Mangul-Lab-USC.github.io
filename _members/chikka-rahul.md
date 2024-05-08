@@ -7,7 +7,7 @@ group: alum
 
 email: rchikka11@gmail.com
 #github: <username>
-linkedin: rahul-chikka
+linkedin: in/rahul-chikka
 #twitter: <username>
 
 lab_member_years:

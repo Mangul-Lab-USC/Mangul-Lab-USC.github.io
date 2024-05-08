@@ -7,7 +7,7 @@ image: images/team/russell-littman.jpg
 role: undergrad
 group: alum
 
-linkedin: russell-littman-999864132
+linkedin: in/russell-littman-999864132
 
 lab_member_years: # 2016 - 2018
 alma_mater: Postdoctoral Scholar, University of California, Los Angeles #Currently Postdoctoral Scholar, University of California, Los Angeles 🎓 <br> <br> Postdoctoral Scholar at Genentech 

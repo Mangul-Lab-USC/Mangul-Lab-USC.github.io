@@ -8,7 +8,7 @@ image: images/team/ryan-alomair.jpg
 role: phd
 
 email: ryalomair@g.ucla.edu
-linkedin: ryan-alomair-744bba183
+linkedin: in/ryan-alomair-744bba183
 
 lab_member_years:
 alma_mater: Bachelor of Science, Mathematics of Computation, UCLA

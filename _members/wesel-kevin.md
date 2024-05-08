@@ -7,7 +7,7 @@ image: images/team/kefin-wessell.jpg
 role: undergrad
 group: alum
 
-linkedin: kevin-wesel-160527147
+linkedin: in/kevin-wesel-160527147
 
 lab_member_years: 2016 - 2018
 alma_mater: Bachelor of Science, Biology and Economics, MIT

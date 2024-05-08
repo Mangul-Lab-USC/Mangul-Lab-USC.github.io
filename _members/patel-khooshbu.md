@@ -9,7 +9,7 @@ role: masters
 group: alum
 
 email: khooshbu@usc.edu
-linkedin: khooshbu-patel99
+linkedin: in/khooshbu-patel99
 github: khooshbu1511
 
 lab_member_years:

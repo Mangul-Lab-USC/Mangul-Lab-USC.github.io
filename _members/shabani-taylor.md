@@ -6,7 +6,7 @@ role: undergrad
 group: alum
 
 email: taylor.shabani@duke.edu
-linkedin: taylorshabani
+linkedin: in/taylorshabani
 github: taylorshab
 #twitter: <username>
 

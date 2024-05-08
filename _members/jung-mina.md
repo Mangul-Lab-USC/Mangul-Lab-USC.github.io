@@ -10,7 +10,7 @@ role: undergrad
 
 email:  minajung@usc.edu
 github: bluemjay21
-linkedin: mina-jung-64960224a
+linkedin: in/mina-jung-64960224a
 
 lab_member_years: 2023 - 2024
 alma_mater: 

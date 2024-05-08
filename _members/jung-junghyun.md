@@ -6,7 +6,7 @@ role: postdoc
 group: alum
 
 email: junghyun.jung@usc.edu
-linkedin: junghyun-jung-0197b29b
+linkedin: in/junghyun-jung-0197b29b
 github: junghyunJJ
 google: 3Va15VcAAAAJ
 twitter: junghyunjj

@@ -9,7 +9,7 @@ role: phd
 email: abdnahid56@gmail.com
 github: nahid18
 twitter: abdnahid_
-linkedin: abdnahid
+linkedin: in/abdnahid
 
 lab_member_years: 
 alma_mater: 

@@ -10,7 +10,7 @@ group: alum
 
 #contact info and social media links
 #email: <email>
-linkedin: dywk
+linkedin: in/dywk
 #website: <url>
 #github: <username>
 #twitter: <username>

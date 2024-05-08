@@ -5,7 +5,7 @@ image: images/team/caitlin-loeffler.png
 role: undergrad
 group: alum
 
-linkedin: caitlin-loeffler-b33586190
+linkedin: in/caitlin-loeffler-b33586190
 
 lab_member_years: 2016 - 2020
 alma_mater: Ph.D. Rotation student, Biology, The George Washington University

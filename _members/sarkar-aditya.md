@@ -10,7 +10,7 @@ group: alum
 
 website: https://aditya-sarkar441.github.io/
 email: asnov2k@gmail.com
-linkedin: aditya-sarkar-bb577025a
+linkedin: in/aditya-sarkar-bb577025a
 github: aditya-sarkar441
 
 lab_member_years: 2021 - 2021

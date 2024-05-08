@@ -9,7 +9,7 @@ role: undergrad
 group: alum
 
 email: hyosunle@usc.edu
-linkedin: sunnyylee
+linkedin: in/sunnyylee
 github: sunnyyleee
 
 lab_member_years: 2021 -2021

@@ -10,7 +10,7 @@ group: alum
 
 email: ypatel@med.usc.edu
 github: yeshapatel83
-linkedin: yesha-m-patel
+linkedin: in/yesha-m-patel
 
 lab_member_years: 
 alma_mater: Postdoctoral Scholar, Department of Clinical Pharmacy, USC Alfred E. Mann School of Pharmacy and Pharmaceutical Sciences

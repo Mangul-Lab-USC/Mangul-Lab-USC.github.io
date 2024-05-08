@@ -9,7 +9,7 @@ role: pharmd
 group: alum
 
 email: dnpham@usc.edu
-linkedin: tramipham
+linkedin: in/tramipham
 
 lab_member_years:
 alma_mater: PharmD, USC Alfred E. Mann School of Pharmacy and Pharmaceutical Sciences

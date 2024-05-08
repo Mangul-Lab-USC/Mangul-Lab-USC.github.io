@@ -5,7 +5,7 @@ image: images/team/jeremy-rotman.jpg
 role: bioinformatics-analyst
 group: alum
 
-linkedin: jeremy-rotman
+linkedin: in/jeremy-rotman
 
 lab_member_years: 2016 - 2020
 alma_mater: Master of Science, University of California, Los Angeles
