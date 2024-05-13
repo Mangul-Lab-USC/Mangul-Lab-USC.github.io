@@ -2,10 +2,10 @@
 title: Eyael Tewelde Habtemariam
 search:
   - Eyael Tewelde Habtemariam
-image: images/team/Eyael.jpg
+image: images/team/eyael.jpg
 
 role: phd
-linkedin: www.linkedin.com/in/eyael-tewelde-habtemariam
+linkedin: in/eyael-tewelde-habtemariam
 
 ---
 
