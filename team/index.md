@@ -34,9 +34,9 @@ Our diverse team is composed of a highly enthusiastic and collaborative research
 
 We are actively recruiting highly motivated graduate students and postdocs with a capable computational background. The Mangul Lab is committed to ensuring an inclusive and supportive environment regardless of age, gender, sexual orientation, disability, race, ethnicity, religion, nationality, or socioeconomic background.
 
-{%
+
 [Affiliated members](https://mangul-lab-usc.github.io/affiliates/)
-%}{:.center}
+{:.center}
 
 {%
   include big-link.html
