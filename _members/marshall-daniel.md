@@ -8,8 +8,8 @@ group: alum
 email: dgmarsha@usc.edu
 github: dgmarsha 
 
-lab_member_years: 
-alma_mater: 
+lab_member_years: 2023 - 2024
+alma_mater: Bachelor of Science, Quantitative Biology, Dornsife College of Letter, Arts and Sciences at USC
 current_job_position: 
 ---
 
