@@ -5,7 +5,8 @@ search:
   - Simonov
 image: images/team/mike.png
 
-role: affiliate
+role: undergrad
+group: alum
 
 email: mike@simonov.cc
 github: mikesimie
