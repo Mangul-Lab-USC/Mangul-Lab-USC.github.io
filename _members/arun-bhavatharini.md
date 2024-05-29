@@ -11,8 +11,8 @@ group: alum
 email: bparthas@usc.edu
 github: Rini-arun
 
-lab_member_years: 
-alma_mater: 
+lab_member_years: 2024 - 2024
+alma_mater:  Ph.D. Rotation student, Pharmaceutical and Translational Sciences (PHTS) Program, USC Alfred E. Mann School of Pharmacy and Pharmaceutical Sciences 
 current_job_position: 
 ---
 
