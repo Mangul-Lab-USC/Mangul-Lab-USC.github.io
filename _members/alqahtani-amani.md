@@ -6,6 +6,7 @@ search:
 image: images/team/amani-alqahtani.png
 
 role: phd
+group: alum
 
 email: amanialq@usc.edu
 
