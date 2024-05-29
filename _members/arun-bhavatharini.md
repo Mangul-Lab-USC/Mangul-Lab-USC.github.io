@@ -6,6 +6,7 @@ search:
 image: images/team/bhavatharini-arun.jpg
 
 role: phd
+group: alum
 
 email: bparthas@usc.edu
 github: Rini-arun
