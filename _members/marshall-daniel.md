@@ -3,6 +3,7 @@ title: Daniel Marshall
 image: images/team/daniel-marshall.jpg
 
 role: undergrad
+group: alum
 
 email: dgmarsha@usc.edu
 github: dgmarsha 
