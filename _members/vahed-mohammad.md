@@ -6,6 +6,7 @@ search:
 image: images/team/mohammad-vahed.jpg
 
 role: postdoc
+group: alum
 
 email: vahed@usc.edu
 github: Mohammad-Vahed
