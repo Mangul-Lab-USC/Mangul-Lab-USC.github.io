@@ -1,6 +1,6 @@
 ---
 title: Mohammed Alser
-image: images/team/mohammed.jpeg
+image: images/team/alser-mohammed.jpeg
 
 role: Research Associate
 
