@@ -17,7 +17,7 @@ current_job_position:
 
 Dhrithi Deshpande is currently pursuing her PhD in Pharmaceutical and Translational Sciences at USC Mann School of Pharmacy and Pharmaceutical Sciences. 
 
-She holds a Bachelor's degree in Biotechnology from Dayananda Sagar College of Engineering, Bangalore, India, where she conducted research on eco-toxicological studies, antimicrobial resistance patterns of coliform bacteria, and structural analysis of drug-resistant gene products for a novel bacteriophage-based therapy in lake water treatment.
+She holds a a Bachelor of Engineering degree in Biotechnology from Dayananda Sagar College of Engineering, Bangalore, India, where she conducted research on eco-toxicological studies, antimicrobial resistance patterns of coliform bacteria, and structural analysis of drug-resistant gene products for a novel bacteriophage-based therapy in lake water treatment.
 
 During her Master's in Molecular Pharmacology and Toxicology at USC, Dhrithi focused on studying the robustness and reproducibility of DNA-seq and RNA-seq tools used in biomedical research, working at the Mangul lab.
 
