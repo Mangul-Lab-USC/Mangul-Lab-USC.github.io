@@ -6,7 +6,7 @@ search:
 image: images/team/cecilia-liu.jpg
 
 role: undergrad
-group: alum
+group:
 
 email: fangyunl@usc.edu
 linkedin: in/fangyun-cecilia-liu-37003820b
