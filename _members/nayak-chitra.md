@@ -5,7 +5,7 @@ search:
   - Nayak
 image: images/team/Nayak_Chitra.jpg
 
-role: affiliate
+role: undergrad
 group: alum
 
 email: rchitra.r@gmail.com
