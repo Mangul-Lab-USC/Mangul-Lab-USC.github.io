@@ -5,7 +5,7 @@ search:
   - Shubham Wakode
 image: images/team/shubham-anil-wakode.jpg
 
-role: masters
+# role: masters
 
 email: swakode@usc.edu
 linkedin: in/shubham-wakode-947932221
