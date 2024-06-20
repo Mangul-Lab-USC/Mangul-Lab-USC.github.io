@@ -5,7 +5,7 @@ search:
   - Yu
 image: images/team/dottie-yu.png
 
-role: bioinformatics-analyst
+role: affiliate
 
 email: dottieyu@usc.edu
 github: dottieyu
