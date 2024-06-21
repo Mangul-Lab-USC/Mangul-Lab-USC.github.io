@@ -6,10 +6,10 @@ search:
 image: images/team/wayne-brock.jpg
 
 role: masters
+group: alum
 
 email: wswinson@usc.edu
 github: tigerpalm444
-group: alum
 twitter: MNMLSTBRCK
 
 lab_member_years:
