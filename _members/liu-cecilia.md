@@ -17,4 +17,4 @@ alma_mater: PhD Student, Computational Biology and Bioinformatics, Dornsife Coll
 current_job_position: Currently Undergraduate Researcher at University of Southern California
 ---
 
-Cecilia Liu is an undergraduate researcher in the Mangul lab through Undergraduate Research Associates Program in the University of Southern California. She is currently working on her undergraduate at the University of Southern California, focusing on Quantitative Biology.
+Cecilia (Fangyun) Liu is pursuing her PhD in Computational Biology and Bioinformatics at the Dornsife College of Letters, Arts, and Sciences, University of Southern California. She earned her Bachelor’s degree in Quantitative Biology from University of Southern California in 2023. Currently, her research fields focus on RNA sequencing and metagenomics.
