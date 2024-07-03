@@ -1,3 +1,27 @@
+- title: 'Analytical code sharing practices in biomedical research'
+  authors:
+  - Nitesh Kumar Sharma
+  - Ram Ayyala
+  - Dhrithi Deshpande
+  - Yesha Patel
+  - Viorel Munteanu
+  - Dumitru Ciorba
+  - Viorel Bostan
+  - Andrada Fiscutean
+  - Mohammad Vahed
+  - Aditya Sarkar
+  - Ruiwei Guo
+  - Andrew Moore
+  - Nicholas Darci-Mahed
+  - Nicole Nogoy
+  - Malak Abedalthagafi
+  - Serghei Mangul
+  publisher: PeerJ Computer Science
+  date: '2024-06-28'
+  link: https://peerj.com/articles/cs-2066/
+  id: doi.org/10.7717/peerj-cs.2066
+  image: images/research/analytical-code-sharing-practices-in-biomedical-research-2024-06-28.jpg
+
 - title: 'Estimating Enzyme Expression and Metabolic Pathway Activity in Borreliella-Infected and Uninfected Mice'
   authors:
   - Filipp Martin Rondel
