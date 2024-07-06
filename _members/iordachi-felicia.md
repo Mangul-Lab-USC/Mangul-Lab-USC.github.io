@@ -2,7 +2,7 @@
 title: Felicia Iordachi
 search:
   - Felicia Iordachi
-image: images/team/felicia-iordachi.png
+image: images/team/iordachi-felicia.jpg
 
 role: affiliate
 
