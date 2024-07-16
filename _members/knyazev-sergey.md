@@ -6,7 +6,7 @@ search:
 image: images/team/Sergey-Knyazev.jpg
 
 role: postdoc # degree: <pi / postdoc / phd / masters / undergrad / highschool>
-group: alum
+group:
 
 email: sergey.n.knyazev@gmail.com
 github: Sergey-Knyazev
