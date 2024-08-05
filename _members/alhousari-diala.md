@@ -5,7 +5,7 @@ search:
 image: images/team/diala-alhousari.jpg
 
 role: phd
-group: 
+group: alum
 
 email: alhousar@usc.edu
 github: Dialaalhousari
