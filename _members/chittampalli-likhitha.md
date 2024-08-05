@@ -5,6 +5,7 @@ search:
 image: images/team/likhitha-chittampalli.jpg
 
 role: bioinformatics-analyst
+group: alum
 
 email: chittamp@usc.edu
 github: likhitha99
