@@ -5,7 +5,7 @@ search:
   - Kompaniiets Anastasiia 
 image: images/team/anastasiia-kompaniiets.jpg
 
-role: affiliate
+role: alum
 
 email: anastasiia.kompaniiets12@gmail.com 
 
