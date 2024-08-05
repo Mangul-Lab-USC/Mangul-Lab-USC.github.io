@@ -4,7 +4,7 @@ search:
   - Likhitha Chittampalli
 image: images/team/likhitha-chittampalli.jpg
 
-role: bioinformatics-analyst
+role: masters
 group: alum
 
 email: chittamp@usc.edu
