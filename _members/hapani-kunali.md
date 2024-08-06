@@ -6,6 +6,7 @@ search:
 image: images/team/Kunali-Hapani.jpg
 
 role: masters
+group: alum
 
 email: khapani@usc.edu
 github: kunali19
