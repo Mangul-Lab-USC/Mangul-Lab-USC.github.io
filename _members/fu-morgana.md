@@ -5,6 +5,7 @@ search:
 image: images/team/Morgana-Fu.jpg
 
 role: masters
+group: alum
 
 github: MorganaFu
 twitter: MorganaFu
