@@ -6,6 +6,7 @@ search:
 image: images/team/pooja-jaiswal.jpg
 
 role: masters
+group: alum
 
 email: pjaiswal@usc.edu
 github: pooja185
