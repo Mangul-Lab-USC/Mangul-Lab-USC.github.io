@@ -5,7 +5,8 @@ search:
   - Yu
 image: images/team/dottie-yu.png
 
-role: affiliate
+role: ungergrad
+group: alum
 
 email: dottieyu@usc.edu
 github: dottieyu
