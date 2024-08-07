@@ -11,7 +11,7 @@ email: chittamp@usc.edu
 github: likhitha99
 
 lab_member_years: 
-alma_mater: 
+alma_mater: Master of Science in Computer Science
 current_job_position: System Development Engineer, Niagara Bottling
 ---
 
