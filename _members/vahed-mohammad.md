@@ -12,7 +12,7 @@ email: vahed@usc.edu
 github: Mohammad-Vahed
 
 lab_member_years: 2022 - 2024
-alma_mater: Postdoctoral Scholar, USC Alfred E. Mann School of Pharmacy and Pharmaceutical Sciences
+alma_mater: Postdoctoral Scholar
 current_job_position: 
 ---
 
