@@ -12,7 +12,7 @@ email: pjaiswal@usc.edu
 github: pooja185
 
 lab_member_years: 
-alma_mater: 
+alma_mater: Master of Science in Clinical and Experimental Therapeutics, USC Alfred E.Mann School of Pharmacy and Pharmaceutical Sciences, University of Southern California
 current_job_position: 
 ---
 
