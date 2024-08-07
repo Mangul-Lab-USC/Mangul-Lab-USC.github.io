@@ -14,8 +14,8 @@ email: britoj@usc.edu
 linkedin: in/jaquejbrito
 twitter: jaquejbrito
 
-lab_member_years: 
-alma_mater: Postdoctoral Scholar, Department of Clinical Pharmacy, USC Alfred E. Mann School of Pharmacy and Pharmaceutical Sciences
+lab_member_years: 2019 - 2020
+alma_mater: Postdoctoral Scholar
 current_job_position: Currently Associate Software Engineer at Treyarch
 ---
 
