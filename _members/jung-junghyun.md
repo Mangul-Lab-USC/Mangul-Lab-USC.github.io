@@ -12,8 +12,8 @@ google: 3Va15VcAAAAJ
 twitter: junghyunjj
 # website:
 
-lab_member_years: 
-alma_mater: Postdoctoral Scholar, Department of Clinical Pharmacy, USC Alfred E. Mann School of Pharmacy and Pharmaceutical Sciences
+lab_member_years: 2020 - 2021
+alma_mater: Postdoctoral Scholar, Department of Clinical Pharmacy
 current_job_position: Currently Research data scientist at Cedars-Sinai
 ---
 
