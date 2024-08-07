@@ -13,7 +13,7 @@ twitter: junghyunjj
 # website:
 
 lab_member_years: 2020 - 2021
-alma_mater: Postdoctoral Scholar, Department of Clinical Pharmacy
+alma_mater: Postdoctoral Scholar
 current_job_position: Currently Research data scientist at Cedars-Sinai
 ---
 
