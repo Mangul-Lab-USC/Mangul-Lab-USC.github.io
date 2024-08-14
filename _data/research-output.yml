@@ -1,3 +1,20 @@
+- title: 'Genomic reproducibility in the bioinformatics era'
+  authors:
+  - Pelin Icer Baykal
+  - "Pawe\u0142 P \u0141abaj"
+  - Florian Markowetz
+  - Lynn M. Schriml
+  - Daniel J. Stekhoven
+  - Serghei Mangul
+  - Niko Beerenwinkel
+  publisher: Springer
+  date: '2024-08-09'
+  link: https://link.springer.com/article/10.1186/s13059-024-03343-2?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20240809&utm_content=10.1186/s13059-024-03343-2
+  id: doi.org/10.1186/s13059-024-03343-2
+  image: images/research/Genomic-reproducibility-in-the-bioinformatics-era.png
+
+
+
 - title: 'Analytical code sharing practices in biomedical research'
   authors:
   - Nitesh Kumar Sharma
@@ -374,23 +391,6 @@
   link: https://doi.org/10.3390/diagnostics13182993
   id: doi:10.3390/diagnostics13182993
   image: images/research/The-Genomic-Landscape-of-Colorectal-Cancer-in-the-Saudi-Arabian-Population-Using-a-Comprehensive-Genomic-Panel.png
-
-- title: 'Genomic reproducibility in the bioinformatics era'
-  authors:
-  - Pelin Icer Baykal
-  - "Pawe\u0142 P \u0141abaj"
-  - Florian Markowetz
-  - Lynn M. Schriml
-  - Daniel J. Stekhoven
-  - Serghei Mangul
-  - Niko Beerenwinkel
-  publisher: arXiv
-  date: '2023-08-18'
-  link: https://doi.org/10.48550/arXiv.2308.09558
-  id: doi:10.48550/arXiv.2308.09558
-  image: images/research/Genomic-reproducibility-in-the-bioinformatics-era.png
-  extra-links:
-  - type: preprint
 
 - title: 'Rigorous benchmarking of T-cell receptor repertoire profiling methods for cancer RNA sequencing'
   authors:
