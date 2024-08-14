@@ -5,7 +5,8 @@ search:
   - Kompaniiets Anastasiia 
 image: images/team/anastasiia-kompaniiets.jpg
 
-role: alum
+role: masters
+group: alum
 
 email: anastasiia.kompaniiets12@gmail.com 
 
