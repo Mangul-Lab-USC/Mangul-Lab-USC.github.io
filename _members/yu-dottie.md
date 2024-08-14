@@ -5,7 +5,7 @@ search:
   - Yu
 image: images/team/dottie-yu.png
 
-role: ungergrad
+role: undergrad
 group: alum
 
 email: dottieyu@usc.edu
