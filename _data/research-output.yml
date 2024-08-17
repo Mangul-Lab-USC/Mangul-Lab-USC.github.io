@@ -7495,15 +7495,12 @@
   - Can Alkan
   - Onur Mutlu
   - Serghei Mangul
-  publisher: arXiv
-  date: '2020-07-09'
-  link: http://arxiv.org/abs/2003.00110
-  id: url:https://arxiv.org/abs/2003.00110
+  publisher: Genome Biology
+  date: '2020-10-26'
+  link: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02443-7
+  id: url:doi.org/10.1186/s13059-021-02443-7
   image: https://i.ibb.co/8Y96ck2/DSwIXy4.png
-  extra-links:
-  - type: preprint
-  - type: manubot
-    link: https://arxiv.org/abs/2003.00110
+
 
 - title: Mechanisms of tissue-specific genetic regulation revealed by latent factors
     across eQTLs
