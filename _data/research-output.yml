@@ -5537,27 +5537,6 @@
   id: doi:10.1186/1748-7188-6-9
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2F1748-7188-6-9/MediaObjects/13015_2010_Article_123_Fig3_HTML.jpg?as=webp
 
-- title: Lack of diversity in T cell receptor sequencing studies
-  authors:
-  - Yu-Ning Huang
-  - Kerui Peng
-  - Alice B. Popejoy
-  - Jieting Hu
-  - Theodore Scott Nowicki
-  - Stefan M. Gold
-  - Lluis Quintana-Murci
-  - Macarena Fuentes-Guajardo
-  - Mikhail Shugay
-  - Victor Greiff
-  - Amanda M. Burkhardt
-  - Houda Alachkar
-  - SERGHEI MANGUL
-  publisher: Center for Open Science
-  date: '2021-10-12'
-  link: https://www.cell.com/immunity/fulltext/S1074-7613(21)00400-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1074761321004003%3Fshowall%3Dtrue
-  id: doi.org/10.1016/j.immuni.2021.09.015
-  image: https://user-images.githubusercontent.com/71193439/125509349-143c61d8-7517-43f3-98ab-7de9908444e6.png
-
 - title: 'The Gene Expression Deconvolution Interactive Tool (GEDIT): accurate cell
     type quantification from gene expression data'
   authors:
