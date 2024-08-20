@@ -7,7 +7,7 @@ image: images/team/nicolae-drabcinski.png
 role: affiliate
 
 email: drabcinski@gmail.com
-github: drabcinski
+github: nicolaedrabcinski
 
 lab_member_years: 
 alma_mater: 
