@@ -1,3 +1,28 @@
+- title: 'The evolution of computational research in a data-centric world'
+  authors:
+  - Dhrithi Deshpande
+  - Karishma Chhugani
+  - Tejasvene Ramesh
+  - Matteo Pellegrini
+  - Sagiv Shiffman
+  - Malak S. Abedalthagafi
+  - Saleh Alqahtani
+  - Jimmie Ye
+  - Xiaole Shirley Liu
+  - Jeffrey T. Leek
+  - Alvis Brazma
+  - Roel A. Ophoff
+  - Gauri Rao
+  - Atul J. Butte
+  - Jason H. Moore
+  - Vsevolod Katritch
+  - Serghei Mangul
+  publisher: Cell
+  date: '2024-07-15'
+  link: https://doi.org/10.1016/j.cell.2024.07.045
+  id: doi.org/10.1016/j.cell.2024.07.045
+  image: images/research/paper-thumbnail.png
+
 - title: 'Genomic reproducibility in the bioinformatics era'
   authors:
   - Pelin Icer Baykal
