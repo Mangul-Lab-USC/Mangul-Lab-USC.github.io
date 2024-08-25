@@ -6,7 +6,7 @@ search:
 image: images/team/tomas_manea.png
 
 role: undergrad
-group: alum
+group:
 
 email: manea@usc.edu
 github: TDManEA
