@@ -25,4 +25,32 @@ We’re excited to share that Karishma Chhugani was selected to present a flash 
 
 {% include figure.html image="images/blog/Mangul_Lab_Highlights_from_Moving _Targets_2024_image_1.png" %}
 
+<p style="text-align: center;">
+Dr. Kapil Gadkar from Genentech giving a talk
+</p>
+
+---
+
+{% include figure.html image="images/blog/Mangul_Lab_Highlights_from_Moving _Targets_2024_image_2.png" %}
+<p style="text-align: center;">
+Karishma Chhugani giving a flash talk on her research benchmarking machine learning models for the prediction of sepsis mortality
+</p>
+
+---
+
+{% include figure.html image="images/blog/Mangul_Lab_Highlights_from_Moving _Targets_2024_image_3.png" %}
+<p style="text-align: center;">
+Dhrithi Deshpande and Ella Schwab along with the other organizers of Moving Targets 2024
+</p>
+
+---
+
+{% include figure.html image="images/blog/Mangul_Lab_Highlights_from_Moving _Targets_2024_image_4.png" %}
+<p style="text-align: center;">
+Panel discussion on the future of computational drug development featuring Dr. Purvesh Khatri, Dr. Kapil Gadkar, Dr. Charvi Nanavati, and Dr. Elizabeth Tseng, moderated by Dr. Ian Haworth
+</p>
+
+---
+
+
 
