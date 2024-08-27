@@ -18,3 +18,11 @@ showcasing cutting-edge research and advancements in the field. One of the highl
 where speakers shared insights on how computational methods will influence the drug development process and careers in pharmaceutical 
 science overall. 
 </p>
+
+<p style="text-align: center;">
+We’re excited to share that Karishma Chhugani was selected to present a flash talk titled, "Benchmarking of Machine Learning Algorithms to Predict Mortality in Sepsis from Transcriptomics Data". We’re proud of Karishma’s achievement and the collective efforts of others in our lab in contributing to this important event!
+</p>
+
+{% include figure.html image="images/blog/Mangul_Lab_Highlights_from_Moving _Targets_2024_image_1.png" %}
+
+
