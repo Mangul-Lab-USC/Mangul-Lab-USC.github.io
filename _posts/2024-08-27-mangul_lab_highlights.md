@@ -31,14 +31,14 @@ Dr. Kapil Gadkar from Genentech giving a talk
 
 ---
 
-{% include figure.html image="images/blog/Mangul_Lab_Highlights_from_Moving _Targets_2024_image_2.png" %}
+{% include figure.html image="images/blog/Mangul_Lab_Highlights_from_Moving _Targets_2024_image_2.jpg" %}
 <p style="text-align: center;">
 Karishma Chhugani giving a flash talk on her research benchmarking machine learning models for the prediction of sepsis mortality
 </p>
 
 ---
 
-{% include figure.html image="images/blog/Mangul_Lab_Highlights_from_Moving _Targets_2024_image_3.png" %}
+{% include figure.html image="images/blog/Mangul_Lab_Highlights_from_Moving _Targets_2024_image_3.jpg" %}
 <p style="text-align: center;">
 Dhrithi Deshpande and Ella Schwab along with the other organizers of Moving Targets 2024
 </p>
