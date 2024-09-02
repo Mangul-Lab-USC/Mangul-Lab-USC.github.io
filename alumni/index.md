@@ -9,6 +9,10 @@ redirect_from:
 ## Alumni
 
 <p style="text-align: center;">
+Since the inception of Mangul lab, four postdoctoral fellows [list](#postdoctoral-fellows), one PhD student [list](#phd-students), and twenty Master’s students [list](#masters-students) have graduated.
+</p>
+
+<p style="text-align: center;">
 These are former lab alumni who have transitioned to various sectors, including graduate schools, industry roles, further educational programs, new career opportunities, or other pursuits.
 </p>
 
