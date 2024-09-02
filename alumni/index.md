@@ -9,7 +9,7 @@ redirect_from:
 ## Alumni
 
 <p style="text-align: center;">
-Since the inception of Mangul lab, four postdoctoral fellows [list](#postdoctoral-fellows), one PhD student [list](#phd-students), and twenty Master’s students [list](#masters-students) have graduated.
+Since the inception of Mangul lab, four postdoctoral fellows <a href="#postdoctoral-fellows">list</a>, one PhD student <a href="#phd-students">list</a>, and twenty Master’s students <a href="#masters-students">list</a> have graduated.
 </p>
 
 <p style="text-align: center;">
