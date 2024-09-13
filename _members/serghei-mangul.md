@@ -3,7 +3,7 @@ title: Serghei Mangul
 search:
   - Serghei 
   - Mangul
-image: images/team/serghei_mangul_7222024.jpg
+image: images/team/serghei_mangul.jpg
 
 role: pi
 
