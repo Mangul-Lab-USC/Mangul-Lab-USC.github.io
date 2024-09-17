@@ -1,3 +1,41 @@
+- title: 'Realistic assortment of novel metagenomics benchmarks with diverse biological and technological characteristics'
+  authors:
+  - N K Sharma
+  - K Chhugani
+  - Viorel Munteanu
+  - Pavel Skums
+  - Alexander Zelikovsky
+  - Serghei Mangul
+  publisher: 'Biopolymers & Cell'
+  date: '2024-09-09'
+  link: http://dx.doi.org/10.7124/bc.000AFF
+  id: http://dx.doi.org/10.7124/bc.000AFF
+
+- title: 'Good software development practices improve citations of RNA seq tools'
+  authors:
+  - S Sharma
+  - K Chhugani
+  - D Deshpande
+  - Serghei Mangul
+  publisher: 'Biopolymers & Cell'
+  date: '2024-09-08'
+  link: http://dx.doi.org/10.7124/bc.000AFE
+  id: http://dx.doi.org/10.7124/bc.000AFE
+
+- title: 'Assessing microbial genome representation across various reference databases: A comprehensive evaluation'
+  authors:
+  - G Boldirev
+  - N K Sharma
+  - Viorel Munteanu
+  - A Bhavatharini
+  - D Koslicki
+  - Alexander Zelikovsky
+  - Serghei Mangul
+  publisher: 'Biopolymers & Cell'
+  date: '2024-09-07'
+  link: http://dx.doi.org/10.7124/bc.000AFD
+  id: http://dx.doi.org/10.7124/bc.000AFD
+
 - title: 'A blended genome and exome sequencing method captures genetic variation in an unbiased, high-quality, and cost-effective manner'
   authors:
   - Toni A Boltz
