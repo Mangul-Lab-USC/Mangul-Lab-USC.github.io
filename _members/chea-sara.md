@@ -11,7 +11,7 @@ group: alum
 email: smchea@usc.edu
 github: smchea
 
-lab_member_years:
+lab_member_years: 2021 - 2021
 alma_mater: PharmD Rotation student, USC Alfred E. Mann School of Pharmacy and Pharmaceutical Sciences 
 current_job_position: PharmD student 
 ---
