@@ -11,9 +11,9 @@ group: alum
 email: naresham@usc.edu
 github: nareshampatel
 
-lab_member_years:
+lab_member_years: 2021 - 2023
 alma_mater: Master of Science, Pharmaceutical Sciences, USC Alfred E. Mann School of Pharmacy and Pharmaceutical Sciences
-current_job_position:
+current_job_position: Associate Scientist in the Functional Genomics team at the New York Stem Cell Foundation
 ---
 
 Naresh Patel completed Master's degree in Pharmaceutical Sciences at University of Southern California. He graduated in Bachelor's in Pharmacy from University of Mumbai. He is currently working as an Associate Scientist in the Functional Genomics team at the New York Stem Cell Foundation.
