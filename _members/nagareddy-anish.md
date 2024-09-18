@@ -12,7 +12,7 @@ email: nagaredd@usc.edu
 linkedin: in/anish-nagareddy
 github: AnishNagareddy
 
-lab_member_years: 
+lab_member_years: 2021 - 2022
 alma_mater: Bachelor of Science, Computer Science and Business Administration, USC Viterbi School of Engineering
 current_job_position: Currently Embedded Software Engineer at USC Rocket Propulsion Laboratory
 ---
