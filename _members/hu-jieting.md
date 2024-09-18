@@ -14,7 +14,7 @@ linkedin: in/cat-jieting-hu-085b11280
 github: emuahu99
 #twitter: <username>
 
-lab_member_years:
+lab_member_years: 2020 - 2022
 alma_mater: Master of Science, Biotechnology, Keck School of Medicine of USC
 current_job_position:
 ---
