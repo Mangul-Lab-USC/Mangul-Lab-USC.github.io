@@ -13,7 +13,7 @@ email: anushkar@usc.edu
 linkedin: in/anushka-rajesh
 github: anushkar04
 
-lab_member_years:
+lab_member_years: 2019 - 2021
 alma_mater: Master of Science, Pharmaceutical Sciences, USC Alfred E. Mann School of Pharmacy and Pharmaceutical Sciences
 current_job_position: Currently Research Associate II at Vir Biotechnology, Inc.
 ---
