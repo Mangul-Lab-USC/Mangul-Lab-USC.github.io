@@ -10,7 +10,7 @@ group: alum
 github: MorganaFu
 twitter: MorganaFu
 
-lab_member_years: 
+lab_member_years: 2021 - 2024
 alma_mater: 
 current_job_position: 
 ---
