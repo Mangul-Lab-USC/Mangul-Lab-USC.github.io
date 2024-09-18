@@ -12,7 +12,7 @@ group: alum
 email: ruiweigu@usc.edu
 github: RuiweiGuo
 
-lab_member_years:
+lab_member_years: 2020 - 2022
 alma_mater: Master’s Student, Pharmaceutical Sciences, USC Alfred E. Mann School of Pharmacy and Pharmaceutical Sciences
 current_job_position: 
 ---
