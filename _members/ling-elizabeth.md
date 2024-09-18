@@ -10,9 +10,9 @@ linkedin: in/elizabethlitingling
 #github: <username>
 #twitter: <username>
 
-lab_member_years:
+lab_member_years: 2020 - 2022
 alma_mater: PharmD Rotation student, USC Alfred E. Mann School of Pharmacy and Pharmaceutical Sciences 
-current_job_position: PharmD Student
+current_job_position: U.S. Marketing Product Manager, Rare Diseases at Biogen 
 ---
 
 Elizabeth is a second year pharmacy student at the University of Southern California.
