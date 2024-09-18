@@ -12,7 +12,7 @@ github: EBYEMJC1
 linkedin: in/sara-ayoub-sadek-630b55168
 email: EBYEMJC1@csu.fullerton.edu
 
-lab_member_years: 
+lab_member_years: 2022 - 2023
 alma_mater: Bachelor of Science, Biology, California State University Fullerton
 current_job_position: Currently Chipotle Crew at Chipotle Mexican Grill; Former Supplemental Instruction Leader at California State University Fullerton
 ---
