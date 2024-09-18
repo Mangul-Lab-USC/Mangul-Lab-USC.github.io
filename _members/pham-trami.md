@@ -11,9 +11,9 @@ group: alum
 email: dnpham@usc.edu
 linkedin: in/tramipham
 
-lab_member_years:
+lab_member_years: 2020 - 2021
 alma_mater: PharmD, USC Alfred E. Mann School of Pharmacy and Pharmaceutical Sciences
-current_job_position: PharmD Student
+current_job_position: Clinical Trials Project Manager at UCLA Health
 ---
 
 Trami Pham is pursuing a dual PharmD/MS degree in Regulatory Science at the University of Southern California. 
