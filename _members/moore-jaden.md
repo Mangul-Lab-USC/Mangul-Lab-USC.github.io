@@ -12,7 +12,7 @@ email: moorejaden5389@gmail.com
 linkedin: https://www.linkedin.com/in/jadenmoore/
 github: Jdyn
 
-lab_member_years: 
+lab_member_years: 2021 - 2022
 alma_mater: Bachelor of Science, Computer Science, Orange Coast College
 current_job_position: Frontend Developer at Berkeleytime
 ---
