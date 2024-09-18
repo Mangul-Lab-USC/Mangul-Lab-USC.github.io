@@ -12,7 +12,7 @@ email: jayhiman@usc.edu
 github: jaymehta8898
 linkedin: in/jaymehta98/
 
-lab_member_years: 2022 - 2023
+lab_member_years: 2021 - 2023
 alma_mater: Master of Science, Pharmaceutical Sciences, USC Alfred E. Mann School of Pharmacy and Pharmaceutical Sciences
 current_job_position: Currently Research Data Analyst 1 (Bioinformatics) at Moffitt Cancer Center
 ---
