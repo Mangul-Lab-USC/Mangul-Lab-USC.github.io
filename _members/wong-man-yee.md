@@ -12,7 +12,7 @@ group: alum
 email: manyeewo@usc.edu
 github: kayleyw
 
-lab_member_years: 
+lab_member_years: 2020 - 2022
 alma_mater: Master’s student, Translational Biomedical Informatics at the Department of Translational Genomics, Keck School of Medicine of USC
 current_job_position:
 ---
