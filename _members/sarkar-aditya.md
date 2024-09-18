@@ -13,7 +13,7 @@ email: asnov2k@gmail.com
 linkedin: in/aditya-sarkar-bb577025a
 github: aditya-sarkar441
 
-lab_member_years: 2021 - 2021
+lab_member_years: 2022 - 2023
 alma_mater: Master's Student, Electrical Engineering, UC San Diego
 current_job_position: Currently Research Assistant at UC San Diego
 ---
