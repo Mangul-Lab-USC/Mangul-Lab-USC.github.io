@@ -10,7 +10,7 @@ role: phd
 email: ryalomair@g.ucla.edu
 linkedin: in/ryan-alomair-744bba183
 
-lab_member_years:
+lab_member_years: 2022 - 2024
 alma_mater: Bachelor of Science, Mathematics of Computation, UCLA
 current_job_position: Currently Writer at Bruin Political Review; VP of Engagement at Theta Chi Fraternity; Biomedical Research Intern at USC School of Pharmacy 
 ---
