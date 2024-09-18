@@ -12,7 +12,7 @@ email: yupenghe@usc.edu
 linkedin: in/yupeng-he-27124624b
 github: yphecc
 
-lab_member_years:
+lab_member_years: 2021 - 2023
 alma_mater: Master of Science, Pharmaceutical Sciences, USC Alfred E. Mann School of Pharmacy and Pharmaceutical Sciences
 current_job_position:
 ---
