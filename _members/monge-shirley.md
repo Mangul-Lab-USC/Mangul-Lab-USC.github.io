@@ -11,7 +11,7 @@ group: alum
 email: monge_shirley@student.smc.edu
 linkedin: in/shirley-monge-th3cr4ft
 
-lab_member_years: 
+lab_member_years: 2022 - 2023
 alma_mater: Associate of Science, STEM Scholars Program, Santa Monica College
 current_job_position: Currently Marketing Manager at United States Lactation Consultant Association
 ---
