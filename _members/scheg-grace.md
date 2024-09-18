@@ -12,7 +12,7 @@ email: gscheg@usc.edu
 linkedin: in/grace-scheg-75a852252
 github: gscheg
 
-lab_member_years: 
+lab_member_years: 2022 - 2023
 alma_mater: Bachelor of Science, Quantitative Biology, Dornsife College of Letter, Arts and Sciences at USC
 current_job_position:
 ---
