@@ -11,7 +11,7 @@ group: alum
 email: matheusbrocchi1@gmail.com
 github: matheusbrocchi
 
-lab_member_years:
+lab_member_years: 2022 - 2023
 alma_mater:
 current_job_position:
 ---
