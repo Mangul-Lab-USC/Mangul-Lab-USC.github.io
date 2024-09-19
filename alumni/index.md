@@ -38,27 +38,6 @@ These are former lab alumni who have transitioned to various sectors, including 
 <!-- <h3 style="text-align: start; width: 85%;"> Mascots </h3> -->
 {% include alumni-tabled.html role="mascot" group="alum" mini="true" %}
 
-
-{% include alumni-tabled.html role="pi" group="alum" mini="true" %}
-<h3 style="text-align: start; width: 85%;"> Postdoctoral Fellows </h3>
-{% include alumni-tabled.html role="postdoc" group="alum" mini="true" %}
-<h3 style="text-align: start; width: 85%;"> Bioinformatics Analysts </h3>
-{% include alumni-tabled.html role="bioinformatics-analyst" group="alum" mini="true" %}
-<h3 style="text-align: start; width: 85%;"> PhD Students </h3>
-{% include alumni-tabled.html role="phd" group="alum" mini="true" %}
-<h3 style="text-align: start; width: 85%;"> PharmD Students </h3>
-{% include alumni-tabled.html role="pharmd" group="alum" mini="true" %}
-<h3 style="text-align: start; width: 85%;"> Master’s Students </h3>
-{% include alumni-tabled.html role="masters" group="alum" mini="true" %}
-<h3 style="text-align: start; width: 85%;"> Undergraduate Students </h3>
-{% include alumni-tabled.html role="undergrad" group="alum" mini="true" %}
-<h3 style="text-align: start; width: 85%;"> High School Students </h3>
-{% include alumni-tabled.html role="highschool" group="alum" mini="true" %}
-<!-- <h3 style="text-align: start; width: 85%;"> Programmers </h3> -->
-{% include alumni-tabled.html role="programmer" group="alum" mini="true" %}
-<!-- <h3 style="text-align: start; width: 85%;"> Mascots </h3> -->
-{% include alumni-tabled.html role="mascot" group="alum" mini="true" %}
-
 {% endcapture %}
 
 {% include centerer.html html=html %}
