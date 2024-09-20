@@ -3,7 +3,7 @@ title: Shraman Kar
 search:
   - Shraman
   - Kar
-image: images/team/Shraman-Kar.jpg
+image: images/team/Shraman-Kar.jpeg
 
 role: highschool
 group: alum
