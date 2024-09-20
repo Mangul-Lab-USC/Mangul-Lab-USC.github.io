@@ -5,7 +5,7 @@ search:
   - Nakazawa
 image: images/team/Nikita-Nakazawa.jpeg
 
-role: undergrad
+role: highschool
 group: alum
 
 
