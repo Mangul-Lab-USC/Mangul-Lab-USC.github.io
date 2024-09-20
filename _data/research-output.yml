@@ -1,3 +1,18 @@
+- title: 'VISTA: an integrated framework for structural variant discovery'  
+  authors:  
+  - Varuni Sarwal  
+  - Seungmo Lee  
+  - Jianzhi Yang  
+  - Sriram Sankararaman  
+  - Mark Chaisson  
+  - Eleazar Eskin  
+  - Serghei Mangul  
+  publisher: 'Briefings in Bioinformatics'  
+  date: '2024-09-19'  
+  link: https://doi.org/10.1093/bib/bbae462  
+  id: https://doi.org/10.1093/bib/bbae462  
+  image: images/research/paper-thumbnail.png
+
 - title: 'Realistic assortment of novel metagenomics benchmarks with diverse biological and technological characteristics'
   authors:
   - N K Sharma
@@ -599,22 +614,22 @@
   id: doi:10.1093/bib/bbad220
   image: https://www.medrxiv.org/content/medrxiv/early/2022/03/31/2022.03.31.22273249/F1.medium.gif
 
-- title: 'VISTA: An integrated framework for structural variant discovery'
-  authors:
-  - Varuni Sarwal
-  - Seungmo Lee
-  - Jianzhi Yang
-  - Sriram Sankararaman
-  - Mark Chaisson
-  - Eleazar Eskin
-  - Serghei Mangul
-  publisher: bioRxiv
-  date: '2023-08-15'
-  link: https://doi.org/10.1101/2023.08.11.553053
-  id: doi:10.1101/2023.08.11.553053 
-  image: images/research/VISTA-An-integrated-framework-for-structural-variant-discovery.png
-  extra-links:
-  - type: preprint
+# - title: 'VISTA: An integrated framework for structural variant discovery'
+#   authors:
+#   - Varuni Sarwal
+#   - Seungmo Lee
+#   - Jianzhi Yang
+#   - Sriram Sankararaman
+#   - Mark Chaisson
+#   - Eleazar Eskin
+#   - Serghei Mangul
+#   publisher: bioRxiv
+#   date: '2023-08-15'
+#   link: https://doi.org/10.1101/2023.08.11.553053
+#   id: doi:10.1101/2023.08.11.553053 
+#   image: images/research/VISTA-An-integrated-framework-for-structural-variant-discovery.png
+#   extra-links:
+#   - type: preprint
 
 # - title: 'Analytical code sharing practices in biomedical research'
 #   authors:
