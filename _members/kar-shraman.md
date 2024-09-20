@@ -5,7 +5,7 @@ search:
   - Kar
 image: images/team/Shraman-Kar.jpg
 
-role: undergrad
+role: highschool
 group: alum
 
 lab_member_years: 2023 - 2023
