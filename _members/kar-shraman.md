@@ -9,7 +9,7 @@ role: highschool
 group: alum
 
 lab_member_years: 2023 - 2023
-alma_mater:
+alma_mater: High School Student, School of Molecular and Theoretical Biology, Tartu, Estonia
 current_job_position:
 ---
 
