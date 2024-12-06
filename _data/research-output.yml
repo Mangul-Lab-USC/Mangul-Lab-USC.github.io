@@ -1,3 +1,20 @@
+- title: 'Identifying novel genetic and phenotypic associations to genomic features by leveraging off-target reads in exome sequencing data'
+  authors:
+  - Define Ercelen
+  - Christa Caggiano
+  - Richard Border
+  - Sriram Sankararaman
+  - Serghei Mangul
+  - Noah Zaitlen
+  - Michael Thompsom
+  publisher: bioRxiv
+  date: '2043-12-05'
+  link: https://doi.org/10.1101/2024.11.30.625754
+  id: doi.org/10.1101/2024.11.30.625754
+  image: images/research/paper-thumbnail.png
+  extra-links:
+  - type: preprint
+
 - title: 'VISTA: an integrated framework for structural variant discovery'  
   authors:  
   - Varuni Sarwal  
