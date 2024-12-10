@@ -1,3 +1,43 @@
+- title: 'CAMP: A modular metagenomics analysis system for integrated multi-step data exploration'
+  authors:
+  - Lauren Mak
+  - Braden Tierney
+  - Cynthia Ronkowski
+  - Rodolfo Brizola Toscan
+  - Berk Turhan
+  - Michael Toomey
+  - Juan Sebastian Andrade Martinez
+  - Chenlian Fu
+  - Alexander G Lucaci
+  - Arthur Henrique Barrios Solano
+  - João Carlos Setubal
+  - James R Henriksen
+  - Sam Zimmerman
+  - Malika Kopbayeva
+  - Anna Noyvert
+  - Zana Iwan
+  - Shraman Kar
+  - Nikita Nakazawa
+  - Dmitry Meleshko
+  - Dmytro Horyslavets
+  - Valeriia Kantsypa
+  - Alina Frolova
+  - Andre Kahles
+  - David Danko
+  - Eran Elhaik
+  - Pawel Labaj
+  - Serghei Mangul
+  - The International MetaSUB Consortium
+  - Christopher E. Mason
+  - Iman Hajirasouliha
+  publisher: bioRxiv
+  date: '2024-09-14'
+  link: https://doi.org/10.1101/2023.04.09.536171
+  id: doi.org/10.1101/2023.04.09.536171
+  image: images/research/paper-thumbnail.png
+  extra-links:
+  - type: preprint
+
 - title: 'Identifying novel genetic and phenotypic associations to genomic features by leveraging off-target reads in exome sequencing data'
   authors:
   - Define Ercelen
