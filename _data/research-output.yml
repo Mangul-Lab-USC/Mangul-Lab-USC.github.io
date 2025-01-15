@@ -1,4 +1,20 @@
-- title: 'CAMP: A modular metagenomics analysis system for integrated multi-step data exploration'
+- title: 'Patterns of population structure and genetic variation within the Saudi Arabian population'
+  authors:
+  - Dorcus Kholofelo Malomane
+  - Matthew P Williams
+  - Christian D Huber
+  - Serghei Mangul
+  - Malak Abedalthagafi
+  - Charleston C.W Chiang
+  publisher: bioRxiv
+  date: '2025-01-10'
+  link: https://doi.org/10.1101/2025.01.10.632500
+  id: doi.org/10.1101/2025.01.10.632500
+  image: images/research/paper-thumbnail.png
+  extra-links:
+  - type: preprint
+  
+  - title: 'CAMP: A modular metagenomics analysis system for integrated multi-step data exploration'
   authors:
   - Lauren Mak
   - Braden Tierney
