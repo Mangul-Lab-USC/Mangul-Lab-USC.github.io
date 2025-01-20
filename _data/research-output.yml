@@ -595,14 +595,45 @@
   - Daryl L. Davies
   - Vassilios Papadopoulos
   - Serghei Mangul
-  publisher: Center for Open Science
-  date: '2023-11-23'
-  link: https://osf.io/rcsaq/
-  id: doi:10.31219/osf.io/rcsaq
+  publisher: American Journal of Pharmaceutucak Education
+  date: '2024-12-06'
+  link: https://doi.org/10.1016/j.ajpe.2024.101341
+  id: doi.org/10.1016/j.ajpe.2024.101341
   image: images/research/paper-thumbnail.png
-  extra-links:
-  - type: preprint
-    link: https://osf.io/rcsaq/
+  # extra-links:
+  # - type: preprint
+  #   link: https://osf.io/rcsaq/
+
+# - title: 'Pioneering computational culture within pharmacy schools by empowering students with data science and bioinformatics skills'
+#   authors:
+#   - Cynthia Ronkowski
+#   - Nitesh Sharma
+#   - Mohammad Vahed 
+#   - Yesha M. Patel
+#   - Dhrithi Deshpande
+#   - Hovhannes J. Gukasyan
+#   - Maryann Wu
+#   - Kerui Peng
+#   - Terry David Church
+#   - Rory E. Kim
+#   - Edith Mirzaian
+#   - William Vincent Padula
+#   - Daniel Tomaszewski
+#   - Tien M.H. Ng
+#   - Annie Wong-Beringer
+#   - Jennica Zaro
+#   - Dima M. Qato
+#   - Daryl L. Davies
+#   - Vassilios Papadopoulos
+#   - Serghei Mangul
+#   publisher: Center for Open Science
+#   date: '2023-11-23'
+#   link: https://osf.io/rcsaq/
+#   id: doi:10.31219/osf.io/rcsaq
+#   image: images/research/paper-thumbnail.png
+#   extra-links:
+#   - type: preprint
+#     link: https://osf.io/rcsaq/
 
 - title: 'MetaFast: Enabling Fast Metagenomic Classification via Seed Counting and Edit Distance Approximation'
   authors:
